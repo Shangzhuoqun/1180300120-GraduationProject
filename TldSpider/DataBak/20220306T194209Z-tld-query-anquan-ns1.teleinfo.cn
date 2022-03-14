@@ -1,0 +1,7 @@
+; timestamp: 20220306T194209Z
+; source id: tld-query-anquan.-ns1.teleinfo.cn.
+; source locator: ns1.teleinfo.cn.
+; source IP address: 103.61.60.1
+; backup point IP address: 111.42.148.76
+; status: success
+anquan.			1616	IN	NS	ns3.teleinfo.cn.anquan.			1616	IN	NS	ns1.teleinfo.cn.anquan.			1616	IN	NS	ns4.teleinfoo.com.anquan.			1616	IN	NS	ns2.teleinfoo.com.ns1.teleinfo.cn.	3600	IN	A	103.61.60.1ns1.teleinfo.cn.	3600	IN	AAAA	2402:7d80::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202818Z
+; source id: tld-query-lplfinancial.-d.nic.lplfinancial.
+; source locator: d.nic.lplfinancial.
+; source IP address: 212.18.249.93
+; backup point IP address: 111.42.148.76
+; status: success
+lplfinancial.		3598	IN	NS	b.nic.lplfinancial.lplfinancial.		3598	IN	NS	d.nic.lplfinancial.lplfinancial.		3598	IN	NS	a.nic.lplfinancial.lplfinancial.		3598	IN	NS	c.nic.lplfinancial.d.nic.lplfinancial.	3599	IN	A	212.18.249.93d.nic.lplfinancial.	3599	IN	AAAA	2a04:2b00:13ff::93

@@ -1,0 +1,7 @@
+; timestamp: 20220306T211519Z
+; source id: tld-query-va.-va.cctld.authdns.ripe.net.
+; source locator: va.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.123
+; backup point IP address: 111.42.148.76
+; status: success
+va.			3600	IN	NS	john.vatican.va.va.			3600	IN	NS	osiris.namex.it.va.			3600	IN	NS	va.cctld.authdns.ripe.net.va.			3600	IN	NS	michael.vatican.va.va.			3600	IN	NS	dns.nic.it.va.			3600	IN	NS	seth.namex.it.va.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.123va.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::123

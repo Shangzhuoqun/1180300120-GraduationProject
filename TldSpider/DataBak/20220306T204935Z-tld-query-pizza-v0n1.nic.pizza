@@ -1,0 +1,7 @@
+; timestamp: 20220306T204935Z
+; source id: tld-query-pizza.-v0n1.nic.pizza.
+; source locator: v0n1.nic.pizza.
+; source IP address: 65.22.29.50
+; backup point IP address: 111.42.148.76
+; status: success
+pizza.			3599	IN	NS	v0n3.nic.pizza.pizza.			3599	IN	NS	v0n2.nic.pizza.pizza.			3599	IN	NS	v2n0.nic.pizza.pizza.			3599	IN	NS	v0n0.nic.pizza.pizza.			3599	IN	NS	v2n1.nic.pizza.pizza.			3599	IN	NS	v0n1.nic.pizza.v0n1.nic.pizza.		3599	IN	A	65.22.29.50v0n1.nic.pizza.		3599	IN	AAAA	2a01:8840:1f::50

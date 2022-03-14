@@ -1,0 +1,7 @@
+; timestamp: 20220306T202519Z
+; source id: tld-query-ky.-ns3.uniregistry.net.
+; source locator: ns3.uniregistry.net.
+; source IP address: 185.159.197.3
+; backup point IP address: 111.42.148.76
+; status: success
+ky.			3599	IN	NS	ns2.uniregistry.info.ky.			3599	IN	NS	ns1.uniregistry.net.ky.			3599	IN	NS	ns4.uniregistry.info.ky.			3599	IN	NS	ns3.uniregistry.net.ns3.uniregistry.net.	1800	IN	A	185.159.197.3ns3.uniregistry.net.	2479	IN	AAAA	2620:10a:80aa::3

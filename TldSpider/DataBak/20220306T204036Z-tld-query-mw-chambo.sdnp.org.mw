@@ -1,0 +1,34 @@
+; timestamp: 20220306T204036Z
+; source id: tld-query-mw.-chambo.sdnp.org.mw.
+; source locator: chambo.sdnp.org.mw.
+; source IP address: 196.45.188.5
+; backup point IP address: 111.42.148.76
+; status: success
+dig @196.45.188.5 mw. NS
+
+; <<>> DiG 9.16.23 <<>> @196.45.188.5 mw. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+chambo.sdnp.org.mw.	3582	IN	A	196.45.188.5chambo.sdnp.org.mw.	3582	IN	A	41.221.99.135dig @196.45.188.5 chambo.sdnp.org.mw. AAAA
+
+; <<>> DiG 9.16.23 <<>> @196.45.188.5 chambo.sdnp.org.mw. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;chambo.sdnp.org.mw.		IN	AAAA
+
+;; AUTHORITY SECTION:
+sdnp.org.mw.		1785	IN	SOA	chambo.sdnp.org.mw. paulos.sdnp.org.mw. 2021110416 10800 3600 604800 86400
+
+;; Query time: 3 msec
+;; SERVER: 196.45.188.5#53(196.45.188.5)
+;; WHEN: Sun Mar 06 20:40:56 ;; MSG SIZE  rcvd: 90
+

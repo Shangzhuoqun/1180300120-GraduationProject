@@ -1,0 +1,27 @@
+; timestamp: 20220306T212722Z
+; source id: tld-query-xn--mgbx4cd0ab.-a1.nic.my.
+; source locator: a1.nic.my.
+; source IP address: 202.171.47.204
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbx4cd0ab.		3598	IN	NS	d.mynic.centralnic-dns.com.xn--mgbx4cd0ab.		3598	IN	NS	a.nic.my.xn--mgbx4cd0ab.		3598	IN	NS	b.mynic.centralnic-dns.com.xn--mgbx4cd0ab.		3598	IN	NS	a1.nic.my.xn--mgbx4cd0ab.		3598	IN	NS	a.mynic.centralnic-dns.com.xn--mgbx4cd0ab.		3598	IN	NS	c.mynic.centralnic-dns.com.a1.nic.my.		1219	IN	A	202.171.47.204dig @202.171.47.204 a1.nic.my. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.171.47.204 a1.nic.my. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;a1.nic.my.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.my.			1219	IN	SOA	b.nic.my. hostmaster.nic.my. 2020082241 28800 7200 604800 86400
+
+;; Query time: 10 msec
+;; SERVER: 202.171.47.204#53(202.171.47.204)
+;; WHEN: Sun Mar 06 21:27:24 ;; MSG SIZE  rcvd: 87
+

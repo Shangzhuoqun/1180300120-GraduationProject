@@ -1,0 +1,7 @@
+; timestamp: 20220306T210405Z
+; source id: tld-query-statebank.-b0.nic.statebank.
+; source locator: b0.nic.statebank.
+; source IP address: 65.22.177.1
+; backup point IP address: 111.42.148.76
+; status: success
+statebank.		3598	IN	NS	c0.nic.statebank.statebank.		3598	IN	NS	a2.nic.statebank.statebank.		3598	IN	NS	a0.nic.statebank.statebank.		3598	IN	NS	b0.nic.statebank.b0.nic.statebank.	598	IN	A	65.22.177.1b0.nic.statebank.	598	IN	AAAA	2a01:8840:ab::1

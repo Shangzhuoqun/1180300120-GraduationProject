@@ -1,0 +1,7 @@
+; timestamp: 20220306T201520Z
+; source id: tld-query-homesense.-ns1.dns.nic.homesense.
+; source locator: ns1.dns.nic.homesense.
+; source IP address: 156.154.144.74
+; backup point IP address: 111.42.148.76
+; status: success
+homesense.		3598	IN	NS	c.nic.homesense.homesense.		3598	IN	NS	a.nic.homesense.homesense.		3598	IN	NS	ns3.dns.nic.homesense.homesense.		3598	IN	NS	b.nic.homesense.homesense.		3598	IN	NS	ns2.dns.nic.homesense.homesense.		3598	IN	NS	ns1.dns.nic.homesense.ns1.dns.nic.homesense.	3599	IN	A	156.154.144.74ns1.dns.nic.homesense.	3599	IN	AAAA	2610:a1:1071::4a

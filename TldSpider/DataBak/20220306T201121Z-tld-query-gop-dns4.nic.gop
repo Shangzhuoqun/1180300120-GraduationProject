@@ -1,0 +1,7 @@
+; timestamp: 20220306T201121Z
+; source id: tld-query-gop.-dns4.nic.gop.
+; source locator: dns4.nic.gop.
+; source IP address: 43.230.49.39
+; backup point IP address: 111.42.148.76
+; status: success
+gop.			172800	IN	NS	dns1.nic.gop.gop.			172800	IN	NS	dns2.nic.gop.gop.			172800	IN	NS	dns3.nic.gop.gop.			172800	IN	NS	dns4.nic.gop.gop.			172800	IN	NS	dnsa.nic.gop.gop.			172800	IN	NS	dnsb.nic.gop.gop.			172800	IN	NS	dnsc.nic.gop.gop.			172800	IN	NS	dnsd.nic.gop.dns4.nic.gop.		3582	IN	A	43.230.49.39dns4.nic.gop.		3582	IN	AAAA	2401:fd80:405::39

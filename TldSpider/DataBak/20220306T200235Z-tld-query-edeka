@@ -1,0 +1,10 @@
+; timestamp: 20220306T200235Z
+; source id: tld-query-edeka.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.edeka.:../TldSpider/DataBak/20220306T200235Z-tld-query-edeka-a0.nic.edeka
+a2.nic.edeka.:../TldSpider/DataBak/20220306T200235Z-tld-query-edeka-a2.nic.edeka
+b0.nic.edeka.:../TldSpider/DataBak/20220306T200235Z-tld-query-edeka-b0.nic.edeka
+c0.nic.edeka.:../TldSpider/DataBak/20220306T200235Z-tld-query-edeka-c0.nic.edeka

@@ -1,0 +1,12 @@
+; timestamp: 20220306T211247Z
+; source id: tld-query-tube.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-a.nic.tube
+b.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-b.nic.tube
+c.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-c.nic.tube
+ns1.dns.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-ns1.dns.nic.tube
+ns2.dns.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-ns2.dns.nic.tube
+ns3.dns.nic.tube.:../TldSpider/DataBak/20220306T211247Z-tld-query-tube-ns3.dns.nic.tube

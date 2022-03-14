@@ -1,0 +1,27 @@
+; timestamp: 20220306T195817Z
+; source id: tld-query-cv.-ns.dns.cv.
+; source locator: ns.dns.cv.
+; source IP address: 41.221.192.220
+; backup point IP address: 111.42.148.76
+; status: success
+cv.			28800	IN	NS	NS-EXT.ISC.ORG.cv.			28800	IN	NS	ns.dns.cv.cv.			28800	IN	NS	cv01.dns.pt.cv.			28800	IN	NS	c.dns.pt.ns.dns.cv.		3596	IN	A	41.221.192.220dig @41.221.192.220 ns.dns.cv. AAAA
+
+; <<>> DiG 9.16.23 <<>> @41.221.192.220 ns.dns.cv. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12862
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.dns.cv.			IN	AAAA
+
+;; AUTHORITY SECTION:
+dns.cv.			1796	IN	SOA	ns1.dns.cv. dns.cv. 43 900 600 86400 3600
+
+;; Query time: 4 msec
+;; SERVER: 41.221.192.220#53(41.221.192.220)
+;; WHEN: Sun Mar 06 19:58:23 ;; MSG SIZE  rcvd: 78
+

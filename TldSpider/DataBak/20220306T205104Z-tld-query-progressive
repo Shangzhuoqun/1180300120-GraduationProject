@@ -1,0 +1,10 @@
+; timestamp: 20220306T205104Z
+; source id: tld-query-progressive.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.progressive.:../TldSpider/DataBak/20220306T205104Z-tld-query-progressive-a0.nic.progressive
+a2.nic.progressive.:../TldSpider/DataBak/20220306T205104Z-tld-query-progressive-a2.nic.progressive
+b0.nic.progressive.:../TldSpider/DataBak/20220306T205104Z-tld-query-progressive-b0.nic.progressive
+c0.nic.progressive.:../TldSpider/DataBak/20220306T205104Z-tld-query-progressive-c0.nic.progressive

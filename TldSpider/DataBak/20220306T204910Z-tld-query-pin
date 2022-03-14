@@ -1,0 +1,14 @@
+; timestamp: 20220306T204910Z
+; source id: tld-query-pin.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dns1.nic.pin
+dns2.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dns2.nic.pin
+dns3.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dns3.nic.pin
+dns4.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dns4.nic.pin
+dnsa.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dnsa.nic.pin
+dnsb.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dnsb.nic.pin
+dnsc.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dnsc.nic.pin
+dnsd.nic.pin.:../TldSpider/DataBak/20220306T204910Z-tld-query-pin-dnsd.nic.pin

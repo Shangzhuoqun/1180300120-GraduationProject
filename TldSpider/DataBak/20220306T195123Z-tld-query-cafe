@@ -1,0 +1,12 @@
+; timestamp: 20220306T195123Z
+; source id: tld-query-cafe.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v0n0.nic.cafe
+v0n1.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v0n1.nic.cafe
+v0n2.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v0n2.nic.cafe
+v0n3.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v0n3.nic.cafe
+v2n0.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v2n0.nic.cafe
+v2n1.nic.cafe.:../TldSpider/DataBak/20220306T195123Z-tld-query-cafe-v2n1.nic.cafe

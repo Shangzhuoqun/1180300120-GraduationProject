@@ -1,0 +1,9 @@
+; timestamp: 20220306T194232Z
+; source id: tld-query-aq.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.anycast.dns.aq.:../TldSpider/DataBak/20220306T194232Z-tld-query-aq-ns1.anycast.dns.aq
+fork.sth.dnsnode.net.:../TldSpider/DataBak/20220306T194232Z-tld-query-aq-fork.sth.dnsnode.net
+ns99.dns.net.nz.:../TldSpider/DataBak/20220306T194232Z-tld-query-aq-ns99.dns.net.nz

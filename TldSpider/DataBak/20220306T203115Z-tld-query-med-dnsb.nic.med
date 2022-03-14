@@ -1,0 +1,7 @@
+; timestamp: 20220306T203115Z
+; source id: tld-query-med.-dnsb.nic.med.
+; source locator: dnsb.nic.med.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+med.			3600	IN	NS	dnsa.nic.med.med.			3600	IN	NS	dnsc.nic.med.med.			3600	IN	NS	dnsb.nic.med.med.			3600	IN	NS	dnsd.nic.med.med.			3600	IN	NS	dns4.nic.med.med.			3600	IN	NS	dns1.nic.med.med.			3600	IN	NS	dns2.nic.med.med.			3600	IN	NS	dns3.nic.med.dnsb.nic.med.		3582	IN	A	156.154.101.3dnsb.nic.med.		3582	IN	AAAA	2001:502:2eda::3

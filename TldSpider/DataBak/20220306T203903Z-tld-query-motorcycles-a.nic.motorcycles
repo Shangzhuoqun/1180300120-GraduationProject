@@ -1,0 +1,7 @@
+; timestamp: 20220306T203903Z
+; source id: tld-query-motorcycles.-a.nic.motorcycles.
+; source locator: a.nic.motorcycles.
+; source IP address: 194.169.218.135
+; backup point IP address: 111.42.148.76
+; status: success
+motorcycles.		3600	IN	NS	c.nic.motorcycles.motorcycles.		3600	IN	NS	d.nic.motorcycles.motorcycles.		3600	IN	NS	b.nic.motorcycles.motorcycles.		3600	IN	NS	a.nic.motorcycles.a.nic.motorcycles.	3600	IN	A	194.169.218.135a.nic.motorcycles.	3600	IN	AAAA	2001:67c:13cc::1:135

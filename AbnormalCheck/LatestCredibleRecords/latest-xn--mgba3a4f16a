@@ -1,0 +1,4 @@
+ns.irnic.ir.	172800	in	a	193.189.122.83
+a.nic.ir.	172800	in	a	193.189.123.2
+xn--mgba3a4f16a.	172800	in	ns	a.nic.ir.
+xn--mgba3a4f16a.	172800	in	ns	ns.irnic.ir.

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201011Z
+; source id: tld-query-giving.-d.nic.giving.
+; source locator: d.nic.giving.
+; source IP address: 37.209.198.9
+; backup point IP address: 111.42.148.76
+; status: success
+giving.			3598	IN	NS	c.nic.giving.giving.			3598	IN	NS	b.nic.giving.giving.			3598	IN	NS	d.nic.giving.giving.			3598	IN	NS	a.nic.giving.d.nic.giving.		3599	IN	A	37.209.198.9d.nic.giving.		3599	IN	AAAA	2001:dcd:4::9

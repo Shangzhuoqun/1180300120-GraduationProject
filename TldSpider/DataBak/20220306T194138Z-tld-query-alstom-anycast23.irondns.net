@@ -1,0 +1,7 @@
+; timestamp: 20220306T194138Z
+; source id: tld-query-alstom.-anycast23.irondns.net.
+; source locator: anycast23.irondns.net.
+; source IP address: 195.253.65.11
+; backup point IP address: 111.42.148.76
+; status: success
+alstom.			1634	IN	NS	anycast10.irondns.net.alstom.			1634	IN	NS	anycast9.irondns.net.alstom.			1634	IN	NS	anycast24.irondns.net.alstom.			1634	IN	NS	anycast23.irondns.net.anycast23.irondns.net.	3600	IN	A	195.253.65.11anycast23.irondns.net.	3600	IN	AAAA	2a01:5b0:5::b

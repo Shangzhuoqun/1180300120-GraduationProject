@@ -1,0 +1,7 @@
+; timestamp: 20220306T210224Z
+; source id: tld-query-spa.-a2.nic.spa.
+; source locator: a2.nic.spa.
+; source IP address: 65.22.51.17
+; backup point IP address: 111.42.148.76
+; status: success
+spa.			86400	IN	NS	a0.nic.spa.spa.			86400	IN	NS	a2.nic.spa.spa.			86400	IN	NS	b0.nic.spa.spa.			86400	IN	NS	c0.nic.spa.a2.nic.spa.		600	IN	A	65.22.51.17a2.nic.spa.		600	IN	AAAA	2a01:8840:31::17

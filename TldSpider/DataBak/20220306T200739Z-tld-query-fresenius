@@ -1,0 +1,10 @@
+; timestamp: 20220306T200739Z
+; source id: tld-query-fresenius.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.fresenius.:../TldSpider/DataBak/20220306T200739Z-tld-query-fresenius-a.nic.fresenius
+b.nic.fresenius.:../TldSpider/DataBak/20220306T200739Z-tld-query-fresenius-b.nic.fresenius
+c.nic.fresenius.:../TldSpider/DataBak/20220306T200739Z-tld-query-fresenius-c.nic.fresenius
+d.nic.fresenius.:../TldSpider/DataBak/20220306T200739Z-tld-query-fresenius-d.nic.fresenius

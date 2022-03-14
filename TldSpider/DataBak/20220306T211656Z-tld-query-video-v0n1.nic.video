@@ -1,0 +1,7 @@
+; timestamp: 20220306T211656Z
+; source id: tld-query-video.-v0n1.nic.video.
+; source locator: v0n1.nic.video.
+; source IP address: 65.22.25.40
+; backup point IP address: 111.42.148.76
+; status: success
+video.			600	IN	NS	v0n3.nic.video.video.			600	IN	NS	v0n1.nic.video.video.			600	IN	NS	v2n1.nic.video.video.			600	IN	NS	v0n0.nic.video.video.			600	IN	NS	v0n2.nic.video.video.			600	IN	NS	v2n0.nic.video.v0n1.nic.video.		3600	IN	A	65.22.25.40v0n1.nic.video.		3600	IN	AAAA	2a01:8840:1b::40

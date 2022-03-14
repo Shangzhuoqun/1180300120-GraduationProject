@@ -1,0 +1,10 @@
+; timestamp: 20220306T202734Z
+; source id: tld-query-locker.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.locker.:../TldSpider/DataBak/20220306T202734Z-tld-query-locker-a0.nic.locker
+a2.nic.locker.:../TldSpider/DataBak/20220306T202734Z-tld-query-locker-a2.nic.locker
+b0.nic.locker.:../TldSpider/DataBak/20220306T202734Z-tld-query-locker-b0.nic.locker
+c0.nic.locker.:../TldSpider/DataBak/20220306T202734Z-tld-query-locker-c0.nic.locker

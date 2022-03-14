@@ -1,0 +1,7 @@
+; timestamp: 20220306T212930Z
+; source id: tld-query-xn--xkc2al3hye2a.-lk.communitydns.net.
+; source locator: lk.communitydns.net.
+; source IP address: 194.0.1.27
+; backup point IP address: 111.42.148.76
+; status: success
+xn--xkc2al3hye2a.	3600	IN	NS	ns-c.nic.lk.xn--xkc2al3hye2a.	3600	IN	NS	lk.communitydns.net.xn--xkc2al3hye2a.	3600	IN	NS	ns-d.nic.lk.xn--xkc2al3hye2a.	3600	IN	NS	ns-t.nic.lk.xn--xkc2al3hye2a.	3600	IN	NS	ns-b.nic.lk.xn--xkc2al3hye2a.	3600	IN	NS	ns1.ac.lk.xn--xkc2al3hye2a.	3600	IN	NS	nic.lk-anycast.pch.net.xn--xkc2al3hye2a.	3600	IN	NS	ns-l.nic.lk.lk.communitydns.net.	3276	IN	A	194.0.1.27lk.communitydns.net.	3276	IN	AAAA	2001:678:4::1b

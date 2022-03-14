@@ -1,0 +1,7 @@
+; timestamp: 20220306T204910Z
+; source id: tld-query-pin.-dns3.nic.pin.
+; source locator: dns3.nic.pin.
+; source IP address: 213.248.222.75
+; backup point IP address: 111.42.148.76
+; status: success
+pin.			172800	IN	NS	dns2.nic.pin.pin.			172800	IN	NS	dns3.nic.pin.pin.			172800	IN	NS	dns4.nic.pin.pin.			172800	IN	NS	dns1.nic.pin.pin.			172800	IN	NS	dnsa.nic.pin.pin.			172800	IN	NS	dnsb.nic.pin.pin.			172800	IN	NS	dnsc.nic.pin.pin.			172800	IN	NS	dnsd.nic.pin.dns3.nic.pin.		151194	IN	A	213.248.222.75dns3.nic.pin.		3591	IN	AAAA	2a01:618:406::75

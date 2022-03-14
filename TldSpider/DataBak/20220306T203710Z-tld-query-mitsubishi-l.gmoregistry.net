@@ -1,0 +1,7 @@
+; timestamp: 20220306T203710Z
+; source id: tld-query-mitsubishi.-l.gmoregistry.net.
+; source locator: l.gmoregistry.net.
+; source IP address: 37.209.198.4
+; backup point IP address: 111.42.148.76
+; status: success
+mitsubishi.		3598	IN	NS	b.gmoregistry.net.mitsubishi.		3598	IN	NS	k.gmoregistry.net.mitsubishi.		3598	IN	NS	l.gmoregistry.net.mitsubishi.		3598	IN	NS	a.gmoregistry.net.l.gmoregistry.net.	1718	IN	A	37.209.198.4l.gmoregistry.net.	1718	IN	AAAA	2001:dcd:4::4

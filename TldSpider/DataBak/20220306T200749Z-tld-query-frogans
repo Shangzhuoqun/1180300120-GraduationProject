@@ -1,0 +1,10 @@
+; timestamp: 20220306T200749Z
+; source id: tld-query-frogans.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.frogans.:../TldSpider/DataBak/20220306T200749Z-tld-query-frogans-a0.nic.frogans
+a2.nic.frogans.:../TldSpider/DataBak/20220306T200749Z-tld-query-frogans-a2.nic.frogans
+b0.nic.frogans.:../TldSpider/DataBak/20220306T200749Z-tld-query-frogans-b0.nic.frogans
+c0.nic.frogans.:../TldSpider/DataBak/20220306T200749Z-tld-query-frogans-c0.nic.frogans

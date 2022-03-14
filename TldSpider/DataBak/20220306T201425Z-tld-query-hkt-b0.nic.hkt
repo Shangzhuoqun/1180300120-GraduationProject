@@ -1,0 +1,14 @@
+; timestamp: 20220306T201425Z
+; source id: tld-query-hkt.-b0.nic.hkt.
+; source locator: b0.nic.hkt.
+; source IP address: 65.22.117.33
+; backup point IP address: 111.42.148.76
+; status: success
+dig @65.22.117.33 hkt. NS
+
+; <<>> DiG 9.16.23 <<>> @65.22.117.33 hkt. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+b0.nic.hkt.		584	IN	A	65.22.117.33b0.nic.hkt.		584	IN	AAAA	2a01:8840:73::33

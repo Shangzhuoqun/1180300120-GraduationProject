@@ -1,0 +1,7 @@
+; timestamp: 20220306T201025Z
+; source id: tld-query-globo.-e.dns.br.
+; source locator: e.dns.br.
+; source IP address: 200.229.248.10
+; backup point IP address: 111.42.148.76
+; status: success
+globo.			3599	IN	NS	b.dns.br.globo.			3599	IN	NS	f.dns.br.globo.			3599	IN	NS	a.dns.br.globo.			3599	IN	NS	e.dns.br.globo.			3599	IN	NS	c.dns.br.globo.			3599	IN	NS	d.dns.br.e.dns.br.		3303	IN	A	200.229.248.10e.dns.br.		1376	IN	AAAA	2001:12f8:2::10

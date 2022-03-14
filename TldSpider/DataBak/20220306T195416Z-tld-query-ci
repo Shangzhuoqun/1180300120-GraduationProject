@@ -1,0 +1,12 @@
+; timestamp: 20220306T195416Z
+; source id: tld-query-ci.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ci.hosting.nic.fr.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-ci.hosting.nic.fr
+ns.nic.ci.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-ns.nic.ci
+any.nic.ci.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-any.nic.ci
+ns-ci.afrinic.net.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-ns-ci.afrinic.net
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-phloem.uoregon.edu
+censvrns0001.ird.fr.:../TldSpider/DataBak/20220306T195416Z-tld-query-ci-censvrns0001.ird.fr

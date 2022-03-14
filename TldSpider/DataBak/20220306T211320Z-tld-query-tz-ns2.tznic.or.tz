@@ -1,0 +1,7 @@
+; timestamp: 20220306T211320Z
+; source id: tld-query-tz.-ns2.tznic.or.tz.
+; source locator: ns2.tznic.or.tz.
+; source IP address: 196.216.162.67
+; backup point IP address: 111.42.148.76
+; status: success
+tz.			18000	IN	NS	ns-tz.afrinic.net.tz.			18000	IN	NS	ns2.tznic.or.tz.tz.			18000	IN	NS	ns.anycast.co.tz.tz.			18000	IN	NS	rip.psg.com.tz.			18000	IN	NS	d.ext.nic.cz.tz.			18000	IN	NS	fork.sth.dnsnode.net.ns2.tznic.or.tz.	6	IN	A	196.216.162.67ns2.tznic.or.tz.	6	IN	AAAA	2001:43f8:e0:1::67

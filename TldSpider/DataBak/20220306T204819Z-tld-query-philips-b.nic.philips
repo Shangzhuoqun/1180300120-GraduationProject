@@ -1,0 +1,7 @@
+; timestamp: 20220306T204819Z
+; source id: tld-query-philips.-b.nic.philips.
+; source locator: b.nic.philips.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+philips.		3598	IN	NS	d.nic.philips.philips.		3598	IN	NS	c.nic.philips.philips.		3598	IN	NS	a.nic.philips.philips.		3598	IN	NS	b.nic.philips.b.nic.philips.		3598	IN	A	37.209.194.9b.nic.philips.		3598	IN	AAAA	2001:dcd:2::9

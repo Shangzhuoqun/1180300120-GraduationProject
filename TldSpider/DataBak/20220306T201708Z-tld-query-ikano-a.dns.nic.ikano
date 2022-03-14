@@ -1,0 +1,7 @@
+; timestamp: 20220306T201708Z
+; source id: tld-query-ikano.-a.dns.nic.ikano.
+; source locator: a.dns.nic.ikano.
+; source IP address: 194.0.25.12
+; backup point IP address: 111.42.148.76
+; status: success
+ikano.			3600	IN	NS	a.dns.nic.ikano.ikano.			3600	IN	NS	n.dns.nic.ikano.ikano.			3600	IN	NS	m.dns.nic.ikano.a.dns.nic.ikano.	3600	IN	A	194.0.25.12a.dns.nic.ikano.	3600	IN	AAAA	2001:678:20::12

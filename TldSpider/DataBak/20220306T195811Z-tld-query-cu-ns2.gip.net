@@ -1,0 +1,27 @@
+; timestamp: 20220306T195811Z
+; source id: tld-query-cu.-ns2.gip.net.
+; source locator: ns2.gip.net.
+; source IP address: 204.59.1.222
+; backup point IP address: 111.42.148.76
+; status: success
+cu.			3600	IN	NS	ns2.ceniai.net.cu.cu.			3600	IN	NS	rip.psg.com.cu.			3600	IN	NS	ns.dns.br.cu.			3600	IN	NS	cu.cctld.authdns.ripe.net.cu.			3600	IN	NS	ns2.gip.net.cu.			3600	IN	NS	ns.ceniai.net.cu.ns2.gip.net.		3599	IN	A	204.59.1.222dig @204.59.1.222 ns2.gip.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @204.59.1.222 ns2.gip.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41531
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns2.gip.net.			IN	AAAA
+
+;; AUTHORITY SECTION:
+gip.net.		1800	IN	SOA	dns1.equant.net. dns\.operations.orange.com. 2011101798 86400 7200 3600000 172800
+
+;; Query time: 4 msec
+;; SERVER: 204.59.1.222#53(204.59.1.222)
+;; WHEN: Sun Mar 06 19:58:14 ;; MSG SIZE  rcvd: 113
+

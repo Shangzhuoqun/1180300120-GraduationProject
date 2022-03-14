@@ -1,0 +1,7 @@
+; timestamp: 20220306T210609Z
+; source id: tld-query-talk.-dns3.nic.talk.
+; source locator: dns3.nic.talk.
+; source IP address: 213.248.222.83
+; backup point IP address: 111.42.148.76
+; status: success
+talk.			3599	IN	NS	dnsa.nic.talk.talk.			3599	IN	NS	dnsb.nic.talk.talk.			3599	IN	NS	dns4.nic.talk.talk.			3599	IN	NS	dnsc.nic.talk.talk.			3599	IN	NS	dns2.nic.talk.talk.			3599	IN	NS	dns3.nic.talk.talk.			3599	IN	NS	dnsd.nic.talk.talk.			3599	IN	NS	dns1.nic.talk.dns3.nic.talk.		3600	IN	A	213.248.222.83dns3.nic.talk.		3600	IN	AAAA	2a01:618:406::83

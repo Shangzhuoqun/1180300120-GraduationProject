@@ -1,0 +1,7 @@
+; timestamp: 20220306T210226Z
+; source id: tld-query-space.-b.nic.space.
+; source locator: b.nic.space.
+; source IP address: 185.24.64.51
+; backup point IP address: 111.42.148.76
+; status: success
+space.			3600	IN	NS	b.nic.space.space.			3600	IN	NS	e.nic.space.space.			3600	IN	NS	a.nic.space.space.			3600	IN	NS	f.nic.space.space.			3600	IN	NS	g.nic.space.b.nic.space.		1934	IN	A	185.24.64.51b.nic.space.		3600	IN	AAAA	2a04:2b00:13cc::1:51

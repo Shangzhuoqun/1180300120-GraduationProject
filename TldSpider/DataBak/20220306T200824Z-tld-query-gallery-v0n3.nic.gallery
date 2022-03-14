@@ -1,0 +1,7 @@
+; timestamp: 20220306T200824Z
+; source id: tld-query-gallery.-v0n3.nic.gallery.
+; source locator: v0n3.nic.gallery.
+; source IP address: 161.232.12.8
+; backup point IP address: 111.42.148.76
+; status: success
+gallery.		598	IN	NS	v2n1.nic.gallery.gallery.		598	IN	NS	v0n2.nic.gallery.gallery.		598	IN	NS	v0n0.nic.gallery.gallery.		598	IN	NS	v0n3.nic.gallery.gallery.		598	IN	NS	v2n0.nic.gallery.gallery.		598	IN	NS	v0n1.nic.gallery.v0n3.nic.gallery.	3598	IN	A	161.232.12.8v0n3.nic.gallery.	3598	IN	AAAA	2a01:8840:f6::8

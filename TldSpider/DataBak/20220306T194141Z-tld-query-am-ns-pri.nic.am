@@ -1,0 +1,7 @@
+; timestamp: 20220306T194141Z
+; source id: tld-query-am.-ns-pri.nic.am.
+; source locator: ns-pri.nic.am.
+; source IP address: 195.43.75.53
+; backup point IP address: 111.42.148.76
+; status: success
+am.			172800	IN	NS	fork.sth.dnsnode.net.am.			172800	IN	NS	ns-pri.nic.am.am.			172800	IN	NS	ns-pch.amnic.net.am.			172800	IN	NS	ns-cdn.amnic.net.ns-pri.nic.am.		2565	IN	A	195.43.75.53ns-pri.nic.am.		2565	IN	AAAA	2001:7f9:8:53::1

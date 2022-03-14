@@ -1,0 +1,7 @@
+; timestamp: 20220306T205003Z
+; source id: tld-query-pnc.-a2.nic.pnc.
+; source locator: a2.nic.pnc.
+; source IP address: 65.22.67.25
+; backup point IP address: 111.42.148.76
+; status: success
+PNC.			86400	IN	NS	b0.nic.PNC.PNC.			86400	IN	NS	a0.nic.PNC.PNC.			86400	IN	NS	a2.nic.PNC.PNC.			86400	IN	NS	c0.nic.PNC.a2.nic.pnc.		600	IN	A	65.22.67.25a2.nic.pnc.		599	IN	AAAA	2a01:8840:41::25

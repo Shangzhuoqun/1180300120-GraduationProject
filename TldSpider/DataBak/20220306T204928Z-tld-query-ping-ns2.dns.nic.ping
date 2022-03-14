@@ -1,0 +1,7 @@
+; timestamp: 20220306T204928Z
+; source id: tld-query-ping.-ns2.dns.nic.ping.
+; source locator: ns2.dns.nic.ping.
+; source IP address: 156.154.170.29
+; backup point IP address: 111.42.148.76
+; status: success
+ping.			3597	IN	NS	ns3.dns.nic.ping.ping.			3597	IN	NS	ns2.dns.nic.ping.ping.			3597	IN	NS	a.nic.ping.ping.			3597	IN	NS	ns1.dns.nic.ping.ping.			3597	IN	NS	c.nic.ping.ping.			3597	IN	NS	b.nic.ping.ns2.dns.nic.ping.	3598	IN	A	156.154.170.29ns2.dns.nic.ping.	3598	IN	AAAA	2610:a1:1072::1:1d

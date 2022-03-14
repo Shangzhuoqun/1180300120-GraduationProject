@@ -1,0 +1,12 @@
+; timestamp: 20220306T195743Z
+; source id: tld-query-coupons.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v0n0.nic.coupons
+v0n1.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v0n1.nic.coupons
+v0n2.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v0n2.nic.coupons
+v0n3.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v0n3.nic.coupons
+v2n0.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v2n0.nic.coupons
+v2n1.nic.coupons.:../TldSpider/DataBak/20220306T195743Z-tld-query-coupons-v2n1.nic.coupons

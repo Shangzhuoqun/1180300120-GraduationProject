@@ -1,0 +1,27 @@
+; timestamp: 20220306T212716Z
+; source id: tld-query-xn--mgbtx2b.-dyn1.cmc.iq.
+; source locator: dyn1.cmc.iq.
+; source IP address: 199.19.5.8
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbtx2b.		3600	IN	NS	sns-pb.isc.org.xn--mgbtx2b.		3600	IN	NS	nsp-anycast.cmc.iq.xn--mgbtx2b.		3600	IN	NS	ns.cocca.fr.dyn1.cmc.iq.		600	IN	A	199.19.5.8dig @199.19.5.8 dyn1.cmc.iq. AAAA
+
+; <<>> DiG 9.16.23 <<>> @199.19.5.8 dyn1.cmc.iq. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30808
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dyn1.cmc.iq.			IN	AAAA
+
+;; AUTHORITY SECTION:
+cmc.iq.			1800	IN	SOA	amanda.ns.cloudflare.com. dns.cloudflare.com. 2272023340 10000 2400 604800 3600
+
+;; Query time: 288 msec
+;; SERVER: 199.19.5.8#53(199.19.5.8)
+;; WHEN: Sun Mar 06 21:27:18 ;; MSG SIZE  rcvd: 104
+

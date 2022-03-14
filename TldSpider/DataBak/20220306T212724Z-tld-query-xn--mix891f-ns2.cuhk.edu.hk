@@ -1,0 +1,7 @@
+; timestamp: 20220306T212724Z
+; source id: tld-query-xn--mix891f.-ns2.cuhk.edu.hk.
+; source locator: ns2.cuhk.edu.hk.
+; source IP address: 137.189.6.21
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mix891f.		3597	IN	NS	b.monic.mo.xn--mix891f.		3597	IN	NS	e.monic.mo.xn--mix891f.		3597	IN	NS	d.monic.mo.xn--mix891f.		3597	IN	NS	ns2.cuhk.edu.hk.xn--mix891f.		3597	IN	NS	ns17.cdns.net.xn--mix891f.		3597	IN	NS	a.monic.mo.xn--mix891f.		3597	IN	NS	c.monic.mo.ns2.cuhk.edu.hk.	3600	IN	A	137.189.6.21ns2.cuhk.edu.hk.	10800	IN	AAAA	2405:3000:3:6::15

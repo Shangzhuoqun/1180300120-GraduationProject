@@ -1,0 +1,7 @@
+; timestamp: 20220306T204125Z
+; source id: tld-query-na.-anyc2.irondns.net.
+; source locator: anyc2.irondns.net.
+; source IP address: 195.253.64.7
+; backup point IP address: 111.42.148.76
+; status: success
+na.			3600	IN	NS	na.anycastdns.cz.na.			3600	IN	NS	etld-1.anycast.net.na.			3600	IN	NS	anyc2.irondns.net.na.			3600	IN	NS	na-ns.anycast.pch.net.anyc2.irondns.net.	3600	IN	A	195.253.64.7anyc2.irondns.net.	1709	IN	AAAA	2a01:5b0:4::7

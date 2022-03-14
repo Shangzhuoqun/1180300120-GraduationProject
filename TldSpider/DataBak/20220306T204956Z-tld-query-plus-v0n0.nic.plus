@@ -1,0 +1,7 @@
+; timestamp: 20220306T204956Z
+; source id: tld-query-plus.-v0n0.nic.plus.
+; source locator: v0n0.nic.plus.
+; source IP address: 65.22.32.39
+; backup point IP address: 111.42.148.76
+; status: success
+plus.			3600	IN	NS	v2n1.nic.plus.plus.			3600	IN	NS	v0n2.nic.plus.plus.			3600	IN	NS	v0n3.nic.plus.plus.			3600	IN	NS	v2n0.nic.plus.plus.			3600	IN	NS	v0n1.nic.plus.plus.			3600	IN	NS	v0n0.nic.plus.v0n0.nic.plus.		3600	IN	A	65.22.32.39v0n0.nic.plus.		3599	IN	AAAA	2a01:8840:22::39

@@ -1,0 +1,12 @@
+; timestamp: 20220306T204140Z
+; source id: tld-query-navy.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v0n0.nic.navy
+v0n1.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v0n1.nic.navy
+v0n2.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v0n2.nic.navy
+v0n3.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v0n3.nic.navy
+v2n0.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v2n0.nic.navy
+v2n1.nic.navy.:../TldSpider/DataBak/20220306T204140Z-tld-query-navy-v2n1.nic.navy

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194405Z
+; source id: tld-query-aws.-dnsa.nic.aws.
+; source locator: dnsa.nic.aws.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+aws.			1521	IN	NS	dns3.nic.aws.aws.			1521	IN	NS	dnsa.nic.aws.aws.			1521	IN	NS	dns4.nic.aws.aws.			1521	IN	NS	dnsb.nic.aws.aws.			1521	IN	NS	dnsd.nic.aws.aws.			1521	IN	NS	dnsc.nic.aws.aws.			1521	IN	NS	dns1.nic.aws.aws.			1521	IN	NS	dns2.nic.aws.dnsa.nic.aws.		3595	IN	A	156.154.100.3dnsa.nic.aws.		3596	IN	AAAA	2001:502:ad09::3

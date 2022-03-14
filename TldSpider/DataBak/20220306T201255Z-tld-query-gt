@@ -1,0 +1,12 @@
+; timestamp: 20220306T201255Z
+; source id: tld-query-gt.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.lactld.org.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-a.lactld.org
+gt.anycastdns.cz.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-gt.anycastdns.cz
+ns.dns.br.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-ns.dns.br
+pch.gt.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-pch.gt
+ns-cz.gt.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-ns-cz.gt
+ssdns-tld.nic.cl.:../TldSpider/DataBak/20220306T201255Z-tld-query-gt-ssdns-tld.nic.cl

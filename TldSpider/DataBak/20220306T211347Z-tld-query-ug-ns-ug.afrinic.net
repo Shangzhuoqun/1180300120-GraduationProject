@@ -1,0 +1,7 @@
+; timestamp: 20220306T211347Z
+; source id: tld-query-ug.-ns-ug.afrinic.net.
+; source locator: ns-ug.afrinic.net.
+; source IP address: 196.216.168.42
+; backup point IP address: 111.42.148.76
+; status: success
+ug.			3600	IN	NS	root.eahd.or.ug.ug.			3600	IN	NS	ns-ug.afrinic.net.ug.			3600	IN	NS	anycast.eahd.or.ug.ug.			3600	IN	NS	ug.cctld.authdns.ripe.net.ug.			3600	IN	NS	ns.icann.org.ns-ug.afrinic.net.	3600	IN	A	196.216.168.42ns-ug.afrinic.net.	2399	IN	AAAA	2001:43f8:120::42

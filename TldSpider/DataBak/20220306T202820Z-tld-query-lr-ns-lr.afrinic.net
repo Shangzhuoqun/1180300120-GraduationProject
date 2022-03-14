@@ -1,0 +1,7 @@
+; timestamp: 20220306T202820Z
+; source id: tld-query-lr.-ns-lr.afrinic.net.
+; source locator: ns-lr.afrinic.net.
+; source IP address: 196.216.168.61
+; backup point IP address: 111.42.148.76
+; status: success
+lr.			14400	IN	NS	fork.sth.dnsnode.net.lr.			14400	IN	NS	ns-lr.afrinic.net.lr.			14400	IN	NS	rip.psg.com.ns-lr.afrinic.net.	3600	IN	A	196.216.168.61ns-lr.afrinic.net.	3600	IN	AAAA	2001:43f8:120::61

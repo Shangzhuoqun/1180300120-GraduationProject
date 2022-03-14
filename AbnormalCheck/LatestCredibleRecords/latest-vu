@@ -1,0 +1,12 @@
+vu.	172800	in	ns	ns1.tldns.vu.
+vu.	172800	in	ns	ns2.tldns.vu.
+vu.	172800	in	ns	ns3.tldns.vu.
+vu.	172800	in	ns	ns4.tldns.vu.
+ns1.tldns.vu.	172800	in	a	37.209.192.6
+ns1.tldns.vu.	172800	in	aaaa	2001:dcd:1:0:0:0:0:6
+ns2.tldns.vu.	172800	in	a	37.209.194.6
+ns2.tldns.vu.	172800	in	aaaa	2001:dcd:2:0:0:0:0:6
+ns3.tldns.vu.	172800	in	a	37.209.196.6
+ns3.tldns.vu.	172800	in	aaaa	2001:dcd:3:0:0:0:0:6
+ns4.tldns.vu.	172800	in	a	37.209.198.6
+ns4.tldns.vu.	172800	in	aaaa	2001:dcd:4:0:0:0:0:6

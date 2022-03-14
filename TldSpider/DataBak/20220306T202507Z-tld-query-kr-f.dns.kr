@@ -1,0 +1,7 @@
+; timestamp: 20220306T202507Z
+; source id: tld-query-kr.-f.dns.kr.
+; source locator: f.dns.kr.
+; source IP address: 210.101.62.1
+; backup point IP address: 111.42.148.76
+; status: success
+kr.			86400	IN	NS	f.dns.kr.kr.			86400	IN	NS	e.dns.kr.kr.			86400	IN	NS	d.dns.kr.kr.			86400	IN	NS	b.dns.kr.kr.			86400	IN	NS	c.dns.kr.kr.			86400	IN	NS	g.dns.kr.f.dns.kr.		2593	IN	A	210.101.62.1f.dns.kr.		599	IN	AAAA	2001:dcc:6::1

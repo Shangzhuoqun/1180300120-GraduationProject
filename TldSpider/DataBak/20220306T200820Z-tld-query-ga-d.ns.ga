@@ -1,0 +1,7 @@
+; timestamp: 20220306T200820Z
+; source id: tld-query-ga.-d.ns.ga.
+; source locator: d.ns.ga.
+; source IP address: 185.21.171.49
+; backup point IP address: 111.42.148.76
+; status: success
+ga.			3599	IN	NS	b.ns.ga.ga.			3599	IN	NS	a.ns.ga.ga.			3599	IN	NS	c.ns.ga.ga.			3599	IN	NS	d.ns.ga.d.ns.ga.		3599	IN	A	185.21.171.49d.ns.ga.		3599	IN	AAAA	2a04:1b00:f::1

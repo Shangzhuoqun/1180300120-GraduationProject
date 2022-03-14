@@ -1,0 +1,7 @@
+; timestamp: 20220306T210616Z
+; source id: tld-query-target.-ns1.dns.nic.target.
+; source locator: ns1.dns.nic.target.
+; source IP address: 156.154.144.158
+; backup point IP address: 111.42.148.76
+; status: success
+target.			3599	IN	NS	ns2.dns.nic.target.target.			3599	IN	NS	b.nic.target.target.			3599	IN	NS	a.nic.target.target.			3599	IN	NS	c.nic.target.target.			3599	IN	NS	ns3.dns.nic.target.target.			3599	IN	NS	ns1.dns.nic.target.ns1.dns.nic.target.	3600	IN	A	156.154.144.158ns1.dns.nic.target.	3599	IN	AAAA	2610:a1:1071::9e

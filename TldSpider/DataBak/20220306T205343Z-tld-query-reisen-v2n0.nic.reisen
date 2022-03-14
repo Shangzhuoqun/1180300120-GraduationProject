@@ -1,0 +1,7 @@
+; timestamp: 20220306T205343Z
+; source id: tld-query-reisen.-v2n0.nic.reisen.
+; source locator: v2n0.nic.reisen.
+; source IP address: 65.22.31.54
+; backup point IP address: 111.42.148.76
+; status: success
+reisen.			3597	IN	NS	v0n3.nic.reisen.reisen.			3597	IN	NS	v0n1.nic.reisen.reisen.			3597	IN	NS	v2n0.nic.reisen.reisen.			3597	IN	NS	v0n2.nic.reisen.reisen.			3597	IN	NS	v2n1.nic.reisen.reisen.			3597	IN	NS	v0n0.nic.reisen.v2n0.nic.reisen.	3599	IN	A	65.22.31.54v2n0.nic.reisen.	3599	IN	AAAA	2a01:8840:21::54

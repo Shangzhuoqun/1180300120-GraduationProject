@@ -1,0 +1,7 @@
+; timestamp: 20220306T211857Z
+; source id: tld-query-weibo.-a2.nic.weibo.
+; source locator: a2.nic.weibo.
+; source IP address: 65.22.59.41
+; backup point IP address: 111.42.148.76
+; status: success
+weibo.			3599	IN	NS	a0.nic.weibo.weibo.			3599	IN	NS	b0.nic.weibo.weibo.			3599	IN	NS	a2.nic.weibo.weibo.			3599	IN	NS	c0.nic.weibo.a2.nic.weibo.		600	IN	A	65.22.59.41a2.nic.weibo.		600	IN	AAAA	2a01:8840:39::41

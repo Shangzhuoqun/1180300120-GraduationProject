@@ -1,0 +1,15 @@
+{
+    "modify-bind-cache" : {
+        "bindPath" : "/etc/bind/",
+        "cachePath" : "/var/cache/bind/",
+        "cacheFile" : "db.cache",
+        "logPath" : "Log",
+        "dataPath" : "Data",
+        "restartCommand" : "sudo service bind9 restart",
+        "startCommand" : "sudo service bind9 start",
+        "stopCommand" : "sudo service bind9 stop",
+        "abnormalTLDFileList" : ["MergeData/MergedData/abnormalTLD", "AbnormalCheck/Data/abnormalTLD"],
+        "customizeRecordsPath" : "CustomizeRecords",
+        "latestCredibleRecordsPath" : "AbnormalCheck/LatestCredibleRecords"
+    }
+}

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201946Z
+; source id: tld-query-is.-durinn.rhnet.is.
+; source locator: durinn.rhnet.is.
+; source IP address: 130.208.16.20
+; backup point IP address: 111.42.148.76
+; status: success
+is.			259200	IN	NS	bes.isnic.is.is.			259200	IN	NS	durinn.rhnet.is.is.			259200	IN	NS	sunic.sunet.se.is.			259200	IN	NS	ht-tldsecondary01.isnic.is.is.			259200	IN	NS	tg-tldsecondary01.isnic.is.is.			259200	IN	NS	sab.isnic.is.durinn.rhnet.is.	2669	IN	A	130.208.16.20durinn.rhnet.is.	3598	IN	AAAA	2a00:c88:10:16::20

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212554Z
+; source id: tld-query-xn--mgbaakc7dvf.-a.nic.xn--mgbaakc7dvf.
+; source locator: a.nic.xn--mgbaakc7dvf.
+; source IP address: 194.169.218.23
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbaakc7dvf.	3600	IN	NS	a.nic.xn--mgbaakc7dvf.xn--mgbaakc7dvf.	3600	IN	NS	b.nic.xn--mgbaakc7dvf.xn--mgbaakc7dvf.	3600	IN	NS	c.nic.xn--mgbaakc7dvf.xn--mgbaakc7dvf.	3600	IN	NS	d.nic.xn--mgbaakc7dvf.a.nic.xn--mgbaakc7dvf.	3600	IN	A	194.169.218.23a.nic.xn--mgbaakc7dvf.	3600	IN	AAAA	2001:67c:13cc::1:23

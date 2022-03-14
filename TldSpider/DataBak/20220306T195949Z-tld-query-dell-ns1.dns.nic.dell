@@ -1,0 +1,7 @@
+; timestamp: 20220306T195949Z
+; source id: tld-query-dell.-ns1.dns.nic.dell.
+; source locator: ns1.dns.nic.dell.
+; source IP address: 156.154.144.47
+; backup point IP address: 111.42.148.76
+; status: success
+dell.			1225	IN	NS	c.nic.dell.dell.			1225	IN	NS	ns1.dns.nic.dell.dell.			1225	IN	NS	a.nic.dell.dell.			1225	IN	NS	ns3.dns.nic.dell.dell.			1225	IN	NS	ns2.dns.nic.dell.dell.			1225	IN	NS	b.nic.dell.ns1.dns.nic.dell.	3598	IN	A	156.154.144.47ns1.dns.nic.dell.	3598	IN	AAAA	2610:a1:1071::2f

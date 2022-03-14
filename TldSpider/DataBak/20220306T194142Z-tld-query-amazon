@@ -1,0 +1,14 @@
+; timestamp: 20220306T194142Z
+; source id: tld-query-amazon.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dns1.nic.amazon
+dns2.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dns2.nic.amazon
+dns3.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dns3.nic.amazon
+dns4.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dns4.nic.amazon
+dnsa.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dnsa.nic.amazon
+dnsb.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dnsb.nic.amazon
+dnsc.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dnsc.nic.amazon
+dnsd.nic.amazon.:../TldSpider/DataBak/20220306T194142Z-tld-query-amazon-dnsd.nic.amazon

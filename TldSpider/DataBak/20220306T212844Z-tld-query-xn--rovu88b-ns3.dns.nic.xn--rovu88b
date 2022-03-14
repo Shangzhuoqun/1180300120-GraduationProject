@@ -1,0 +1,7 @@
+; timestamp: 20220306T212844Z
+; source id: tld-query-xn--rovu88b.-ns3.dns.nic.xn--rovu88b.
+; source locator: ns3.dns.nic.xn--rovu88b.
+; source IP address: 156.154.171.76
+; backup point IP address: 111.42.148.76
+; status: success
+xn--rovu88b.		3598	IN	NS	c.nic.xn--rovu88b.xn--rovu88b.		3598	IN	NS	ns3.dns.nic.xn--rovu88b.xn--rovu88b.		3598	IN	NS	a.nic.xn--rovu88b.xn--rovu88b.		3598	IN	NS	ns2.dns.nic.xn--rovu88b.xn--rovu88b.		3598	IN	NS	ns1.dns.nic.xn--rovu88b.xn--rovu88b.		3598	IN	NS	b.nic.xn--rovu88b.ns3.dns.nic.xn--rovu88b. 3600	IN	A	156.154.171.76ns3.dns.nic.xn--rovu88b. 3600	IN	AAAA	2610:a1:1073::1:4c

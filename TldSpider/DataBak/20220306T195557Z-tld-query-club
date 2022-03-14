@@ -1,0 +1,12 @@
+; timestamp: 20220306T195557Z
+; source id: tld-query-club.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-a.nic.club
+b.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-b.nic.club
+c.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-c.nic.club
+ns1.dns.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-ns1.dns.nic.club
+ns2.dns.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-ns2.dns.nic.club
+ns3.dns.nic.club.:../TldSpider/DataBak/20220306T195557Z-tld-query-club-ns3.dns.nic.club

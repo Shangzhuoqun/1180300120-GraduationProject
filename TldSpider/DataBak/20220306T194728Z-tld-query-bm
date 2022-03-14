@@ -1,0 +1,12 @@
+; timestamp: 20220306T194728Z
+; source id: tld-query-bm.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.bm.afilias-nst.info.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-a0.bm.afilias-nst.info
+a2.bm.afilias-nst.info.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-a2.bm.afilias-nst.info
+b0.bm.afilias-nst.org.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-b0.bm.afilias-nst.org
+b2.bm.afilias-nst.org.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-b2.bm.afilias-nst.org
+c0.bm.afilias-nst.info.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-c0.bm.afilias-nst.info
+d0.bm.afilias-nst.org.:../TldSpider/DataBak/20220306T194728Z-tld-query-bm-d0.bm.afilias-nst.org

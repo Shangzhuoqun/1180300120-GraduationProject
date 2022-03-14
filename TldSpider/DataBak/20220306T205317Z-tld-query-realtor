@@ -1,0 +1,14 @@
+; timestamp: 20220306T205317Z
+; source id: tld-query-realtor.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dns1.nic.realtor
+dns2.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dns2.nic.realtor
+dns3.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dns3.nic.realtor
+dns4.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dns4.nic.realtor
+dnsa.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dnsa.nic.realtor
+dnsb.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dnsb.nic.realtor
+dnsc.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dnsc.nic.realtor
+dnsd.nic.realtor.:../TldSpider/DataBak/20220306T205317Z-tld-query-realtor-dnsd.nic.realtor

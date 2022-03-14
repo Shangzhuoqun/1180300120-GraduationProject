@@ -1,0 +1,7 @@
+; timestamp: 20220306T200556Z
+; source id: tld-query-fit.-d.nic.fit.
+; source locator: d.nic.fit.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+fit.			3599	IN	NS	a.nic.fit.fit.			3599	IN	NS	b.nic.fit.fit.			3599	IN	NS	c.nic.fit.fit.			3599	IN	NS	d.nic.fit.d.nic.fit.		3599	IN	A	37.209.198.10d.nic.fit.		3599	IN	AAAA	2001:dcd:4::10

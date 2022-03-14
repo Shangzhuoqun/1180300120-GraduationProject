@@ -1,0 +1,12 @@
+art.	172800	in	ns	a.nic.art.
+art.	172800	in	ns	b.nic.art.
+art.	172800	in	ns	c.nic.art.
+art.	172800	in	ns	d.nic.art.
+a.nic.art.	172800	in	a	194.169.218.49
+a.nic.art.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:49
+b.nic.art.	172800	in	a	185.24.64.49
+b.nic.art.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:49
+c.nic.art.	172800	in	a	212.18.248.49
+c.nic.art.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:49
+d.nic.art.	172800	in	a	212.18.249.49
+d.nic.art.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:49

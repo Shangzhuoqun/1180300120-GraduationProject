@@ -1,0 +1,7 @@
+; timestamp: 20220306T205046Z
+; source id: tld-query-prime.-dns2.nic.prime.
+; source locator: dns2.nic.prime.
+; source IP address: 103.49.82.51
+; backup point IP address: 111.42.148.76
+; status: success
+prime.			3599	IN	NS	dnsa.nic.prime.prime.			3599	IN	NS	dnsc.nic.prime.prime.			3599	IN	NS	dns3.nic.prime.prime.			3599	IN	NS	dns1.nic.prime.prime.			3599	IN	NS	dns2.nic.prime.prime.			3599	IN	NS	dnsb.nic.prime.prime.			3599	IN	NS	dnsd.nic.prime.prime.			3599	IN	NS	dns4.nic.prime.dns2.nic.prime.		3600	IN	A	103.49.82.51dns2.nic.prime.		3599	IN	AAAA	2401:fd80:402::51

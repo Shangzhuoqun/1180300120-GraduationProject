@@ -1,0 +1,27 @@
+; timestamp: 20220306T205840Z
+; source id: tld-query-sd.-ans2.canar.sd.
+; source locator: ans2.canar.sd.
+; source IP address: 196.29.164.14
+; backup point IP address: 111.42.148.76
+; status: success
+sd.			14400	IN	NS	ns-sd.afrinic.net.sd.			14400	IN	NS	ans1.sis.sd.sd.			14400	IN	NS	pch.sis.sd.sd.			14400	IN	NS	ans2.canar.sd.sd.			14400	IN	NS	ans2.sis.sd.sd.			14400	IN	NS	sd.cctld.authdns.ripe.net.sd.			14400	IN	NS	ans1.canar.sd.ans2.canar.sd.		3600	IN	A	196.29.164.14dig @196.29.164.14 ans2.canar.sd. AAAA
+
+; <<>> DiG 9.16.23 <<>> @196.29.164.14 ans2.canar.sd. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22458
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ans2.canar.sd.			IN	AAAA
+
+;; AUTHORITY SECTION:
+canar.sd.		1800	IN	SOA	ans1.canar.sd. admin.canar.sd. 2020081901 10800 3600 1209600 38400
+
+;; Query time: 1183 msec
+;; SERVER: 196.29.164.14#53(196.29.164.14)
+;; WHEN: Sun Mar 06 20:58:48 ;; MSG SIZE  rcvd: 89
+

@@ -1,0 +1,7 @@
+; timestamp: 20220306T200015Z
+; source id: tld-query-design.-d.nic.design.
+; source locator: d.nic.design.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+design.			507	IN	NS	c.nic.design.design.			507	IN	NS	d.nic.design.design.			507	IN	NS	b.nic.design.design.			507	IN	NS	a.nic.design.d.nic.design.		1841	IN	A	37.209.198.10d.nic.design.		1841	IN	AAAA	2001:dcd:4::10

@@ -1,0 +1,4 @@
+cn. 3600    IN  NS  a.dns.cn.
+cn. 3600    IN  NS  b.dns.cn.
+a.dns.cn.   3600    IN  A   1.1.1.1
+b.dns.cn.   3600    IN  A   2.2.2.2

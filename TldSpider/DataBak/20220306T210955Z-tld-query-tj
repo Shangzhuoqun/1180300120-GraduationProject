@@ -1,0 +1,10 @@
+; timestamp: 20220306T210955Z
+; source id: tld-query-tj.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+tj.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T210955Z-tld-query-tj-tj.cctld.authdns.ripe.net
+ns1.nic.tj.:../TldSpider/DataBak/20220306T210955Z-tld-query-tj-ns1.nic.tj
+ns2.tojikiston.com.:../TldSpider/DataBak/20220306T210955Z-tld-query-tj-ns2.tojikiston.com
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T210955Z-tld-query-tj-phloem.uoregon.edu

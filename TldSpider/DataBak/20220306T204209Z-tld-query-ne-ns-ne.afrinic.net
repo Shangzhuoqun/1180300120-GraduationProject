@@ -1,0 +1,26 @@
+; timestamp: 20220306T204209Z
+; source id: tld-query-ne.-ns-ne.afrinic.net.
+; source locator: ns-ne.afrinic.net.
+; source IP address: 196.216.168.45
+; backup point IP address: 111.42.148.76
+; status: success
+dig @196.216.168.45 ne. NS
+
+; <<>> DiG 9.16.23 <<>> @196.216.168.45 ne. NS
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 31600
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;ne.				IN	NS
+
+;; Query time: 479 msec
+;; SERVER: 196.216.168.45#53(196.216.168.45)
+;; WHEN: Sun Mar 06 20:42:12 ;; MSG SIZE  rcvd: 31
+
+ns-ne.afrinic.net.	2852	IN	A	196.216.168.45ns-ne.afrinic.net.	3600	IN	AAAA	2001:43f8:120::45

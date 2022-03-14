@@ -1,0 +1,11 @@
+; timestamp: 20220306T200926Z
+; source id: tld-query-ge.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ge.hostmaster.ua.:../TldSpider/DataBak/20220306T200926Z-tld-query-ge-ge.hostmaster.ua
+ns.uu.net.:../TldSpider/DataBak/20220306T200926Z-tld-query-ge-ns.uu.net
+ns.nic.ge.:../TldSpider/DataBak/20220306T200926Z-tld-query-ge-ns.nic.ge
+ns2.nic.fr.:../TldSpider/DataBak/20220306T200926Z-tld-query-ge-ns2.nic.fr
+ns2.nic.ge.:../TldSpider/DataBak/20220306T200926Z-tld-query-ge-ns2.nic.ge

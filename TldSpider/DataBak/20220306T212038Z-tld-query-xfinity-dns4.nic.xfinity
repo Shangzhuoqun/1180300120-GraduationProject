@@ -1,0 +1,7 @@
+; timestamp: 20220306T212038Z
+; source id: tld-query-xfinity.-dns4.nic.xfinity.
+; source locator: dns4.nic.xfinity.
+; source IP address: 43.230.51.7
+; backup point IP address: 111.42.148.76
+; status: success
+xfinity.		3598	IN	NS	dns1.nic.xfinity.xfinity.		3598	IN	NS	dnsa.nic.xfinity.xfinity.		3598	IN	NS	dnsc.nic.xfinity.xfinity.		3598	IN	NS	dns3.nic.xfinity.xfinity.		3598	IN	NS	dnsb.nic.xfinity.xfinity.		3598	IN	NS	dns2.nic.xfinity.xfinity.		3598	IN	NS	dnsd.nic.xfinity.xfinity.		3598	IN	NS	dns4.nic.xfinity.dns4.nic.xfinity.	3598	IN	A	43.230.51.7dns4.nic.xfinity.	3599	IN	AAAA	2401:fd80:407::7

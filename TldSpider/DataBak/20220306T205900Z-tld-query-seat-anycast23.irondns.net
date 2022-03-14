@@ -1,0 +1,7 @@
+; timestamp: 20220306T205900Z
+; source id: tld-query-seat.-anycast23.irondns.net.
+; source locator: anycast23.irondns.net.
+; source IP address: 195.253.65.11
+; backup point IP address: 111.42.148.76
+; status: success
+seat.			3600	IN	NS	anycast10.irondns.net.seat.			3600	IN	NS	anycast24.irondns.net.seat.			3600	IN	NS	anycast9.irondns.net.seat.			3600	IN	NS	anycast23.irondns.net.anycast23.irondns.net.	263	IN	A	195.253.65.11anycast23.irondns.net.	296	IN	AAAA	2a01:5b0:5::b

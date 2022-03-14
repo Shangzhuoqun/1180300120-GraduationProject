@@ -1,0 +1,27 @@
+; timestamp: 20220306T205453Z
+; source id: tld-query-ro.-dns-ro.denic.de.
+; source locator: dns-ro.denic.de.
+; source IP address: 81.91.161.99
+; backup point IP address: 111.42.148.76
+; status: success
+ro.			86400	IN	NS	dns-ro.denic.de.ro.			86400	IN	NS	sec-dns-a.rotld.ro.ro.			86400	IN	NS	sec-dns-b.rotld.ro.ro.			86400	IN	NS	dns-at.rotld.ro.ro.			86400	IN	NS	dns-c.rotld.ro.ro.			86400	IN	NS	primary.rotld.ro.dns-ro.denic.de.	600	IN	A	81.91.161.99dig @81.91.161.99 dns-ro.denic.de. AAAA
+
+; <<>> DiG 9.16.23 <<>> @81.91.161.99 dns-ro.denic.de. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30851
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dns-ro.denic.de.		IN	AAAA
+
+;; AUTHORITY SECTION:
+denic.de.		1800	IN	SOA	ns1.denic.de. dns-operations.denic.de. 1646300086 10800 1800 3600000 1800
+
+;; Query time: 0 msec
+;; SERVER: 81.91.161.99#53(81.91.161.99)
+;; WHEN: Sun Mar 06 20:54:55 ;; MSG SIZE  rcvd: 99
+

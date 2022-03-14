@@ -1,0 +1,7 @@
+; timestamp: 20220306T204530Z
+; source id: tld-query-online.-a.nic.online.
+; source locator: a.nic.online.
+; source IP address: 194.169.218.54
+; backup point IP address: 111.42.148.76
+; status: success
+online.			3600	IN	NS	e.nic.online.online.			3600	IN	NS	f.nic.online.online.			3600	IN	NS	a.nic.online.online.			3600	IN	NS	g.nic.online.online.			3600	IN	NS	b.nic.online.a.nic.online.		3290	IN	A	194.169.218.54a.nic.online.		3600	IN	AAAA	2001:67c:13cc::1:54

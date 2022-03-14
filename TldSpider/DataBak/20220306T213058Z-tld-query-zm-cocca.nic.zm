@@ -1,0 +1,7 @@
+; timestamp: 20220306T213058Z
+; source id: tld-query-zm.-cocca.nic.zm.
+; source locator: cocca.nic.zm.
+; source IP address: 185.17.238.93
+; backup point IP address: 111.42.148.76
+; status: success
+zm.			3600	IN	NS	pch.nic.zm.zm.			3600	IN	NS	gransy.nic.zm.zm.			3600	IN	NS	cocca.nic.zm.cocca.nic.zm.		2700	IN	A	185.17.238.93cocca.nic.zm.		2700	IN	AAAA	2a03:dd41:238::93

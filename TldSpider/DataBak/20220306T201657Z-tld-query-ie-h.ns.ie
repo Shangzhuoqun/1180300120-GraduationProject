@@ -1,0 +1,7 @@
+; timestamp: 20220306T201657Z
+; source id: tld-query-ie.-h.ns.ie.
+; source locator: h.ns.ie.
+; source IP address: 192.93.0.4
+; backup point IP address: 111.42.148.76
+; status: success
+ie.			3599	IN	NS	i.ns.ie.ie.			3599	IN	NS	c.ns.ie.ie.			3599	IN	NS	b.ns.ie.ie.			3599	IN	NS	g.ns.ie.ie.			3599	IN	NS	d.ns.ie.ie.			3599	IN	NS	h.ns.ie.h.ns.ie.		598	IN	A	192.93.0.4h.ns.ie.		3598	IN	AAAA	2001:660:3005:1::1:2

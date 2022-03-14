@@ -1,0 +1,7 @@
+; timestamp: 20220306T200412Z
+; source id: tld-query-exposed.-v0n3.nic.exposed.
+; source locator: v0n3.nic.exposed.
+; source IP address: 161.232.12.58
+; backup point IP address: 111.42.148.76
+; status: success
+exposed.		3598	IN	NS	v0n0.nic.exposed.exposed.		3598	IN	NS	v0n1.nic.exposed.exposed.		3598	IN	NS	v0n2.nic.exposed.exposed.		3598	IN	NS	v0n3.nic.exposed.exposed.		3598	IN	NS	v2n1.nic.exposed.exposed.		3598	IN	NS	v2n0.nic.exposed.v0n3.nic.exposed.	3598	IN	A	161.232.12.58v0n3.nic.exposed.	3598	IN	AAAA	2a01:8840:f6::58

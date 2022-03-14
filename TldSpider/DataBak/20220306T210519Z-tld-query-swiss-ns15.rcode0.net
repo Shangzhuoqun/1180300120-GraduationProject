@@ -1,0 +1,7 @@
+; timestamp: 20220306T210519Z
+; source id: tld-query-swiss.-ns15.rcode0.net.
+; source locator: ns15.rcode0.net.
+; source IP address: 194.0.25.15
+; backup point IP address: 111.42.148.76
+; status: success
+swiss.			3589	IN	NS	ns15.rcode0.net.swiss.			3589	IN	NS	anycast24.irondns.net.swiss.			3589	IN	NS	anycast23.irondns.net.swiss.			3589	IN	NS	g.nic.swiss.swiss.			3589	IN	NS	anycast9.irondns.net.swiss.			3589	IN	NS	anycast10.irondns.net.swiss.			3589	IN	NS	u.nic.swiss.ns15.rcode0.net.	3600	IN	A	194.0.25.15ns15.rcode0.net.	3600	IN	AAAA	2001:678:20::15

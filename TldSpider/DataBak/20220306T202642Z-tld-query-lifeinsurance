@@ -1,0 +1,12 @@
+; timestamp: 20220306T202642Z
+; source id: tld-query-lifeinsurance.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-a.nic.lifeinsurance
+b.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-b.nic.lifeinsurance
+c.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-c.nic.lifeinsurance
+ns1.dns.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-ns1.dns.nic.lifeinsurance
+ns2.dns.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-ns2.dns.nic.lifeinsurance
+ns3.dns.nic.lifeinsurance.:../TldSpider/DataBak/20220306T202642Z-tld-query-lifeinsurance-ns3.dns.nic.lifeinsurance

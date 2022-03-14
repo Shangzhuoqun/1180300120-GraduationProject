@@ -1,0 +1,10 @@
+; timestamp: 20220306T200423Z
+; source id: tld-query-fage.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.fage.:../TldSpider/DataBak/20220306T200423Z-tld-query-fage-a0.nic.fage
+a2.nic.fage.:../TldSpider/DataBak/20220306T200423Z-tld-query-fage-a2.nic.fage
+b0.nic.fage.:../TldSpider/DataBak/20220306T200423Z-tld-query-fage-b0.nic.fage
+c0.nic.fage.:../TldSpider/DataBak/20220306T200423Z-tld-query-fage-c0.nic.fage

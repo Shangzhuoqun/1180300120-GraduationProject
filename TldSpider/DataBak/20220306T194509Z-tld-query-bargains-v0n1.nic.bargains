@@ -1,0 +1,7 @@
+; timestamp: 20220306T194509Z
+; source id: tld-query-bargains.-v0n1.nic.bargains.
+; source locator: v0n1.nic.bargains.
+; source IP address: 65.22.21.62
+; backup point IP address: 111.42.148.76
+; status: success
+bargains.		1493	IN	NS	v0n0.nic.bargains.bargains.		1493	IN	NS	v0n3.nic.bargains.bargains.		1493	IN	NS	v2n1.nic.bargains.bargains.		1493	IN	NS	v0n1.nic.bargains.bargains.		1493	IN	NS	v0n2.nic.bargains.bargains.		1493	IN	NS	v2n0.nic.bargains.v0n1.nic.bargains.	3599	IN	A	65.22.21.62v0n1.nic.bargains.	3600	IN	AAAA	2a01:8840:17::62

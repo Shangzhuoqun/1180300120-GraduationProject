@@ -1,0 +1,10 @@
+; timestamp: 20220306T194058Z
+; source id: tld-query-afl.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.afl.:../TldSpider/DataBak/20220306T194058Z-tld-query-afl-a.nic.afl
+b.nic.afl.:../TldSpider/DataBak/20220306T194058Z-tld-query-afl-b.nic.afl
+c.nic.afl.:../TldSpider/DataBak/20220306T194058Z-tld-query-afl-c.nic.afl
+d.nic.afl.:../TldSpider/DataBak/20220306T194058Z-tld-query-afl-d.nic.afl

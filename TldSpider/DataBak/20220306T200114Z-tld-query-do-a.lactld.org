@@ -1,0 +1,7 @@
+; timestamp: 20220306T200114Z
+; source id: tld-query-do.-a.lactld.org.
+; source locator: a.lactld.org.
+; source IP address: 200.0.68.10
+; backup point IP address: 111.42.148.76
+; status: success
+do.			465	IN	NS	phloem.uoregon.edu.do.			465	IN	NS	ns3.nic.mx.do.			465	IN	NS	ns.nic.do.do.			465	IN	NS	ns1.nic.do.do.			465	IN	NS	a.lactld.org.do.			465	IN	NS	ns2.nic.do.do.			465	IN	NS	ns5.nic.do.do.			465	IN	NS	ns4.nic.do.a.lactld.org.		2399	IN	A	200.0.68.10a.lactld.org.		2399	IN	AAAA	2801:14:a000::10

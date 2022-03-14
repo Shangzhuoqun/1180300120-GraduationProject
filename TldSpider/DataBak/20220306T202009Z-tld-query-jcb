@@ -1,0 +1,10 @@
+; timestamp: 20220306T202009Z
+; source id: tld-query-jcb.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.gmoregistry.net.:../TldSpider/DataBak/20220306T202009Z-tld-query-jcb-a.gmoregistry.net
+b.gmoregistry.net.:../TldSpider/DataBak/20220306T202009Z-tld-query-jcb-b.gmoregistry.net
+k.gmoregistry.net.:../TldSpider/DataBak/20220306T202009Z-tld-query-jcb-k.gmoregistry.net
+l.gmoregistry.net.:../TldSpider/DataBak/20220306T202009Z-tld-query-jcb-l.gmoregistry.net

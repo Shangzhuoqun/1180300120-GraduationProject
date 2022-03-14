@@ -1,0 +1,12 @@
+online.	172800	in	ns	a.nic.online.
+online.	172800	in	ns	b.nic.online.
+online.	172800	in	ns	e.nic.online.
+online.	172800	in	ns	f.nic.online.
+a.nic.online.	172800	in	a	194.169.218.54
+a.nic.online.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:54
+b.nic.online.	172800	in	a	185.24.64.54
+b.nic.online.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:54
+e.nic.online.	172800	in	a	212.18.248.54
+e.nic.online.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:54
+f.nic.online.	172800	in	a	212.18.249.54
+f.nic.online.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:54

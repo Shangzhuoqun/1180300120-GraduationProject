@@ -1,0 +1,7 @@
+; timestamp: 20220306T205650Z
+; source id: tld-query-safe.-dns2.nic.safe.
+; source locator: dns2.nic.safe.
+; source IP address: 103.49.82.78
+; backup point IP address: 111.42.148.76
+; status: success
+safe.			3600	IN	NS	dnsb.nic.safe.safe.			3600	IN	NS	dns3.nic.safe.safe.			3600	IN	NS	dns2.nic.safe.safe.			3600	IN	NS	dnsd.nic.safe.safe.			3600	IN	NS	dnsa.nic.safe.safe.			3600	IN	NS	dnsc.nic.safe.safe.			3600	IN	NS	dns4.nic.safe.safe.			3600	IN	NS	dns1.nic.safe.dns2.nic.safe.		3599	IN	A	103.49.82.78dns2.nic.safe.		3599	IN	AAAA	2401:fd80:402::78

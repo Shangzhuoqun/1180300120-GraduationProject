@@ -1,0 +1,10 @@
+; timestamp: 20220306T205712Z
+; source id: tld-query-sandvik.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.sandvik.:../TldSpider/DataBak/20220306T205712Z-tld-query-sandvik-a.nic.sandvik
+b.nic.sandvik.:../TldSpider/DataBak/20220306T205712Z-tld-query-sandvik-b.nic.sandvik
+c.nic.sandvik.:../TldSpider/DataBak/20220306T205712Z-tld-query-sandvik-c.nic.sandvik
+d.nic.sandvik.:../TldSpider/DataBak/20220306T205712Z-tld-query-sandvik-d.nic.sandvik

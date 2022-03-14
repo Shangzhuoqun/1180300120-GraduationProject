@@ -1,0 +1,7 @@
+; timestamp: 20220306T200237Z
+; source id: tld-query-edu.-b.edu-servers.net.
+; source locator: b.edu-servers.net.
+; source IP address: 192.33.14.30
+; backup point IP address: 111.42.148.76
+; status: success
+edu.			404	IN	NS	l.edu-servers.net.edu.			404	IN	NS	h.edu-servers.net.edu.			404	IN	NS	d.edu-servers.net.edu.			404	IN	NS	e.edu-servers.net.edu.			404	IN	NS	f.edu-servers.net.edu.			404	IN	NS	g.edu-servers.net.edu.			404	IN	NS	b.edu-servers.net.edu.			404	IN	NS	j.edu-servers.net.edu.			404	IN	NS	k.edu-servers.net.edu.			404	IN	NS	a.edu-servers.net.edu.			404	IN	NS	c.edu-servers.net.edu.			404	IN	NS	i.edu-servers.net.edu.			404	IN	NS	m.edu-servers.net.b.edu-servers.net.	2722	IN	A	192.33.14.30b.edu-servers.net.	2710	IN	AAAA	2001:503:231d::2:30

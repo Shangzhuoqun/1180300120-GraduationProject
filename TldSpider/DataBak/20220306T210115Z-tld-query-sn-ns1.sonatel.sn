@@ -1,0 +1,27 @@
+; timestamp: 20220306T210115Z
+; source id: tld-query-sn.-ns1.sonatel.sn.
+; source locator: ns1.sonatel.sn.
+; source IP address: 213.154.64.11
+; backup point IP address: 111.42.148.76
+; status: success
+sn.			43200	IN	NS	ns1.sonatel.sn.sn.			43200	IN	NS	censvrns0001.ird.fr.sn.			43200	IN	NS	ns-sn.nic.fr.sn.			43200	IN	NS	ns.ucad.sn.sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.ns1.sonatel.sn.		3600	IN	A	213.154.64.11dig @213.154.64.11 ns1.sonatel.sn. AAAA
+
+; <<>> DiG 9.16.23 <<>> @213.154.64.11 ns1.sonatel.sn. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61360
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1.sonatel.sn.			IN	AAAA
+
+;; AUTHORITY SECTION:
+sonatel.sn.		1798	IN	SOA	ns1.sonatel.sn. hostmaster.sonatel.sn. 2021060301 10800 1800 1209600 86400
+
+;; Query time: 6 msec
+;; SERVER: 213.154.64.11#53(213.154.64.11)
+;; WHEN: Sun Mar 06 21:01:33 ;; MSG SIZE  rcvd: 90
+

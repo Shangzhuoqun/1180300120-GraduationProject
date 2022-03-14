@@ -1,0 +1,7 @@
+; timestamp: 20220306T195219Z
+; source id: tld-query-care.-v2n1.nic.care.
+; source locator: v2n1.nic.care.
+; source IP address: 161.232.17.5
+; backup point IP address: 111.42.148.76
+; status: success
+care.			1145	IN	NS	v0n0.nic.care.care.			1145	IN	NS	v0n2.nic.care.care.			1145	IN	NS	v2n0.nic.care.care.			1145	IN	NS	v0n1.nic.care.care.			1145	IN	NS	v2n1.nic.care.care.			1145	IN	NS	v0n3.nic.care.v2n1.nic.care.		3600	IN	A	161.232.17.5v2n1.nic.care.		3600	IN	AAAA	2a01:8840:fb::5

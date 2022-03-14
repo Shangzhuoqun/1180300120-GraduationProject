@@ -1,0 +1,7 @@
+; timestamp: 20220306T194321Z
+; source id: tld-query-athleta.-ns1.dns.nic.athleta.
+; source locator: ns1.dns.nic.athleta.
+; source IP address: 156.154.144.16
+; backup point IP address: 111.42.148.76
+; status: success
+athleta.		1563	IN	NS	ns2.dns.nic.athleta.athleta.		1563	IN	NS	b.nic.athleta.athleta.		1563	IN	NS	ns3.dns.nic.athleta.athleta.		1563	IN	NS	c.nic.athleta.athleta.		1563	IN	NS	a.nic.athleta.athleta.		1563	IN	NS	ns1.dns.nic.athleta.ns1.dns.nic.athleta.	3599	IN	A	156.154.144.16ns1.dns.nic.athleta.	3599	IN	AAAA	2610:a1:1071::10

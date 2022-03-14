@@ -1,0 +1,7 @@
+; timestamp: 20220306T212712Z
+; source id: tld-query-xn--mgbt3dhd.-b.ns.nic.xn--mgbt3dhd.
+; source locator: b.ns.nic.xn--mgbt3dhd.
+; source IP address: 72.42.113.9
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbt3dhd.		3597	IN	NS	a.ns.nic.xn--mgbt3dhd.xn--mgbt3dhd.		3597	IN	NS	ns1.anycastdns.cz.xn--mgbt3dhd.		3597	IN	NS	b.ns.nic.xn--mgbt3dhd.xn--mgbt3dhd.		3597	IN	NS	ns2.anycastdns.cz.b.ns.nic.xn--mgbt3dhd.	3598	IN	A	72.42.113.9b.ns.nic.xn--mgbt3dhd.	3598	IN	AAAA	2620:171:d01:dc::9

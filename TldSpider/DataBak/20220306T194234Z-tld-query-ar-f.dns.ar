@@ -1,0 +1,7 @@
+; timestamp: 20220306T194234Z
+; source id: tld-query-ar.-f.dns.ar.
+; source locator: f.dns.ar.
+; source IP address: 130.59.31.20
+; backup point IP address: 111.42.148.76
+; status: success
+ar.			1598	IN	NS	d.dns.ar.ar.			1598	IN	NS	ar.cctld.authdns.ripe.net.ar.			1598	IN	NS	e.dns.ar.ar.			1598	IN	NS	b.dns.ar.ar.			1598	IN	NS	f.dns.ar.ar.			1598	IN	NS	a.dns.ar.ar.			1598	IN	NS	c.dns.ar.f.dns.ar.		3414	IN	A	130.59.31.20f.dns.ar.		3413	IN	AAAA	2001:620:0:ff::20

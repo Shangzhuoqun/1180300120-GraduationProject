@@ -1,0 +1,7 @@
+; timestamp: 20220306T212810Z
+; source id: tld-query-xn--ogbpf8fl.-sy.cctld.authdns.ripe.net.
+; source locator: sy.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.113
+; backup point IP address: 111.42.148.76
+; status: success
+xn--ogbpf8fl.		3600	IN	NS	pch.anycast.tld.sy.xn--ogbpf8fl.		3600	IN	NS	sy.cctld.authdns.ripe.net.xn--ogbpf8fl.		3600	IN	NS	ns1.tld.sy.sy.cctld.authdns.ripe.net. 2248	IN	A	193.0.9.113sy.cctld.authdns.ripe.net. 2248	IN	AAAA	2001:67c:e0::113

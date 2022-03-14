@@ -1,0 +1,7 @@
+; timestamp: 20220306T200359Z
+; source id: tld-query-events.-v2n0.nic.events.
+; source locator: v2n0.nic.events.
+; source IP address: 65.22.35.6
+; backup point IP address: 111.42.148.76
+; status: success
+events.			3596	IN	NS	v0n0.nic.events.events.			3596	IN	NS	v0n2.nic.events.events.			3596	IN	NS	v0n3.nic.events.events.			3596	IN	NS	v2n1.nic.events.events.			3596	IN	NS	v2n0.nic.events.events.			3596	IN	NS	v0n1.nic.events.v2n0.nic.events.	3597	IN	A	65.22.35.6v2n0.nic.events.	3595	IN	AAAA	2a01:8840:25::6

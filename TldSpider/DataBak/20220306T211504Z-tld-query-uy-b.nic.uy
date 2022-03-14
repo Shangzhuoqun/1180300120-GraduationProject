@@ -1,0 +1,27 @@
+; timestamp: 20220306T211504Z
+; source id: tld-query-uy.-b.nic.uy.
+; source locator: b.nic.uy.
+; source IP address: 164.73.128.70
+; backup point IP address: 111.42.148.76
+; status: success
+uy.			86400	IN	NS	ns2.anteldata.com.uy.uy.			86400	IN	NS	a.lactld.org.uy.			86400	IN	NS	ns.dns.br.uy.			86400	IN	NS	d.nic.uy.uy.			86400	IN	NS	b.nic.uy.uy.			86400	IN	NS	a.nic.uy.uy.			86400	IN	NS	ns1.anteldata.com.uy.uy.			86400	IN	NS	ns3.nic.mx.b.nic.uy.		600	IN	A	164.73.128.70dig @164.73.128.70 b.nic.uy. AAAA
+
+; <<>> DiG 9.16.23 <<>> @164.73.128.70 b.nic.uy. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17183
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;b.nic.uy.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.uy.			118	IN	SOA	seciu.edu.uy. admin.seciu.edu.uy. 202009021 10800 3600 432000 86400
+
+;; Query time: 15 msec
+;; SERVER: 164.73.128.70#53(164.73.128.70)
+;; WHEN: Sun Mar 06 21:15:09 ;; MSG SIZE  rcvd: 89
+

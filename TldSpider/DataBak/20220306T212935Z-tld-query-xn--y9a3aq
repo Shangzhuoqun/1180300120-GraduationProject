@@ -1,0 +1,10 @@
+; timestamp: 20220306T212935Z
+; source id: tld-query-xn--y9a3aq.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+fork.sth.dnsnode.net.:../TldSpider/DataBak/20220306T212935Z-tld-query-xn--y9a3aq-fork.sth.dnsnode.net
+ns-cdn.amnic.net.:../TldSpider/DataBak/20220306T212935Z-tld-query-xn--y9a3aq-ns-cdn.amnic.net
+ns-pch.amnic.net.:../TldSpider/DataBak/20220306T212935Z-tld-query-xn--y9a3aq-ns-pch.amnic.net
+ns-pri.nic.am.:../TldSpider/DataBak/20220306T212935Z-tld-query-xn--y9a3aq-ns-pri.nic.am

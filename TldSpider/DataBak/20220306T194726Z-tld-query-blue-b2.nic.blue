@@ -1,0 +1,7 @@
+; timestamp: 20220306T194726Z
+; source id: tld-query-blue.-b2.nic.blue.
+; source locator: b2.nic.blue.
+; source IP address: 65.22.31.13
+; backup point IP address: 111.42.148.76
+; status: success
+blue.			1390	IN	NS	c0.nic.blue.blue.			1390	IN	NS	b0.nic.blue.blue.			1390	IN	NS	b2.nic.blue.blue.			1390	IN	NS	a2.nic.blue.blue.			1390	IN	NS	a0.nic.blue.b2.nic.blue.		599	IN	A	65.22.31.13b2.nic.blue.		598	IN	AAAA	2a01:8840:21::13

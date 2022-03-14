@@ -1,0 +1,7 @@
+; timestamp: 20220306T210115Z
+; source id: tld-query-sn.-sn.cctld.authdns.ripe.net.
+; source locator: sn.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.111
+; backup point IP address: 111.42.148.76
+; status: success
+sn.			43200	IN	NS	ns.ucad.sn.sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.sn.			43200	IN	NS	ns1.sonatel.sn.sn.			43200	IN	NS	ns-sn.nic.fr.sn.			43200	IN	NS	censvrns0001.ird.fr.sn.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.111sn.cctld.authdns.ripe.net. 874	IN	AAAA	2001:67c:e0::111

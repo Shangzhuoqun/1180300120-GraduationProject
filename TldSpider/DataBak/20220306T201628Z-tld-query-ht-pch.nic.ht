@@ -1,0 +1,7 @@
+; timestamp: 20220306T201628Z
+; source id: tld-query-ht.-pch.nic.ht.
+; source locator: pch.nic.ht.
+; source IP address: 204.61.216.38
+; backup point IP address: 111.42.148.76
+; status: success
+ht.			86400	IN	NS	ns1.nic.ht.ht.			86400	IN	NS	ns1.polymtl.ca.ht.			86400	IN	NS	ns3.nic.fr.ht.			86400	IN	NS	pch.nic.ht.pch.nic.ht.		3600	IN	A	204.61.216.38pch.nic.ht.		3598	IN	AAAA	2001:500:14:6038:ad::1

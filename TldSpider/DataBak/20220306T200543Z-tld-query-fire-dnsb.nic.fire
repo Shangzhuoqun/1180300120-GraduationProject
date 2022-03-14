@@ -1,0 +1,7 @@
+; timestamp: 20220306T200543Z
+; source id: tld-query-fire.-dnsb.nic.fire.
+; source locator: dnsb.nic.fire.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+fire.			3598	IN	NS	dns1.nic.fire.fire.			3598	IN	NS	dns2.nic.fire.fire.			3598	IN	NS	dnsc.nic.fire.fire.			3598	IN	NS	dnsb.nic.fire.fire.			3598	IN	NS	dnsd.nic.fire.fire.			3598	IN	NS	dns4.nic.fire.fire.			3598	IN	NS	dnsa.nic.fire.fire.			3598	IN	NS	dns3.nic.fire.dnsb.nic.fire.		151200	IN	A	156.154.101.3dnsb.nic.fire.		3599	IN	AAAA	2001:502:2eda::3

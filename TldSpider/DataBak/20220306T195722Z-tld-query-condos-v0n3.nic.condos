@@ -1,0 +1,7 @@
+; timestamp: 20220306T195722Z
+; source id: tld-query-condos.-v0n3.nic.condos.
+; source locator: v0n3.nic.condos.
+; source IP address: 161.232.10.63
+; backup point IP address: 111.42.148.76
+; status: success
+condos.			937	IN	NS	v0n1.nic.condos.condos.			937	IN	NS	v0n0.nic.condos.condos.			937	IN	NS	v0n2.nic.condos.condos.			937	IN	NS	v2n1.nic.condos.condos.			937	IN	NS	v0n3.nic.condos.condos.			937	IN	NS	v2n0.nic.condos.v0n3.nic.condos.	3599	IN	A	161.232.10.63v0n3.nic.condos.	3599	IN	AAAA	2a01:8840:f4::63

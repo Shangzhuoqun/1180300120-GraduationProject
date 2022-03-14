@@ -1,0 +1,7 @@
+; timestamp: 20220306T211735Z
+; source id: tld-query-viva.-a.nic.viva.
+; source locator: a.nic.viva.
+; source IP address: 194.169.218.28
+; backup point IP address: 111.42.148.76
+; status: success
+viva.			3600	IN	NS	c.nic.viva.viva.			3600	IN	NS	d.nic.viva.viva.			3600	IN	NS	a.nic.viva.viva.			3600	IN	NS	b.nic.viva.a.nic.viva.		3600	IN	A	194.169.218.28a.nic.viva.		3600	IN	AAAA	2001:67c:13cc::1:28

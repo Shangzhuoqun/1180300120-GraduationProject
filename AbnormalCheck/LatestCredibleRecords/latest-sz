@@ -1,0 +1,8 @@
+rip.psg.com.	172800	in	a	147.28.0.39
+rip.psg.com.	172800	in	aaaa	2001:418:1:0:0:0:0:39
+sz.cctld.authdns.ripe.net.	172800	in	a	193.0.9.114
+sz.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:114
+sz.	172800	in	ns	sz.cctld.authdns.ripe.net.
+sz.	172800	in	ns	ns1.sispa.org.sz.
+sz.	172800	in	ns	rip.psg.com.
+ns1.sispa.org.sz.	172800	in	a	41.77.232.4

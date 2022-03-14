@@ -1,0 +1,7 @@
+; timestamp: 20220306T194015Z
+; source id: tld-query-abudhabi.-gtld.beta.aridns.net.au.
+; source locator: gtld.beta.aridns.net.au.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+abudhabi.		1678	IN	NS	gtld.alpha.aridns.net.au.abudhabi.		1678	IN	NS	gtld.beta.aridns.net.au.abudhabi.		1678	IN	NS	gtld.delta.aridns.net.au.abudhabi.		1678	IN	NS	gtld.gamma.aridns.net.au.gtld.beta.aridns.net.au. 3600	IN	A	37.209.194.10gtld.beta.aridns.net.au. 3600	IN	AAAA	2001:dcd:2::10

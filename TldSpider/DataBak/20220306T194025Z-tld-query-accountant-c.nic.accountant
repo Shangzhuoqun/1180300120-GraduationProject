@@ -1,0 +1,7 @@
+; timestamp: 20220306T194025Z
+; source id: tld-query-accountant.-c.nic.accountant.
+; source locator: c.nic.accountant.
+; source IP address: 37.209.196.10
+; backup point IP address: 111.42.148.76
+; status: success
+accountant.		1669	IN	NS	b.nic.accountant.accountant.		1669	IN	NS	ns2.dns.nic.accountant.accountant.		1669	IN	NS	ns1.dns.nic.accountant.accountant.		1669	IN	NS	a.nic.accountant.accountant.		1669	IN	NS	c.nic.accountant.accountant.		1669	IN	NS	ns3.dns.nic.accountant.c.nic.accountant.	3600	IN	A	37.209.196.10c.nic.accountant.	3600	IN	AAAA	2001:dcd:3::10

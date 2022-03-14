@@ -1,0 +1,7 @@
+; timestamp: 20220306T210802Z
+; source id: tld-query-tech.-f.nic.tech.
+; source locator: f.nic.tech.
+; source IP address: 212.18.249.60
+; backup point IP address: 111.42.148.76
+; status: success
+tech.			3598	IN	NS	e.nic.tech.tech.			3598	IN	NS	b.nic.tech.tech.			3598	IN	NS	a.nic.tech.tech.			3598	IN	NS	f.nic.tech.f.nic.tech.		707	IN	A	212.18.249.60f.nic.tech.		3600	IN	AAAA	2a04:2b00:13ff::60

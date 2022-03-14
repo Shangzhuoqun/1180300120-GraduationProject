@@ -1,0 +1,10 @@
+; timestamp: 20220306T210543Z
+; source id: tld-query-sydney.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.sydney.:../TldSpider/DataBak/20220306T210543Z-tld-query-sydney-a.nic.sydney
+b.nic.sydney.:../TldSpider/DataBak/20220306T210543Z-tld-query-sydney-b.nic.sydney
+c.nic.sydney.:../TldSpider/DataBak/20220306T210543Z-tld-query-sydney-c.nic.sydney
+d.nic.sydney.:../TldSpider/DataBak/20220306T210543Z-tld-query-sydney-d.nic.sydney

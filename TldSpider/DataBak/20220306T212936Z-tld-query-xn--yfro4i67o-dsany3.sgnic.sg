@@ -1,0 +1,7 @@
+; timestamp: 20220306T212936Z
+; source id: tld-query-xn--yfro4i67o.-dsany3.sgnic.sg.
+; source locator: dsany3.sgnic.sg.
+; source IP address: 185.159.198.170
+; backup point IP address: 111.42.148.76
+; status: success
+xn--yfro4i67o.		3599	IN	NS	DSANY.SGNIC.SG.xn--yfro4i67o.		3599	IN	NS	DSANY2.SGNIC.SG.xn--yfro4i67o.		3599	IN	NS	DSANY3.SGNIC.SG.xn--yfro4i67o.		3599	IN	NS	PCH.SGZONES.SG.xn--yfro4i67o.		3599	IN	NS	NS4.APNIC.NET.dsany3.sgnic.sg.	209	IN	A	185.159.198.170dsany3.sgnic.sg.	210	IN	AAAA	2620:10a:80ab::170

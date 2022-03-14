@@ -1,0 +1,7 @@
+; timestamp: 20220306T202453Z
+; source id: tld-query-kpmg.-a.nic.kpmg.
+; source locator: a.nic.kpmg.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+kpmg.			3600	IN	NS	ns2.dns.nic.kpmg.kpmg.			3600	IN	NS	a.nic.kpmg.kpmg.			3600	IN	NS	c.nic.kpmg.kpmg.			3600	IN	NS	b.nic.kpmg.kpmg.			3600	IN	NS	ns3.dns.nic.kpmg.kpmg.			3600	IN	NS	ns1.dns.nic.kpmg.a.nic.kpmg.		3600	IN	A	37.209.192.9a.nic.kpmg.		3600	IN	AAAA	2001:dcd:1::9

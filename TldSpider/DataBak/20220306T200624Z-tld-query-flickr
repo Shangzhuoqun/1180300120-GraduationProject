@@ -1,0 +1,12 @@
+; timestamp: 20220306T200624Z
+; source id: tld-query-flickr.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-a.nic.flickr
+b.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-b.nic.flickr
+c.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-c.nic.flickr
+ns1.dns.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-ns1.dns.nic.flickr
+ns2.dns.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-ns2.dns.nic.flickr
+ns3.dns.nic.flickr.:../TldSpider/DataBak/20220306T200624Z-tld-query-flickr-ns3.dns.nic.flickr

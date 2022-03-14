@@ -1,0 +1,7 @@
+; timestamp: 20220306T211141Z
+; source id: tld-query-toray.-b.gmoregistry.net.
+; source locator: b.gmoregistry.net.
+; source IP address: 37.209.194.4
+; backup point IP address: 111.42.148.76
+; status: success
+toray.			3599	IN	NS	b.gmoregistry.net.toray.			3599	IN	NS	k.gmoregistry.net.toray.			3599	IN	NS	l.gmoregistry.net.toray.			3599	IN	NS	a.gmoregistry.net.b.gmoregistry.net.	403	IN	A	37.209.194.4b.gmoregistry.net.	1529	IN	AAAA	2001:dcd:2::4

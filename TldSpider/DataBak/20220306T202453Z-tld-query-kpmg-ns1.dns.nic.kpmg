@@ -1,0 +1,7 @@
+; timestamp: 20220306T202453Z
+; source id: tld-query-kpmg.-ns1.dns.nic.kpmg.
+; source locator: ns1.dns.nic.kpmg.
+; source IP address: 156.154.144.98
+; backup point IP address: 111.42.148.76
+; status: success
+kpmg.			3599	IN	NS	a.nic.kpmg.kpmg.			3599	IN	NS	b.nic.kpmg.kpmg.			3599	IN	NS	c.nic.kpmg.kpmg.			3599	IN	NS	ns1.dns.nic.kpmg.kpmg.			3599	IN	NS	ns2.dns.nic.kpmg.kpmg.			3599	IN	NS	ns3.dns.nic.kpmg.ns1.dns.nic.kpmg.	3599	IN	A	156.154.144.98ns1.dns.nic.kpmg.	3600	IN	AAAA	2610:a1:1071::62

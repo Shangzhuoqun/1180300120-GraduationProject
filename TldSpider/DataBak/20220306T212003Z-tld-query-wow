@@ -1,0 +1,14 @@
+; timestamp: 20220306T212003Z
+; source id: tld-query-wow.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dns1.nic.wow
+dns2.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dns2.nic.wow
+dns3.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dns3.nic.wow
+dns4.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dns4.nic.wow
+dnsa.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dnsa.nic.wow
+dnsb.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dnsb.nic.wow
+dnsc.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dnsc.nic.wow
+dnsd.nic.wow.:../TldSpider/DataBak/20220306T212003Z-tld-query-wow-dnsd.nic.wow

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202419Z
+; source id: tld-query-ki.-ns.cocca.fr.
+; source locator: ns.cocca.fr.
+; source IP address: 185.17.236.93
+; backup point IP address: 111.42.148.76
+; status: success
+ki.			2687	IN	NS	pch.nic.ki.ki.			2687	IN	NS	ns.cocca.fr.ns.cocca.fr.		1510	IN	A	185.17.236.93ns.cocca.fr.		1510	IN	AAAA	2a03:dd40:3::93

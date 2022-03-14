@@ -1,0 +1,10 @@
+; timestamp: 20220306T211403Z
+; source id: tld-query-uno.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.uno.:../TldSpider/DataBak/20220306T211403Z-tld-query-uno-a.nic.uno
+b.nic.uno.:../TldSpider/DataBak/20220306T211403Z-tld-query-uno-b.nic.uno
+c.nic.uno.:../TldSpider/DataBak/20220306T211403Z-tld-query-uno-c.nic.uno
+d.nic.uno.:../TldSpider/DataBak/20220306T211403Z-tld-query-uno-d.nic.uno

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204125Z
+; source id: tld-query-na.-na-ns.anycast.pch.net.
+; source locator: na-ns.anycast.pch.net.
+; source IP address: 204.61.216.35
+; backup point IP address: 111.42.148.76
+; status: success
+na.			3600	IN	NS	anyc2.irondns.net.na.			3600	IN	NS	na.anycastdns.cz.na.			3600	IN	NS	etld-1.anycast.net.na.			3600	IN	NS	na-ns.anycast.pch.net.na-ns.anycast.pch.net.	3600	IN	A	204.61.216.35na-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6035:ad::1

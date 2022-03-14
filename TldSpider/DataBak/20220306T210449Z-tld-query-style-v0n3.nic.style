@@ -1,0 +1,7 @@
+; timestamp: 20220306T210449Z
+; source id: tld-query-style.-v0n3.nic.style.
+; source locator: v0n3.nic.style.
+; source IP address: 161.232.16.46
+; backup point IP address: 111.42.148.76
+; status: success
+style.			3599	IN	NS	v2n0.nic.style.style.			3599	IN	NS	v0n0.nic.style.style.			3599	IN	NS	v0n3.nic.style.style.			3599	IN	NS	v2n1.nic.style.style.			3599	IN	NS	v0n1.nic.style.style.			3599	IN	NS	v0n2.nic.style.v0n3.nic.style.		3600	IN	A	161.232.16.46v0n3.nic.style.		3599	IN	AAAA	2a01:8840:fa::46

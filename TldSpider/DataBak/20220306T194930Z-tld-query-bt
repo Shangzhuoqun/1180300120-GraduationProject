@@ -1,0 +1,13 @@
+; timestamp: 20220306T194930Z
+; source id: tld-query-bt.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.itu.ch.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-ns.itu.ch
+ns1.druknet.bt.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-ns1.druknet.bt
+ns2.druknet.bt.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-ns2.druknet.bt
+ns3.druknet.bt.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-ns3.druknet.bt
+auth00.ns.uu.net.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-auth00.ns.uu.net
+auth61.ns.uu.net.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-auth61.ns.uu.net
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T194930Z-tld-query-bt-phloem.uoregon.edu

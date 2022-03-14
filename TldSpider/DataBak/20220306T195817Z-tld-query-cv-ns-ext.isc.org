@@ -1,0 +1,7 @@
+; timestamp: 20220306T195817Z
+; source id: tld-query-cv.-ns-ext.isc.org.
+; source locator: ns-ext.isc.org.
+; source IP address: 204.152.184.64
+; backup point IP address: 111.42.148.76
+; status: success
+cv.			28800	IN	NS	ns.dns.cv.cv.			28800	IN	NS	c.dns.pt.cv.			28800	IN	NS	NS-EXT.ISC.ORG.cv.			28800	IN	NS	cv01.dns.pt.ns-ext.isc.org.		7196	IN	A	204.152.184.64ns-ext.isc.org.		7196	IN	AAAA	2001:4f8:0:2::13

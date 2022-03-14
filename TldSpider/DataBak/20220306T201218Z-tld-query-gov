@@ -1,0 +1,10 @@
+; timestamp: 20220306T201218Z
+; source id: tld-query-gov.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.gov-servers.net.:../TldSpider/DataBak/20220306T201218Z-tld-query-gov-a.gov-servers.net
+b.gov-servers.net.:../TldSpider/DataBak/20220306T201218Z-tld-query-gov-b.gov-servers.net
+c.gov-servers.net.:../TldSpider/DataBak/20220306T201218Z-tld-query-gov-c.gov-servers.net
+d.gov-servers.net.:../TldSpider/DataBak/20220306T201218Z-tld-query-gov-d.gov-servers.net

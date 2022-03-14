@@ -1,0 +1,7 @@
+; timestamp: 20220306T204809Z
+; source id: tld-query-ph.-ns4.apnic.net.
+; source locator: ns4.apnic.net.
+; source IP address: 202.12.31.53
+; backup point IP address: 111.42.148.76
+; status: success
+ph.			3599	IN	NS	1.ns.ph.ph.			3599	IN	NS	ph.communitydns.net.ph.			3599	IN	NS	ns2.cuhk.edu.hk.ph.			3599	IN	NS	ns4.apnic.net.ns4.apnic.net.		1441	IN	A	202.12.31.53ns4.apnic.net.		147	IN	AAAA	2001:dd8:12::53

@@ -1,0 +1,12 @@
+data.	172800	in	ns	a0.nic.data.
+data.	172800	in	ns	a2.nic.data.
+data.	172800	in	ns	b0.nic.data.
+data.	172800	in	ns	c0.nic.data.
+a0.nic.data.	172800	in	a	65.22.96.25
+a0.nic.data.	172800	in	aaaa	2a01:8840:5e:0:0:0:0:25
+a2.nic.data.	172800	in	a	65.22.99.25
+a2.nic.data.	172800	in	aaaa	2a01:8840:61:0:0:0:0:25
+b0.nic.data.	172800	in	a	65.22.97.25
+b0.nic.data.	172800	in	aaaa	2a01:8840:5f:0:0:0:0:25
+c0.nic.data.	172800	in	a	65.22.98.25
+c0.nic.data.	172800	in	aaaa	2a01:8840:60:0:0:0:0:25

@@ -1,0 +1,12 @@
+dunlop.	172800	in	ns	a0.nic.dunlop.
+dunlop.	172800	in	ns	a2.nic.dunlop.
+dunlop.	172800	in	ns	b0.nic.dunlop.
+dunlop.	172800	in	ns	c0.nic.dunlop.
+a0.nic.dunlop.	172800	in	a	65.22.120.33
+a0.nic.dunlop.	172800	in	aaaa	2a01:8840:76:0:0:0:0:33
+a2.nic.dunlop.	172800	in	a	65.22.123.33
+a2.nic.dunlop.	172800	in	aaaa	2a01:8840:79:0:0:0:0:33
+b0.nic.dunlop.	172800	in	a	65.22.121.33
+b0.nic.dunlop.	172800	in	aaaa	2a01:8840:77:0:0:0:0:33
+c0.nic.dunlop.	172800	in	a	65.22.122.33
+c0.nic.dunlop.	172800	in	aaaa	2a01:8840:78:0:0:0:0:33

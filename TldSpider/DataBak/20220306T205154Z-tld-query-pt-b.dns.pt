@@ -1,0 +1,7 @@
+; timestamp: 20220306T205154Z
+; source id: tld-query-pt.-b.dns.pt.
+; source locator: b.dns.pt.
+; source IP address: 194.0.25.23
+; backup point IP address: 111.42.148.76
+; status: success
+pt.			7200	IN	NS	a.dns.pt.pt.			7200	IN	NS	b.dns.pt.pt.			7200	IN	NS	c.dns.pt.pt.			7200	IN	NS	d.dns.pt.pt.			7200	IN	NS	e.dns.pt.pt.			7200	IN	NS	g.dns.pt.pt.			7200	IN	NS	h.dns.pt.pt.			7200	IN	NS	ns.dns.br.pt.			7200	IN	NS	ns2.nic.fr.b.dns.pt.		900	IN	A	194.0.25.23b.dns.pt.		600	IN	AAAA	2001:678:20::23

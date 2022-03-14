@@ -1,0 +1,27 @@
+; timestamp: 20220306T204422Z
+; source id: tld-query-np.-shikhar.mos.com.np.
+; source locator: shikhar.mos.com.np.
+; source IP address: 202.52.255.5
+; backup point IP address: 111.42.148.76
+; status: success
+np.			86400	IN	NS	ns4.apnic.net.np.			86400	IN	NS	pch.nnic.np.np.			86400	IN	NS	np-ns.npix.net.np.np.			86400	IN	NS	np.cctld.authdns.ripe.net.np.			86400	IN	NS	shikhar.mos.com.np.shikhar.mos.com.np.	3598	IN	A	202.52.255.5dig @202.52.255.5 shikhar.mos.com.np. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.52.255.5 shikhar.mos.com.np. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46538
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;shikhar.mos.com.np.		IN	AAAA
+
+;; AUTHORITY SECTION:
+mos.com.np.		1798	IN	SOA	sungava.mos.com.np. hostmaster.mos.com.np. 2022030600 21600 7200 1209600 10800
+
+;; Query time: 5 msec
+;; SERVER: 202.52.255.5#53(202.52.255.5)
+;; WHEN: Sun Mar 06 20:44:25 ;; MSG SIZE  rcvd: 102
+

@@ -1,0 +1,12 @@
+; timestamp: 20220306T204935Z
+; source id: tld-query-pizza.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v0n0.nic.pizza
+v0n1.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v0n1.nic.pizza
+v0n2.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v0n2.nic.pizza
+v0n3.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v0n3.nic.pizza
+v2n0.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v2n0.nic.pizza
+v2n1.nic.pizza.:../TldSpider/DataBak/20220306T204935Z-tld-query-pizza-v2n1.nic.pizza

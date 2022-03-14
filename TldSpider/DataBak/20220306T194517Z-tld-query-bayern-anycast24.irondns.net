@@ -1,0 +1,7 @@
+; timestamp: 20220306T194517Z
+; source id: tld-query-bayern.-anycast24.irondns.net.
+; source locator: anycast24.irondns.net.
+; source IP address: 195.253.65.12
+; backup point IP address: 111.42.148.76
+; status: success
+bayern.			1487	IN	NS	anycast9.irondns.net.bayern.			1487	IN	NS	anycast10.irondns.net.bayern.			1487	IN	NS	anycast23.irondns.net.bayern.			1487	IN	NS	anycast24.irondns.net.anycast24.irondns.net.	2529	IN	A	195.253.65.12anycast24.irondns.net.	3382	IN	AAAA	2a01:5b0:5::c

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210202Z
+; source id: tld-query-song.-ns1.dns.nic.song.
+; source locator: ns1.dns.nic.song.
+; source IP address: 156.154.144.153
+; backup point IP address: 111.42.148.76
+; status: success
+song.			3593	IN	NS	a.nic.song.song.			3593	IN	NS	b.nic.song.song.			3593	IN	NS	ns3.dns.nic.song.song.			3593	IN	NS	ns1.dns.nic.song.song.			3593	IN	NS	c.nic.song.song.			3593	IN	NS	ns2.dns.nic.song.ns1.dns.nic.song.	3594	IN	A	156.154.144.153ns1.dns.nic.song.	3594	IN	AAAA	2610:a1:1071::99

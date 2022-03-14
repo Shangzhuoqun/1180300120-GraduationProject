@@ -1,0 +1,7 @@
+; timestamp: 20220306T212952Z
+; source id: tld-query-yachts.-d.nic.yachts.
+; source locator: d.nic.yachts.
+; source IP address: 212.18.249.133
+; backup point IP address: 111.42.148.76
+; status: success
+yachts.			3599	IN	NS	b.nic.yachts.yachts.			3599	IN	NS	d.nic.yachts.yachts.			3599	IN	NS	c.nic.yachts.yachts.			3599	IN	NS	a.nic.yachts.d.nic.yachts.		3599	IN	A	212.18.249.133d.nic.yachts.		3598	IN	AAAA	2a04:2b00:13ff::133

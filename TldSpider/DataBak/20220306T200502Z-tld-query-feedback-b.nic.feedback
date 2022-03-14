@@ -1,0 +1,7 @@
+; timestamp: 20220306T200502Z
+; source id: tld-query-feedback.-b.nic.feedback.
+; source locator: b.nic.feedback.
+; source IP address: 185.24.64.50
+; backup point IP address: 111.42.148.76
+; status: success
+feedback.		3598	IN	NS	b.nic.feedback.feedback.		3598	IN	NS	d.nic.feedback.feedback.		3598	IN	NS	c.nic.feedback.feedback.		3598	IN	NS	a.nic.feedback.b.nic.feedback.		3599	IN	A	185.24.64.50b.nic.feedback.		3599	IN	AAAA	2a04:2b00:13cc::1:50

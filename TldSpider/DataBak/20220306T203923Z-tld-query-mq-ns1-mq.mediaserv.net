@@ -1,0 +1,27 @@
+; timestamp: 20220306T203923Z
+; source id: tld-query-mq.-ns1-mq.mediaserv.net.
+; source locator: ns1-mq.mediaserv.net.
+; source IP address: 213.16.20.3
+; backup point IP address: 111.42.148.76
+; status: success
+mq.			3599	IN	NS	ns1-gp.mediaserv.net.mq.			3599	IN	NS	ns1-mq.mediaserv.net.mq.			3599	IN	NS	ns1-fr.mediaserv.net.ns1-mq.mediaserv.net.	1818	IN	A	213.16.20.3dig @213.16.20.3 ns1-mq.mediaserv.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @213.16.20.3 ns1-mq.mediaserv.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31040
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1-mq.mediaserv.net.		IN	AAAA
+
+;; AUTHORITY SECTION:
+mediaserv.net.		16	IN	SOA	ns1-gp.mediaserv.net. hostmaster.mediaserv.net. 2021120612 7200 3600 1728000 3600
+
+;; Query time: 6 msec
+;; SERVER: 213.16.20.3#53(213.16.20.3)
+;; WHEN: Sun Mar 06 20:39:25 ;; MSG SIZE  rcvd: 103
+

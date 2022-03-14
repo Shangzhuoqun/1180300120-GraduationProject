@@ -1,0 +1,7 @@
+; timestamp: 20220306T194935Z
+; source id: tld-query-build.-c.nic.build.
+; source locator: c.nic.build.
+; source IP address: 212.18.248.20
+; backup point IP address: 111.42.148.76
+; status: success
+build.			1279	IN	NS	b.nic.build.build.			1279	IN	NS	a.nic.build.build.			1279	IN	NS	c.nic.build.build.			1279	IN	NS	d.nic.build.c.nic.build.		3599	IN	A	212.18.248.20c.nic.build.		3598	IN	AAAA	2a04:2b00:13ee::20

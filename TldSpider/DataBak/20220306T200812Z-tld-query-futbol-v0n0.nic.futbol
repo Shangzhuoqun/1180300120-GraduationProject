@@ -1,0 +1,7 @@
+; timestamp: 20220306T200812Z
+; source id: tld-query-futbol.-v0n0.nic.futbol.
+; source locator: v0n0.nic.futbol.
+; source IP address: 65.22.28.60
+; backup point IP address: 111.42.148.76
+; status: success
+futbol.			600	IN	NS	v2n0.nic.futbol.futbol.			600	IN	NS	v0n3.nic.futbol.futbol.			600	IN	NS	v0n0.nic.futbol.futbol.			600	IN	NS	v0n1.nic.futbol.futbol.			600	IN	NS	v2n1.nic.futbol.futbol.			600	IN	NS	v0n2.nic.futbol.v0n0.nic.futbol.	3600	IN	A	65.22.28.60v0n0.nic.futbol.	3599	IN	AAAA	2a01:8840:1e::60

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194348Z
+; source id: tld-query-auspost.-a.nic.auspost.
+; source locator: a.nic.auspost.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+auspost.		1545	IN	NS	b.nic.auspost.auspost.		1545	IN	NS	d.nic.auspost.auspost.		1545	IN	NS	a.nic.auspost.auspost.		1545	IN	NS	c.nic.auspost.a.nic.auspost.		3600	IN	A	37.209.192.9a.nic.auspost.		3600	IN	AAAA	2001:dcd:1::9

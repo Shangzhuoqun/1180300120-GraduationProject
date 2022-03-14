@@ -1,0 +1,7 @@
+; timestamp: 20220306T195222Z
+; source id: tld-query-career.-dns4.nic.career.
+; source locator: dns4.nic.career.
+; source IP address: 43.230.51.121
+; backup point IP address: 111.42.148.76
+; status: success
+career.			1143	IN	NS	dns2.nic.career.career.			1143	IN	NS	dnsb.nic.career.career.			1143	IN	NS	dns4.nic.career.career.			1143	IN	NS	dns3.nic.career.career.			1143	IN	NS	dnsd.nic.career.career.			1143	IN	NS	dns1.nic.career.career.			1143	IN	NS	dnsc.nic.career.career.			1143	IN	NS	dnsa.nic.career.dns4.nic.career.	3598	IN	A	43.230.51.121dns4.nic.career.	3598	IN	AAAA	2401:fd80:407::121

@@ -1,0 +1,12 @@
+ga.	172800	in	ns	a.ns.ga.
+ga.	172800	in	ns	b.ns.ga.
+ga.	172800	in	ns	c.ns.ga.
+ga.	172800	in	ns	d.ns.ga.
+a.ns.ga.	172800	in	a	185.21.168.49
+a.ns.ga.	172800	in	aaaa	2a04:1b00:c:0:0:0:0:1
+b.ns.ga.	172800	in	a	185.21.169.49
+b.ns.ga.	172800	in	aaaa	2a04:1b00:d:0:0:0:0:1
+c.ns.ga.	172800	in	a	185.21.170.49
+c.ns.ga.	172800	in	aaaa	2a04:1b00:e:0:0:0:0:1
+d.ns.ga.	172800	in	a	185.21.171.49
+d.ns.ga.	172800	in	aaaa	2a04:1b00:f:0:0:0:0:1

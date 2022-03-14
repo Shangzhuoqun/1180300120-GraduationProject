@@ -1,0 +1,7 @@
+; timestamp: 20220306T205958Z
+; source id: tld-query-shoes.-v2n1.nic.shoes.
+; source locator: v2n1.nic.shoes.
+; source IP address: 161.232.13.23
+; backup point IP address: 111.42.148.76
+; status: success
+shoes.			3598	IN	NS	v0n1.nic.shoes.shoes.			3598	IN	NS	v2n1.nic.shoes.shoes.			3598	IN	NS	v0n0.nic.shoes.shoes.			3598	IN	NS	v0n3.nic.shoes.shoes.			3598	IN	NS	v0n2.nic.shoes.shoes.			3598	IN	NS	v2n0.nic.shoes.v2n1.nic.shoes.		3598	IN	A	161.232.13.23v2n1.nic.shoes.		3598	IN	AAAA	2a01:8840:f7::23

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204351Z
+; source id: tld-query-northwesternmutual.-ns3.dns.nic.northwesternmutual.
+; source locator: ns3.dns.nic.northwesternmutual.
+; source IP address: 156.154.159.124
+; backup point IP address: 111.42.148.76
+; status: success
+northwesternmutual.	3597	IN	NS	c.nic.northwesternmutual.northwesternmutual.	3597	IN	NS	a.nic.northwesternmutual.northwesternmutual.	3597	IN	NS	b.nic.northwesternmutual.northwesternmutual.	3597	IN	NS	ns1.dns.nic.northwesternmutual.northwesternmutual.	3597	IN	NS	ns3.dns.nic.northwesternmutual.northwesternmutual.	3597	IN	NS	ns2.dns.nic.northwesternmutual.ns3.dns.nic.northwesternmutual.	3598 IN	A	156.154.159.124ns3.dns.nic.northwesternmutual.	3598 IN	AAAA	2610:a1:1073::7c

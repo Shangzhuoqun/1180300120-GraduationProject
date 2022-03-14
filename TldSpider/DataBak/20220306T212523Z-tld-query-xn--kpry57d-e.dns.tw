@@ -1,0 +1,7 @@
+; timestamp: 20220306T212523Z
+; source id: tld-query-xn--kpry57d.-e.dns.tw.
+; source locator: e.dns.tw.
+; source IP address: 211.20.231.11
+; backup point IP address: 111.42.148.76
+; status: success
+xn--kpry57d.		3600	IN	NS	f.dns.tw.xn--kpry57d.		3600	IN	NS	e.dns.tw.xn--kpry57d.		3600	IN	NS	g.dns.tw.xn--kpry57d.		3600	IN	NS	d.dns.tw.xn--kpry57d.		3600	IN	NS	h.dns.tw.xn--kpry57d.		3600	IN	NS	anytld.apnic.net.e.dns.tw.		2309	IN	A	211.20.231.11e.dns.tw.		2309	IN	AAAA	2001:b000:1e0:c000::11

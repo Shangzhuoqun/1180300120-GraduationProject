@@ -1,0 +1,7 @@
+; timestamp: 20220306T194535Z
+; source id: tld-query-bbc.-dns4.nic.bbc.
+; source locator: dns4.nic.bbc.
+; source IP address: 43.230.51.4
+; backup point IP address: 111.42.148.76
+; status: success
+bbc.			172800	IN	NS	dns1.nic.bbc.bbc.			172800	IN	NS	dns2.nic.bbc.bbc.			172800	IN	NS	dns3.nic.bbc.bbc.			172800	IN	NS	dns4.nic.bbc.bbc.			172800	IN	NS	dnsa.nic.bbc.bbc.			172800	IN	NS	dnsb.nic.bbc.bbc.			172800	IN	NS	dnsc.nic.bbc.bbc.			172800	IN	NS	dnsd.nic.bbc.dns4.nic.bbc.		3586	IN	A	43.230.51.4dns4.nic.bbc.		3586	IN	AAAA	2401:fd80:407::4

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212826Z
+; source id: tld-query-xn--pgbs0dh.-ns2.nic.fr.
+; source locator: ns2.nic.fr.
+; source IP address: 192.93.0.4
+; backup point IP address: 111.42.148.76
+; status: success
+xn--pgbs0dh.		3600	IN	NS	ns-tn.afrinic.net.xn--pgbs0dh.		3600	IN	NS	ns1.ati.tn.xn--pgbs0dh.		3600	IN	NS	ns2.ati.tn.xn--pgbs0dh.		3600	IN	NS	pch.ati.tn.xn--pgbs0dh.		3600	IN	NS	ns2.nic.fr.xn--pgbs0dh.		3600	IN	NS	rip.psg.com.ns2.nic.fr.		2551	IN	A	192.93.0.4ns2.nic.fr.		1412	IN	AAAA	2001:660:3005:1::1:2

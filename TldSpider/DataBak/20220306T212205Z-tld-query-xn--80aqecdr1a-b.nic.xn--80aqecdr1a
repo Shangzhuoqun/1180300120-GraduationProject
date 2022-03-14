@@ -1,0 +1,7 @@
+; timestamp: 20220306T212205Z
+; source id: tld-query-xn--80aqecdr1a.-b.nic.xn--80aqecdr1a.
+; source locator: b.nic.xn--80aqecdr1a.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+xn--80aqecdr1a.		3600	IN	NS	c.nic.xn--80aqecdr1a.xn--80aqecdr1a.		3600	IN	NS	d.nic.xn--80aqecdr1a.xn--80aqecdr1a.		3600	IN	NS	b.nic.xn--80aqecdr1a.xn--80aqecdr1a.		3600	IN	NS	a.nic.xn--80aqecdr1a.b.nic.xn--80aqecdr1a.	3599	IN	A	37.209.194.9b.nic.xn--80aqecdr1a.	3599	IN	AAAA	2001:dcd:2::9

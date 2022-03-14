@@ -1,0 +1,7 @@
+; timestamp: 20220306T211247Z
+; source id: tld-query-tube.-ns1.dns.nic.tube.
+; source locator: ns1.dns.nic.tube.
+; source IP address: 156.154.169.80
+; backup point IP address: 111.42.148.76
+; status: success
+tube.			3599	IN	NS	c.nic.tube.tube.			3599	IN	NS	ns3.dns.nic.tube.tube.			3599	IN	NS	ns2.dns.nic.tube.tube.			3599	IN	NS	a.nic.tube.tube.			3599	IN	NS	b.nic.tube.tube.			3599	IN	NS	ns1.dns.nic.tube.ns1.dns.nic.tube.	599	IN	A	156.154.169.80ns1.dns.nic.tube.	599	IN	AAAA	2610:a1:1071::1:50

@@ -1,0 +1,10 @@
+; timestamp: 20220306T201300Z
+; source id: tld-query-gu.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+gu.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T201300Z-tld-query-gu-gu.cctld.authdns.ripe.net
+gold.uog.edu.:../TldSpider/DataBak/20220306T201300Z-tld-query-gu-gold.uog.edu
+green.uog.edu.:../TldSpider/DataBak/20220306T201300Z-tld-query-gu-green.uog.edu
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T201300Z-tld-query-gu-phloem.uoregon.edu

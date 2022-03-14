@@ -1,0 +1,14 @@
+ws.	172800	in	ns	a.dns.ws.
+ws.	172800	in	ns	s.dns.ws.
+ws.	172800	in	ns	ns2.dns.ws.
+ws.	172800	in	ns	ns5.dns.ws.
+ws.	172800	in	ns	us3.dns.ws.
+ws.	172800	in	ns	us4.dns.ws.
+a.dns.ws.	172800	in	a	194.146.106.146
+a.dns.ws.	172800	in	aaaa	2001:67c:1010:37:0:0:0:53
+ns2.dns.ws.	172800	in	a	64.70.19.80
+ns5.dns.ws.	172800	in	a	64.70.19.70
+s.dns.ws.	172800	in	a	77.72.229.248
+s.dns.ws.	172800	in	aaaa	2a01:3f0:0:311:0:0:0:53
+us3.dns.ws.	172800	in	a	64.70.78.70
+us4.dns.ws.	172800	in	a	64.70.78.80

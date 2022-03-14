@@ -1,0 +1,11 @@
+; timestamp: 20220306T202908Z
+; source id: tld-query-ly.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns.lttnet.net.:../TldSpider/DataBak/20220306T202908Z-tld-query-ly-dns.lttnet.net
+pch.ltt.ly.:../TldSpider/DataBak/20220306T202908Z-tld-query-ly-pch.ltt.ly
+dns1.lttnet.net.:../TldSpider/DataBak/20220306T202908Z-tld-query-ly-dns1.lttnet.net
+ns-ly.afrinic.net.:../TldSpider/DataBak/20220306T202908Z-tld-query-ly-ns-ly.afrinic.net
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T202908Z-tld-query-ly-phloem.uoregon.edu

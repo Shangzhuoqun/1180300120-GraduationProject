@@ -1,0 +1,10 @@
+; timestamp: 20220306T201101Z
+; source id: tld-query-godaddy.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.godaddy.:../TldSpider/DataBak/20220306T201101Z-tld-query-godaddy-a0.nic.godaddy
+a2.nic.godaddy.:../TldSpider/DataBak/20220306T201101Z-tld-query-godaddy-a2.nic.godaddy
+b0.nic.godaddy.:../TldSpider/DataBak/20220306T201101Z-tld-query-godaddy-b0.nic.godaddy
+c0.nic.godaddy.:../TldSpider/DataBak/20220306T201101Z-tld-query-godaddy-c0.nic.godaddy

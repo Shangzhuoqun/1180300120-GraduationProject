@@ -1,0 +1,11 @@
+ns1.anycastdns.cz.	172800	in	a	185.38.108.108
+ns1.anycastdns.cz.	172800	in	aaaa	2a00:fea0:dead:0:0:0:0:beef
+ns2.anycastdns.cz.	172800	in	a	185.28.194.194
+xn--mgbt3dhd.	172800	in	ns	a.ns.nic.xn--mgbt3dhd.
+xn--mgbt3dhd.	172800	in	ns	b.ns.nic.xn--mgbt3dhd.
+xn--mgbt3dhd.	172800	in	ns	ns1.anycastdns.cz.
+xn--mgbt3dhd.	172800	in	ns	ns2.anycastdns.cz.
+a.ns.nic.xn--mgbt3dhd.	172800	in	a	72.0.49.9
+a.ns.nic.xn--mgbt3dhd.	172800	in	aaaa	2620:171:a01:ad:0:0:0:9
+b.ns.nic.xn--mgbt3dhd.	172800	in	a	72.42.113.9
+b.ns.nic.xn--mgbt3dhd.	172800	in	aaaa	2620:171:d01:dc:0:0:0:9

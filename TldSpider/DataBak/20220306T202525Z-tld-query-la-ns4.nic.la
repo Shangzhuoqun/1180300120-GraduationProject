@@ -1,0 +1,7 @@
+; timestamp: 20220306T202525Z
+; source id: tld-query-la.-ns4.nic.la.
+; source locator: ns4.nic.la.
+; source IP address: 194.169.218.15
+; backup point IP address: 111.42.148.76
+; status: success
+la.			3598	IN	NS	ns2.nic.la.la.			3598	IN	NS	ns1.nic.la.la.			3598	IN	NS	ns3.nic.la.la.			3598	IN	NS	ns4.nic.la.ns4.nic.la.		3596	IN	A	194.169.218.15ns4.nic.la.		3598	IN	AAAA	2001:67c:13cc::1:15

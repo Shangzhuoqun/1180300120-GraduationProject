@@ -1,0 +1,7 @@
+; timestamp: 20220306T201232Z
+; source id: tld-query-grainger.-b.nic.grainger.
+; source locator: b.nic.grainger.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+grainger.		3599	IN	NS	a.nic.grainger.grainger.		3599	IN	NS	ns1.dns.nic.grainger.grainger.		3599	IN	NS	c.nic.grainger.grainger.		3599	IN	NS	ns3.dns.nic.grainger.grainger.		3599	IN	NS	ns2.dns.nic.grainger.grainger.		3599	IN	NS	b.nic.grainger.b.nic.grainger.		3600	IN	A	37.209.194.9b.nic.grainger.		3600	IN	AAAA	2001:dcd:2::9

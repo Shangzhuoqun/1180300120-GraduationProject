@@ -1,0 +1,10 @@
+; timestamp: 20220306T205732Z
+; source id: tld-query-sbi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.sbi.:../TldSpider/DataBak/20220306T205732Z-tld-query-sbi-a0.nic.sbi
+a2.nic.sbi.:../TldSpider/DataBak/20220306T205732Z-tld-query-sbi-a2.nic.sbi
+b0.nic.sbi.:../TldSpider/DataBak/20220306T205732Z-tld-query-sbi-b0.nic.sbi
+c0.nic.sbi.:../TldSpider/DataBak/20220306T205732Z-tld-query-sbi-c0.nic.sbi

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212512Z
+; source id: tld-query-xn--jlq61u9w7b.-a2.nic.xn--jlq61u9w7b.
+; source locator: a2.nic.xn--jlq61u9w7b.
+; source IP address: 65.22.247.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--jlq61u9w7b.		3599	IN	NS	a0.nic.xn--jlq61u9w7b.xn--jlq61u9w7b.		3599	IN	NS	a2.nic.xn--jlq61u9w7b.xn--jlq61u9w7b.		3599	IN	NS	b0.nic.xn--jlq61u9w7b.xn--jlq61u9w7b.		3599	IN	NS	c0.nic.xn--jlq61u9w7b.a2.nic.xn--jlq61u9w7b.	600	IN	A	65.22.247.1a2.nic.xn--jlq61u9w7b.	600	IN	AAAA	2a01:8840:f1::1

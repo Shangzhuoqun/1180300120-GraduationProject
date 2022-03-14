@@ -1,0 +1,7 @@
+; timestamp: 20220306T195952Z
+; source id: tld-query-deloitte.-b.nic.deloitte.
+; source locator: b.nic.deloitte.
+; source IP address: 185.24.64.80
+; backup point IP address: 111.42.148.76
+; status: success
+deloitte.		148122	IN	NS	d.nic.deloitte.deloitte.		148122	IN	NS	c.nic.deloitte.deloitte.		148122	IN	NS	a.nic.deloitte.deloitte.		148122	IN	NS	b.nic.deloitte.b.nic.deloitte.		3600	IN	A	185.24.64.80b.nic.deloitte.		3600	IN	AAAA	2a04:2b00:13cc::1:80

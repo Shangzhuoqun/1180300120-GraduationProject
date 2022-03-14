@@ -1,0 +1,7 @@
+; timestamp: 20220306T195747Z
+; source id: tld-query-cpa.-b.nic.cpa.
+; source locator: b.nic.cpa.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+cpa.			922	IN	NS	c.nic.cpa.cpa.			922	IN	NS	b.nic.cpa.cpa.			922	IN	NS	a.nic.cpa.cpa.			922	IN	NS	d.nic.cpa.b.nic.cpa.		3600	IN	A	37.209.194.9b.nic.cpa.		3600	IN	AAAA	2001:dcd:2::9

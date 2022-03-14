@@ -1,0 +1,12 @@
+dhl.	172800	in	ns	a.nic.dhl.
+dhl.	172800	in	ns	b.nic.dhl.
+dhl.	172800	in	ns	c.nic.dhl.
+dhl.	172800	in	ns	d.nic.dhl.
+a.nic.dhl.	172800	in	a	194.169.218.82
+a.nic.dhl.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:82
+b.nic.dhl.	172800	in	a	185.24.64.82
+b.nic.dhl.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:82
+c.nic.dhl.	172800	in	a	212.18.248.82
+c.nic.dhl.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:82
+d.nic.dhl.	172800	in	a	212.18.249.82
+d.nic.dhl.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:82

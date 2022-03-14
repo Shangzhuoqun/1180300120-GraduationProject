@@ -1,0 +1,10 @@
+; timestamp: 20220306T194014Z
+; source id: tld-query-abogado.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.abogado.:../TldSpider/DataBak/20220306T194014Z-tld-query-abogado-a.nic.abogado
+b.nic.abogado.:../TldSpider/DataBak/20220306T194014Z-tld-query-abogado-b.nic.abogado
+c.nic.abogado.:../TldSpider/DataBak/20220306T194014Z-tld-query-abogado-c.nic.abogado
+d.nic.abogado.:../TldSpider/DataBak/20220306T194014Z-tld-query-abogado-d.nic.abogado

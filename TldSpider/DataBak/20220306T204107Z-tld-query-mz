@@ -1,0 +1,12 @@
+; timestamp: 20220306T204107Z
+; source id: tld-query-mz.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+anyns.uem.mz.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-anyns.uem.mz
+dzowo.uem.mz.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-dzowo.uem.mz
+ns-mz.afrinic.net.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-ns-mz.afrinic.net
+zebra.uem.mz.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-zebra.uem.mz
+oceano.uem.mz.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-oceano.uem.mz
+phloem.uoregon.edu.:../TldSpider/DataBak/20220306T204107Z-tld-query-mz-phloem.uoregon.edu

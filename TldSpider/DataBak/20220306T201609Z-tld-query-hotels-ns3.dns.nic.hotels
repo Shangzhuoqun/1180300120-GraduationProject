@@ -1,0 +1,7 @@
+; timestamp: 20220306T201609Z
+; source id: tld-query-hotels.-ns3.dns.nic.hotels.
+; source locator: ns3.dns.nic.hotels.
+; source IP address: 156.154.171.3
+; backup point IP address: 111.42.148.76
+; status: success
+hotels.			3598	IN	NS	c.nic.hotels.hotels.			3598	IN	NS	b.nic.hotels.hotels.			3598	IN	NS	ns3.dns.nic.hotels.hotels.			3598	IN	NS	ns1.dns.nic.hotels.hotels.			3598	IN	NS	a.nic.hotels.hotels.			3598	IN	NS	ns2.dns.nic.hotels.ns3.dns.nic.hotels.	3600	IN	A	156.154.171.3ns3.dns.nic.hotels.	3600	IN	AAAA	2610:a1:1073::1:3

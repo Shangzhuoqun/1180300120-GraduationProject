@@ -1,0 +1,7 @@
+; timestamp: 20220306T194930Z
+; source id: tld-query-bt.-phloem.uoregon.edu.
+; source locator: phloem.uoregon.edu.
+; source IP address: 128.223.32.35
+; backup point IP address: 111.42.148.76
+; status: success
+bt.			832	IN	NS	ns3.druknet.bt.bt.			832	IN	NS	ns1.druknet.bt.bt.			832	IN	NS	auth61.ns.uu.net.bt.			832	IN	NS	ns.itu.ch.bt.			832	IN	NS	auth00.ns.uu.net.bt.			832	IN	NS	phloem.uoregon.edu.bt.			832	IN	NS	ns2.druknet.bt.phloem.uoregon.edu.	2338	IN	A	128.223.32.35phloem.uoregon.edu.	2338	IN	AAAA	2001:468:d01:20::80df:2023

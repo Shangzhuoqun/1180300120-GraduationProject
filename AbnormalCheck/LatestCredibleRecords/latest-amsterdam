@@ -1,0 +1,9 @@
+amsterdam.	172800	in	ns	ns1.nic.amsterdam.
+amsterdam.	172800	in	ns	ns2.nic.amsterdam.
+amsterdam.	172800	in	ns	ns3.nic.amsterdam.
+ns1.nic.amsterdam.	172800	in	a	194.0.28.4
+ns1.nic.amsterdam.	172800	in	aaaa	2001:678:2c:0:194:0:28:4
+ns2.nic.amsterdam.	172800	in	a	194.146.106.134
+ns2.nic.amsterdam.	172800	in	aaaa	2001:67c:1010:34:0:0:0:53
+ns3.nic.amsterdam.	172800	in	a	194.0.25.26
+ns3.nic.amsterdam.	172800	in	aaaa	2001:678:20:0:0:0:0:26

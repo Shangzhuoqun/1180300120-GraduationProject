@@ -1,0 +1,7 @@
+; timestamp: 20220306T194141Z
+; source id: tld-query-am.-ns-pch.amnic.net.
+; source locator: ns-pch.amnic.net.
+; source IP address: 204.61.216.96
+; backup point IP address: 111.42.148.76
+; status: success
+am.			172800	IN	NS	ns-pri.nic.am.am.			172800	IN	NS	ns-pch.amnic.net.am.			172800	IN	NS	fork.sth.dnsnode.net.am.			172800	IN	NS	ns-cdn.amnic.net.ns-pch.amnic.net.	2566	IN	A	204.61.216.96ns-pch.amnic.net.	2566	IN	AAAA	2001:500:14:6096:ad::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210009Z
+; source id: tld-query-showtime.-a0.nic.showtime.
+; source locator: a0.nic.showtime.
+; source IP address: 65.22.68.1
+; backup point IP address: 111.42.148.76
+; status: success
+showtime.		3600	IN	NS	b0.nic.showtime.showtime.		3600	IN	NS	a0.nic.showtime.showtime.		3600	IN	NS	a2.nic.showtime.showtime.		3600	IN	NS	c0.nic.showtime.a0.nic.showtime.	600	IN	A	65.22.68.1a0.nic.showtime.	595	IN	AAAA	2a01:8840:42::1

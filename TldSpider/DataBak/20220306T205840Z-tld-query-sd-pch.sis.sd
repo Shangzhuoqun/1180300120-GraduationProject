@@ -1,0 +1,7 @@
+; timestamp: 20220306T205840Z
+; source id: tld-query-sd.-pch.sis.sd.
+; source locator: pch.sis.sd.
+; source IP address: 204.61.216.97
+; backup point IP address: 111.42.148.76
+; status: success
+sd.			14400	IN	NS	pch.sis.sd.sd.			14400	IN	NS	ans1.sis.sd.sd.			14400	IN	NS	ans2.sis.sd.sd.			14400	IN	NS	sd.cctld.authdns.ripe.net.sd.			14400	IN	NS	ans2.canar.sd.sd.			14400	IN	NS	ns-sd.afrinic.net.sd.			14400	IN	NS	ans1.canar.sd.pch.sis.sd.		3600	IN	A	204.61.216.97pch.sis.sd.		3600	IN	AAAA	2001:500:14:6097:ad::1

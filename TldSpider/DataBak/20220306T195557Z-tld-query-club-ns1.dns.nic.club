@@ -1,0 +1,7 @@
+; timestamp: 20220306T195557Z
+; source id: tld-query-club.-ns1.dns.nic.club.
+; source locator: ns1.dns.nic.club.
+; source IP address: 156.154.144.215
+; backup point IP address: 111.42.148.76
+; status: success
+club.			1000	IN	NS	ns2.dns.nic.club.club.			1000	IN	NS	b.nic.club.club.			1000	IN	NS	ns3.dns.nic.club.club.			1000	IN	NS	ns1.dns.nic.club.club.			1000	IN	NS	a.nic.club.club.			1000	IN	NS	c.nic.club.ns1.dns.nic.club.	600	IN	A	156.154.144.215ns1.dns.nic.club.	600	IN	AAAA	2610:a1:1071::d7

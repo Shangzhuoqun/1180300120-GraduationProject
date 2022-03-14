@@ -1,0 +1,12 @@
+; timestamp: 20220306T210508Z
+; source id: tld-query-surgery.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v0n0.nic.surgery
+v0n1.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v0n1.nic.surgery
+v0n2.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v0n2.nic.surgery
+v0n3.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v0n3.nic.surgery
+v2n0.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v2n0.nic.surgery
+v2n1.nic.surgery.:../TldSpider/DataBak/20220306T210508Z-tld-query-surgery-v2n1.nic.surgery

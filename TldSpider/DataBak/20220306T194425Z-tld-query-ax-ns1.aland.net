@@ -1,0 +1,27 @@
+; timestamp: 20220306T194425Z
+; source id: tld-query-ax.-ns1.aland.net.
+; source locator: ns1.aland.net.
+; source IP address: 194.112.0.1
+; backup point IP address: 111.42.148.76
+; status: success
+ax.			86400	IN	NS	ns1.aland.net.ax.			86400	IN	NS	ns3.alcom.fi.ax.			86400	IN	NS	ns4.alcom.fi.ax.			86400	IN	NS	ns2.aland.net.ns1.aland.net.		1515	IN	A	194.112.0.1dig @194.112.0.1 ns1.aland.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @194.112.0.1 ns1.aland.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28496
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1.aland.net.			IN	AAAA
+
+;; AUTHORITY SECTION:
+aland.net.		1800	IN	SOA	ns.alcom.aland.fi. hostmaster.alcom.aland.fi. 2021112501 86400 7200 2419200 172800
+
+;; Query time: 1083 msec
+;; SERVER: 194.112.0.1#53(194.112.0.1)
+;; WHEN: Sun Mar 06 19:44:26 ;; MSG SIZE  rcvd: 106
+

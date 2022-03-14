@@ -1,0 +1,7 @@
+; timestamp: 20220306T200455Z
+; source id: tld-query-fast.-dnsa.nic.fast.
+; source locator: dnsa.nic.fast.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+fast.			3597	IN	NS	dnsb.nic.fast.fast.			3597	IN	NS	dnsc.nic.fast.fast.			3597	IN	NS	dnsa.nic.fast.fast.			3597	IN	NS	dnsd.nic.fast.fast.			3597	IN	NS	dns4.nic.fast.fast.			3597	IN	NS	dns1.nic.fast.fast.			3597	IN	NS	dns3.nic.fast.fast.			3597	IN	NS	dns2.nic.fast.dnsa.nic.fast.		3597	IN	A	156.154.100.3dnsa.nic.fast.		3597	IN	AAAA	2001:502:ad09::3

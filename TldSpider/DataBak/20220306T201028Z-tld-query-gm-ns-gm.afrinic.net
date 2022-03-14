@@ -1,0 +1,7 @@
+; timestamp: 20220306T201028Z
+; source id: tld-query-gm.-ns-gm.afrinic.net.
+; source locator: ns-gm.afrinic.net.
+; source IP address: 196.216.168.29
+; backup point IP address: 111.42.148.76
+; status: success
+gm.			3600	IN	NS	ns2.nic.gm.gm.			3600	IN	NS	ns-gm.afrinic.net.gm.			3600	IN	NS	ns1.nic.gm.ns-gm.afrinic.net.	3028	IN	A	196.216.168.29ns-gm.afrinic.net.	3028	IN	AAAA	2001:43f8:120::29

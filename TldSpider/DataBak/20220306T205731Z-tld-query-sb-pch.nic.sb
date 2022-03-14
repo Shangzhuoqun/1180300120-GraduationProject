@@ -1,0 +1,7 @@
+; timestamp: 20220306T205731Z
+; source id: tld-query-sb.-pch.nic.sb.
+; source locator: pch.nic.sb.
+; source IP address: 204.61.216.31
+; backup point IP address: 111.42.148.76
+; status: success
+sb.			3600	IN	NS	pch.nic.sb.sb.			3600	IN	NS	ns1.anycastdns.cz.sb.			3600	IN	NS	ns2.anycastdns.cz.pch.nic.sb.		3600	IN	A	204.61.216.31pch.nic.sb.		3600	IN	AAAA	2001:500:14:6031:ad::1

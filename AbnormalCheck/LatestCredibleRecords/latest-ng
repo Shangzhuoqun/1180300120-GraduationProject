@@ -1,0 +1,10 @@
+ng.	172800	in	ns	ns1.nic.net.ng.
+ng.	172800	in	ns	ns2.nic.net.ng.
+ng.	172800	in	ns	ns5.nic.net.ng.
+ng.	172800	in	ns	nsa.nic.net.ng.
+ns1.nic.net.ng.	172800	in	a	194.0.1.29
+ns1.nic.net.ng.	172800	in	aaaa	2001:678:4:0:0:0:0:1d
+ns2.nic.net.ng.	172800	in	a	204.61.216.40
+ns5.nic.net.ng.	172800	in	a	196.216.168.41
+ns5.nic.net.ng.	172800	in	aaaa	2001:43f8:120:0:0:0:0:41
+nsa.nic.net.ng.	172800	in	a	41.222.79.3

@@ -1,0 +1,7 @@
+; timestamp: 20220306T200555Z
+; source id: tld-query-fishing.-b.nic.fishing.
+; source locator: b.nic.fishing.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+fishing.		3599	IN	NS	b.nic.fishing.fishing.		3599	IN	NS	a.nic.fishing.fishing.		3599	IN	NS	d.nic.fishing.fishing.		3599	IN	NS	c.nic.fishing.b.nic.fishing.		3600	IN	A	37.209.194.10b.nic.fishing.		3600	IN	AAAA	2001:dcd:2::10

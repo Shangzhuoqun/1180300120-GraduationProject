@@ -1,0 +1,10 @@
+; timestamp: 20220306T200109Z
+; source id: tld-query-dm.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.blacknightsolutions.com.:../TldSpider/DataBak/20220306T200109Z-tld-query-dm-ns.blacknightsolutions.com
+ns2.nic.dm.:../TldSpider/DataBak/20220306T200109Z-tld-query-dm-ns2.nic.dm
+ns2.blacknightsolutions.com.:../TldSpider/DataBak/20220306T200109Z-tld-query-dm-ns2.blacknightsolutions.com
+ns34.cdns.net.:../TldSpider/DataBak/20220306T200109Z-tld-query-dm-ns34.cdns.net

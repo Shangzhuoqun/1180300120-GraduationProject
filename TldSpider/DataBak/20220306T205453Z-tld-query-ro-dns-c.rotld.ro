@@ -1,0 +1,7 @@
+; timestamp: 20220306T205453Z
+; source id: tld-query-ro.-dns-c.rotld.ro.
+; source locator: dns-c.rotld.ro.
+; source IP address: 194.0.11.113
+; backup point IP address: 111.42.148.76
+; status: success
+ro.			86400	IN	NS	dns-ro.denic.de.ro.			86400	IN	NS	primary.rotld.ro.ro.			86400	IN	NS	sec-dns-a.rotld.ro.ro.			86400	IN	NS	sec-dns-b.rotld.ro.ro.			86400	IN	NS	dns-c.rotld.ro.ro.			86400	IN	NS	dns-at.rotld.ro.dns-c.rotld.ro.		3600	IN	A	194.0.11.113dns-c.rotld.ro.		2615	IN	AAAA	2001:678:e:113::53

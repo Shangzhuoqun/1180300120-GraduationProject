@@ -1,0 +1,6 @@
+mq.	172800	in	ns	ns1-fr.mediaserv.net.
+mq.	172800	in	ns	ns1-gp.mediaserv.net.
+mq.	172800	in	ns	ns1-mq.mediaserv.net.
+ns1-fr.mediaserv.net.	172800	in	a	185.56.51.194
+ns1-gp.mediaserv.net.	172800	in	a	213.188.172.1
+ns1-mq.mediaserv.net.	172800	in	a	213.16.20.3

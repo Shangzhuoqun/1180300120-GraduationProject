@@ -1,0 +1,7 @@
+; timestamp: 20220306T194254Z
+; source id: tld-query-art.-c.nic.art.
+; source locator: c.nic.art.
+; source IP address: 212.18.248.49
+; backup point IP address: 111.42.148.76
+; status: success
+art.			1585	IN	NS	c.nic.art.art.			1585	IN	NS	a.nic.art.art.			1585	IN	NS	d.nic.art.art.			1585	IN	NS	b.nic.art.c.nic.art.		2391	IN	A	212.18.248.49c.nic.art.		2391	IN	AAAA	2a04:2b00:13ee::49

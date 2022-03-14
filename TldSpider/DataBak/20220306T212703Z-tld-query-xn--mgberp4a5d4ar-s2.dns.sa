@@ -1,0 +1,7 @@
+; timestamp: 20220306T212703Z
+; source id: tld-query-xn--mgberp4a5d4ar.-s2.dns.sa.
+; source locator: s2.dns.sa.
+; source IP address: 37.107.255.170
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgberp4a5d4ar.	3598	IN	NS	s2.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	p1.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	s1.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	c1.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	n1.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	i1.dns.sa.xn--mgberp4a5d4ar.	3598	IN	NS	c2.dns.sa.s2.dns.sa.		1778	IN	A	37.107.255.170s2.dns.sa.		1778	IN	AAAA	2001:16a0:2:3002::2

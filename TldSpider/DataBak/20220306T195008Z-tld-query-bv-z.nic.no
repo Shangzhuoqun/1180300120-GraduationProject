@@ -1,0 +1,7 @@
+; timestamp: 20220306T195008Z
+; source id: tld-query-bv.-z.nic.no.
+; source locator: z.nic.no.
+; source IP address: 158.38.8.133
+; backup point IP address: 111.42.148.76
+; status: success
+bv.			86400	IN	NS	server.nordu.net.bv.			86400	IN	NS	x.nic.no.bv.			86400	IN	NS	nac.no.bv.			86400	IN	NS	y.nic.no.bv.			86400	IN	NS	z.nic.no.bv.			86400	IN	NS	nn.uninett.no.z.nic.no.		472	IN	A	158.38.8.133z.nic.no.		1123	IN	AAAA	2001:700:0:52d:158:38:8:133

@@ -1,0 +1,13 @@
+ns1.conac.cn.	172800	in	a	111.235.161.1
+ns1.conac.cn.	172800	in	aaaa	2401:b400:1:0:0:0:0:1
+ns2.conac.cn.	172800	in	a	111.235.162.1
+ns2.conac.cn.	172800	in	aaaa	2401:b400:8:0:0:0:0:1
+ns3.conac.cn.	172800	in	a	111.235.163.1
+ns3.conac.cn.	172800	in	aaaa	2401:b400:9:0:0:0:0:1
+ns4.conac.cn.	172800	in	a	111.235.164.1
+ns5.conac.cn.	172800	in	a	111.235.165.1
+xn--55qw42g.	172800	in	ns	ns1.conac.cn.
+xn--55qw42g.	172800	in	ns	ns2.conac.cn.
+xn--55qw42g.	172800	in	ns	ns3.conac.cn.
+xn--55qw42g.	172800	in	ns	ns4.conac.cn.
+xn--55qw42g.	172800	in	ns	ns5.conac.cn.

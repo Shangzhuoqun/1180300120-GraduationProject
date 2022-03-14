@@ -1,0 +1,7 @@
+; timestamp: 20220306T200307Z
+; source id: tld-query-engineering.-v0n1.nic.engineering.
+; source locator: v0n1.nic.engineering.
+; source IP address: 65.22.25.18
+; backup point IP address: 111.42.148.76
+; status: success
+engineering.		378	IN	NS	v0n1.nic.engineering.engineering.		378	IN	NS	v0n2.nic.engineering.engineering.		378	IN	NS	v0n0.nic.engineering.engineering.		378	IN	NS	v2n1.nic.engineering.engineering.		378	IN	NS	v0n3.nic.engineering.engineering.		378	IN	NS	v2n0.nic.engineering.v0n1.nic.engineering.	3599	IN	A	65.22.25.18v0n1.nic.engineering.	3599	IN	AAAA	2a01:8840:1b::18

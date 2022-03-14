@@ -1,0 +1,14 @@
+; timestamp: 20220306T213042Z
+; source id: tld-query-zappos.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dns1.nic.zappos
+dns2.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dns2.nic.zappos
+dns3.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dns3.nic.zappos
+dns4.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dns4.nic.zappos
+dnsa.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dnsa.nic.zappos
+dnsb.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dnsb.nic.zappos
+dnsc.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dnsc.nic.zappos
+dnsd.nic.zappos.:../TldSpider/DataBak/20220306T213042Z-tld-query-zappos-dnsd.nic.zappos

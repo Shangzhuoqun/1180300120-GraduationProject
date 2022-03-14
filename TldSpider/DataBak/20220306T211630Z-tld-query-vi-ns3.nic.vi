@@ -1,0 +1,34 @@
+; timestamp: 20220306T211630Z
+; source id: tld-query-vi.-ns3.nic.vi.
+; source locator: ns3.nic.vi.
+; source IP address: 185.17.236.230
+; backup point IP address: 111.42.148.76
+; status: success
+dig @185.17.236.230 vi. NS
+
+; <<>> DiG 9.16.23 <<>> @185.17.236.230 vi. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+ns3.nic.vi.		3600	IN	A	185.17.236.230dig @185.17.236.230 ns3.nic.vi. AAAA
+
+; <<>> DiG 9.16.23 <<>> @185.17.236.230 ns3.nic.vi. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29988
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns3.nic.vi.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.vi.			1800	IN	SOA	ns1.nic.vi. hostmaster.nic.vi. 2022012901 14400 3600 604800 38400
+
+;; Query time: 322 msec
+;; SERVER: 185.17.236.230#53(185.17.236.230)
+;; WHEN: Sun Mar 06 21:16:45 ;; MSG SIZE  rcvd: 90
+

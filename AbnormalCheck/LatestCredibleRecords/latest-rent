@@ -1,0 +1,12 @@
+rent.	172800	in	ns	a.nic.rent.
+rent.	172800	in	ns	b.nic.rent.
+rent.	172800	in	ns	c.nic.rent.
+rent.	172800	in	ns	d.nic.rent.
+a.nic.rent.	172800	in	a	194.169.218.63
+a.nic.rent.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:63
+b.nic.rent.	172800	in	a	185.24.64.63
+b.nic.rent.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:63
+c.nic.rent.	172800	in	a	212.18.248.63
+c.nic.rent.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:63
+d.nic.rent.	172800	in	a	212.18.249.63
+d.nic.rent.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:63

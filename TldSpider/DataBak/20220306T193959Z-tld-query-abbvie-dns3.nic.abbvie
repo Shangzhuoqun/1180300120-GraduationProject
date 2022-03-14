@@ -1,0 +1,7 @@
+; timestamp: 20220306T193959Z
+; source id: tld-query-abbvie.-dns3.nic.abbvie.
+; source locator: dns3.nic.abbvie.
+; source IP address: 213.248.223.41
+; backup point IP address: 111.42.148.76
+; status: success
+abbvie.			1689	IN	NS	dnsc.nic.abbvie.abbvie.			1689	IN	NS	dnsb.nic.abbvie.abbvie.			1689	IN	NS	dns1.nic.abbvie.abbvie.			1689	IN	NS	dns4.nic.abbvie.abbvie.			1689	IN	NS	dns3.nic.abbvie.abbvie.			1689	IN	NS	dnsd.nic.abbvie.abbvie.			1689	IN	NS	dnsa.nic.abbvie.abbvie.			1689	IN	NS	dns2.nic.abbvie.dns3.nic.abbvie.	600	IN	A	213.248.223.41dns3.nic.abbvie.	600	IN	AAAA	2a01:618:407::41

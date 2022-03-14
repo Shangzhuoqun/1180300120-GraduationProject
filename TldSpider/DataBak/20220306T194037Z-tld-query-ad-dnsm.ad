@@ -1,0 +1,7 @@
+; timestamp: 20220306T194037Z
+; source id: tld-query-ad.-dnsm.ad.
+; source locator: dnsm.ad.
+; source IP address: 194.158.74.9
+; backup point IP address: 111.42.148.76
+; status: success
+ad.			900	IN	NS	dnsm.ad.ad.			900	IN	NS	dnsc.ad.ad.			900	IN	NS	ad.ns.nic.es.ad.			900	IN	NS	ns3.nic.fr.ad.			900	IN	NS	ad.cctld.authdns.ripe.net.dnsm.ad.		600	IN	A	194.158.74.9dnsm.ad.		899	IN	AAAA	2a02:8060:32fa::a

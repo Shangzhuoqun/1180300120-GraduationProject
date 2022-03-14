@@ -1,0 +1,7 @@
+; timestamp: 20220306T200046Z
+; source id: tld-query-discount.-v2n0.nic.discount.
+; source locator: v2n0.nic.discount.
+; source IP address: 65.22.31.57
+; backup point IP address: 111.42.148.76
+; status: success
+discount.		482	IN	NS	v0n0.nic.discount.discount.		482	IN	NS	v2n1.nic.discount.discount.		482	IN	NS	v0n3.nic.discount.discount.		482	IN	NS	v0n2.nic.discount.discount.		482	IN	NS	v0n1.nic.discount.discount.		482	IN	NS	v2n0.nic.discount.v2n0.nic.discount.	3598	IN	A	65.22.31.57v2n0.nic.discount.	3598	IN	AAAA	2a01:8840:21::57

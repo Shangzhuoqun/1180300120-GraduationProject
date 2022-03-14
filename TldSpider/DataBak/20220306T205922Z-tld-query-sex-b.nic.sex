@@ -1,0 +1,7 @@
+; timestamp: 20220306T205922Z
+; source id: tld-query-sex.-b.nic.sex.
+; source locator: b.nic.sex.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+sex.			3598	IN	NS	d.nic.sex.sex.			3598	IN	NS	b.nic.sex.sex.			3598	IN	NS	a.nic.sex.sex.			3598	IN	NS	c.nic.sex.b.nic.sex.		3599	IN	A	37.209.194.10b.nic.sex.		3600	IN	AAAA	2001:dcd:2::10

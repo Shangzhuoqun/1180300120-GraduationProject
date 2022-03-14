@@ -1,0 +1,10 @@
+; timestamp: 20220306T213103Z
+; source id: tld-query-zuerich.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.zuerich.:../TldSpider/DataBak/20220306T213103Z-tld-query-zuerich-a.nic.zuerich
+b.nic.zuerich.:../TldSpider/DataBak/20220306T213103Z-tld-query-zuerich-b.nic.zuerich
+c.nic.zuerich.:../TldSpider/DataBak/20220306T213103Z-tld-query-zuerich-c.nic.zuerich
+d.nic.zuerich.:../TldSpider/DataBak/20220306T213103Z-tld-query-zuerich-d.nic.zuerich

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202748Z
+; source id: tld-query-lotto.-c0.nic.lotto.
+; source locator: c0.nic.lotto.
+; source IP address: 65.22.30.25
+; backup point IP address: 111.42.148.76
+; status: success
+lotto.			3598	IN	NS	c0.nic.lotto.lotto.			3598	IN	NS	a0.nic.lotto.lotto.			3598	IN	NS	b0.nic.lotto.lotto.			3598	IN	NS	a2.nic.lotto.c0.nic.lotto.		598	IN	A	65.22.30.25c0.nic.lotto.		598	IN	AAAA	2a01:8840:20::25

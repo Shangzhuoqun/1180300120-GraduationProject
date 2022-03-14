@@ -1,0 +1,7 @@
+; timestamp: 20220306T202533Z
+; source id: tld-query-lamer.-c0.nic.lamer.
+; source locator: c0.nic.lamer.
+; source IP address: 65.22.54.25
+; backup point IP address: 111.42.148.76
+; status: success
+lamer.			3599	IN	NS	a0.nic.lamer.lamer.			3599	IN	NS	b0.nic.lamer.lamer.			3599	IN	NS	c0.nic.lamer.lamer.			3599	IN	NS	a2.nic.lamer.c0.nic.lamer.		599	IN	A	65.22.54.25c0.nic.lamer.		599	IN	AAAA	2a01:8840:34::25

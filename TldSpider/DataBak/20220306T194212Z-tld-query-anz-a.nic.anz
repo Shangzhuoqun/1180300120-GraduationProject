@@ -1,0 +1,7 @@
+; timestamp: 20220306T194212Z
+; source id: tld-query-anz.-a.nic.anz.
+; source locator: a.nic.anz.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+anz.			1613	IN	NS	b.nic.anz.anz.			1613	IN	NS	c.nic.anz.anz.			1613	IN	NS	a.nic.anz.anz.			1613	IN	NS	d.nic.anz.a.nic.anz.		3600	IN	A	37.209.192.9a.nic.anz.		3600	IN	AAAA	2001:dcd:1::9

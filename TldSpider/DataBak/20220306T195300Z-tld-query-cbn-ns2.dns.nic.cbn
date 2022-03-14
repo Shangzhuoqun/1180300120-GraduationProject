@@ -1,0 +1,7 @@
+; timestamp: 20220306T195300Z
+; source id: tld-query-cbn.-ns2.dns.nic.cbn.
+; source locator: ns2.dns.nic.cbn.
+; source IP address: 156.154.145.35
+; backup point IP address: 111.42.148.76
+; status: success
+cbn.			86400	IN	NS	a.nic.cbn.cbn.			86400	IN	NS	b.nic.cbn.cbn.			86400	IN	NS	c.nic.cbn.cbn.			86400	IN	NS	ns1.dns.nic.cbn.cbn.			86400	IN	NS	ns2.dns.nic.cbn.cbn.			86400	IN	NS	ns3.dns.nic.cbn.ns2.dns.nic.cbn.	3599	IN	A	156.154.145.35ns2.dns.nic.cbn.	3599	IN	AAAA	2610:a1:1072::23

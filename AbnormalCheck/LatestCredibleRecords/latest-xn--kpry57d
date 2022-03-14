@@ -1,0 +1,17 @@
+anytld.apnic.net.	172800	in	a	202.12.31.53
+anytld.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53
+d.dns.tw.	172800	in	a	60.199.165.186
+d.dns.tw.	172800	in	aaaa	2001:4541:9010:7:0:0:0:186
+e.dns.tw.	172800	in	a	211.20.231.11
+e.dns.tw.	172800	in	aaaa	2001:b000:1e0:c000:0:0:0:11
+f.dns.tw.	172800	in	a	163.28.1.10
+g.dns.tw.	172800	in	a	220.229.225.195
+g.dns.tw.	172800	in	aaaa	2001:cd8:400:0:0:0:0:195
+h.dns.tw.	172800	in	a	204.61.216.119
+h.dns.tw.	172800	in	aaaa	2001:500:14:6119:ad:0:0:1
+xn--kpry57d.	172800	in	ns	d.dns.tw.
+xn--kpry57d.	172800	in	ns	e.dns.tw.
+xn--kpry57d.	172800	in	ns	f.dns.tw.
+xn--kpry57d.	172800	in	ns	g.dns.tw.
+xn--kpry57d.	172800	in	ns	h.dns.tw.
+xn--kpry57d.	172800	in	ns	anytld.apnic.net.

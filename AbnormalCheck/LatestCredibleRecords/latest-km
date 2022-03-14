@@ -1,0 +1,7 @@
+km.	172800	in	ns	dns1.nic.km.
+km.	172800	in	ns	dns2.nic.km.
+km.	172800	in	ns	ns-km.afrinic.net.
+dns1.nic.km.	172800	in	a	197.255.224.18
+dns2.nic.km.	172800	in	a	197.255.224.66
+ns-km.afrinic.net.	172800	in	a	196.216.168.46
+ns-km.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:46

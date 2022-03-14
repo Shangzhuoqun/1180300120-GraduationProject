@@ -1,0 +1,7 @@
+; timestamp: 20220306T195008Z
+; source id: tld-query-bv.-y.nic.no.
+; source locator: y.nic.no.
+; source IP address: 193.75.4.22
+; backup point IP address: 111.42.148.76
+; status: success
+bv.			1251	IN	NS	server.nordu.net.bv.			1251	IN	NS	y.nic.no.bv.			1251	IN	NS	nac.no.bv.			1251	IN	NS	nn.uninett.no.bv.			1251	IN	NS	x.nic.no.bv.			1251	IN	NS	z.nic.no.y.nic.no.		3600	IN	A	193.75.4.22y.nic.no.		473	IN	AAAA	2001:8c0:8200:1::2

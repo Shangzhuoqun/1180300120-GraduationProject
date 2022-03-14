@@ -1,0 +1,7 @@
+; timestamp: 20220306T201614Z
+; source id: tld-query-house.-v0n3.nic.house.
+; source locator: v0n3.nic.house.
+; source IP address: 161.232.12.7
+; backup point IP address: 111.42.148.76
+; status: success
+house.			3598	IN	NS	v0n2.nic.house.house.			3598	IN	NS	v0n3.nic.house.house.			3598	IN	NS	v2n1.nic.house.house.			3598	IN	NS	v0n0.nic.house.house.			3598	IN	NS	v2n0.nic.house.house.			3598	IN	NS	v0n1.nic.house.v0n3.nic.house.		3598	IN	A	161.232.12.7v0n3.nic.house.		3599	IN	AAAA	2a01:8840:f6::7

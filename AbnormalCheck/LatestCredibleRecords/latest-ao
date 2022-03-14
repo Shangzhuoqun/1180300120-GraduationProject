@@ -1,0 +1,9 @@
+ao.	172800	in	ns	h.dns.pt.
+ao.	172800	in	ns	ao01.dns.pt.
+ao.	172800	in	ns	ao03.dns.pt.
+ao01.dns.pt.	172800	in	a	185.39.208.17
+ao01.dns.pt.	172800	in	aaaa	2a04:6d80:0:0:0:0:0:17
+ao03.dns.pt.	172800	in	a	204.61.216.113
+ao03.dns.pt.	172800	in	aaaa	2001:500:14:6113:ad:0:0:1
+h.dns.pt.	172800	in	a	194.146.106.138
+h.dns.pt.	172800	in	aaaa	2001:67c:1010:35:0:0:0:53

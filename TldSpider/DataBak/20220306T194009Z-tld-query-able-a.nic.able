@@ -1,0 +1,7 @@
+; timestamp: 20220306T194009Z
+; source id: tld-query-able.-a.nic.able.
+; source locator: a.nic.able.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+able.			1683	IN	NS	ns3.dns.nic.able.able.			1683	IN	NS	c.nic.able.able.			1683	IN	NS	a.nic.able.able.			1683	IN	NS	ns2.dns.nic.able.able.			1683	IN	NS	ns1.dns.nic.able.able.			1683	IN	NS	b.nic.able.a.nic.able.		3600	IN	A	37.209.192.10a.nic.able.		3600	IN	AAAA	2001:dcd:1::10

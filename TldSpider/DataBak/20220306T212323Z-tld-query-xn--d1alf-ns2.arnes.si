@@ -1,0 +1,7 @@
+; timestamp: 20220306T212323Z
+; source id: tld-query-xn--d1alf.-ns2.arnes.si.
+; source locator: ns2.arnes.si.
+; source IP address: 194.249.4.44
+; backup point IP address: 111.42.148.76
+; status: success
+xn--d1alf.		3600	IN	NS	dns-mk.univie.ac.at.xn--d1alf.		3600	IN	NS	d.ext.nic.cz.xn--d1alf.		3600	IN	NS	ns2.arnes.si.xn--d1alf.		3600	IN	NS	tld1.marnet.mk.ns2.arnes.si.		831	IN	A	194.249.4.44ns2.arnes.si.		831	IN	AAAA	2001:1470:8000:53::44

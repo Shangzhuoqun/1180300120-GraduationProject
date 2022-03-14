@@ -1,0 +1,7 @@
+; timestamp: 20220306T211213Z
+; source id: tld-query-trading.-v2n1.nic.trading.
+; source locator: v2n1.nic.trading.
+; source IP address: 161.232.17.66
+; backup point IP address: 111.42.148.76
+; status: success
+trading.		3597	IN	NS	v0n2.nic.trading.trading.		3597	IN	NS	v0n1.nic.trading.trading.		3597	IN	NS	v0n3.nic.trading.trading.		3597	IN	NS	v2n0.nic.trading.trading.		3597	IN	NS	v2n1.nic.trading.trading.		3597	IN	NS	v0n0.nic.trading.v2n1.nic.trading.	3598	IN	A	161.232.17.66v2n1.nic.trading.	3597	IN	AAAA	2a01:8840:fb::66

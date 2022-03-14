@@ -1,0 +1,7 @@
+; timestamp: 20220306T203712Z
+; source id: tld-query-mk.-dns-mk.univie.ac.at.
+; source locator: dns-mk.univie.ac.at.
+; source IP address: 78.104.145.4
+; backup point IP address: 111.42.148.76
+; status: success
+mk.			3600	IN	NS	dns-mk.univie.ac.at.mk.			3600	IN	NS	tld1.marnet.mk.mk.			3600	IN	NS	d.ext.nic.cz.mk.			3600	IN	NS	ns2.arnes.si.dns-mk.univie.ac.at.	599	IN	A	78.104.145.4dns-mk.univie.ac.at.	599	IN	AAAA	2001:628:453:bb::4

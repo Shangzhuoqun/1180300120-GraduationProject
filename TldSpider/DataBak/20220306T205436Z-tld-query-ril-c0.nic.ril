@@ -1,0 +1,7 @@
+; timestamp: 20220306T205436Z
+; source id: tld-query-ril.-c0.nic.ril.
+; source locator: c0.nic.ril.
+; source IP address: 65.22.182.17
+; backup point IP address: 111.42.148.76
+; status: success
+ril.			86400	IN	NS	b0.nic.ril.ril.			86400	IN	NS	a0.nic.ril.ril.			86400	IN	NS	c0.nic.ril.ril.			86400	IN	NS	a2.nic.ril.c0.nic.ril.		600	IN	A	65.22.182.17c0.nic.ril.		600	IN	AAAA	2a01:8840:b0::17

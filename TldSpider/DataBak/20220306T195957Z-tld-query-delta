@@ -1,0 +1,10 @@
+; timestamp: 20220306T195957Z
+; source id: tld-query-delta.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.delta.:../TldSpider/DataBak/20220306T195957Z-tld-query-delta-a0.nic.delta
+a2.nic.delta.:../TldSpider/DataBak/20220306T195957Z-tld-query-delta-a2.nic.delta
+b0.nic.delta.:../TldSpider/DataBak/20220306T195957Z-tld-query-delta-b0.nic.delta
+c0.nic.delta.:../TldSpider/DataBak/20220306T195957Z-tld-query-delta-c0.nic.delta

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204416Z
+; source id: tld-query-nowruz.-b.ns.nic.nowruz.
+; source locator: b.ns.nic.nowruz.
+; source IP address: 72.42.113.10
+; backup point IP address: 111.42.148.76
+; status: success
+nowruz.			3599	IN	NS	b.ns.nic.nowruz.nowruz.			3599	IN	NS	a.ns.nic.nowruz.nowruz.			3599	IN	NS	ns1.anycastdns.cz.nowruz.			3599	IN	NS	ns2.anycastdns.cz.b.ns.nic.nowruz.	600	IN	A	72.42.113.10b.ns.nic.nowruz.	600	IN	AAAA	2620:171:d01:dc::10

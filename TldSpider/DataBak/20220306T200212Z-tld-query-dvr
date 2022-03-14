@@ -1,0 +1,10 @@
+; timestamp: 20220306T200212Z
+; source id: tld-query-dvr.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.dvr.:../TldSpider/DataBak/20220306T200212Z-tld-query-dvr-a0.nic.dvr
+a2.nic.dvr.:../TldSpider/DataBak/20220306T200212Z-tld-query-dvr-a2.nic.dvr
+b0.nic.dvr.:../TldSpider/DataBak/20220306T200212Z-tld-query-dvr-b0.nic.dvr
+c0.nic.dvr.:../TldSpider/DataBak/20220306T200212Z-tld-query-dvr-c0.nic.dvr

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194822Z
+; source id: tld-query-bo.-ns2.nic.fr.
+; source locator: ns2.nic.fr.
+; source IP address: 192.93.0.4
+; backup point IP address: 111.42.148.76
+; status: success
+bo.			1338	IN	NS	ns.dns.br.bo.			1338	IN	NS	ns.nic.bo.bo.			1338	IN	NS	ns2.nic.fr.bo.			1338	IN	NS	anycast.ns.nic.bo.ns2.nic.fr.		2716	IN	A	192.93.0.4ns2.nic.fr.		2717	IN	AAAA	2001:660:3005:1::1:2

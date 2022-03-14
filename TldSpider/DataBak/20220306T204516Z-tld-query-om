@@ -1,0 +1,12 @@
+; timestamp: 20220306T204516Z
+; source id: tld-query-om.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.registry.om.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-ns1.registry.om
+ns2.registry.om.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-ns2.registry.om
+cctld.beta.aridns.net.au.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-cctld.beta.aridns.net.au
+cctld.alpha.aridns.net.au.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-cctld.alpha.aridns.net.au
+cctld.delta.aridns.net.au.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-cctld.delta.aridns.net.au
+cctld.gamma.aridns.net.au.:../TldSpider/DataBak/20220306T204516Z-tld-query-om-cctld.gamma.aridns.net.au

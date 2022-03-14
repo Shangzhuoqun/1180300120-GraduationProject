@@ -1,0 +1,10 @@
+; timestamp: 20220306T200208Z
+; source id: tld-query-dvag.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.dvag.:../TldSpider/DataBak/20220306T200208Z-tld-query-dvag-a.nic.dvag
+b.nic.dvag.:../TldSpider/DataBak/20220306T200208Z-tld-query-dvag-b.nic.dvag
+c.nic.dvag.:../TldSpider/DataBak/20220306T200208Z-tld-query-dvag-c.nic.dvag
+d.nic.dvag.:../TldSpider/DataBak/20220306T200208Z-tld-query-dvag-d.nic.dvag

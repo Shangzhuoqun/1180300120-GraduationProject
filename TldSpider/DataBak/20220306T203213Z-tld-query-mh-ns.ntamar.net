@@ -1,0 +1,48 @@
+; timestamp: 20220306T203213Z
+; source id: tld-query-mh.-ns.ntamar.net.
+; source locator: ns.ntamar.net.
+; source IP address: 107
+; backup point IP address: 111.42.148.76
+; status: success
+mh.			28800	IN	NS	ns.amarshallinc.com.mh.			28800	IN	NS	ns.nta.mh.dig @117.103.88.33 ns.ntamar.net. A
+
+; <<>> DiG 9.16.23 <<>> @117.103.88.33 ns.ntamar.net. A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23908
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.ntamar.net.			IN	A
+
+;; AUTHORITY SECTION:
+ntamar.net.		1800	IN	SOA	rosalyn.ns.cloudflare.com. dns.cloudflare.com. 2034904223 10000 2400 604800 3600
+
+;; Query time: 354 msec
+;; SERVER: 117.103.88.33#53(117.103.88.33)
+;; WHEN: Sun Mar 06 20:32:19 ;; MSG SIZE  rcvd: 107
+
+dig @117.103.88.33 ns.ntamar.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @117.103.88.33 ns.ntamar.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 65240
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.ntamar.net.			IN	AAAA
+
+;; AUTHORITY SECTION:
+ntamar.net.		1800	IN	SOA	rosalyn.ns.cloudflare.com. dns.cloudflare.com. 2034904223 10000 2400 604800 3600
+
+;; Query time: 6 msec
+;; SERVER: 117.103.88.33#53(117.103.88.33)
+;; WHEN: Sun Mar 06 20:32:19 ;; MSG SIZE  rcvd: 107
+

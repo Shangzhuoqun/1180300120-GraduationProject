@@ -1,0 +1,7 @@
+; timestamp: 20220306T202309Z
+; source id: tld-query-jpmorgan.-ns5.dns.nic.jpmorgan.
+; source locator: ns5.dns.nic.jpmorgan.
+; source IP address: 156.154.157.92
+; backup point IP address: 111.42.148.76
+; status: success
+jpmorgan.		3596	IN	NS	ns2.dns.nic.jpmorgan.jpmorgan.		3596	IN	NS	ns3.dns.nic.jpmorgan.jpmorgan.		3596	IN	NS	ns1.dns.nic.jpmorgan.jpmorgan.		3596	IN	NS	ns6.dns.nic.jpmorgan.jpmorgan.		3596	IN	NS	ns4.dns.nic.jpmorgan.jpmorgan.		3596	IN	NS	ns5.dns.nic.jpmorgan.ns5.dns.nic.jpmorgan.	3596	IN	A	156.154.157.92ns5.dns.nic.jpmorgan.	3598	IN	AAAA	2610:a1:1075::5c

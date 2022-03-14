@@ -1,0 +1,7 @@
+; timestamp: 20220306T202823Z
+; source id: tld-query-ls.-ns-ls.afrinic.net.
+; source locator: ns-ls.afrinic.net.
+; source IP address: 196.216.168.70
+; backup point IP address: 111.42.148.76
+; status: success
+ls.			18000	IN	NS	ns1.nic.ls.ls.			18000	IN	NS	ns2.nic.ls.ls.			18000	IN	NS	ls-ns.anycast.pch.net.ls.			18000	IN	NS	ns-ls.afrinic.net.ns-ls.afrinic.net.	3600	IN	A	196.216.168.70ns-ls.afrinic.net.	2970	IN	AAAA	2001:43f8:120::70

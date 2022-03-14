@@ -1,0 +1,7 @@
+; timestamp: 20220306T200641Z
+; source id: tld-query-fm.-c.nic.fm.
+; source locator: c.nic.fm.
+; source IP address: 212.18.248.26
+; backup point IP address: 111.42.148.76
+; status: success
+fm.			86400	IN	NS	d.nic.fm.fm.			86400	IN	NS	c.nic.fm.fm.			86400	IN	NS	b.nic.fm.fm.			86400	IN	NS	e.nic.fm.fm.			86400	IN	NS	a.nic.fm.fm.			86400	IN	NS	f.nic.fm.c.nic.fm.		3599	IN	A	212.18.248.26c.nic.fm.		3599	IN	AAAA	2a04:2b00:13ee::26

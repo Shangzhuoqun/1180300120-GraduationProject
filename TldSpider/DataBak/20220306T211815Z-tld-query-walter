@@ -1,0 +1,10 @@
+; timestamp: 20220306T211815Z
+; source id: tld-query-walter.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.walter.:../TldSpider/DataBak/20220306T211815Z-tld-query-walter-a.nic.walter
+b.nic.walter.:../TldSpider/DataBak/20220306T211815Z-tld-query-walter-b.nic.walter
+c.nic.walter.:../TldSpider/DataBak/20220306T211815Z-tld-query-walter-c.nic.walter
+d.nic.walter.:../TldSpider/DataBak/20220306T211815Z-tld-query-walter-d.nic.walter

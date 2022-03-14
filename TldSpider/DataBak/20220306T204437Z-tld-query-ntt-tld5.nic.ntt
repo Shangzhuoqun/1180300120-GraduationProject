@@ -1,0 +1,7 @@
+; timestamp: 20220306T204437Z
+; source id: tld-query-ntt.-tld5.nic.ntt.
+; source locator: tld5.nic.ntt.
+; source IP address: 65.22.40.145
+; backup point IP address: 111.42.148.76
+; status: success
+ntt.			86400	IN	NS	tld2.nic.ntt.ntt.			86400	IN	NS	tld3.nic.ntt.ntt.			86400	IN	NS	tld5.nic.ntt.ntt.			86400	IN	NS	tld1.nic.ntt.tld5.nic.ntt.		3600	IN	A	65.22.40.145tld5.nic.ntt.		3600	IN	AAAA	2a01:8840:1ba::145

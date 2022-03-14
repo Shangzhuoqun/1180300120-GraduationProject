@@ -1,0 +1,27 @@
+; timestamp: 20220306T211347Z
+; source id: tld-query-ug.-root.eahd.or.ug.
+; source locator: root.eahd.or.ug.
+; source IP address: 212.88.97.132
+; backup point IP address: 111.42.148.76
+; status: success
+ug.			3599	IN	NS	ns-ug.afrinic.net.ug.			3599	IN	NS	ns.icann.org.ug.			3599	IN	NS	anycast.eahd.or.ug.ug.			3599	IN	NS	ug.cctld.authdns.ripe.net.ug.			3599	IN	NS	root.eahd.or.ug.root.eahd.or.ug.	3600	IN	A	212.88.97.132dig @212.88.97.132 root.eahd.or.ug. AAAA
+
+; <<>> DiG 9.16.23 <<>> @212.88.97.132 root.eahd.or.ug. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23197
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;root.eahd.or.ug.		IN	AAAA
+
+;; AUTHORITY SECTION:
+eahd.or.ug.		1253	IN	SOA	ns1.cfi.co.ug. mpeirwe.cfi.co.ug. 2015090333 10800 3600 604800 21600
+
+;; Query time: 22 msec
+;; SERVER: 212.88.97.132#53(212.88.97.132)
+;; WHEN: Sun Mar 06 21:13:50 ;; MSG SIZE  rcvd: 99
+

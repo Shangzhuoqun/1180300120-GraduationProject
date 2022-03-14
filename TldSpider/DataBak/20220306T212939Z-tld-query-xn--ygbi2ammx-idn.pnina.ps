@@ -1,0 +1,48 @@
+; timestamp: 20220306T212939Z
+; source id: tld-query-xn--ygbi2ammx.-idn.pnina.ps.
+; source locator: idn.pnina.ps.
+; source IP address: 103
+; backup point IP address: 111.42.148.76
+; status: success
+xn--ygbi2ammx.		3600	IN	NS	idn.pnina.ps.xn--ygbi2ammx.		3600	IN	NS	ns1.pnina.ps.xn--ygbi2ammx.		3600	IN	NS	dns3.gov.ps.xn--ygbi2ammx.		3600	IN	NS	ns1.gov.ps.xn--ygbi2ammx.		3600	IN	NS	dns1.gov.ps.xn--ygbi2ammx.		3600	IN	NS	ote.pnina.ps.dig @208.64.68.4 idn.pnina.ps. A
+
+; <<>> DiG 9.16.23 <<>> @208.64.68.4 idn.pnina.ps. A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7969
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;idn.pnina.ps.			IN	A
+
+;; AUTHORITY SECTION:
+pnina.ps.		1800	IN	SOA	bart.ns.cloudflare.com. dns.cloudflare.com. 2265400674 10000 2400 604800 3600
+
+;; Query time: 266 msec
+;; SERVER: 208.64.68.4#53(208.64.68.4)
+;; WHEN: Sun Mar 06 21:29:41 ;; MSG SIZE  rcvd: 103
+
+dig @208.64.68.4 idn.pnina.ps. AAAA
+
+; <<>> DiG 9.16.23 <<>> @208.64.68.4 idn.pnina.ps. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44886
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;idn.pnina.ps.			IN	AAAA
+
+;; AUTHORITY SECTION:
+pnina.ps.		1800	IN	SOA	bart.ns.cloudflare.com. dns.cloudflare.com. 2265400674 10000 2400 604800 3600
+
+;; Query time: 21 msec
+;; SERVER: 208.64.68.4#53(208.64.68.4)
+;; WHEN: Sun Mar 06 21:29:41 ;; MSG SIZE  rcvd: 103
+

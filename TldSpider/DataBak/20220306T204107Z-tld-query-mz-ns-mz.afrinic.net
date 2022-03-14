@@ -1,0 +1,7 @@
+; timestamp: 20220306T204107Z
+; source id: tld-query-mz.-ns-mz.afrinic.net.
+; source locator: ns-mz.afrinic.net.
+; source IP address: 196.216.168.40
+; backup point IP address: 111.42.148.76
+; status: success
+mz.			86400	IN	NS	zebra.uem.mz.mz.			86400	IN	NS	oceano.uem.mz.mz.			86400	IN	NS	phloem.uoregon.edu.mz.			86400	IN	NS	anyns.uem.mz.mz.			86400	IN	NS	dzowo.uem.mz.mz.			86400	IN	NS	ns-mz.afrinic.net.ns-mz.afrinic.net.	3600	IN	A	196.216.168.40ns-mz.afrinic.net.	3200	IN	AAAA	2001:43f8:120::40

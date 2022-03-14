@@ -1,0 +1,7 @@
+; timestamp: 20220306T202751Z
+; source id: tld-query-love.-ns3.uniregistry.net.
+; source locator: ns3.uniregistry.net.
+; source IP address: 185.159.197.3
+; backup point IP address: 111.42.148.76
+; status: success
+love.			599	IN	NS	ns2.uniregistry.info.love.			599	IN	NS	ns1.uniregistry.net.love.			599	IN	NS	ns4.uniregistry.info.love.			599	IN	NS	ns3.uniregistry.net.ns3.uniregistry.net.	1648	IN	A	185.159.197.3ns3.uniregistry.net.	2327	IN	AAAA	2620:10a:80aa::3

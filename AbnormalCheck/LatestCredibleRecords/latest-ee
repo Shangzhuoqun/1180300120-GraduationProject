@@ -1,0 +1,14 @@
+ee.	172800	in	ns	b.tld.ee.
+ee.	172800	in	ns	e.tld.ee.
+ee.	172800	in	ns	ee.aso.ee.
+ee.	172800	in	ns	ee.eenet.ee.
+ee.	172800	in	ns	ns.tld.ee.
+ee.aso.ee.	172800	in	a	213.184.51.122
+ee.aso.ee.	172800	in	aaaa	2a02:88:0:21:0:0:0:2
+ee.eenet.ee.	172800	in	a	193.40.132.5
+ee.eenet.ee.	172800	in	aaaa	2001:bb8:4001:0:0:0:0:53
+b.tld.ee.	172800	in	a	194.146.106.110
+b.tld.ee.	172800	in	aaaa	2001:67c:1010:28:0:0:0:53
+e.tld.ee.	172800	in	a	204.61.216.36
+e.tld.ee.	172800	in	aaaa	2001:678:94:53:0:0:0:53
+ns.tld.ee.	172800	in	a	195.43.87.10

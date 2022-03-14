@@ -1,0 +1,7 @@
+; timestamp: 20220306T205334Z
+; source id: tld-query-redstone.-a2.nic.redstone.
+; source locator: a2.nic.redstone.
+; source IP address: 65.22.135.17
+; backup point IP address: 111.42.148.76
+; status: success
+redstone.		3600	IN	NS	b0.nic.redstone.redstone.		3600	IN	NS	a2.nic.redstone.redstone.		3600	IN	NS	a0.nic.redstone.redstone.		3600	IN	NS	c0.nic.redstone.a2.nic.redstone.	599	IN	A	65.22.135.17a2.nic.redstone.	599	IN	AAAA	2a01:8840:85::17

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202646Z
+; source id: tld-query-lighting.-v2n0.nic.lighting.
+; source locator: v2n0.nic.lighting.
+; source IP address: 65.22.35.52
+; backup point IP address: 111.42.148.76
+; status: success
+lighting.		3598	IN	NS	v2n1.nic.lighting.lighting.		3598	IN	NS	v0n0.nic.lighting.lighting.		3598	IN	NS	v0n1.nic.lighting.lighting.		3598	IN	NS	v0n3.nic.lighting.lighting.		3598	IN	NS	v0n2.nic.lighting.lighting.		3598	IN	NS	v2n0.nic.lighting.v2n0.nic.lighting.	3599	IN	A	65.22.35.52v2n0.nic.lighting.	3598	IN	AAAA	2a01:8840:25::52

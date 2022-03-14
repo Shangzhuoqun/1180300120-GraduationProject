@@ -1,0 +1,10 @@
+; timestamp: 20220306T195159Z
+; source id: tld-query-car.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.car.:../TldSpider/DataBak/20220306T195159Z-tld-query-car-a.nic.car
+b.nic.car.:../TldSpider/DataBak/20220306T195159Z-tld-query-car-b.nic.car
+c.nic.car.:../TldSpider/DataBak/20220306T195159Z-tld-query-car-c.nic.car
+d.nic.car.:../TldSpider/DataBak/20220306T195159Z-tld-query-car-d.nic.car

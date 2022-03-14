@@ -1,0 +1,12 @@
+; timestamp: 20220306T202544Z
+; source id: tld-query-lanxess.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-a.nic.lanxess
+b.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-b.nic.lanxess
+c.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-c.nic.lanxess
+ns1.dns.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-ns1.dns.nic.lanxess
+ns2.dns.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-ns2.dns.nic.lanxess
+ns3.dns.nic.lanxess.:../TldSpider/DataBak/20220306T202544Z-tld-query-lanxess-ns3.dns.nic.lanxess

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202456Z
+; source id: tld-query-kpn.-a.nic.kpn.
+; source locator: a.nic.kpn.
+; source IP address: 194.169.218.90
+; backup point IP address: 111.42.148.76
+; status: success
+kpn.			172800	IN	NS	a.nic.kpn.kpn.			172800	IN	NS	b.nic.kpn.kpn.			172800	IN	NS	c.nic.kpn.kpn.			172800	IN	NS	d.nic.kpn.a.nic.kpn.		3600	IN	A	194.169.218.90a.nic.kpn.		3600	IN	AAAA	2001:67c:13cc::1:90

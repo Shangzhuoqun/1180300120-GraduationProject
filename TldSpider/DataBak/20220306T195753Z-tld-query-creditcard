@@ -1,0 +1,12 @@
+; timestamp: 20220306T195753Z
+; source id: tld-query-creditcard.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v0n0.nic.creditcard
+v0n1.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v0n1.nic.creditcard
+v0n2.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v0n2.nic.creditcard
+v0n3.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v0n3.nic.creditcard
+v2n0.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v2n0.nic.creditcard
+v2n1.nic.creditcard.:../TldSpider/DataBak/20220306T195753Z-tld-query-creditcard-v2n1.nic.creditcard

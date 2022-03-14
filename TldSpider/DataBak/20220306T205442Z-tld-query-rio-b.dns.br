@@ -1,0 +1,7 @@
+; timestamp: 20220306T205442Z
+; source id: tld-query-rio.-b.dns.br.
+; source locator: b.dns.br.
+; source IP address: 200.189.41.10
+; backup point IP address: 111.42.148.76
+; status: success
+rio.			3599	IN	NS	b.dns.br.rio.			3599	IN	NS	f.dns.br.rio.			3599	IN	NS	e.dns.br.rio.			3599	IN	NS	c.dns.br.rio.			3599	IN	NS	d.dns.br.rio.			3599	IN	NS	a.dns.br.b.dns.br.		647	IN	A	200.189.41.10b.dns.br.		647	IN	AAAA	2001:12f8:8::10

@@ -1,0 +1,27 @@
+; timestamp: 20220306T202203Z
+; source id: tld-query-jo.-jordan1st.nic.gov.jo.
+; source locator: jordan1st.nic.gov.jo.
+; source IP address: 193.188.69.19
+; backup point IP address: 111.42.148.76
+; status: success
+jo.			3600	IN	NS	rip.psg.com.jo.			3600	IN	NS	jo.cctld.authdns.ripe.net.jo.			3600	IN	NS	jordan1st.nic.gov.jo.jo.			3600	IN	NS	petra.nic.gov.jo.jo.			3600	IN	NS	amra.nic.gov.jo.jordan1st.nic.gov.jo.	3590	IN	A	193.188.69.19dig @193.188.69.19 jordan1st.nic.gov.jo. AAAA
+
+; <<>> DiG 9.16.23 <<>> @193.188.69.19 jordan1st.nic.gov.jo. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21359
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;jordan1st.nic.gov.jo.		IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.gov.jo.		1790	IN	SOA	petra.nic.gov.jo. dns.nitc.gov.jo. 2019080403 14400 3600 2592000 86400
+
+;; Query time: 4 msec
+;; SERVER: 193.188.69.19#53(193.188.69.19)
+;; WHEN: Sun Mar 06 20:22:16 ;; MSG SIZE  rcvd: 100
+

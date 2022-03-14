@@ -1,0 +1,9 @@
+; timestamp: 20220306T200950Z
+; source id: tld-query-gh.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.dns.br.:../TldSpider/DataBak/20220306T200950Z-tld-query-gh-ns.dns.br
+ns1.nic.gh.:../TldSpider/DataBak/20220306T200950Z-tld-query-gh-ns1.nic.gh
+ns2.nic.gh.:../TldSpider/DataBak/20220306T200950Z-tld-query-gh-ns2.nic.gh

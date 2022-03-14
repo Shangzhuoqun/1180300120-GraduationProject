@@ -1,0 +1,7 @@
+; timestamp: 20220306T194824Z
+; source id: tld-query-boats.-c.nic.boats.
+; source locator: c.nic.boats.
+; source IP address: 212.18.248.134
+; backup point IP address: 111.42.148.76
+; status: success
+boats.			1336	IN	NS	a.nic.boats.boats.			1336	IN	NS	d.nic.boats.boats.			1336	IN	NS	b.nic.boats.boats.			1336	IN	NS	c.nic.boats.c.nic.boats.		3598	IN	A	212.18.248.134c.nic.boats.		3598	IN	AAAA	2a04:2b00:13ee::134

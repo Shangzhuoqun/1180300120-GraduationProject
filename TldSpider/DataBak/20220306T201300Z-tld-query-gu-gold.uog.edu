@@ -1,0 +1,27 @@
+; timestamp: 20220306T201300Z
+; source id: tld-query-gu.-gold.uog.edu.
+; source locator: gold.uog.edu.
+; source IP address: 168.123.250.66
+; backup point IP address: 111.42.148.76
+; status: success
+gu.			3600	IN	NS	phloem.uoregon.edu.gu.			3600	IN	NS	gu.cctld.authdns.ripe.net.gu.			3600	IN	NS	green.uog.edu.gu.			3600	IN	NS	gold.uog.edu.gold.uog.edu.		3600	IN	A	168.123.250.66dig @168.123.250.66 gold.uog.edu. AAAA
+
+; <<>> DiG 9.16.23 <<>> @168.123.250.66 gold.uog.edu. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28395
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;gold.uog.edu.			IN	AAAA
+
+;; AUTHORITY SECTION:
+uog.edu.		1800	IN	SOA	green.uog.edu. uognoc.triton.uog.edu. 2022030400 3600 600 1209600 3600
+
+;; Query time: 425 msec
+;; SERVER: 168.123.250.66#53(168.123.250.66)
+;; WHEN: Sun Mar 06 20:13:02 ;; MSG SIZE  rcvd: 97
+

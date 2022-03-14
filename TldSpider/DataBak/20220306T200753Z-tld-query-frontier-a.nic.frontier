@@ -1,0 +1,7 @@
+; timestamp: 20220306T200753Z
+; source id: tld-query-frontier.-a.nic.frontier.
+; source locator: a.nic.frontier.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+frontier.		3600	IN	NS	b.nic.frontier.frontier.		3600	IN	NS	a.nic.frontier.frontier.		3600	IN	NS	c.nic.frontier.frontier.		3600	IN	NS	ns2.dns.nic.frontier.frontier.		3600	IN	NS	ns1.dns.nic.frontier.frontier.		3600	IN	NS	ns3.dns.nic.frontier.a.nic.frontier.		3600	IN	A	37.209.192.9a.nic.frontier.		3600	IN	AAAA	2001:dcd:1::9

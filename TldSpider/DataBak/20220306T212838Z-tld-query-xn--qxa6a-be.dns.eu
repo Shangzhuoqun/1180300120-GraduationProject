@@ -1,0 +1,7 @@
+; timestamp: 20220306T212838Z
+; source id: tld-query-xn--qxa6a.-be.dns.eu.
+; source locator: be.dns.eu.
+; source IP address: 149.38.1.26
+; backup point IP address: 111.42.148.76
+; status: success
+xn--qxa6a.		3599	IN	NS	w.dns.eu.xn--qxa6a.		3599	IN	NS	y.dns.eu.xn--qxa6a.		3599	IN	NS	si.dns.eu.xn--qxa6a.		3599	IN	NS	x.dns.eu.xn--qxa6a.		3599	IN	NS	be.dns.eu.be.dns.eu.		3288	IN	A	149.38.1.26be.dns.eu.		3288	IN	AAAA	2001:978:2:1::93:2

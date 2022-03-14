@@ -1,0 +1,7 @@
+; timestamp: 20220306T194439Z
+; source id: tld-query-ba.-una.utic.net.ba.
+; source locator: una.utic.net.ba.
+; source IP address: 204.61.216.117
+; backup point IP address: 111.42.148.76
+; status: success
+ba.			978	IN	NS	auth03.ns.uu.net.ba.			978	IN	NS	ns.ba.ba.			978	IN	NS	sava.utic.net.ba.ba.			978	IN	NS	una.utic.net.ba.una.utic.net.ba.	3600	IN	A	204.61.216.117una.utic.net.ba.	3600	IN	AAAA	2001:500:14:6117:ad::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204356Z
+; source id: tld-query-now.-dnsb.nic.now.
+; source locator: dnsb.nic.now.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+now.			3600	IN	NS	dnsa.nic.now.now.			3600	IN	NS	dns4.nic.now.now.			3600	IN	NS	dns3.nic.now.now.			3600	IN	NS	dnsb.nic.now.now.			3600	IN	NS	dnsc.nic.now.now.			3600	IN	NS	dns2.nic.now.now.			3600	IN	NS	dnsd.nic.now.now.			3600	IN	NS	dns1.nic.now.dnsb.nic.now.		3585	IN	A	156.154.101.3dnsb.nic.now.		3585	IN	AAAA	2001:502:2eda::3

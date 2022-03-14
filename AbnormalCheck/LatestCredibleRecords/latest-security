@@ -1,0 +1,12 @@
+security.	172800	in	ns	a.nic.security.
+security.	172800	in	ns	b.nic.security.
+security.	172800	in	ns	e.nic.security.
+security.	172800	in	ns	f.nic.security.
+a.nic.security.	172800	in	a	194.169.218.68
+a.nic.security.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:68
+b.nic.security.	172800	in	a	185.24.64.68
+b.nic.security.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:68
+e.nic.security.	172800	in	a	212.18.248.68
+e.nic.security.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:68
+f.nic.security.	172800	in	a	212.18.249.68
+f.nic.security.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:68

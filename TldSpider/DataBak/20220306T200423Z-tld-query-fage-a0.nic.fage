@@ -1,0 +1,7 @@
+; timestamp: 20220306T200423Z
+; source id: tld-query-fage.-a0.nic.fage.
+; source locator: a0.nic.fage.
+; source IP address: 65.22.156.33
+; backup point IP address: 111.42.148.76
+; status: success
+fage.			3600	IN	NS	b0.nic.fage.fage.			3600	IN	NS	c0.nic.fage.fage.			3600	IN	NS	a2.nic.fage.fage.			3600	IN	NS	a0.nic.fage.a0.nic.fage.		600	IN	A	65.22.156.33a0.nic.fage.		599	IN	AAAA	2a01:8840:9a::33

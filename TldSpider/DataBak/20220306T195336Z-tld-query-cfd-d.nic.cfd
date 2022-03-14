@@ -1,0 +1,7 @@
+; timestamp: 20220306T195336Z
+; source id: tld-query-cfd.-d.nic.cfd.
+; source locator: d.nic.cfd.
+; source IP address: 212.18.249.122
+; backup point IP address: 111.42.148.76
+; status: success
+cfd.			172800	IN	NS	a.nic.cfd.cfd.			172800	IN	NS	b.nic.cfd.cfd.			172800	IN	NS	c.nic.cfd.cfd.			172800	IN	NS	d.nic.cfd.d.nic.cfd.		1356	IN	A	212.18.249.122d.nic.cfd.		151200	IN	AAAA	2a04:2b00:13ff::122

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194817Z
+; source id: tld-query-bn.-ns4.apnic.net.
+; source locator: ns4.apnic.net.
+; source IP address: 202.12.31.53
+; backup point IP address: 111.42.148.76
+; status: success
+bn.			1342	IN	NS	NS2.BNNIC.bn.bn.			1342	IN	NS	NS4.APNIC.NET.bn.			1342	IN	NS	NS1.BNNIC.bn.bn.			1342	IN	NS	BN-NS.ANYCAST.PCH.NET.ns4.apnic.net.		1967	IN	A	202.12.31.53ns4.apnic.net.		1110	IN	AAAA	2001:dd8:12::53

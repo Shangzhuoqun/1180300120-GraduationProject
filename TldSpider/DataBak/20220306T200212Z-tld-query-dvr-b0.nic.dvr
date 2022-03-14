@@ -1,0 +1,7 @@
+; timestamp: 20220306T200212Z
+; source id: tld-query-dvr.-b0.nic.dvr.
+; source locator: b0.nic.dvr.
+; source IP address: 65.22.109.17
+; backup point IP address: 111.42.148.76
+; status: success
+dvr.			86400	IN	NS	a0.nic.dvr.dvr.			86400	IN	NS	c0.nic.dvr.dvr.			86400	IN	NS	a2.nic.dvr.dvr.			86400	IN	NS	b0.nic.dvr.b0.nic.dvr.		599	IN	A	65.22.109.17b0.nic.dvr.		598	IN	AAAA	2a01:8840:6b::17

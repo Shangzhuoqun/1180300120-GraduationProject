@@ -1,0 +1,12 @@
+; timestamp: 20220306T204059Z
+; source id: tld-query-my.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.my.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-a.nic.my
+a.mynic.centralnic-dns.com.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-a.mynic.centralnic-dns.com
+b.mynic.centralnic-dns.com.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-b.mynic.centralnic-dns.com
+c.mynic.centralnic-dns.com.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-c.mynic.centralnic-dns.com
+d.mynic.centralnic-dns.com.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-d.mynic.centralnic-dns.com
+a1.nic.my.:../TldSpider/DataBak/20220306T204059Z-tld-query-my-a1.nic.my

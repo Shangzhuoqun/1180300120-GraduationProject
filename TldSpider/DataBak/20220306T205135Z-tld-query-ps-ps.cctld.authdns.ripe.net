@@ -1,0 +1,7 @@
+; timestamp: 20220306T205135Z
+; source id: tld-query-ps.-ps.cctld.authdns.ripe.net.
+; source locator: ps.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.105
+; backup point IP address: 111.42.148.76
+; status: success
+ps.			86400	IN	NS	fork.sth.dnsnode.net.ps.			86400	IN	NS	ns1.pnina.ps.ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.ps.			86400	IN	NS	rip.psg.com.ps.			86400	IN	NS	dns1.gov.ps.ps.			86400	IN	NS	ote.pnina.ps.ps.			86400	IN	NS	ps-ns.anycast.pch.net.ps.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.105ps.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::105

@@ -1,0 +1,7 @@
+; timestamp: 20220306T195359Z
+; source id: tld-query-chat.-v0n1.nic.chat.
+; source locator: v0n1.nic.chat.
+; source IP address: 65.22.33.42
+; backup point IP address: 111.42.148.76
+; status: success
+chat.			1082	IN	NS	v0n3.nic.chat.chat.			1082	IN	NS	v0n0.nic.chat.chat.			1082	IN	NS	v0n2.nic.chat.chat.			1082	IN	NS	v2n0.nic.chat.chat.			1082	IN	NS	v2n1.nic.chat.chat.			1082	IN	NS	v0n1.nic.chat.v0n1.nic.chat.		1374	IN	A	65.22.33.42v0n1.nic.chat.		1373	IN	AAAA	2a01:8840:23::42

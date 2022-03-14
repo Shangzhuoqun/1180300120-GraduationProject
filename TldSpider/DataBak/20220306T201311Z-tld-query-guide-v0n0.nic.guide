@@ -1,0 +1,7 @@
+; timestamp: 20220306T201311Z
+; source id: tld-query-guide.-v0n0.nic.guide.
+; source locator: v0n0.nic.guide.
+; source IP address: 65.22.28.12
+; backup point IP address: 111.42.148.76
+; status: success
+guide.			3600	IN	NS	v2n1.nic.guide.guide.			3600	IN	NS	v0n2.nic.guide.guide.			3600	IN	NS	v0n3.nic.guide.guide.			3600	IN	NS	v2n0.nic.guide.guide.			3600	IN	NS	v0n1.nic.guide.guide.			3600	IN	NS	v0n0.nic.guide.v0n0.nic.guide.		3599	IN	A	65.22.28.12v0n0.nic.guide.		3599	IN	AAAA	2a01:8840:1e::12

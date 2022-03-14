@@ -1,0 +1,7 @@
+; timestamp: 20220306T194709Z
+; source id: tld-query-biz.-w.gtld.biz.
+; source locator: w.gtld.biz.
+; source IP address: 37.209.192.13
+; backup point IP address: 111.42.148.76
+; status: success
+biz.			1396	IN	NS	c.gtld.biz.biz.			1396	IN	NS	x.gtld.biz.biz.			1396	IN	NS	b.gtld.biz.biz.			1396	IN	NS	a.gtld.biz.biz.			1396	IN	NS	w.gtld.biz.biz.			1396	IN	NS	y.gtld.biz.w.gtld.biz.		3600	IN	A	37.209.192.13w.gtld.biz.		971	IN	AAAA	2001:dcd:1::13

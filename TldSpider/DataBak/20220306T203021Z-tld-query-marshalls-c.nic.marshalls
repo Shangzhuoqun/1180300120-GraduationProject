@@ -1,0 +1,7 @@
+; timestamp: 20220306T203021Z
+; source id: tld-query-marshalls.-c.nic.marshalls.
+; source locator: c.nic.marshalls.
+; source IP address: 37.209.196.9
+; backup point IP address: 111.42.148.76
+; status: success
+marshalls.		3598	IN	NS	b.nic.marshalls.marshalls.		3598	IN	NS	a.nic.marshalls.marshalls.		3598	IN	NS	ns1.dns.nic.marshalls.marshalls.		3598	IN	NS	ns3.dns.nic.marshalls.marshalls.		3598	IN	NS	c.nic.marshalls.marshalls.		3598	IN	NS	ns2.dns.nic.marshalls.c.nic.marshalls.	3599	IN	A	37.209.196.9c.nic.marshalls.	3599	IN	AAAA	2001:dcd:3::9

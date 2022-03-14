@@ -1,0 +1,10 @@
+; timestamp: 20220306T210405Z
+; source id: tld-query-statebank.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.statebank.:../TldSpider/DataBak/20220306T210405Z-tld-query-statebank-a0.nic.statebank
+a2.nic.statebank.:../TldSpider/DataBak/20220306T210405Z-tld-query-statebank-a2.nic.statebank
+b0.nic.statebank.:../TldSpider/DataBak/20220306T210405Z-tld-query-statebank-b0.nic.statebank
+c0.nic.statebank.:../TldSpider/DataBak/20220306T210405Z-tld-query-statebank-c0.nic.statebank

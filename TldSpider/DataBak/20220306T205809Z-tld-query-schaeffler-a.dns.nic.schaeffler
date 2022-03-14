@@ -1,0 +1,7 @@
+; timestamp: 20220306T205809Z
+; source id: tld-query-schaeffler.-a.dns.nic.schaeffler.
+; source locator: a.dns.nic.schaeffler.
+; source IP address: 194.0.25.34
+; backup point IP address: 111.42.148.76
+; status: success
+schaeffler.		3600	IN	NS	a.dns.nic.schaeffler.schaeffler.		3600	IN	NS	n.dns.nic.schaeffler.schaeffler.		3600	IN	NS	m.dns.nic.schaeffler.a.dns.nic.schaeffler.	3600	IN	A	194.0.25.34a.dns.nic.schaeffler.	3599	IN	AAAA	2001:678:20::34

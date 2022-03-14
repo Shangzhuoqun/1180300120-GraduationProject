@@ -1,0 +1,7 @@
+; timestamp: 20220306T193954Z
+; source id: tld-query-abarth.-b0.nic.abarth.
+; source locator: b0.nic.abarth.
+; source IP address: 65.22.25.17
+; backup point IP address: 111.42.148.76
+; status: success
+abarth.			1690	IN	NS	b0.nic.abarth.abarth.			1690	IN	NS	c0.nic.abarth.abarth.			1690	IN	NS	a0.nic.abarth.abarth.			1690	IN	NS	a2.nic.abarth.b0.nic.abarth.		599	IN	A	65.22.25.17b0.nic.abarth.		599	IN	AAAA	2a01:8840:1b::17

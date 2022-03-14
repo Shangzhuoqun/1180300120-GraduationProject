@@ -1,0 +1,12 @@
+; timestamp: 20220306T211457Z
+; source id: tld-query-uol.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-a.dns.br
+b.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-b.dns.br
+c.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-c.dns.br
+d.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-d.dns.br
+e.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-e.dns.br
+f.dns.br.:../TldSpider/DataBak/20220306T211457Z-tld-query-uol-f.dns.br

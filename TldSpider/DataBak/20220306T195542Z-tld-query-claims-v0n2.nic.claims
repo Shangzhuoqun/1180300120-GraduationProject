@@ -1,0 +1,7 @@
+; timestamp: 20220306T195542Z
+; source id: tld-query-claims.-v0n2.nic.claims.
+; source locator: v0n2.nic.claims.
+; source IP address: 65.22.22.60
+; backup point IP address: 111.42.148.76
+; status: success
+claims.			1011	IN	NS	v0n2.nic.claims.claims.			1011	IN	NS	v0n1.nic.claims.claims.			1011	IN	NS	v2n1.nic.claims.claims.			1011	IN	NS	v0n3.nic.claims.claims.			1011	IN	NS	v0n0.nic.claims.claims.			1011	IN	NS	v2n0.nic.claims.v0n2.nic.claims.	3599	IN	A	65.22.22.60v0n2.nic.claims.	3599	IN	AAAA	2a01:8840:18::60

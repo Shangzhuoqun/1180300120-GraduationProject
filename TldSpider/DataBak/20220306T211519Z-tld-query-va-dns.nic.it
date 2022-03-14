@@ -1,0 +1,7 @@
+; timestamp: 20220306T211519Z
+; source id: tld-query-va.-dns.nic.it.
+; source locator: dns.nic.it.
+; source IP address: 192.12.192.5
+; backup point IP address: 111.42.148.76
+; status: success
+va.			3600	IN	NS	michael.vatican.va.va.			3600	IN	NS	osiris.namex.it.va.			3600	IN	NS	john.vatican.va.va.			3600	IN	NS	dns.nic.it.va.			3600	IN	NS	va.cctld.authdns.ripe.net.va.			3600	IN	NS	seth.namex.it.dns.nic.it.		3107	IN	A	192.12.192.5dns.nic.it.		3252	IN	AAAA	2a00:d40:1:1::5

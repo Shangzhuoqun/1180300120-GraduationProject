@@ -1,0 +1,7 @@
+; timestamp: 20220306T204107Z
+; source id: tld-query-mz.-phloem.uoregon.edu.
+; source locator: phloem.uoregon.edu.
+; source IP address: 128.223.32.35
+; backup point IP address: 111.42.148.76
+; status: success
+mz.			3600	IN	NS	zebra.uem.mz.mz.			3600	IN	NS	oceano.uem.mz.mz.			3600	IN	NS	anyns.uem.mz.mz.			3600	IN	NS	ns-mz.afrinic.net.mz.			3600	IN	NS	dzowo.uem.mz.mz.			3600	IN	NS	phloem.uoregon.edu.phloem.uoregon.edu.	1898	IN	A	128.223.32.35phloem.uoregon.edu.	1837	IN	AAAA	2001:468:d01:20::80df:2023

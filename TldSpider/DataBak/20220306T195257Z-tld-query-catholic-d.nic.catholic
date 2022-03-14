@@ -1,0 +1,7 @@
+; timestamp: 20220306T195257Z
+; source id: tld-query-catholic.-d.nic.catholic.
+; source locator: d.nic.catholic.
+; source IP address: 37.209.198.9
+; backup point IP address: 111.42.148.76
+; status: success
+catholic.		1120	IN	NS	c.nic.catholic.catholic.		1120	IN	NS	b.nic.catholic.catholic.		1120	IN	NS	a.nic.catholic.catholic.		1120	IN	NS	d.nic.catholic.d.nic.catholic.		3599	IN	A	37.209.198.9d.nic.catholic.		3599	IN	AAAA	2001:dcd:4::9

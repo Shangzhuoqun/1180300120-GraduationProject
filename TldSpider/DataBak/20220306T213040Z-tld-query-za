@@ -1,0 +1,9 @@
+; timestamp: 20220306T213040Z
+; source id: tld-query-za.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+za1.dnsnode.net.:../TldSpider/DataBak/20220306T213040Z-tld-query-za-za1.dnsnode.net
+nsza.is.co.za.:../TldSpider/DataBak/20220306T213040Z-tld-query-za-nsza.is.co.za
+za-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T213040Z-tld-query-za-za-ns.anycast.pch.net

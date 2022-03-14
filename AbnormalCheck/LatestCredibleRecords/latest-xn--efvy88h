@@ -1,0 +1,16 @@
+a.zdnscloud.com.	172800	in	a	203.99.24.1
+b.zdnscloud.com.	172800	in	a	203.99.25.1
+c.zdnscloud.com.	172800	in	a	203.99.26.1
+d.zdnscloud.com.	172800	in	a	203.99.27.1
+f.zdnscloud.com.	172800	in	a	114.67.16.204
+g.zdnscloud.com.	172800	in	a	42.62.2.16
+i.zdnscloud.com.	172800	in	aaaa	2401:8d00:1:0:0:0:0:1
+j.zdnscloud.com.	172800	in	aaaa	2401:8d00:2:0:0:0:0:1
+xn--efvy88h.	172800	in	ns	a.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	b.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	c.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	d.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	f.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	g.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	i.zdnscloud.com.
+xn--efvy88h.	172800	in	ns	j.zdnscloud.com.

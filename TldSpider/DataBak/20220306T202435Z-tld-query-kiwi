@@ -1,0 +1,8 @@
+; timestamp: 20220306T202435Z
+; source id: tld-query-kiwi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.ns.nic.kiwi.:../TldSpider/DataBak/20220306T202435Z-tld-query-kiwi-a.ns.nic.kiwi
+b.ns.nic.kiwi.:../TldSpider/DataBak/20220306T202435Z-tld-query-kiwi-b.ns.nic.kiwi

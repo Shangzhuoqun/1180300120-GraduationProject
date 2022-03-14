@@ -1,0 +1,8 @@
+mm.	172800	in	ns	a.nic.net.mm.
+mm.	172800	in	ns	b.nic.net.mm.
+mm.	172800	in	ns	c.nic.net.mm.
+mm.	172800	in	ns	d.nic.net.mm.
+a.nic.net.mm.	172800	in	a	37.209.192.4
+b.nic.net.mm.	172800	in	a	37.209.194.4
+c.nic.net.mm.	172800	in	a	37.209.196.4
+d.nic.net.mm.	172800	in	a	37.209.198.4

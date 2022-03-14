@@ -1,0 +1,17 @@
+tr.	172800	in	ns	ns31.nic.tr.
+tr.	172800	in	ns	ns34.nic.tr.
+tr.	172800	in	ns	ns35.nic.tr.
+tr.	172800	in	ns	ns41.nic.tr.
+tr.	172800	in	ns	ns42.nic.tr.
+tr.	172800	in	ns	ns61.nic.tr.
+tr.	172800	in	ns	ns71.nic.tr.
+ns31.nic.tr.	172800	in	a	31.210.155.2
+ns34.nic.tr.	172800	in	a	31.145.139.99
+ns35.nic.tr.	172800	in	a	31.145.139.119
+ns41.nic.tr.	172800	in	a	185.7.0.2
+ns41.nic.tr.	172800	in	aaaa	2001:a98:10:eeee:0:0:0:41
+ns42.nic.tr.	172800	in	a	185.7.0.3
+ns42.nic.tr.	172800	in	aaaa	2001:a98:10:eeee:0:0:0:42
+ns61.nic.tr.	172800	in	a	206.51.254.1
+ns61.nic.tr.	172800	in	aaaa	2620:171:804:ad2:0:0:0:1
+ns71.nic.tr.	172800	in	a	185.67.32.53

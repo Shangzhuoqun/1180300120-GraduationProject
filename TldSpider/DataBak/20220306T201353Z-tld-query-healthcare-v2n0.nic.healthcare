@@ -1,0 +1,7 @@
+; timestamp: 20220306T201353Z
+; source id: tld-query-healthcare.-v2n0.nic.healthcare.
+; source locator: v2n0.nic.healthcare.
+; source IP address: 65.22.31.15
+; backup point IP address: 111.42.148.76
+; status: success
+healthcare.		3598	IN	NS	v0n2.nic.healthcare.healthcare.		3598	IN	NS	v0n1.nic.healthcare.healthcare.		3598	IN	NS	v2n1.nic.healthcare.healthcare.		3598	IN	NS	v0n0.nic.healthcare.healthcare.		3598	IN	NS	v2n0.nic.healthcare.healthcare.		3598	IN	NS	v0n3.nic.healthcare.v2n0.nic.healthcare.	3599	IN	A	65.22.31.15v2n0.nic.healthcare.	3598	IN	AAAA	2a01:8840:21::15

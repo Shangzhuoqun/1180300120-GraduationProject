@@ -1,0 +1,7 @@
+; timestamp: 20220306T210805Z
+; source id: tld-query-technology.-v2n1.nic.technology.
+; source locator: v2n1.nic.technology.
+; source IP address: 161.232.15.37
+; backup point IP address: 111.42.148.76
+; status: success
+technology.		3598	IN	NS	v0n0.nic.technology.technology.		3598	IN	NS	v0n3.nic.technology.technology.		3598	IN	NS	v0n2.nic.technology.technology.		3598	IN	NS	v2n0.nic.technology.technology.		3598	IN	NS	v0n1.nic.technology.technology.		3598	IN	NS	v2n1.nic.technology.v2n1.nic.technology.	3600	IN	A	161.232.15.37v2n1.nic.technology.	3600	IN	AAAA	2a01:8840:f9::37

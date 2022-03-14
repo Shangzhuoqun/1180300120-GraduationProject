@@ -1,0 +1,7 @@
+; timestamp: 20220306T200720Z
+; source id: tld-query-forum.-a.nic.forum.
+; source locator: a.nic.forum.
+; source IP address: 194.169.218.65
+; backup point IP address: 111.42.148.76
+; status: success
+forum.			3600	IN	NS	b.nic.forum.forum.			3600	IN	NS	d.nic.forum.forum.			3600	IN	NS	a.nic.forum.forum.			3600	IN	NS	c.nic.forum.a.nic.forum.		3600	IN	A	194.169.218.65a.nic.forum.		3600	IN	AAAA	2001:67c:13cc::1:65

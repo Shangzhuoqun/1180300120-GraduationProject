@@ -1,0 +1,27 @@
+; timestamp: 20220306T202507Z
+; source id: tld-query-kr.-c.dns.kr.
+; source locator: c.dns.kr.
+; source IP address: 210.101.61.1
+; backup point IP address: 111.42.148.76
+; status: success
+kr.			86400	IN	NS	c.dns.kr.kr.			86400	IN	NS	b.dns.kr.kr.			86400	IN	NS	e.dns.kr.kr.			86400	IN	NS	f.dns.kr.kr.			86400	IN	NS	g.dns.kr.kr.			86400	IN	NS	d.dns.kr.c.dns.kr.		2959	IN	A	210.101.61.1dig @210.101.61.1 c.dns.kr. AAAA
+
+; <<>> DiG 9.16.23 <<>> @210.101.61.1 c.dns.kr. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54429
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;c.dns.kr.			IN	AAAA
+
+;; AUTHORITY SECTION:
+dns.kr.			1800	IN	SOA	g.dns.kr. domain-manager.nic.or.kr. 1904030500 3600 900 604800 86400
+
+;; Query time: 14 msec
+;; SERVER: 210.101.61.1#53(210.101.61.1)
+;; WHEN: Sun Mar 06 20:25:09 ;; MSG SIZE  rcvd: 97
+

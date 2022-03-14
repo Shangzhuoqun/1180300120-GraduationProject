@@ -1,0 +1,7 @@
+; timestamp: 20220306T201459Z
+; source id: tld-query-hn.-pch-anycast.rds.org.hn.
+; source locator: pch-anycast.rds.org.hn.
+; source IP address: 204.61.216.64
+; backup point IP address: 111.42.148.76
+; status: success
+hn.			3600	IN	NS	pch-anycast.rds.org.hn.hn.			3600	IN	NS	a.lactld.org.pch-anycast.rds.org.hn.	600	IN	A	204.61.216.64pch-anycast.rds.org.hn.	597	IN	AAAA	2001:500:14:6064:ad::1

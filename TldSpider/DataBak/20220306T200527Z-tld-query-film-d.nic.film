@@ -1,0 +1,7 @@
+; timestamp: 20220306T200527Z
+; source id: tld-query-film.-d.nic.film.
+; source locator: d.nic.film.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+film.			3597	IN	NS	a.nic.film.film.			3597	IN	NS	c.nic.film.film.			3597	IN	NS	b.nic.film.film.			3597	IN	NS	d.nic.film.d.nic.film.		3598	IN	A	37.209.198.10d.nic.film.		3597	IN	AAAA	2001:dcd:4::10

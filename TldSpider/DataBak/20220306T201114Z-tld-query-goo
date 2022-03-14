@@ -1,0 +1,10 @@
+; timestamp: 20220306T201114Z
+; source id: tld-query-goo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.gmoregistry.net.:../TldSpider/DataBak/20220306T201114Z-tld-query-goo-a.gmoregistry.net
+b.gmoregistry.net.:../TldSpider/DataBak/20220306T201114Z-tld-query-goo-b.gmoregistry.net
+k.gmoregistry.net.:../TldSpider/DataBak/20220306T201114Z-tld-query-goo-k.gmoregistry.net
+l.gmoregistry.net.:../TldSpider/DataBak/20220306T201114Z-tld-query-goo-l.gmoregistry.net

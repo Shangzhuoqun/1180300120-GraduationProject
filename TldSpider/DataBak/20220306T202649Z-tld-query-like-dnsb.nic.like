@@ -1,0 +1,7 @@
+; timestamp: 20220306T202649Z
+; source id: tld-query-like.-dnsb.nic.like.
+; source locator: dnsb.nic.like.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+like.			3598	IN	NS	dnsc.nic.like.like.			3598	IN	NS	dnsb.nic.like.like.			3598	IN	NS	dns3.nic.like.like.			3598	IN	NS	dns4.nic.like.like.			3598	IN	NS	dns1.nic.like.like.			3598	IN	NS	dnsd.nic.like.like.			3598	IN	NS	dns2.nic.like.like.			3598	IN	NS	dnsa.nic.like.dnsb.nic.like.		3600	IN	A	156.154.101.3dnsb.nic.like.		3600	IN	AAAA	2001:502:2eda::3

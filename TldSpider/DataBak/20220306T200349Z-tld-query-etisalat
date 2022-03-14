@@ -1,0 +1,10 @@
+; timestamp: 20220306T200349Z
+; source id: tld-query-etisalat.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.etisalat.:../TldSpider/DataBak/20220306T200349Z-tld-query-etisalat-a.nic.etisalat
+b.nic.etisalat.:../TldSpider/DataBak/20220306T200349Z-tld-query-etisalat-b.nic.etisalat
+c.nic.etisalat.:../TldSpider/DataBak/20220306T200349Z-tld-query-etisalat-c.nic.etisalat
+d.nic.etisalat.:../TldSpider/DataBak/20220306T200349Z-tld-query-etisalat-d.nic.etisalat

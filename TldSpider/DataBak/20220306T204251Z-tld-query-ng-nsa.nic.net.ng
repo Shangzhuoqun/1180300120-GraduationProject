@@ -1,0 +1,27 @@
+; timestamp: 20220306T204251Z
+; source id: tld-query-ng.-nsa.nic.net.ng.
+; source locator: nsa.nic.net.ng.
+; source IP address: 41.222.79.3
+; backup point IP address: 111.42.148.76
+; status: success
+ng.			3600	IN	NS	ns1.nic.net.ng.ng.			3600	IN	NS	nsa.nic.net.ng.ng.			3600	IN	NS	ns2.nic.net.ng.ng.			3600	IN	NS	ns5.nic.net.ng.nsa.nic.net.ng.		3600	IN	A	41.222.79.3dig @41.222.79.3 nsa.nic.net.ng. AAAA
+
+; <<>> DiG 9.16.23 <<>> @41.222.79.3 nsa.nic.net.ng. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62625
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;nsa.nic.net.ng.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.net.ng.		1800	IN	SOA	nsa.nic.net.ng. hostmaster.nira.org.ng. 2021032113 10800 3600 604800 3600
+
+;; Query time: 651 msec
+;; SERVER: 41.222.79.3#53(41.222.79.3)
+;; WHEN: Sun Mar 06 20:42:55 ;; MSG SIZE  rcvd: 99
+

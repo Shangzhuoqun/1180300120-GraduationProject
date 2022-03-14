@@ -1,0 +1,7 @@
+; timestamp: 20220306T211236Z
+; source id: tld-query-travelersinsurance.-a2.nic.travelersinsurance.
+; source locator: a2.nic.travelersinsurance.
+; source IP address: 65.22.203.17
+; backup point IP address: 111.42.148.76
+; status: success
+travelersinsurance.	3598	IN	NS	a0.nic.travelersinsurance.travelersinsurance.	3598	IN	NS	c0.nic.travelersinsurance.travelersinsurance.	3598	IN	NS	a2.nic.travelersinsurance.travelersinsurance.	3598	IN	NS	b0.nic.travelersinsurance.a2.nic.travelersinsurance. 599	IN	A	65.22.203.17a2.nic.travelersinsurance. 599	IN	AAAA	2a01:8840:c5::17

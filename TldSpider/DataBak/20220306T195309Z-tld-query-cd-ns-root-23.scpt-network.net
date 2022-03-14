@@ -1,0 +1,27 @@
+; timestamp: 20220306T195309Z
+; source id: tld-query-cd.-ns-root-23.scpt-network.net.
+; source locator: ns-root-23.scpt-network.net.
+; source IP address: 161.97.87.130
+; backup point IP address: 111.42.148.76
+; status: success
+cd.			86400	IN	NS	pch.nic.cd.cd.			86400	IN	NS	gransy-anycast1.nic.cd.cd.			86400	IN	NS	gransy-anycast2.nic.cd.ns-root-23.scpt-network.net. 2834 IN	A	161.97.87.130dig @161.97.87.130 ns-root-23.scpt-network.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @161.97.87.130 ns-root-23.scpt-network.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11782
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns-root-23.scpt-network.net.	IN	AAAA
+
+;; AUTHORITY SECTION:
+scpt-network.net.	1800	IN	SOA	ns1.shivanet.net. root.bh-61.webhostbox.net. 2022030600 86400 7200 3600000 86400
+
+;; Query time: 266 msec
+;; SERVER: 161.97.87.130#53(161.97.87.130)
+;; WHEN: Sun Mar 06 19:53:23 ;; MSG SIZE  rcvd: 127
+

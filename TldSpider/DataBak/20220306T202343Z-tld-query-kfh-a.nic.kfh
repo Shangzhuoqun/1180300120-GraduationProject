@@ -1,0 +1,7 @@
+; timestamp: 20220306T202343Z
+; source id: tld-query-kfh.-a.nic.kfh.
+; source locator: a.nic.kfh.
+; source IP address: 194.169.218.43
+; backup point IP address: 111.42.148.76
+; status: success
+kfh.			172800	IN	NS	c.nic.kfh.kfh.			172800	IN	NS	a.nic.kfh.kfh.			172800	IN	NS	d.nic.kfh.kfh.			172800	IN	NS	b.nic.kfh.a.nic.kfh.		3597	IN	A	194.169.218.43a.nic.kfh.		3600	IN	AAAA	2001:67c:13cc::1:43

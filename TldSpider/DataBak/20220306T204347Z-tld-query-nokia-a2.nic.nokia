@@ -1,0 +1,7 @@
+; timestamp: 20220306T204347Z
+; source id: tld-query-nokia.-a2.nic.nokia.
+; source locator: a2.nic.nokia.
+; source IP address: 65.22.151.17
+; backup point IP address: 111.42.148.76
+; status: success
+nokia.			3599	IN	NS	b0.nic.nokia.nokia.			3599	IN	NS	a2.nic.nokia.nokia.			3599	IN	NS	a0.nic.nokia.nokia.			3599	IN	NS	c0.nic.nokia.a2.nic.nokia.		600	IN	A	65.22.151.17a2.nic.nokia.		600	IN	AAAA	2a01:8840:95::17

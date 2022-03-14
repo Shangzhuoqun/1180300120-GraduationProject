@@ -1,0 +1,7 @@
+; timestamp: 20220306T213042Z
+; source id: tld-query-zappos.-dnsa.nic.zappos.
+; source locator: dnsa.nic.zappos.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+zappos.			3596	IN	NS	dns1.nic.zappos.zappos.			3596	IN	NS	dns3.nic.zappos.zappos.			3596	IN	NS	dnsc.nic.zappos.zappos.			3596	IN	NS	dnsd.nic.zappos.zappos.			3596	IN	NS	dns4.nic.zappos.zappos.			3596	IN	NS	dns2.nic.zappos.zappos.			3596	IN	NS	dnsb.nic.zappos.zappos.			3596	IN	NS	dnsa.nic.zappos.dnsa.nic.zappos.	3596	IN	A	156.154.100.3dnsa.nic.zappos.	3598	IN	AAAA	2001:502:ad09::3

@@ -1,0 +1,12 @@
+; timestamp: 20220306T210606Z
+; source id: tld-query-taipei.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-a.nic.taipei
+b.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-b.nic.taipei
+c.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-c.nic.taipei
+ns1.dns.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-ns1.dns.nic.taipei
+ns2.dns.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-ns2.dns.nic.taipei
+ns3.dns.nic.taipei.:../TldSpider/DataBak/20220306T210606Z-tld-query-taipei-ns3.dns.nic.taipei

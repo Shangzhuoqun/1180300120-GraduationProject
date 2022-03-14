@@ -1,0 +1,7 @@
+; timestamp: 20220306T195128Z
+; source id: tld-query-call.-dnsa.nic.call.
+; source locator: dnsa.nic.call.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+call.			1185	IN	NS	dns1.nic.call.call.			1185	IN	NS	dnsd.nic.call.call.			1185	IN	NS	dnsb.nic.call.call.			1185	IN	NS	dns3.nic.call.call.			1185	IN	NS	dnsc.nic.call.call.			1185	IN	NS	dns2.nic.call.call.			1185	IN	NS	dns4.nic.call.call.			1185	IN	NS	dnsa.nic.call.dnsa.nic.call.		3598	IN	A	156.154.100.3dnsa.nic.call.		3598	IN	AAAA	2001:502:ad09::3

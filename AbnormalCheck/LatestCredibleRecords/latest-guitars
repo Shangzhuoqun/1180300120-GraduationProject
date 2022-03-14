@@ -1,0 +1,11 @@
+guitars.	172800	in	ns	ns1.uniregistry.net.
+guitars.	172800	in	ns	ns2.uniregistry.info.
+guitars.	172800	in	ns	ns3.uniregistry.net.
+guitars.	172800	in	ns	ns4.uniregistry.info.
+ns2.uniregistry.info.	172800	in	a	64.96.2.1
+ns4.uniregistry.info.	172800	in	a	185.159.198.3
+ns4.uniregistry.info.	172800	in	aaaa	2620:10a:80ab:0:0:0:0:3
+ns1.uniregistry.net.	172800	in	a	64.96.1.1
+ns1.uniregistry.net.	172800	in	aaaa	2620:57:4000:1:0:0:0:1
+ns3.uniregistry.net.	172800	in	a	185.159.197.3
+ns3.uniregistry.net.	172800	in	aaaa	2620:10a:80aa:0:0:0:0:3

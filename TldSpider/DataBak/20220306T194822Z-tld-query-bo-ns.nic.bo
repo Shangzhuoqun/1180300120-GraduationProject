@@ -1,0 +1,27 @@
+; timestamp: 20220306T194822Z
+; source id: tld-query-bo.-ns.nic.bo.
+; source locator: ns.nic.bo.
+; source IP address: 166.114.1.40
+; backup point IP address: 111.42.148.76
+; status: success
+bo.			17600	IN	NS	ns.dns.br.bo.			17600	IN	NS	ns.nic.bo.bo.			17600	IN	NS	ns2.nic.fr.bo.			17600	IN	NS	anycast.ns.nic.bo.ns.nic.bo.		3600	IN	A	166.114.1.40dig @166.114.1.40 ns.nic.bo. AAAA
+
+; <<>> DiG 9.16.23 <<>> @166.114.1.40 ns.nic.bo. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45169
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.nic.bo.			IN	AAAA
+
+;; AUTHORITY SECTION:
+bo.			900	IN	SOA	ns.nic.bo. soporte.nic.bo. 2022030602 900 450 18144007 900
+
+;; Query time: 199 msec
+;; SERVER: 166.114.1.40#53(166.114.1.40)
+;; WHEN: Sun Mar 06 19:48:23 ;; MSG SIZE  rcvd: 82
+

@@ -1,0 +1,12 @@
+; timestamp: 20220306T194054Z
+; source id: tld-query-aetna.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-a.nic.aetna
+b.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-b.nic.aetna
+c.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-c.nic.aetna
+ns1.dns.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-ns1.dns.nic.aetna
+ns2.dns.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-ns2.dns.nic.aetna
+ns3.dns.nic.aetna.:../TldSpider/DataBak/20220306T194054Z-tld-query-aetna-ns3.dns.nic.aetna

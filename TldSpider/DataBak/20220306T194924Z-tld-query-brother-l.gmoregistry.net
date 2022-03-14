@@ -1,0 +1,7 @@
+; timestamp: 20220306T194924Z
+; source id: tld-query-brother.-l.gmoregistry.net.
+; source locator: l.gmoregistry.net.
+; source IP address: 37.209.198.4
+; backup point IP address: 111.42.148.76
+; status: success
+brother.		1289	IN	NS	a.gmoregistry.net.brother.		1289	IN	NS	k.gmoregistry.net.brother.		1289	IN	NS	b.gmoregistry.net.brother.		1289	IN	NS	l.gmoregistry.net.l.gmoregistry.net.	3593	IN	A	37.209.198.4l.gmoregistry.net.	3593	IN	AAAA	2001:dcd:4::4

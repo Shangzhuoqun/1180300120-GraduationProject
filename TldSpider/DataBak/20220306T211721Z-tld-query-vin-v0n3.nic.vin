@@ -1,0 +1,7 @@
+; timestamp: 20220306T211721Z
+; source id: tld-query-vin.-v0n3.nic.vin.
+; source locator: v0n3.nic.vin.
+; source IP address: 161.232.14.21
+; backup point IP address: 111.42.148.76
+; status: success
+vin.			3600	IN	NS	v2n1.nic.vin.vin.			3600	IN	NS	v0n1.nic.vin.vin.			3600	IN	NS	v0n3.nic.vin.vin.			3600	IN	NS	v0n2.nic.vin.vin.			3600	IN	NS	v2n0.nic.vin.vin.			3600	IN	NS	v0n0.nic.vin.v0n3.nic.vin.		3600	IN	A	161.232.14.21v0n3.nic.vin.		1217	IN	AAAA	2a01:8840:f8::21

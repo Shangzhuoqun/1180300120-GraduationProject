@@ -1,0 +1,7 @@
+; timestamp: 20220306T195715Z
+; source id: tld-query-company.-v2n1.nic.company.
+; source locator: v2n1.nic.company.
+; source IP address: 161.232.13.36
+; backup point IP address: 111.42.148.76
+; status: success
+company.		935	IN	NS	v2n1.nic.company.company.		935	IN	NS	v2n0.nic.company.company.		935	IN	NS	v0n0.nic.company.company.		935	IN	NS	v0n3.nic.company.company.		935	IN	NS	v0n1.nic.company.company.		935	IN	NS	v0n2.nic.company.v2n1.nic.company.	3600	IN	A	161.232.13.36v2n1.nic.company.	3600	IN	AAAA	2a01:8840:f7::36

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204516Z
+; source id: tld-query-om.-cctld.delta.aridns.net.au.
+; source locator: cctld.delta.aridns.net.au.
+; source IP address: 37.209.198.6
+; backup point IP address: 111.42.148.76
+; status: success
+om.			86400	IN	NS	cctld.gamma.aridns.net.au.om.			86400	IN	NS	cctld.delta.aridns.net.au.om.			86400	IN	NS	ns1.registry.om.om.			86400	IN	NS	cctld.beta.aridns.net.au.om.			86400	IN	NS	cctld.alpha.aridns.net.au.om.			86400	IN	NS	ns2.registry.om.cctld.delta.aridns.net.au. 3600	IN	A	37.209.198.6cctld.delta.aridns.net.au. 3600	IN	AAAA	2001:dcd:4::6

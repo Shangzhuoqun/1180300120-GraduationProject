@@ -1,0 +1,7 @@
+; timestamp: 20220306T195008Z
+; source id: tld-query-bv.-server.nordu.net.
+; source locator: server.nordu.net.
+; source IP address: 193.10.252.19
+; backup point IP address: 111.42.148.76
+; status: success
+bv.			86400	IN	NS	y.nic.no.bv.			86400	IN	NS	nn.uninett.no.bv.			86400	IN	NS	nac.no.bv.			86400	IN	NS	x.nic.no.bv.			86400	IN	NS	server.nordu.net.bv.			86400	IN	NS	z.nic.no.server.nordu.net.	2601	IN	A	193.10.252.19server.nordu.net.	3061	IN	AAAA	2001:948:4:2::19

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201240Z
+; source id: tld-query-gratis.-v0n2.nic.gratis.
+; source locator: v0n2.nic.gratis.
+; source IP address: 65.22.22.24
+; backup point IP address: 111.42.148.76
+; status: success
+gratis.			3599	IN	NS	v2n1.nic.gratis.gratis.			3599	IN	NS	v0n3.nic.gratis.gratis.			3599	IN	NS	v2n0.nic.gratis.gratis.			3599	IN	NS	v0n1.nic.gratis.gratis.			3599	IN	NS	v0n2.nic.gratis.gratis.			3599	IN	NS	v0n0.nic.gratis.v0n2.nic.gratis.	3600	IN	A	65.22.22.24v0n2.nic.gratis.	3598	IN	AAAA	2a01:8840:18::24

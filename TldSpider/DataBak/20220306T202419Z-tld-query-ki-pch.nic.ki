@@ -1,0 +1,7 @@
+; timestamp: 20220306T202419Z
+; source id: tld-query-ki.-pch.nic.ki.
+; source locator: pch.nic.ki.
+; source IP address: 204.61.216.26
+; backup point IP address: 111.42.148.76
+; status: success
+ki.			86400	IN	NS	pch.nic.ki.ki.			86400	IN	NS	ns.cocca.fr.pch.nic.ki.		3599	IN	A	204.61.216.26pch.nic.ki.		3599	IN	AAAA	2001:500:14:6026:ad::1

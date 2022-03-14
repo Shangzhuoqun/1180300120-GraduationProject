@@ -1,0 +1,27 @@
+; timestamp: 20220306T202452Z
+; source id: tld-query-kp.-ns2.kptc.kp.
+; source locator: ns2.kptc.kp.
+; source IP address: 175.45.176.16
+; backup point IP address: 111.42.148.76
+; status: success
+kp.			432000	IN	NS	ns2.kptc.kp.kp.			432000	IN	NS	ns1.kptc.kp.ns2.kptc.kp.		3600	IN	A	175.45.176.16dig @175.45.176.16 ns2.kptc.kp. AAAA
+
+; <<>> DiG 9.16.23 <<>> @175.45.176.16 ns2.kptc.kp. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37075
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns2.kptc.kp.			IN	AAAA
+
+;; AUTHORITY SECTION:
+kp.			1799	IN	SOA	ns1.kptc.kp. root.kptc.kp. 2013083001 28800 86400 1209600 86400
+
+;; Query time: 5 msec
+;; SERVER: 175.45.176.16#53(175.45.176.16)
+;; WHEN: Sun Mar 06 20:24:53 ;; MSG SIZE  rcvd: 85
+

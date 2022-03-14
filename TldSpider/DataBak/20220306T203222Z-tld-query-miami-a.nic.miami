@@ -1,0 +1,7 @@
+; timestamp: 20220306T203222Z
+; source id: tld-query-miami.-a.nic.miami.
+; source locator: a.nic.miami.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+miami.			3600	IN	NS	a.nic.miami.miami.			3600	IN	NS	c.nic.miami.miami.			3600	IN	NS	b.nic.miami.miami.			3600	IN	NS	d.nic.miami.a.nic.miami.		3600	IN	A	37.209.192.10a.nic.miami.		3600	IN	AAAA	2001:dcd:1::10

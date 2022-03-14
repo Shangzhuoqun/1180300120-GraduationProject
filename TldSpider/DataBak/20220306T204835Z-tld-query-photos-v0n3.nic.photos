@@ -1,0 +1,7 @@
+; timestamp: 20220306T204835Z
+; source id: tld-query-photos.-v0n3.nic.photos.
+; source locator: v0n3.nic.photos.
+; source IP address: 161.232.14.40
+; backup point IP address: 111.42.148.76
+; status: success
+photos.			3599	IN	NS	v2n0.nic.photos.photos.			3599	IN	NS	v0n0.nic.photos.photos.			3599	IN	NS	v0n2.nic.photos.photos.			3599	IN	NS	v0n1.nic.photos.photos.			3599	IN	NS	v0n3.nic.photos.photos.			3599	IN	NS	v2n1.nic.photos.v0n3.nic.photos.	3600	IN	A	161.232.14.40v0n3.nic.photos.	3600	IN	AAAA	2a01:8840:f8::40

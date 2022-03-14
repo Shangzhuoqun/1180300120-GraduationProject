@@ -1,0 +1,7 @@
+; timestamp: 20220306T202634Z
+; source id: tld-query-li.-a.nic.li.
+; source locator: a.nic.li.
+; source IP address: 130.59.31.42
+; backup point IP address: 111.42.148.76
+; status: success
+li.			172800	IN	NS	a.nic.li.li.			172800	IN	NS	d.nic.li.li.			172800	IN	NS	b.nic.li.li.			172800	IN	NS	f.nic.li.li.			172800	IN	NS	e.nic.li.a.nic.li.		2745	IN	A	130.59.31.42a.nic.li.		2745	IN	AAAA	2001:620:0:ff::57

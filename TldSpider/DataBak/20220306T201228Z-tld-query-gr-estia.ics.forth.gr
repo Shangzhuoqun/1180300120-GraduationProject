@@ -1,0 +1,7 @@
+; timestamp: 20220306T201228Z
+; source id: tld-query-gr.-estia.ics.forth.gr.
+; source locator: estia.ics.forth.gr.
+; source IP address: 139.91.191.3
+; backup point IP address: 111.42.148.76
+; status: success
+gr.			3598	IN	NS	gr-c.ics.forth.gr.gr.			3598	IN	NS	gr-m.ics.forth.gr.gr.			3598	IN	NS	estia.ics.forth.gr.gr.			3598	IN	NS	gr-d.ics.forth.gr.gr.			3598	IN	NS	gr-at.ics.forth.gr.gr.			3598	IN	NS	grdns.ics.forth.gr.estia.ics.forth.gr.	2704	IN	A	139.91.191.3estia.ics.forth.gr.	3600	IN	AAAA	2001:648:2c30::191:3

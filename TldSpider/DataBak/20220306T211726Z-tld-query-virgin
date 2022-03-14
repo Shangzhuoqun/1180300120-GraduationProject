@@ -1,0 +1,14 @@
+; timestamp: 20220306T211726Z
+; source id: tld-query-virgin.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dns1.nic.virgin
+dns2.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dns2.nic.virgin
+dns3.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dns3.nic.virgin
+dns4.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dns4.nic.virgin
+dnsa.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dnsa.nic.virgin
+dnsb.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dnsb.nic.virgin
+dnsc.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dnsc.nic.virgin
+dnsd.nic.virgin.:../TldSpider/DataBak/20220306T211726Z-tld-query-virgin-dnsd.nic.virgin

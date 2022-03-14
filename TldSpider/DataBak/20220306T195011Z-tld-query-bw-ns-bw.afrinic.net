@@ -1,0 +1,7 @@
+; timestamp: 20220306T195011Z
+; source id: tld-query-bw.-ns-bw.afrinic.net.
+; source locator: ns-bw.afrinic.net.
+; source IP address: 196.216.168.72
+; backup point IP address: 111.42.148.76
+; status: success
+bw.			7200	IN	NS	pch.nic.net.bw.bw.			7200	IN	NS	ns-bw.afrinic.net.bw.			7200	IN	NS	dns1.nic.net.bw.bw.			7200	IN	NS	master.btc.net.bw.ns-bw.afrinic.net.	3600	IN	A	196.216.168.72ns-bw.afrinic.net.	3350	IN	AAAA	2001:43f8:120::72

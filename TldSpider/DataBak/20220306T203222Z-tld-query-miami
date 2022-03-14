@@ -1,0 +1,10 @@
+; timestamp: 20220306T203222Z
+; source id: tld-query-miami.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.miami.:../TldSpider/DataBak/20220306T203222Z-tld-query-miami-a.nic.miami
+b.nic.miami.:../TldSpider/DataBak/20220306T203222Z-tld-query-miami-b.nic.miami
+c.nic.miami.:../TldSpider/DataBak/20220306T203222Z-tld-query-miami-c.nic.miami
+d.nic.miami.:../TldSpider/DataBak/20220306T203222Z-tld-query-miami-d.nic.miami

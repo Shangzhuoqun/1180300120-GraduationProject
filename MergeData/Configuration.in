@@ -1,0 +1,9 @@
+{
+    "merge" : {
+        "mergeddata" : "MergedData",
+        "waitingmergedatapath" : "waitingMergeData",
+        "logpath" : "Log",
+        "timeoutTLDPath" : "RootSpider/TimeoutTLD",
+        "waitingmergefilespathlist" : ["IANAHttpSpider/Data", "RootSpider/Data", "TldSpider/Data"]
+    }
+}

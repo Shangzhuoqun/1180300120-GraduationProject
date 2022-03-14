@@ -1,0 +1,10 @@
+; timestamp: 20220306T195807Z
+; source id: tld-query-cruise.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.cruise.:../TldSpider/DataBak/20220306T195807Z-tld-query-cruise-a0.nic.cruise
+a2.nic.cruise.:../TldSpider/DataBak/20220306T195807Z-tld-query-cruise-a2.nic.cruise
+b0.nic.cruise.:../TldSpider/DataBak/20220306T195807Z-tld-query-cruise-b0.nic.cruise
+c0.nic.cruise.:../TldSpider/DataBak/20220306T195807Z-tld-query-cruise-c0.nic.cruise

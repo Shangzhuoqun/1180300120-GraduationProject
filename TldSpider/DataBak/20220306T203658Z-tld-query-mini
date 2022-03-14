@@ -1,0 +1,10 @@
+; timestamp: 20220306T203658Z
+; source id: tld-query-mini.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.mini.:../TldSpider/DataBak/20220306T203658Z-tld-query-mini-a.nic.mini
+b.nic.mini.:../TldSpider/DataBak/20220306T203658Z-tld-query-mini-b.nic.mini
+c.nic.mini.:../TldSpider/DataBak/20220306T203658Z-tld-query-mini-c.nic.mini
+d.nic.mini.:../TldSpider/DataBak/20220306T203658Z-tld-query-mini-d.nic.mini

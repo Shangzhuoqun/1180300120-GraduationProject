@@ -1,0 +1,7 @@
+; timestamp: 20220306T211300Z
+; source id: tld-query-tunes.-dnsa.nic.tunes.
+; source locator: dnsa.nic.tunes.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+tunes.			3598	IN	NS	dnsc.nic.tunes.tunes.			3598	IN	NS	dns4.nic.tunes.tunes.			3598	IN	NS	dns1.nic.tunes.tunes.			3598	IN	NS	dnsb.nic.tunes.tunes.			3598	IN	NS	dns3.nic.tunes.tunes.			3598	IN	NS	dnsd.nic.tunes.tunes.			3598	IN	NS	dnsa.nic.tunes.tunes.			3598	IN	NS	dns2.nic.tunes.dnsa.nic.tunes.		3598	IN	A	156.154.100.3dnsa.nic.tunes.		3598	IN	AAAA	2001:502:ad09::3

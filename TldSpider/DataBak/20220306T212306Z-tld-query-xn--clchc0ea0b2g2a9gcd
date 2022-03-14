@@ -1,0 +1,11 @@
+; timestamp: 20220306T212306Z
+; source id: tld-query-xn--clchc0ea0b2g2a9gcd.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns4.apnic.net.:../TldSpider/DataBak/20220306T212306Z-tld-query-xn--clchc0ea0b2g2a9gcd-ns4.apnic.net
+pch.sgzones.sg.:../TldSpider/DataBak/20220306T212306Z-tld-query-xn--clchc0ea0b2g2a9gcd-pch.sgzones.sg
+dsany.sgnic.sg.:../TldSpider/DataBak/20220306T212306Z-tld-query-xn--clchc0ea0b2g2a9gcd-dsany.sgnic.sg
+dsany2.sgnic.sg.:../TldSpider/DataBak/20220306T212306Z-tld-query-xn--clchc0ea0b2g2a9gcd-dsany2.sgnic.sg
+dsany3.sgnic.sg.:../TldSpider/DataBak/20220306T212306Z-tld-query-xn--clchc0ea0b2g2a9gcd-dsany3.sgnic.sg

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202708Z
+; source id: tld-query-link.-ns1.uniregistry.net.
+; source locator: ns1.uniregistry.net.
+; source IP address: 64.96.1.1
+; backup point IP address: 111.42.148.76
+; status: success
+link.			3600	IN	NS	ns2.uniregistry.info.link.			3600	IN	NS	ns3.uniregistry.net.link.			3600	IN	NS	ns1.uniregistry.net.link.			3600	IN	NS	ns4.uniregistry.info.ns1.uniregistry.net.	2126	IN	A	64.96.1.1ns1.uniregistry.net.	2126	IN	AAAA	2620:57:4000:1::1

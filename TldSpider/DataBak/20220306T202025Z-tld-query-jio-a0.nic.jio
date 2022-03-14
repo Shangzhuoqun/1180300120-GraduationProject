@@ -1,0 +1,7 @@
+; timestamp: 20220306T202025Z
+; source id: tld-query-jio.-a0.nic.jio.
+; source locator: a0.nic.jio.
+; source IP address: 65.22.212.33
+; backup point IP address: 111.42.148.76
+; status: success
+jio.			86400	IN	NS	b0.nic.jio.jio.			86400	IN	NS	a0.nic.jio.jio.			86400	IN	NS	c0.nic.jio.jio.			86400	IN	NS	a2.nic.jio.a0.nic.jio.		300	IN	A	65.22.212.33a0.nic.jio.		600	IN	AAAA	2a01:8840:ce::33

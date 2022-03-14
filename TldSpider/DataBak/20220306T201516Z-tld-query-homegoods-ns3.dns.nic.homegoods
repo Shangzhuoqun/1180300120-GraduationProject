@@ -1,0 +1,7 @@
+; timestamp: 20220306T201516Z
+; source id: tld-query-homegoods.-ns3.dns.nic.homegoods.
+; source locator: ns3.dns.nic.homegoods.
+; source IP address: 156.154.159.73
+; backup point IP address: 111.42.148.76
+; status: success
+homegoods.		3598	IN	NS	c.nic.homegoods.homegoods.		3598	IN	NS	b.nic.homegoods.homegoods.		3598	IN	NS	ns2.dns.nic.homegoods.homegoods.		3598	IN	NS	ns3.dns.nic.homegoods.homegoods.		3598	IN	NS	ns1.dns.nic.homegoods.homegoods.		3598	IN	NS	a.nic.homegoods.ns3.dns.nic.homegoods.	3600	IN	A	156.154.159.73ns3.dns.nic.homegoods.	3600	IN	AAAA	2610:a1:1073::49

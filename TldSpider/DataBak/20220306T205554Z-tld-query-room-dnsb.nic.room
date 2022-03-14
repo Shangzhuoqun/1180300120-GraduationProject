@@ -1,0 +1,7 @@
+; timestamp: 20220306T205554Z
+; source id: tld-query-room.-dnsb.nic.room.
+; source locator: dnsb.nic.room.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+room.			2027	IN	NS	dns3.nic.room.room.			2027	IN	NS	dnsd.nic.room.room.			2027	IN	NS	dnsa.nic.room.room.			2027	IN	NS	dnsb.nic.room.room.			2027	IN	NS	dns1.nic.room.room.			2027	IN	NS	dns4.nic.room.room.			2027	IN	NS	dns2.nic.room.room.			2027	IN	NS	dnsc.nic.room.dnsb.nic.room.		3600	IN	A	156.154.101.3dnsb.nic.room.		3600	IN	AAAA	2001:502:2eda::3

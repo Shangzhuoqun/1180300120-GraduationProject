@@ -1,0 +1,7 @@
+; timestamp: 20220306T211836Z
+; source id: tld-query-weatherchannel.-ns4.dns.nic.weatherchannel.
+; source locator: ns4.dns.nic.weatherchannel.
+; source IP address: 156.154.156.179
+; backup point IP address: 111.42.148.76
+; status: success
+weatherchannel.		3598	IN	NS	ns6.dns.nic.weatherchannel.weatherchannel.		3598	IN	NS	ns4.dns.nic.weatherchannel.weatherchannel.		3598	IN	NS	ns2.dns.nic.weatherchannel.weatherchannel.		3598	IN	NS	ns5.dns.nic.weatherchannel.weatherchannel.		3598	IN	NS	ns3.dns.nic.weatherchannel.weatherchannel.		3598	IN	NS	ns1.dns.nic.weatherchannel.ns4.dns.nic.weatherchannel. 3598 IN	A	156.154.156.179ns4.dns.nic.weatherchannel. 3599 IN	AAAA	2610:a1:1074::b3

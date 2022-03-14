@@ -1,0 +1,7 @@
+; timestamp: 20220306T200704Z
+; source id: tld-query-ford.-a.nic.ford.
+; source locator: a.nic.ford.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+ford.			3600	IN	NS	b.nic.ford.ford.			3600	IN	NS	ns1.dns.nic.ford.ford.			3600	IN	NS	ns3.dns.nic.ford.ford.			3600	IN	NS	c.nic.ford.ford.			3600	IN	NS	ns2.dns.nic.ford.ford.			3600	IN	NS	a.nic.ford.a.nic.ford.		3600	IN	A	37.209.192.9a.nic.ford.		3600	IN	AAAA	2001:dcd:1::9

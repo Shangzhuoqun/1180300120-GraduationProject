@@ -1,0 +1,7 @@
+; timestamp: 20220306T212347Z
+; source id: tld-query-xn--fiqz9s.-h.dns.cn.
+; source locator: h.dns.cn.
+; source IP address: 125.208.32.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--fiqz9s.		3600	IN	NS	l.dns.cn.xn--fiqz9s.		3600	IN	NS	j.dns.cn.xn--fiqz9s.		3600	IN	NS	n.dns.cn.xn--fiqz9s.		3600	IN	NS	i.dns.cn.xn--fiqz9s.		3600	IN	NS	m.dns.cn.xn--fiqz9s.		3600	IN	NS	k.dns.cn.xn--fiqz9s.		3600	IN	NS	h.dns.cn.h.dns.cn.		1213	IN	A	125.208.32.1h.dns.cn.		3329	IN	AAAA	2001:dc7:fffe::1

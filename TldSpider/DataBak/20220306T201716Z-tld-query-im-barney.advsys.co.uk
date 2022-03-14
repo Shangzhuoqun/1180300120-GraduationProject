@@ -1,0 +1,27 @@
+; timestamp: 20220306T201716Z
+; source id: tld-query-im.-barney.advsys.co.uk.
+; source locator: barney.advsys.co.uk.
+; source IP address: 127.0.0.1
+; backup point IP address: 111.42.148.76
+; status: success
+im.			3354	IN	NS	barney.advsys.co.uk.im.			3354	IN	NS	pebbles.iom.com.im.			3354	IN	NS	hoppy.iom.com.im.			3354	IN	NS	ns4.ja.net.barney.advsys.co.uk.	3600	IN	A	127.0.0.1dig @217.23.160.50 barney.advsys.co.uk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @217.23.160.50 barney.advsys.co.uk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41092
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 2
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;barney.advsys.co.uk.		IN	AAAA
+
+;; ADDITIONAL SECTION:
+68c5f0eaed2822c3fd69e87376b29943. 1800 IN SOA	LOCALHOST. mail. 1 28800 86400 604800 1800
+
+;; Query time: 6 msec
+;; SERVER: 217.23.160.50#53(217.23.160.50)
+;; WHEN: Sun Mar 06 20:17:18 ;; MSG SIZE  rcvd: 129
+

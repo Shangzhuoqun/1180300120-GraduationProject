@@ -1,0 +1,9 @@
+; timestamp: 20220306T200610Z
+; source id: tld-query-fk.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.horizon.net.fk.:../TldSpider/DataBak/20220306T200610Z-tld-query-fk-ns1.horizon.net.fk
+ns2.horizon.net.fk.:../TldSpider/DataBak/20220306T200610Z-tld-query-fk-ns2.horizon.net.fk
+ns3.horizon.net.fk.:../TldSpider/DataBak/20220306T200610Z-tld-query-fk-ns3.horizon.net.fk

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204841Z
+; source id: tld-query-physio.-c.nic.physio.
+; source locator: c.nic.physio.
+; source IP address: 37.209.196.10
+; backup point IP address: 111.42.148.76
+; status: success
+physio.			3599	IN	NS	d.nic.physio.physio.			3599	IN	NS	c.nic.physio.physio.			3599	IN	NS	a.nic.physio.physio.			3599	IN	NS	b.nic.physio.c.nic.physio.		3599	IN	A	37.209.196.10c.nic.physio.		3599	IN	AAAA	2001:dcd:3::10

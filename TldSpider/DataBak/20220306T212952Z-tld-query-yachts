@@ -1,0 +1,10 @@
+; timestamp: 20220306T212952Z
+; source id: tld-query-yachts.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.yachts.:../TldSpider/DataBak/20220306T212952Z-tld-query-yachts-a.nic.yachts
+b.nic.yachts.:../TldSpider/DataBak/20220306T212952Z-tld-query-yachts-b.nic.yachts
+c.nic.yachts.:../TldSpider/DataBak/20220306T212952Z-tld-query-yachts-c.nic.yachts
+d.nic.yachts.:../TldSpider/DataBak/20220306T212952Z-tld-query-yachts-d.nic.yachts

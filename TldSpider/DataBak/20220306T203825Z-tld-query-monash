@@ -1,0 +1,10 @@
+; timestamp: 20220306T203825Z
+; source id: tld-query-monash.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.monash.:../TldSpider/DataBak/20220306T203825Z-tld-query-monash-a.nic.monash
+b.nic.monash.:../TldSpider/DataBak/20220306T203825Z-tld-query-monash-b.nic.monash
+c.nic.monash.:../TldSpider/DataBak/20220306T203825Z-tld-query-monash-c.nic.monash
+d.nic.monash.:../TldSpider/DataBak/20220306T203825Z-tld-query-monash-d.nic.monash

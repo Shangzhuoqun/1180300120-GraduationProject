@@ -1,0 +1,7 @@
+; timestamp: 20220306T212906Z
+; source id: tld-query-xn--vermgensberatung-pwb.-d.nic.xn--vermgensberatung-pwb.
+; source locator: d.nic.xn--vermgensberatung-pwb.
+; source IP address: 212.18.249.106
+; backup point IP address: 111.42.148.76
+; status: success
+xn--vermgensberatung-pwb. 3598	IN	NS	c.nic.xn--vermgensberatung-pwb.xn--vermgensberatung-pwb. 3598	IN	NS	a.nic.xn--vermgensberatung-pwb.xn--vermgensberatung-pwb. 3598	IN	NS	b.nic.xn--vermgensberatung-pwb.xn--vermgensberatung-pwb. 3598	IN	NS	d.nic.xn--vermgensberatung-pwb.d.nic.xn--vermgensberatung-pwb.	3599 IN	A	212.18.249.106d.nic.xn--vermgensberatung-pwb.	3599 IN	AAAA	2a04:2b00:13ff::106

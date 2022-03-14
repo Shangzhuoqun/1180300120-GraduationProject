@@ -1,0 +1,7 @@
+; timestamp: 20220306T200629Z
+; source id: tld-query-flights.-v0n1.nic.flights.
+; source locator: v0n1.nic.flights.
+; source IP address: 65.22.29.31
+; backup point IP address: 111.42.148.76
+; status: success
+flights.		3599	IN	NS	v2n1.nic.flights.flights.		3599	IN	NS	v0n0.nic.flights.flights.		3599	IN	NS	v0n3.nic.flights.flights.		3599	IN	NS	v0n1.nic.flights.flights.		3599	IN	NS	v0n2.nic.flights.flights.		3599	IN	NS	v2n0.nic.flights.v0n1.nic.flights.	3599	IN	A	65.22.29.31v0n1.nic.flights.	3599	IN	AAAA	2a01:8840:1f::31

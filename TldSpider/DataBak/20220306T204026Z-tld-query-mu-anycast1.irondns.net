@@ -1,0 +1,7 @@
+; timestamp: 20220306T204026Z
+; source id: tld-query-mu.-anycast1.irondns.net.
+; source locator: anycast1.irondns.net.
+; source IP address: 195.253.64.5
+; backup point IP address: 111.42.148.76
+; status: success
+mu.			43200	IN	NS	fork.sth.dnsnode.net.mu.			43200	IN	NS	anycast1.irondns.net.mu.			43200	IN	NS	udns1.tld.mu.mu.			43200	IN	NS	udns2.tld.mu.anycast1.irondns.net.	3599	IN	A	195.253.64.5anycast1.irondns.net.	2020	IN	AAAA	2a01:5b0:4::5

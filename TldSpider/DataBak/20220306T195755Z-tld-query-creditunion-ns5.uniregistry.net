@@ -1,0 +1,7 @@
+; timestamp: 20220306T195755Z
+; source id: tld-query-creditunion.-ns5.uniregistry.net.
+; source locator: ns5.uniregistry.net.
+; source IP address: 204.61.217.2
+; backup point IP address: 111.42.148.76
+; status: success
+creditunion.		915	IN	NS	ns2.uniregistry.info.creditunion.		915	IN	NS	ns6.uniregistry.info.creditunion.		915	IN	NS	ns1.uniregistry.net.creditunion.		915	IN	NS	ns5.uniregistry.net.ns5.uniregistry.net.	86400	IN	A	204.61.217.2ns5.uniregistry.net.	3600	IN	AAAA	2001:500:14:7002:ad::1

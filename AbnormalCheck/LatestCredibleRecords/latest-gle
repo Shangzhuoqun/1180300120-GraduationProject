@@ -1,0 +1,15 @@
+ns-tld1.charlestonroadregistry.com.	172800	in	a	216.239.32.105
+ns-tld1.charlestonroadregistry.com.	172800	in	aaaa	2001:4860:4802:32:0:0:0:69
+ns-tld2.charlestonroadregistry.com.	172800	in	a	216.239.34.105
+ns-tld2.charlestonroadregistry.com.	172800	in	aaaa	2001:4860:4802:34:0:0:0:69
+ns-tld3.charlestonroadregistry.com.	172800	in	a	216.239.36.105
+ns-tld3.charlestonroadregistry.com.	172800	in	aaaa	2001:4860:4802:36:0:0:0:69
+ns-tld4.charlestonroadregistry.com.	172800	in	a	216.239.38.105
+ns-tld4.charlestonroadregistry.com.	172800	in	aaaa	2001:4860:4802:38:0:0:0:69
+ns-tld5.charlestonroadregistry.com.	172800	in	a	216.239.60.105
+ns-tld5.charlestonroadregistry.com.	172800	in	aaaa	2001:4860:4805:0:0:0:0:69
+gle.	172800	in	ns	ns-tld1.charlestonroadregistry.com.
+gle.	172800	in	ns	ns-tld2.charlestonroadregistry.com.
+gle.	172800	in	ns	ns-tld3.charlestonroadregistry.com.
+gle.	172800	in	ns	ns-tld4.charlestonroadregistry.com.
+gle.	172800	in	ns	ns-tld5.charlestonroadregistry.com.

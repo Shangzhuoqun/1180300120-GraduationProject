@@ -1,0 +1,14 @@
+; timestamp: 20220306T194334Z
+; source id: tld-query-audible.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dns1.nic.audible
+dns2.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dns2.nic.audible
+dns3.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dns3.nic.audible
+dns4.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dns4.nic.audible
+dnsa.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dnsa.nic.audible
+dnsb.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dnsb.nic.audible
+dnsc.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dnsc.nic.audible
+dnsd.nic.audible.:../TldSpider/DataBak/20220306T194334Z-tld-query-audible-dnsd.nic.audible

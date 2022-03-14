@@ -1,0 +1,12 @@
+locker.	172800	in	ns	a0.nic.locker.
+locker.	172800	in	ns	a2.nic.locker.
+locker.	172800	in	ns	b0.nic.locker.
+locker.	172800	in	ns	c0.nic.locker.
+a0.nic.locker.	172800	in	a	65.22.96.33
+a0.nic.locker.	172800	in	aaaa	2a01:8840:5e:0:0:0:0:33
+a2.nic.locker.	172800	in	a	65.22.99.33
+a2.nic.locker.	172800	in	aaaa	2a01:8840:61:0:0:0:0:33
+b0.nic.locker.	172800	in	a	65.22.97.33
+b0.nic.locker.	172800	in	aaaa	2a01:8840:5f:0:0:0:0:33
+c0.nic.locker.	172800	in	a	65.22.98.33
+c0.nic.locker.	172800	in	aaaa	2a01:8840:60:0:0:0:0:33

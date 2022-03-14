@@ -1,0 +1,7 @@
+; timestamp: 20220306T200251Z
+; source id: tld-query-email.-v0n2.nic.email.
+; source locator: v0n2.nic.email.
+; source IP address: 65.22.26.35
+; backup point IP address: 111.42.148.76
+; status: success
+email.			599	IN	NS	v2n1.nic.email.email.			599	IN	NS	v0n0.nic.email.email.			599	IN	NS	v0n2.nic.email.email.			599	IN	NS	v0n1.nic.email.email.			599	IN	NS	v0n3.nic.email.email.			599	IN	NS	v2n0.nic.email.v0n2.nic.email.		3600	IN	A	65.22.26.35v0n2.nic.email.		3600	IN	AAAA	2a01:8840:1c::35

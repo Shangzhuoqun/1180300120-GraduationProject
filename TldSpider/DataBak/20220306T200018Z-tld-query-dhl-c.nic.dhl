@@ -1,0 +1,7 @@
+; timestamp: 20220306T200018Z
+; source id: tld-query-dhl.-c.nic.dhl.
+; source locator: c.nic.dhl.
+; source IP address: 212.18.248.82
+; backup point IP address: 111.42.148.76
+; status: success
+dhl.			172800	IN	NS	c.nic.dhl.dhl.			172800	IN	NS	b.nic.dhl.dhl.			172800	IN	NS	a.nic.dhl.dhl.			172800	IN	NS	d.nic.dhl.c.nic.dhl.		3592	IN	A	212.18.248.82c.nic.dhl.		3592	IN	AAAA	2a04:2b00:13ee::82

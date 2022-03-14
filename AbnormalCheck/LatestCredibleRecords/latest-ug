@@ -1,0 +1,14 @@
+ns-ug.afrinic.net.	172800	in	a	196.216.168.42
+ns-ug.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:42
+ug.cctld.authdns.ripe.net.	172800	in	a	193.0.9.52
+ug.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:52
+ns.icann.org.	172800	in	a	199.4.138.53
+ns.icann.org.	172800	in	aaaa	2001:500:89:0:0:0:0:53
+ug.	172800	in	ns	ns.icann.org.
+ug.	172800	in	ns	ug.cctld.authdns.ripe.net.
+ug.	172800	in	ns	root.eahd.or.ug.
+ug.	172800	in	ns	ns-ug.afrinic.net.
+ug.	172800	in	ns	anycast.eahd.or.ug.
+anycast.eahd.or.ug.	172800	in	a	204.61.216.60
+anycast.eahd.or.ug.	172800	in	aaaa	2001:500:14:6060:ad:0:0:1
+root.eahd.or.ug.	172800	in	a	212.88.97.132

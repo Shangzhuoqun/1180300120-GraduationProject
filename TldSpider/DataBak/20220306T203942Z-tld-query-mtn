@@ -1,0 +1,14 @@
+; timestamp: 20220306T203942Z
+; source id: tld-query-mtn.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dns1.nic.mtn
+dns2.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dns2.nic.mtn
+dns3.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dns3.nic.mtn
+dns4.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dns4.nic.mtn
+dnsa.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dnsa.nic.mtn
+dnsb.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dnsb.nic.mtn
+dnsc.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dnsc.nic.mtn
+dnsd.nic.mtn.:../TldSpider/DataBak/20220306T203942Z-tld-query-mtn-dnsd.nic.mtn

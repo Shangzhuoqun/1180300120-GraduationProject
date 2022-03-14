@@ -1,0 +1,34 @@
+; timestamp: 20220306T204612Z
+; source id: tld-query-pa.-ns2.pa.
+; source locator: ns2.pa.
+; source IP address: 168.77.8.7
+; backup point IP address: 111.42.148.76
+; status: success
+dig @168.77.8.7 pa. NS
+
+; <<>> DiG 9.16.23 <<>> @168.77.8.7 pa. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+ns2.pa.			3584	IN	A	168.77.8.7dig @168.77.8.7 ns2.pa. AAAA
+
+; <<>> DiG 9.16.23 <<>> @168.77.8.7 ns2.pa. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61719
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns2.pa.				IN	AAAA
+
+;; AUTHORITY SECTION:
+pa.			10786	IN	SOA	ns.pa. root.ns.pa. 2022030402 7200 3600 604800 21600
+
+;; Query time: 5 msec
+;; SERVER: 168.77.8.7#53(168.77.8.7)
+;; WHEN: Sun Mar 06 20:46:29 ;; MSG SIZE  rcvd: 79
+

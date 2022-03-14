@@ -1,0 +1,10 @@
+; timestamp: 20220306T211856Z
+; source id: tld-query-wedding.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.wedding.:../TldSpider/DataBak/20220306T211856Z-tld-query-wedding-a.nic.wedding
+b.nic.wedding.:../TldSpider/DataBak/20220306T211856Z-tld-query-wedding-b.nic.wedding
+c.nic.wedding.:../TldSpider/DataBak/20220306T211856Z-tld-query-wedding-c.nic.wedding
+d.nic.wedding.:../TldSpider/DataBak/20220306T211856Z-tld-query-wedding-d.nic.wedding

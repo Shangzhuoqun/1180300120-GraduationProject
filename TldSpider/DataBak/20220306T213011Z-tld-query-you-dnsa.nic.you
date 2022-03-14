@@ -1,0 +1,7 @@
+; timestamp: 20220306T213011Z
+; source id: tld-query-you.-dnsa.nic.you.
+; source locator: dnsa.nic.you.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+you.			3596	IN	NS	dns4.nic.you.you.			3596	IN	NS	dns3.nic.you.you.			3596	IN	NS	dns1.nic.you.you.			3596	IN	NS	dnsc.nic.you.you.			3596	IN	NS	dns2.nic.you.you.			3596	IN	NS	dnsb.nic.you.you.			3596	IN	NS	dnsa.nic.you.you.			3596	IN	NS	dnsd.nic.you.dnsa.nic.you.		3582	IN	A	156.154.100.3dnsa.nic.you.		3581	IN	AAAA	2001:502:ad09::3

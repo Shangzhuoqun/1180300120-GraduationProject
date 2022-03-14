@@ -1,0 +1,13 @@
+ns4.apnic.net.	172800	in	a	202.12.31.53
+ns4.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53
+np.cctld.authdns.ripe.net.	172800	in	a	193.0.9.102
+np.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:102
+np.	172800	in	ns	np.cctld.authdns.ripe.net.
+np.	172800	in	ns	ns4.apnic.net.
+np.	172800	in	ns	pch.nnic.np.
+np.	172800	in	ns	np-ns.npix.net.np.
+np.	172800	in	ns	shikhar.mos.com.np.
+shikhar.mos.com.np.	172800	in	a	202.52.255.5
+np-ns.npix.net.np.	172800	in	a	198.32.126.50
+pch.nnic.np.	172800	in	a	204.61.216.11
+pch.nnic.np.	172800	in	aaaa	2001:500:14:6011:ad:0:0:1

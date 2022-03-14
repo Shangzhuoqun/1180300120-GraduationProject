@@ -1,0 +1,7 @@
+; timestamp: 20220306T201051Z
+; source id: tld-query-gmbh.-v0n3.nic.gmbh.
+; source locator: v0n3.nic.gmbh.
+; source IP address: 161.232.16.7
+; backup point IP address: 111.42.148.76
+; status: success
+gmbh.			3599	IN	NS	v0n3.nic.gmbh.gmbh.			3599	IN	NS	v0n2.nic.gmbh.gmbh.			3599	IN	NS	v0n0.nic.gmbh.gmbh.			3599	IN	NS	v2n0.nic.gmbh.gmbh.			3599	IN	NS	v2n1.nic.gmbh.gmbh.			3599	IN	NS	v0n1.nic.gmbh.v0n3.nic.gmbh.		3600	IN	A	161.232.16.7v0n3.nic.gmbh.		3600	IN	AAAA	2a01:8840:fa::7

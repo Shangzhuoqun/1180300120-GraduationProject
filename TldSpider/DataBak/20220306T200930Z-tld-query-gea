@@ -1,0 +1,9 @@
+; timestamp: 20220306T200930Z
+; source id: tld-query-gea.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.dns.nic.gea.:../TldSpider/DataBak/20220306T200930Z-tld-query-gea-a.dns.nic.gea
+m.dns.nic.gea.:../TldSpider/DataBak/20220306T200930Z-tld-query-gea-m.dns.nic.gea
+n.dns.nic.gea.:../TldSpider/DataBak/20220306T200930Z-tld-query-gea-n.dns.nic.gea

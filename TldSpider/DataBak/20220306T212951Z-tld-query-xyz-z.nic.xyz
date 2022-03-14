@@ -1,0 +1,7 @@
+; timestamp: 20220306T212951Z
+; source id: tld-query-xyz.-z.nic.xyz.
+; source locator: z.nic.xyz.
+; source IP address: 212.18.248.42
+; backup point IP address: 111.42.148.76
+; status: success
+xyz.			3600	IN	NS	x.nic.xyz.xyz.			3600	IN	NS	z.nic.xyz.xyz.			3600	IN	NS	generationxyz.nic.xyz.xyz.			3600	IN	NS	y.nic.xyz.z.nic.xyz.		3600	IN	A	212.18.248.42z.nic.xyz.		2895	IN	AAAA	2a04:2b00:13ee::42

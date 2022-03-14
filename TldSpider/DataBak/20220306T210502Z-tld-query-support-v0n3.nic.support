@@ -1,0 +1,7 @@
+; timestamp: 20220306T210502Z
+; source id: tld-query-support.-v0n3.nic.support.
+; source locator: v0n3.nic.support.
+; source IP address: 161.232.10.5
+; backup point IP address: 111.42.148.76
+; status: success
+support.		3597	IN	NS	v0n2.nic.support.support.		3597	IN	NS	v2n1.nic.support.support.		3597	IN	NS	v0n3.nic.support.support.		3597	IN	NS	v2n0.nic.support.support.		3597	IN	NS	v0n1.nic.support.support.		3597	IN	NS	v0n0.nic.support.v0n3.nic.support.	3600	IN	A	161.232.10.5v0n3.nic.support.	1993	IN	AAAA	2a01:8840:f4::5

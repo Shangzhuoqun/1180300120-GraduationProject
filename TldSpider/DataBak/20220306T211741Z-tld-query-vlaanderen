@@ -1,0 +1,12 @@
+; timestamp: 20220306T211741Z
+; source id: tld-query-vlaanderen.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-a.nsset.vlaanderen
+b.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-b.nsset.vlaanderen
+c.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-c.nsset.vlaanderen
+d.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-d.nsset.vlaanderen
+y.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-y.nsset.vlaanderen
+z.nsset.vlaanderen.:../TldSpider/DataBak/20220306T211741Z-tld-query-vlaanderen-z.nsset.vlaanderen

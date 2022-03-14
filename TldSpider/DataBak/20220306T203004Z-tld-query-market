@@ -1,0 +1,12 @@
+; timestamp: 20220306T203004Z
+; source id: tld-query-market.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v0n0.nic.market
+v0n1.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v0n1.nic.market
+v0n2.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v0n2.nic.market
+v0n3.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v0n3.nic.market
+v2n0.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v2n0.nic.market
+v2n1.nic.market.:../TldSpider/DataBak/20220306T203004Z-tld-query-market-v2n1.nic.market

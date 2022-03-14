@@ -1,0 +1,7 @@
+; timestamp: 20220306T205154Z
+; source id: tld-query-pt.-e.dns.pt.
+; source locator: e.dns.pt.
+; source IP address: 193.136.192.64
+; backup point IP address: 111.42.148.76
+; status: success
+pt.			3599	IN	NS	ns.dns.br.pt.			3599	IN	NS	b.dns.pt.pt.			3599	IN	NS	d.dns.pt.pt.			3599	IN	NS	c.dns.pt.pt.			3599	IN	NS	h.dns.pt.pt.			3599	IN	NS	a.dns.pt.pt.			3599	IN	NS	g.dns.pt.pt.			3599	IN	NS	ns2.nic.fr.pt.			3599	IN	NS	e.dns.pt.e.dns.pt.		233	IN	A	193.136.192.64e.dns.pt.		600	IN	AAAA	2001:690:a00:4001::64

@@ -1,0 +1,27 @@
+; timestamp: 20220306T202437Z
+; source id: tld-query-km.-dns2.nic.km.
+; source locator: dns2.nic.km.
+; source IP address: 197.255.224.66
+; backup point IP address: 111.42.148.76
+; status: success
+km.			3600	IN	NS	ns-km.afrinic.net.km.			3600	IN	NS	dns2.nic.km.km.			3600	IN	NS	dns1.nic.km.dns2.nic.km.		599	IN	A	197.255.224.66dig @197.255.224.66 dns2.nic.km. AAAA
+
+; <<>> DiG 9.16.23 <<>> @197.255.224.66 dns2.nic.km. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27024
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dns2.nic.km.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.km.			600	IN	SOA	dns1.nic.km. root.localhost. 2012120903 28800 14400 3600000 86400
+
+;; Query time: 549 msec
+;; SERVER: 197.255.224.66#53(197.255.224.66)
+;; WHEN: Sun Mar 06 20:24:41 ;; MSG SIZE  rcvd: 95
+

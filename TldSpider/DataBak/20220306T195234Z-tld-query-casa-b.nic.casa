@@ -1,0 +1,7 @@
+; timestamp: 20220306T195234Z
+; source id: tld-query-casa.-b.nic.casa.
+; source locator: b.nic.casa.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+casa.			1135	IN	NS	d.nic.casa.casa.			1135	IN	NS	c.nic.casa.casa.			1135	IN	NS	b.nic.casa.casa.			1135	IN	NS	a.nic.casa.b.nic.casa.		3600	IN	A	37.209.194.10b.nic.casa.		3600	IN	AAAA	2001:dcd:2::10

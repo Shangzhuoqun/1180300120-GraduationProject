@@ -1,0 +1,27 @@
+; timestamp: 20220306T212806Z
+; source id: tld-query-xn--o3cw4h.-ns.thnic.net.
+; source locator: ns.thnic.net.
+; source IP address: 202.28.0.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--o3cw4h.		3597	IN	NS	b.thains.co.th.xn--o3cw4h.		3597	IN	NS	p.thains.co.th.xn--o3cw4h.		3597	IN	NS	ns.thnic.net.xn--o3cw4h.		3597	IN	NS	a.thains.co.th.ns.thnic.net.		944	IN	A	202.28.0.1dig @202.28.0.1 ns.thnic.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.28.0.1 ns.thnic.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47171
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.thnic.net.			IN	AAAA
+
+;; AUTHORITY SECTION:
+thnic.net.		466	IN	SOA	ns-a.thnic.co.th. registry.thains.co.th. 2022030601 1800 1800 864000 7200
+
+;; Query time: 138 msec
+;; SERVER: 202.28.0.1#53(202.28.0.1)
+;; WHEN: Sun Mar 06 21:28:10 ;; MSG SIZE  rcvd: 109
+

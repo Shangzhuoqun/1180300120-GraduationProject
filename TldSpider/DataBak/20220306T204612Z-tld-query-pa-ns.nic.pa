@@ -1,0 +1,27 @@
+; timestamp: 20220306T204612Z
+; source id: tld-query-pa.-ns.nic.pa.
+; source locator: ns.nic.pa.
+; source IP address: 168.77.8.4
+; backup point IP address: 111.42.148.76
+; status: success
+pa.			21600	IN	NS	ns.pa.pa.			21600	IN	NS	ns.nic.pa.pa.			21600	IN	NS	ns2.pa.pa.			21600	IN	NS	ns.dns.br.pa.			21600	IN	NS	dns-ext.nic.cr.pa.			21600	IN	NS	ssdns-tld.nic.cl.ns.nic.pa.		3600	IN	A	168.77.8.4dig @168.77.8.4 ns.nic.pa. AAAA
+
+; <<>> DiG 9.16.23 <<>> @168.77.8.4 ns.nic.pa. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61976
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.nic.pa.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.pa.			1800	IN	SOA	ns.nic.pa. root.ns.nic.pa. 2021021201 7200 3600 604800 21600
+
+;; Query time: 13 msec
+;; SERVER: 168.77.8.4#53(168.77.8.4)
+;; WHEN: Sun Mar 06 20:46:14 ;; MSG SIZE  rcvd: 79
+

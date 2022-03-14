@@ -1,0 +1,7 @@
+; timestamp: 20220306T212540Z
+; source id: tld-query-xn--lgbbat1ad8j.-idn1.nic.dz.
+; source locator: idn1.nic.dz.
+; source IP address: 193.194.64.243
+; backup point IP address: 111.42.148.76
+; status: success
+xn--lgbbat1ad8j.	3600	IN	NS	idn2.nic.dz.xn--lgbbat1ad8j.	3600	IN	NS	idn4.nic.dz.xn--lgbbat1ad8j.	3600	IN	NS	idn1.nic.dz.idn1.nic.dz.		3600	IN	A	193.194.64.243idn1.nic.dz.		3600	IN	AAAA	2001:4340:1030:2::4

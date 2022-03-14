@@ -1,0 +1,7 @@
+; timestamp: 20220306T202325Z
+; source id: tld-query-ke.-ns-ke.afrinic.net.
+; source locator: ns-ke.afrinic.net.
+; source IP address: 196.216.168.22
+; backup point IP address: 111.42.148.76
+; status: success
+ke.			86400	IN	NS	mzizi.kenic.or.ke.ke.			86400	IN	NS	ns-ke.afrinic.net.ke.			86400	IN	NS	ns2ke.dns.business.ke.			86400	IN	NS	ns.anycast.kenic.or.ke.ke.			86400	IN	NS	kenic.anycastdns.cz.ns-ke.afrinic.net.	1262	IN	A	196.216.168.22ns-ke.afrinic.net.	3600	IN	AAAA	2001:43f8:120::22

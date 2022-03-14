@@ -1,0 +1,7 @@
+; timestamp: 20220306T195802Z
+; source id: tld-query-cricket.-b.nic.cricket.
+; source locator: b.nic.cricket.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+cricket.		909	IN	NS	ns3.dns.nic.cricket.cricket.		909	IN	NS	c.nic.cricket.cricket.		909	IN	NS	ns2.dns.nic.cricket.cricket.		909	IN	NS	ns1.dns.nic.cricket.cricket.		909	IN	NS	b.nic.cricket.cricket.		909	IN	NS	a.nic.cricket.b.nic.cricket.		3600	IN	A	37.209.194.10b.nic.cricket.		3600	IN	AAAA	2001:dcd:2::10

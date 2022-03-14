@@ -1,0 +1,10 @@
+; timestamp: 20220306T201405Z
+; source id: tld-query-hermes.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.hermes.:../TldSpider/DataBak/20220306T201405Z-tld-query-hermes-a0.nic.hermes
+a2.nic.hermes.:../TldSpider/DataBak/20220306T201405Z-tld-query-hermes-a2.nic.hermes
+b0.nic.hermes.:../TldSpider/DataBak/20220306T201405Z-tld-query-hermes-b0.nic.hermes
+c0.nic.hermes.:../TldSpider/DataBak/20220306T201405Z-tld-query-hermes-c0.nic.hermes

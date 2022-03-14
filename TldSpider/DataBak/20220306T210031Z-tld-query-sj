@@ -1,0 +1,12 @@
+; timestamp: 20220306T210031Z
+; source id: tld-query-sj.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+x.nic.no.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-x.nic.no
+y.nic.no.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-y.nic.no
+z.nic.no.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-z.nic.no
+nn.uninett.no.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-nn.uninett.no
+nac.no.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-nac.no
+server.nordu.net.:../TldSpider/DataBak/20220306T210031Z-tld-query-sj-server.nordu.net

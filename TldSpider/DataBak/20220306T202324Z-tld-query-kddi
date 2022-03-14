@@ -1,0 +1,10 @@
+; timestamp: 20220306T202324Z
+; source id: tld-query-kddi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.gmoregistry.net.:../TldSpider/DataBak/20220306T202324Z-tld-query-kddi-a.gmoregistry.net
+b.gmoregistry.net.:../TldSpider/DataBak/20220306T202324Z-tld-query-kddi-b.gmoregistry.net
+k.gmoregistry.net.:../TldSpider/DataBak/20220306T202324Z-tld-query-kddi-k.gmoregistry.net
+l.gmoregistry.net.:../TldSpider/DataBak/20220306T202324Z-tld-query-kddi-l.gmoregistry.net

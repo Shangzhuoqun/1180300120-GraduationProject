@@ -1,0 +1,7 @@
+; timestamp: 20220306T201705Z
+; source id: tld-query-ifm.-anycast23.irondns.net.
+; source locator: anycast23.irondns.net.
+; source IP address: 195.253.65.11
+; backup point IP address: 111.42.148.76
+; status: success
+ifm.			3599	IN	NS	anycast24.irondns.net.ifm.			3599	IN	NS	anycast23.irondns.net.ifm.			3599	IN	NS	anycast10.irondns.net.ifm.			3599	IN	NS	anycast9.irondns.net.anycast23.irondns.net.	2777	IN	A	195.253.65.11anycast23.irondns.net.	2809	IN	AAAA	2a01:5b0:5::b

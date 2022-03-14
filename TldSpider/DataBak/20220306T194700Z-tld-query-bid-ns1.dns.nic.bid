@@ -1,0 +1,7 @@
+; timestamp: 20220306T194700Z
+; source id: tld-query-bid.-ns1.dns.nic.bid.
+; source locator: ns1.dns.nic.bid.
+; source IP address: 156.154.144.25
+; backup point IP address: 111.42.148.76
+; status: success
+bid.			86400	IN	NS	a.nic.bid.bid.			86400	IN	NS	b.nic.bid.bid.			86400	IN	NS	c.nic.bid.bid.			86400	IN	NS	ns1.dns.nic.bid.bid.			86400	IN	NS	ns2.dns.nic.bid.bid.			86400	IN	NS	ns3.dns.nic.bid.ns1.dns.nic.bid.	1602	IN	A	156.154.144.25ns1.dns.nic.bid.	1602	IN	AAAA	2610:a1:1071::19

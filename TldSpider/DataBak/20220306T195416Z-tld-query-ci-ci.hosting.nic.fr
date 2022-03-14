@@ -1,0 +1,7 @@
+; timestamp: 20220306T195416Z
+; source id: tld-query-ci.-ci.hosting.nic.fr.
+; source locator: ci.hosting.nic.fr.
+; source IP address: 192.134.0.49
+; backup point IP address: 111.42.148.76
+; status: success
+ci.			1078	IN	NS	ns-ci.afrinic.net.ci.			1078	IN	NS	ci.hosting.nic.fr.ci.			1078	IN	NS	ns.nic.ci.ci.			1078	IN	NS	ns1.nic.ci.ci.			1078	IN	NS	phloem.uoregon.edu.ci.			1078	IN	NS	any.nic.ci.ci.hosting.nic.fr.	2121	IN	A	192.134.0.49ci.hosting.nic.fr.	3600	IN	AAAA	2001:660:3006:1::1:1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201016Z
+; source id: tld-query-glass.-v2n1.nic.glass.
+; source locator: v2n1.nic.glass.
+; source IP address: 161.232.13.57
+; backup point IP address: 111.42.148.76
+; status: success
+glass.			3597	IN	NS	v0n0.nic.glass.glass.			3597	IN	NS	v2n0.nic.glass.glass.			3597	IN	NS	v0n3.nic.glass.glass.			3597	IN	NS	v2n1.nic.glass.glass.			3597	IN	NS	v0n2.nic.glass.glass.			3597	IN	NS	v0n1.nic.glass.v2n1.nic.glass.		3600	IN	A	161.232.13.57v2n1.nic.glass.		3600	IN	AAAA	2a01:8840:f7::57

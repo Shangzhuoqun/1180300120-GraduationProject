@@ -1,0 +1,10 @@
+; timestamp: 20220306T202614Z
+; source id: tld-query-lds.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.lds.:../TldSpider/DataBak/20220306T202614Z-tld-query-lds-a0.nic.lds
+a2.nic.lds.:../TldSpider/DataBak/20220306T202614Z-tld-query-lds-a2.nic.lds
+b0.nic.lds.:../TldSpider/DataBak/20220306T202614Z-tld-query-lds-b0.nic.lds
+c0.nic.lds.:../TldSpider/DataBak/20220306T202614Z-tld-query-lds-c0.nic.lds

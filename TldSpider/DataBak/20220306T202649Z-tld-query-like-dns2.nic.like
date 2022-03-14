@@ -1,0 +1,7 @@
+; timestamp: 20220306T202649Z
+; source id: tld-query-like.-dns2.nic.like.
+; source locator: dns2.nic.like.
+; source IP address: 103.49.82.72
+; backup point IP address: 111.42.148.76
+; status: success
+like.			3599	IN	NS	dns4.nic.like.like.			3599	IN	NS	dnsa.nic.like.like.			3599	IN	NS	dnsd.nic.like.like.			3599	IN	NS	dns3.nic.like.like.			3599	IN	NS	dns1.nic.like.like.			3599	IN	NS	dnsb.nic.like.like.			3599	IN	NS	dnsc.nic.like.like.			3599	IN	NS	dns2.nic.like.dns2.nic.like.		3600	IN	A	103.49.82.72dns2.nic.like.		3600	IN	AAAA	2401:fd80:402::72

@@ -1,0 +1,10 @@
+; timestamp: 20220306T202554Z
+; source id: tld-query-latrobe.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.latrobe.:../TldSpider/DataBak/20220306T202554Z-tld-query-latrobe-a.nic.latrobe
+b.nic.latrobe.:../TldSpider/DataBak/20220306T202554Z-tld-query-latrobe-b.nic.latrobe
+c.nic.latrobe.:../TldSpider/DataBak/20220306T202554Z-tld-query-latrobe-c.nic.latrobe
+d.nic.latrobe.:../TldSpider/DataBak/20220306T202554Z-tld-query-latrobe-d.nic.latrobe

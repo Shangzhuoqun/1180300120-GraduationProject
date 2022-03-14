@@ -1,0 +1,10 @@
+; timestamp: 20220306T200446Z
+; source id: tld-query-fans.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.fans.:../TldSpider/DataBak/20220306T200446Z-tld-query-fans-a.nic.fans
+b.nic.fans.:../TldSpider/DataBak/20220306T200446Z-tld-query-fans-b.nic.fans
+c.nic.fans.:../TldSpider/DataBak/20220306T200446Z-tld-query-fans-c.nic.fans
+d.nic.fans.:../TldSpider/DataBak/20220306T200446Z-tld-query-fans-d.nic.fans

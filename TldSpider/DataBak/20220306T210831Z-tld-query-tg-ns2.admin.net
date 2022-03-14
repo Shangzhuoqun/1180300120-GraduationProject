@@ -1,0 +1,14 @@
+; timestamp: 20220306T210831Z
+; source id: tld-query-tg.-ns2.admin.net.
+; source locator: ns2.admin.net.
+; source IP address: 128.199.117.237
+; backup point IP address: 111.42.148.76
+; status: success
+dig @108.61.25.122 tg. NS
+
+; <<>> DiG 9.16.23 <<>> @108.61.25.122 tg. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+ns2.admin.net.		86400	IN	A	128.199.117.237ns2.admin.net.		3600	IN	AAAA	2400:6180:0:d0::2ae:5001

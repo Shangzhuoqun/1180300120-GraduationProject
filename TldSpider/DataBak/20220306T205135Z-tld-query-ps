@@ -1,0 +1,12 @@
+; timestamp: 20220306T205135Z
+; source id: tld-query-ps.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ps.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-ps.cctld.authdns.ripe.net
+ns1.pnina.ps.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-ns1.pnina.ps
+rip.psg.com.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-rip.psg.com
+dns1.gov.ps.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-dns1.gov.ps
+fork.sth.dnsnode.net.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-fork.sth.dnsnode.net
+ps-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T205135Z-tld-query-ps-ps-ns.anycast.pch.net

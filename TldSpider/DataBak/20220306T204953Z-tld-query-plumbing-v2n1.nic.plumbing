@@ -1,0 +1,7 @@
+; timestamp: 20220306T204953Z
+; source id: tld-query-plumbing.-v2n1.nic.plumbing.
+; source locator: v2n1.nic.plumbing.
+; source IP address: 161.232.13.28
+; backup point IP address: 111.42.148.76
+; status: success
+plumbing.		3597	IN	NS	v0n3.nic.plumbing.plumbing.		3597	IN	NS	v0n0.nic.plumbing.plumbing.		3597	IN	NS	v0n2.nic.plumbing.plumbing.		3597	IN	NS	v2n1.nic.plumbing.plumbing.		3597	IN	NS	v0n1.nic.plumbing.plumbing.		3597	IN	NS	v2n0.nic.plumbing.v2n1.nic.plumbing.	3598	IN	A	161.232.13.28v2n1.nic.plumbing.	3598	IN	AAAA	2a01:8840:f7::28

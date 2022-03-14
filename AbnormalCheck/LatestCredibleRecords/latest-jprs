@@ -1,0 +1,15 @@
+jprs.	172800	in	ns	tld1.nic.jprs.
+jprs.	172800	in	ns	tld2.nic.jprs.
+jprs.	172800	in	ns	tld3.nic.jprs.
+jprs.	172800	in	ns	tld4.nic.jprs.
+jprs.	172800	in	ns	tld5.nic.jprs.
+tld1.nic.jprs.	172800	in	a	103.47.2.1
+tld1.nic.jprs.	172800	in	aaaa	2001:dda:0:0:0:0:0:1
+tld2.nic.jprs.	172800	in	a	117.104.133.16
+tld2.nic.jprs.	172800	in	aaaa	2001:218:3001:0:0:0:0:1
+tld3.nic.jprs.	172800	in	a	65.22.40.1
+tld3.nic.jprs.	172800	in	aaaa	2a01:8840:1ba:0:0:0:0:1
+tld4.nic.jprs.	172800	in	a	103.198.210.1
+tld4.nic.jprs.	172800	in	aaaa	2403:2880:0:0:0:0:0:1
+tld5.nic.jprs.	172800	in	a	65.22.40.129
+tld5.nic.jprs.	172800	in	aaaa	2a01:8840:1ba:0:0:0:0:129

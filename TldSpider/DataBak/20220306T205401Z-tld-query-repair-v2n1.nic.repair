@@ -1,0 +1,7 @@
+; timestamp: 20220306T205401Z
+; source id: tld-query-repair.-v2n1.nic.repair.
+; source locator: v2n1.nic.repair.
+; source IP address: 161.232.17.18
+; backup point IP address: 111.42.148.76
+; status: success
+repair.			3598	IN	NS	v0n3.nic.repair.repair.			3598	IN	NS	v0n0.nic.repair.repair.			3598	IN	NS	v2n0.nic.repair.repair.			3598	IN	NS	v0n2.nic.repair.repair.			3598	IN	NS	v0n1.nic.repair.repair.			3598	IN	NS	v2n1.nic.repair.v2n1.nic.repair.	3599	IN	A	161.232.17.18v2n1.nic.repair.	3598	IN	AAAA	2a01:8840:fb::18

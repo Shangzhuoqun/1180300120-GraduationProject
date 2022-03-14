@@ -1,0 +1,7 @@
+; timestamp: 20220306T204227Z
+; source id: tld-query-network.-v2n1.nic.network.
+; source locator: v2n1.nic.network.
+; source IP address: 161.232.17.36
+; backup point IP address: 111.42.148.76
+; status: success
+network.		3598	IN	NS	v0n1.nic.network.network.		3598	IN	NS	v2n0.nic.network.network.		3598	IN	NS	v0n0.nic.network.network.		3598	IN	NS	v2n1.nic.network.network.		3598	IN	NS	v0n3.nic.network.network.		3598	IN	NS	v0n2.nic.network.v2n1.nic.network.	3600	IN	A	161.232.17.36v2n1.nic.network.	3600	IN	AAAA	2a01:8840:fb::36

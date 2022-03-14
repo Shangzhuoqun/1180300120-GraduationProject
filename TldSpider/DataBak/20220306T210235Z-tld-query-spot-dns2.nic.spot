@@ -1,0 +1,7 @@
+; timestamp: 20220306T210235Z
+; source id: tld-query-spot.-dns2.nic.spot.
+; source locator: dns2.nic.spot.
+; source IP address: 103.49.82.82
+; backup point IP address: 111.42.148.76
+; status: success
+spot.			3600	IN	NS	dns4.nic.spot.spot.			3600	IN	NS	dnsb.nic.spot.spot.			3600	IN	NS	dns3.nic.spot.spot.			3600	IN	NS	dnsc.nic.spot.spot.			3600	IN	NS	dns1.nic.spot.spot.			3600	IN	NS	dnsa.nic.spot.spot.			3600	IN	NS	dnsd.nic.spot.spot.			3600	IN	NS	dns2.nic.spot.dns2.nic.spot.		3599	IN	A	103.49.82.82dns2.nic.spot.		3599	IN	AAAA	2401:fd80:402::82

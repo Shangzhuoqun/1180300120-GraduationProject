@@ -1,0 +1,7 @@
+; timestamp: 20220306T205712Z
+; source id: tld-query-sandvik.-a.nic.sandvik.
+; source locator: a.nic.sandvik.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+sandvik.		3600	IN	NS	d.nic.sandvik.sandvik.		3600	IN	NS	b.nic.sandvik.sandvik.		3600	IN	NS	c.nic.sandvik.sandvik.		3600	IN	NS	a.nic.sandvik.a.nic.sandvik.		3600	IN	A	37.209.192.9a.nic.sandvik.		3599	IN	AAAA	2001:dcd:1::9

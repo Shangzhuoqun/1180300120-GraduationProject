@@ -1,0 +1,14 @@
+; timestamp: 20220306T211308Z
+; source id: tld-query-tushu.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dns1.nic.tushu
+dns2.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dns2.nic.tushu
+dns3.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dns3.nic.tushu
+dns4.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dns4.nic.tushu
+dnsa.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dnsa.nic.tushu
+dnsb.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dnsb.nic.tushu
+dnsc.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dnsc.nic.tushu
+dnsd.nic.tushu.:../TldSpider/DataBak/20220306T211308Z-tld-query-tushu-dnsd.nic.tushu

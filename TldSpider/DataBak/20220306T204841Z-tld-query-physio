@@ -1,0 +1,10 @@
+; timestamp: 20220306T204841Z
+; source id: tld-query-physio.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.physio.:../TldSpider/DataBak/20220306T204841Z-tld-query-physio-a.nic.physio
+b.nic.physio.:../TldSpider/DataBak/20220306T204841Z-tld-query-physio-b.nic.physio
+c.nic.physio.:../TldSpider/DataBak/20220306T204841Z-tld-query-physio-c.nic.physio
+d.nic.physio.:../TldSpider/DataBak/20220306T204841Z-tld-query-physio-d.nic.physio

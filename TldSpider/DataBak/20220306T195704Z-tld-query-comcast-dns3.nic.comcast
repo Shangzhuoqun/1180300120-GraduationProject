@@ -1,0 +1,7 @@
+; timestamp: 20220306T195704Z
+; source id: tld-query-comcast.-dns3.nic.comcast.
+; source locator: dns3.nic.comcast.
+; source IP address: 213.248.223.6
+; backup point IP address: 111.42.148.76
+; status: success
+comcast.		939	IN	NS	dns1.nic.comcast.comcast.		939	IN	NS	dnsd.nic.comcast.comcast.		939	IN	NS	dnsa.nic.comcast.comcast.		939	IN	NS	dns2.nic.comcast.comcast.		939	IN	NS	dnsc.nic.comcast.comcast.		939	IN	NS	dns3.nic.comcast.comcast.		939	IN	NS	dns4.nic.comcast.comcast.		939	IN	NS	dnsb.nic.comcast.dns3.nic.comcast.	3594	IN	A	213.248.223.6dns3.nic.comcast.	3594	IN	AAAA	2a01:618:407::6

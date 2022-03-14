@@ -1,0 +1,7 @@
+; timestamp: 20220306T204849Z
+; source id: tld-query-pid.-d.nic.pid.
+; source locator: d.nic.pid.
+; source IP address: 212.18.249.47
+; backup point IP address: 111.42.148.76
+; status: success
+pid.			172800	IN	NS	a.nic.pid.pid.			172800	IN	NS	b.nic.pid.pid.			172800	IN	NS	c.nic.pid.pid.			172800	IN	NS	d.nic.pid.d.nic.pid.		3582	IN	A	212.18.249.47d.nic.pid.		3582	IN	AAAA	2a04:2b00:13ff::47

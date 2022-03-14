@@ -1,0 +1,7 @@
+; timestamp: 20220306T205320Z
+; source id: tld-query-realty.-v0n3.nic.realty.
+; source locator: v0n3.nic.realty.
+; source IP address: 161.232.12.42
+; backup point IP address: 111.42.148.76
+; status: success
+realty.			3594	IN	NS	v0n0.nic.realty.realty.			3594	IN	NS	v2n0.nic.realty.realty.			3594	IN	NS	v0n1.nic.realty.realty.			3594	IN	NS	v0n3.nic.realty.realty.			3594	IN	NS	v0n2.nic.realty.realty.			3594	IN	NS	v2n1.nic.realty.v0n3.nic.realty.	3599	IN	A	161.232.12.42v0n3.nic.realty.	3599	IN	AAAA	2a01:8840:f6::42

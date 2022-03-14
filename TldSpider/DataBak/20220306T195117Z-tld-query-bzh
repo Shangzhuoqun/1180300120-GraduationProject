@@ -1,0 +1,9 @@
+; timestamp: 20220306T195117Z
+; source id: tld-query-bzh.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+d.nic.fr.:../TldSpider/DataBak/20220306T195117Z-tld-query-bzh-d.nic.fr
+f.ext.nic.fr.:../TldSpider/DataBak/20220306T195117Z-tld-query-bzh-f.ext.nic.fr
+g.ext.nic.fr.:../TldSpider/DataBak/20220306T195117Z-tld-query-bzh-g.ext.nic.fr

@@ -1,0 +1,11 @@
+; timestamp: 20220306T195346Z
+; source id: tld-query-ch.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.ch.:../TldSpider/DataBak/20220306T195346Z-tld-query-ch-a.nic.ch
+b.nic.ch.:../TldSpider/DataBak/20220306T195346Z-tld-query-ch-b.nic.ch
+d.nic.ch.:../TldSpider/DataBak/20220306T195346Z-tld-query-ch-d.nic.ch
+e.nic.ch.:../TldSpider/DataBak/20220306T195346Z-tld-query-ch-e.nic.ch
+f.nic.ch.:../TldSpider/DataBak/20220306T195346Z-tld-query-ch-f.nic.ch

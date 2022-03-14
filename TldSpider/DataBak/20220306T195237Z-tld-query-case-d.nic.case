@@ -1,0 +1,7 @@
+; timestamp: 20220306T195237Z
+; source id: tld-query-case.-d.nic.case.
+; source locator: d.nic.case.
+; source IP address: 212.18.249.140
+; backup point IP address: 111.42.148.76
+; status: success
+case.			1132	IN	NS	b.nic.case.case.			1132	IN	NS	d.nic.case.case.			1132	IN	NS	c.nic.case.case.			1132	IN	NS	a.nic.case.d.nic.case.		3598	IN	A	212.18.249.140d.nic.case.		3598	IN	AAAA	2a04:2b00:13ff::140

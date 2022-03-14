@@ -1,0 +1,7 @@
+; timestamp: 20220306T194515Z
+; source id: tld-query-basketball.-b.nic.basketball.
+; source locator: b.nic.basketball.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+basketball.		1488	IN	NS	d.nic.basketball.basketball.		1488	IN	NS	a.nic.basketball.basketball.		1488	IN	NS	b.nic.basketball.basketball.		1488	IN	NS	c.nic.basketball.b.nic.basketball.	3600	IN	A	37.209.194.10b.nic.basketball.	3600	IN	AAAA	2001:dcd:2::10

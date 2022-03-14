@@ -1,0 +1,34 @@
+; timestamp: 20220306T195600Z
+; source id: tld-query-cm.-lom.camnet.cm.
+; source locator: lom.camnet.cm.
+; source IP address: 195.24.192.34
+; backup point IP address: 111.42.148.76
+; status: success
+dig @195.24.192.34 cm. NS
+
+; <<>> DiG 9.16.23 <<>> @195.24.192.34 cm. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+lom.camnet.cm.		86400	IN	A	195.24.192.34dig @195.24.192.34 lom.camnet.cm. AAAA
+
+; <<>> DiG 9.16.23 <<>> @195.24.192.34 lom.camnet.cm. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46901
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;lom.camnet.cm.			IN	AAAA
+
+;; AUTHORITY SECTION:
+camnet.cm.		900	IN	SOA	mbam.camnet.cm. postmaster.camnet.cm. 2021110901 5400 2700 1230000 900
+
+;; Query time: 453 msec
+;; SERVER: 195.24.192.34#53(195.24.192.34)
+;; WHEN: Sun Mar 06 19:56:20 ;; MSG SIZE  rcvd: 94
+

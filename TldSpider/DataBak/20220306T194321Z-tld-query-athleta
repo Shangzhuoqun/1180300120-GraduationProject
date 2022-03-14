@@ -1,0 +1,12 @@
+; timestamp: 20220306T194321Z
+; source id: tld-query-athleta.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-a.nic.athleta
+b.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-b.nic.athleta
+c.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-c.nic.athleta
+ns1.dns.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-ns1.dns.nic.athleta
+ns2.dns.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-ns2.dns.nic.athleta
+ns3.dns.nic.athleta.:../TldSpider/DataBak/20220306T194321Z-tld-query-athleta-ns3.dns.nic.athleta

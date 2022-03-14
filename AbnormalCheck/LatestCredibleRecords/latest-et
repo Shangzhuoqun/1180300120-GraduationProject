@@ -1,0 +1,4 @@
+et.	172800	in	ns	a.nic.et.
+et.	172800	in	ns	b.nic.et.
+a.nic.et.	172800	in	a	197.156.74.192
+b.nic.et.	172800	in	a	197.156.74.193

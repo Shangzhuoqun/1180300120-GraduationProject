@@ -1,0 +1,7 @@
+; timestamp: 20220306T202516Z
+; source id: tld-query-kw.-c.nic.kw.
+; source locator: c.nic.kw.
+; source IP address: 194.58.198.135
+; backup point IP address: 111.42.148.76
+; status: success
+kw.			2647	IN	NS	d.nic.kw.kw.			2647	IN	NS	pch.nic.kw.kw.			2647	IN	NS	a.nic.kw.kw.			2647	IN	NS	b.nic.kw.kw.			2647	IN	NS	c.nic.kw.c.nic.kw.		3600	IN	A	194.58.198.135c.nic.kw.		3599	IN	AAAA	2a01:3f1:3032:8001::135

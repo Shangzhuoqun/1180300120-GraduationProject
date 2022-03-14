@@ -1,0 +1,12 @@
+censvrns0001.ird.fr.	172800	in	a	91.203.32.147
+ns-sn.nic.fr.	172800	in	a	194.0.9.1
+ns-sn.nic.fr.	172800	in	aaaa	2001:678:c:0:0:0:0:1
+sn.cctld.authdns.ripe.net.	172800	in	a	193.0.9.111
+sn.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:111
+sn.	172800	in	ns	ns.ucad.sn.
+sn.	172800	in	ns	sn.cctld.authdns.ripe.net.
+sn.	172800	in	ns	ns1.sonatel.sn.
+sn.	172800	in	ns	ns-sn.nic.fr.
+sn.	172800	in	ns	censvrns0001.ird.fr.
+ns1.sonatel.sn.	172800	in	a	213.154.64.11
+ns.ucad.sn.	172800	in	a	196.1.95.1

@@ -1,0 +1,12 @@
+mit.	172800	in	ns	a0.nic.mit.
+mit.	172800	in	ns	a2.nic.mit.
+mit.	172800	in	ns	b0.nic.mit.
+mit.	172800	in	ns	c0.nic.mit.
+a0.nic.mit.	172800	in	a	65.22.236.17
+a0.nic.mit.	172800	in	aaaa	2a01:8840:e6:0:0:0:0:17
+a2.nic.mit.	172800	in	a	65.22.239.17
+a2.nic.mit.	172800	in	aaaa	2a01:8840:e9:0:0:0:0:17
+b0.nic.mit.	172800	in	a	65.22.237.17
+b0.nic.mit.	172800	in	aaaa	2a01:8840:e7:0:0:0:0:17
+c0.nic.mit.	172800	in	a	65.22.238.17
+c0.nic.mit.	172800	in	aaaa	2a01:8840:e8:0:0:0:0:17

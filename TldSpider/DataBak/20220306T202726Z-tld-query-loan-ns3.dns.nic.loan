@@ -1,0 +1,7 @@
+; timestamp: 20220306T202726Z
+; source id: tld-query-loan.-ns3.dns.nic.loan.
+; source locator: ns3.dns.nic.loan.
+; source IP address: 156.154.159.106
+; backup point IP address: 111.42.148.76
+; status: success
+loan.			3598	IN	NS	ns3.dns.nic.loan.loan.			3598	IN	NS	c.nic.loan.loan.			3598	IN	NS	ns2.dns.nic.loan.loan.			3598	IN	NS	ns1.dns.nic.loan.loan.			3598	IN	NS	a.nic.loan.loan.			3598	IN	NS	b.nic.loan.ns3.dns.nic.loan.	3599	IN	A	156.154.159.106ns3.dns.nic.loan.	3600	IN	AAAA	2610:a1:1073::6a

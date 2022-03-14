@@ -1,0 +1,7 @@
+; timestamp: 20220306T211001Z
+; source id: tld-query-tjx.-ns2.dns.nic.tjx.
+; source locator: ns2.dns.nic.tjx.
+; source IP address: 156.154.145.162
+; backup point IP address: 111.42.148.76
+; status: success
+tjx.			86400	IN	NS	a.nic.tjx.tjx.			86400	IN	NS	b.nic.tjx.tjx.			86400	IN	NS	c.nic.tjx.tjx.			86400	IN	NS	ns1.dns.nic.tjx.tjx.			86400	IN	NS	ns2.dns.nic.tjx.tjx.			86400	IN	NS	ns3.dns.nic.tjx.ns2.dns.nic.tjx.	3598	IN	A	156.154.145.162ns2.dns.nic.tjx.	3598	IN	AAAA	2610:a1:1072::a2

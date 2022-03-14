@@ -1,0 +1,7 @@
+; timestamp: 20220306T200409Z
+; source id: tld-query-expert.-v0n3.nic.expert.
+; source locator: v0n3.nic.expert.
+; source IP address: 161.232.16.4
+; backup point IP address: 111.42.148.76
+; status: success
+expert.			3599	IN	NS	v0n0.nic.expert.expert.			3599	IN	NS	v2n1.nic.expert.expert.			3599	IN	NS	v2n0.nic.expert.expert.			3599	IN	NS	v0n2.nic.expert.expert.			3599	IN	NS	v0n3.nic.expert.expert.			3599	IN	NS	v0n1.nic.expert.v0n3.nic.expert.	3599	IN	A	161.232.16.4v0n3.nic.expert.	3600	IN	AAAA	2a01:8840:fa::4

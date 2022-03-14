@@ -1,0 +1,7 @@
+; timestamp: 20220306T194326Z
+; source id: tld-query-au.-s.au.
+; source locator: s.au.
+; source IP address: 65.22.198.1
+; backup point IP address: 111.42.148.76
+; status: success
+au.			898	IN	NS	t.au.au.			898	IN	NS	s.au.au.			898	IN	NS	q.au.au.			898	IN	NS	r.au.s.au.			900	IN	A	65.22.198.1s.au.			900	IN	AAAA	2a01:8840:c0::1

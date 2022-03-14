@@ -1,0 +1,10 @@
+; timestamp: 20220306T202450Z
+; source id: tld-query-kosher.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.kosher.:../TldSpider/DataBak/20220306T202450Z-tld-query-kosher-a0.nic.kosher
+a2.nic.kosher.:../TldSpider/DataBak/20220306T202450Z-tld-query-kosher-a2.nic.kosher
+b0.nic.kosher.:../TldSpider/DataBak/20220306T202450Z-tld-query-kosher-b0.nic.kosher
+c0.nic.kosher.:../TldSpider/DataBak/20220306T202450Z-tld-query-kosher-c0.nic.kosher

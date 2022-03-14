@@ -1,0 +1,9 @@
+; timestamp: 20220306T210553Z
+; source id: tld-query-sz.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+sz.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T210553Z-tld-query-sz-sz.cctld.authdns.ripe.net
+ns1.sispa.org.sz.:../TldSpider/DataBak/20220306T210553Z-tld-query-sz-ns1.sispa.org.sz
+rip.psg.com.:../TldSpider/DataBak/20220306T210553Z-tld-query-sz-rip.psg.com

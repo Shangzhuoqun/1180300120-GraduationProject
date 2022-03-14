@@ -1,0 +1,7 @@
+; timestamp: 20220306T211316Z
+; source id: tld-query-tw.-d.dns.tw.
+; source locator: d.dns.tw.
+; source IP address: 60.199.165.186
+; backup point IP address: 111.42.148.76
+; status: success
+tw.			3598	IN	NS	d.dns.tw.tw.			3598	IN	NS	e.dns.tw.tw.			3598	IN	NS	g.dns.tw.tw.			3598	IN	NS	anytld.apnic.net.tw.			3598	IN	NS	a.dns.tw.tw.			3598	IN	NS	ns.twnic.net.tw.			3598	IN	NS	f.dns.tw.tw.			3598	IN	NS	c.dns.tw.tw.			3598	IN	NS	h.dns.tw.tw.			3598	IN	NS	b.dns.tw.d.dns.tw.		3209	IN	A	60.199.165.186d.dns.tw.		3304	IN	AAAA	2001:4541:9010:7::186

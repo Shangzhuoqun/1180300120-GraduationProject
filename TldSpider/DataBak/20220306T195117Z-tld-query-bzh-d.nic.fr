@@ -1,0 +1,7 @@
+; timestamp: 20220306T195117Z
+; source id: tld-query-bzh.-d.nic.fr.
+; source locator: d.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+bzh.			1187	IN	NS	g.ext.nic.fr.bzh.			1187	IN	NS	d.nic.fr.bzh.			1187	IN	NS	f.ext.nic.fr.d.nic.fr.		1344	IN	A	194.0.9.1d.nic.fr.		1344	IN	AAAA	2001:678:c::1

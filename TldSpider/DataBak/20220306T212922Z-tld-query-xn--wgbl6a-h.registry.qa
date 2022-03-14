@@ -1,0 +1,7 @@
+; timestamp: 20220306T212922Z
+; source id: tld-query-xn--wgbl6a.-h.registry.qa.
+; source locator: h.registry.qa.
+; source IP address: 178.23.22.60
+; backup point IP address: 111.42.148.76
+; status: success
+xn--wgbl6a.		3596	IN	NS	b.registry.qa.xn--wgbl6a.		3596	IN	NS	a.registry.qa.xn--wgbl6a.		3596	IN	NS	e.registry.qa.xn--wgbl6a.		3596	IN	NS	f.registry.qa.xn--wgbl6a.		3596	IN	NS	g.registry.qa.xn--wgbl6a.		3596	IN	NS	h.registry.qa.xn--wgbl6a.		3596	IN	NS	c.registry.qa.xn--wgbl6a.		3596	IN	NS	i.registry.qa.xn--wgbl6a.		3596	IN	NS	d.registry.qa.h.registry.qa.		1381	IN	A	178.23.22.60h.registry.qa.		600	IN	AAAA	2a0c:a640:1:22::60

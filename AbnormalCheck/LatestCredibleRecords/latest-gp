@@ -1,0 +1,13 @@
+ns-gp.nic.fr.	172800	in	a	194.0.9.1
+ns-gp.nic.fr.	172800	in	aaaa	2001:678:c:0:0:0:0:1
+gp.	172800	in	ns	a.lactld.org.
+gp.	172800	in	ns	gp.cctld.authdns.ripe.net.
+gp.	172800	in	ns	ns1.nic.gp.
+gp.	172800	in	ns	ns2.nic.gp.
+gp.	172800	in	ns	ns-gp.nic.fr.
+ns1.nic.gp.	172800	in	a	193.218.114.2
+ns2.nic.gp.	172800	in	a	193.218.114.34
+gp.cctld.authdns.ripe.net.	172800	in	a	193.0.9.76
+gp.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:76
+a.lactld.org.	172800	in	a	200.0.68.10
+a.lactld.org.	172800	in	aaaa	2801:14:a000:0:0:0:0:10

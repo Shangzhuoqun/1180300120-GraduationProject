@@ -1,0 +1,7 @@
+; timestamp: 20220306T201901Z
+; source id: tld-query-intuit.-ns4.dns.nic.intuit.
+; source locator: ns4.dns.nic.intuit.
+; source IP address: 156.154.156.82
+; backup point IP address: 111.42.148.76
+; status: success
+intuit.			3599	IN	NS	ns5.dns.nic.intuit.intuit.			3599	IN	NS	ns1.dns.nic.intuit.intuit.			3599	IN	NS	ns6.dns.nic.intuit.intuit.			3599	IN	NS	ns3.dns.nic.intuit.intuit.			3599	IN	NS	ns4.dns.nic.intuit.intuit.			3599	IN	NS	ns2.dns.nic.intuit.ns4.dns.nic.intuit.	3599	IN	A	156.154.156.82ns4.dns.nic.intuit.	3598	IN	AAAA	2610:a1:1074::52

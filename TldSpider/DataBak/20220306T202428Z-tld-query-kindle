@@ -1,0 +1,14 @@
+; timestamp: 20220306T202428Z
+; source id: tld-query-kindle.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dns1.nic.kindle
+dns2.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dns2.nic.kindle
+dns3.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dns3.nic.kindle
+dns4.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dns4.nic.kindle
+dnsa.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dnsa.nic.kindle
+dnsb.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dnsb.nic.kindle
+dnsc.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dnsc.nic.kindle
+dnsd.nic.kindle.:../TldSpider/DataBak/20220306T202428Z-tld-query-kindle-dnsd.nic.kindle

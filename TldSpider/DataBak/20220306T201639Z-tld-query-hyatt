@@ -1,0 +1,12 @@
+; timestamp: 20220306T201639Z
+; source id: tld-query-hyatt.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-a.nic.hyatt
+b.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-b.nic.hyatt
+c.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-c.nic.hyatt
+ns1.dns.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-ns1.dns.nic.hyatt
+ns2.dns.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-ns2.dns.nic.hyatt
+ns3.dns.nic.hyatt.:../TldSpider/DataBak/20220306T201639Z-tld-query-hyatt-ns3.dns.nic.hyatt

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201852Z
+; source id: tld-query-int.-y.iana-servers.net.
+; source locator: y.iana-servers.net.
+; source IP address: 199.43.133.53
+; backup point IP address: 111.42.148.76
+; status: success
+int.			3599	IN	NS	sec2.authdns.ripe.net.int.			3599	IN	NS	y.iana-servers.net.int.			3599	IN	NS	ns0.ja.net.int.			3599	IN	NS	ns.uu.net.int.			3599	IN	NS	z.iana-servers.net.int.			3599	IN	NS	x.iana-servers.net.y.iana-servers.net.	1800	IN	A	199.43.133.53y.iana-servers.net.	1800	IN	AAAA	2001:500:8d::53

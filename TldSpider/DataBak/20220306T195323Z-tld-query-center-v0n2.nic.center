@@ -1,0 +1,7 @@
+; timestamp: 20220306T195323Z
+; source id: tld-query-center.-v0n2.nic.center.
+; source locator: v0n2.nic.center.
+; source IP address: 65.22.30.4
+; backup point IP address: 111.42.148.76
+; status: success
+center.			1110	IN	NS	v0n3.nic.center.center.			1110	IN	NS	v2n0.nic.center.center.			1110	IN	NS	v0n1.nic.center.center.			1110	IN	NS	v0n2.nic.center.center.			1110	IN	NS	v0n0.nic.center.center.			1110	IN	NS	v2n1.nic.center.v0n2.nic.center.	1462	IN	A	65.22.30.4v0n2.nic.center.	1461	IN	AAAA	2a01:8840:20::4

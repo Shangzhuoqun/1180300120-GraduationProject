@@ -1,0 +1,12 @@
+; timestamp: 20220306T194705Z
+; source id: tld-query-bingo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v0n0.nic.bingo
+v0n1.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v0n1.nic.bingo
+v0n2.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v0n2.nic.bingo
+v0n3.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v0n3.nic.bingo
+v2n0.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v2n0.nic.bingo
+v2n1.nic.bingo.:../TldSpider/DataBak/20220306T194705Z-tld-query-bingo-v2n1.nic.bingo

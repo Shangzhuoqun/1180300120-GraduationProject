@@ -1,0 +1,7 @@
+; timestamp: 20220306T212518Z
+; source id: tld-query-xn--kcrx77d1x4a.-a.nic.xn--kcrx77d1x4a.
+; source locator: a.nic.xn--kcrx77d1x4a.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+xn--kcrx77d1x4a.	3600	IN	NS	a.nic.xn--kcrx77d1x4a.xn--kcrx77d1x4a.	3600	IN	NS	b.nic.xn--kcrx77d1x4a.xn--kcrx77d1x4a.	3600	IN	NS	d.nic.xn--kcrx77d1x4a.xn--kcrx77d1x4a.	3600	IN	NS	c.nic.xn--kcrx77d1x4a.a.nic.xn--kcrx77d1x4a.	3600	IN	A	37.209.192.9a.nic.xn--kcrx77d1x4a.	3600	IN	AAAA	2001:dcd:1::9

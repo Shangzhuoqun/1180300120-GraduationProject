@@ -1,0 +1,27 @@
+; timestamp: 20220306T212405Z
+; source id: tld-query-xn--fzc2c9e2c.-ns-l.nic.lk.
+; source locator: ns-l.nic.lk.
+; source IP address: 192.248.8.17
+; backup point IP address: 111.42.148.76
+; status: success
+xn--fzc2c9e2c.		3594	IN	NS	ns-c.nic.lk.xn--fzc2c9e2c.		3594	IN	NS	nic.lk-anycast.pch.net.xn--fzc2c9e2c.		3594	IN	NS	ns-d.nic.lk.xn--fzc2c9e2c.		3594	IN	NS	ns-t.nic.lk.xn--fzc2c9e2c.		3594	IN	NS	ns-l.nic.lk.xn--fzc2c9e2c.		3594	IN	NS	ns1.ac.lk.xn--fzc2c9e2c.		3594	IN	NS	lk.communitydns.net.ns-l.nic.lk.		3600	IN	A	192.248.8.17dig @192.248.8.17 ns-l.nic.lk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @192.248.8.17 ns-l.nic.lk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49623
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns-l.nic.lk.			IN	AAAA
+
+;; AUTHORITY SECTION:
+lk.			1800	IN	SOA	ns.nic.lk. hostmaster.nic.lk. 2017997983 21600 10800 2592000 7200
+
+;; Query time: 959 msec
+;; SERVER: 192.248.8.17#53(192.248.8.17)
+;; WHEN: Sun Mar 06 21:24:13 ;; MSG SIZE  rcvd: 90
+

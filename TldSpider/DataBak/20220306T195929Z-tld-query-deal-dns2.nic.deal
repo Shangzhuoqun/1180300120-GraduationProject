@@ -1,0 +1,7 @@
+; timestamp: 20220306T195929Z
+; source id: tld-query-deal.-dns2.nic.deal.
+; source locator: dns2.nic.deal.
+; source IP address: 103.49.82.65
+; backup point IP address: 111.42.148.76
+; status: success
+deal.			534	IN	NS	dns1.nic.deal.deal.			534	IN	NS	dns2.nic.deal.deal.			534	IN	NS	dnsc.nic.deal.deal.			534	IN	NS	dns3.nic.deal.deal.			534	IN	NS	dnsb.nic.deal.deal.			534	IN	NS	dns4.nic.deal.deal.			534	IN	NS	dnsd.nic.deal.deal.			534	IN	NS	dnsa.nic.deal.dns2.nic.deal.		3599	IN	A	103.49.82.65dns2.nic.deal.		3599	IN	AAAA	2401:fd80:402::65

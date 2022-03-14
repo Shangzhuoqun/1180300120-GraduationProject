@@ -1,0 +1,12 @@
+; timestamp: 20220306T204321Z
+; source id: tld-query-nike.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-a.nic.nike
+b.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-b.nic.nike
+c.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-c.nic.nike
+ns1.dns.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-ns1.dns.nic.nike
+ns2.dns.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-ns2.dns.nic.nike
+ns3.dns.nic.nike.:../TldSpider/DataBak/20220306T204321Z-tld-query-nike-ns3.dns.nic.nike

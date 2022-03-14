@@ -1,0 +1,7 @@
+; timestamp: 20220306T195552Z
+; source id: tld-query-clothing.-v2n1.nic.clothing.
+; source locator: v2n1.nic.clothing.
+; source IP address: 161.232.13.13
+; backup point IP address: 111.42.148.76
+; status: success
+clothing.		1003	IN	NS	v0n3.nic.clothing.clothing.		1003	IN	NS	v0n2.nic.clothing.clothing.		1003	IN	NS	v0n0.nic.clothing.clothing.		1003	IN	NS	v2n1.nic.clothing.clothing.		1003	IN	NS	v0n1.nic.clothing.clothing.		1003	IN	NS	v2n0.nic.clothing.v2n1.nic.clothing.	3600	IN	A	161.232.13.13v2n1.nic.clothing.	3600	IN	AAAA	2a01:8840:f7::13

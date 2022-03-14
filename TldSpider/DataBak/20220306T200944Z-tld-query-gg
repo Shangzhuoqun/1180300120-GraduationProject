@@ -1,0 +1,12 @@
+; timestamp: 20220306T200944Z
+; source id: tld-query-gg.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+c.ci-servers.org.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-c.ci-servers.org
+e.ci-servers.net.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-e.ci-servers.net
+dns1.nominetdns.uk.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-dns1.nominetdns.uk
+dns2.nominetdns.uk.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-dns2.nominetdns.uk
+dns3.nominetdns.uk.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-dns3.nominetdns.uk
+dns4.nominetdns.uk.:../TldSpider/DataBak/20220306T200944Z-tld-query-gg-dns4.nominetdns.uk

@@ -1,0 +1,27 @@
+; timestamp: 20220306T204938Z
+; source id: tld-query-pk.-root-e.pknic.pk.
+; source locator: root-e.pknic.pk.
+; source IP address: 107.6.178.178
+; backup point IP address: 111.42.148.76
+; status: success
+PK.			38400	IN	NS	root-c1.pknic.pk.PK.			38400	IN	NS	root-e.pknic.pk.PK.			38400	IN	NS	root-s.pknic.pk.PK.			38400	IN	NS	root-c2.pknic.pk.root-e.pknic.pk.	3600	IN	A	107.6.178.178dig @107.6.178.178 root-e.pknic.pk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @107.6.178.178 root-e.pknic.pk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23625
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;root-e.pknic.pk.		IN	AAAA
+
+;; AUTHORITY SECTION:
+pk.			1800	IN	SOA	pknic.pk. ashar.pknic.net.pk. 2022030663 10700 900 1209600 14400
+
+;; Query time: 308 msec
+;; SERVER: 107.6.178.178#53(107.6.178.178)
+;; WHEN: Sun Mar 06 20:49:40 ;; MSG SIZE  rcvd: 96
+

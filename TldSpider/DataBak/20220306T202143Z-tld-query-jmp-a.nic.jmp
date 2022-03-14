@@ -1,0 +1,7 @@
+; timestamp: 20220306T202143Z
+; source id: tld-query-jmp.-a.nic.jmp.
+; source locator: a.nic.jmp.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+jmp.			3600	IN	NS	a.nic.jmp.jmp.			3600	IN	NS	ns3.dns.nic.jmp.jmp.			3600	IN	NS	ns1.dns.nic.jmp.jmp.			3600	IN	NS	c.nic.jmp.jmp.			3600	IN	NS	b.nic.jmp.jmp.			3600	IN	NS	ns2.dns.nic.jmp.a.nic.jmp.		3600	IN	A	37.209.192.9a.nic.jmp.		3600	IN	AAAA	2001:dcd:1::9

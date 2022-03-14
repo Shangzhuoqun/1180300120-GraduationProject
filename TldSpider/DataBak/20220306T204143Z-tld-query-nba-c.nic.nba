@@ -1,0 +1,7 @@
+; timestamp: 20220306T204143Z
+; source id: tld-query-nba.-c.nic.nba.
+; source locator: c.nic.nba.
+; source IP address: 37.209.196.9
+; backup point IP address: 111.42.148.76
+; status: success
+nba.			3599	IN	NS	c.nic.nba.nba.			3599	IN	NS	ns1.dns.nic.nba.nba.			3599	IN	NS	ns3.dns.nic.nba.nba.			3599	IN	NS	a.nic.nba.nba.			3599	IN	NS	b.nic.nba.nba.			3599	IN	NS	ns2.dns.nic.nba.c.nic.nba.		3599	IN	A	37.209.196.9c.nic.nba.		3599	IN	AAAA	2001:dcd:3::9

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201937Z
+; source id: tld-query-ir.-ir.cctld.authdns.ripe.net.
+; source locator: ir.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.85
+; backup point IP address: 111.42.148.76
+; status: success
+ir.			1440	IN	NS	a.nic.ir.ir.			1440	IN	NS	ns5.univie.ac.at.ir.			1440	IN	NS	ir.cctld.authdns.ripe.net.ir.			1440	IN	NS	dns-ir.univie.ac.at.ir.			1440	IN	NS	b.nic.ir.ir.cctld.authdns.ripe.net. 3598	IN	A	193.0.9.85ir.cctld.authdns.ripe.net. 3598	IN	AAAA	2001:67c:e0::85

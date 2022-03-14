@@ -1,0 +1,7 @@
+; timestamp: 20220306T204247Z
+; source id: tld-query-nfl.-ns2.dns.nic.nfl.
+; source locator: ns2.dns.nic.nfl.
+; source IP address: 156.154.145.122
+; backup point IP address: 111.42.148.76
+; status: success
+nfl.			518400	IN	NS	ns1.dns.nic.nfl.nfl.			518400	IN	NS	ns2.dns.nic.nfl.nfl.			518400	IN	NS	ns3.dns.nic.nfl.nfl.			518400	IN	NS	ns4.dns.nic.nfl.nfl.			518400	IN	NS	ns5.dns.nic.nfl.nfl.			518400	IN	NS	ns6.dns.nic.nfl.ns2.dns.nic.nfl.	3600	IN	A	156.154.145.122ns2.dns.nic.nfl.	3600	IN	AAAA	2610:a1:1072::7a

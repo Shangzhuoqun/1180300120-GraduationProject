@@ -1,0 +1,10 @@
+; timestamp: 20220306T204219Z
+; source id: tld-query-netbank.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.netbank.:../TldSpider/DataBak/20220306T204219Z-tld-query-netbank-a.nic.netbank
+b.nic.netbank.:../TldSpider/DataBak/20220306T204219Z-tld-query-netbank-b.nic.netbank
+c.nic.netbank.:../TldSpider/DataBak/20220306T204219Z-tld-query-netbank-c.nic.netbank
+d.nic.netbank.:../TldSpider/DataBak/20220306T204219Z-tld-query-netbank-d.nic.netbank

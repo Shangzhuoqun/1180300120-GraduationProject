@@ -1,0 +1,10 @@
+; timestamp: 20220306T211950Z
+; source id: tld-query-woodside.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.woodside.:../TldSpider/DataBak/20220306T211950Z-tld-query-woodside-a.nic.woodside
+b.nic.woodside.:../TldSpider/DataBak/20220306T211950Z-tld-query-woodside-b.nic.woodside
+c.nic.woodside.:../TldSpider/DataBak/20220306T211950Z-tld-query-woodside-c.nic.woodside
+d.nic.woodside.:../TldSpider/DataBak/20220306T211950Z-tld-query-woodside-d.nic.woodside

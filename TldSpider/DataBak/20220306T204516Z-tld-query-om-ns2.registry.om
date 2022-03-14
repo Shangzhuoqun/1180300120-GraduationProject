@@ -1,0 +1,7 @@
+; timestamp: 20220306T204516Z
+; source id: tld-query-om.-ns2.registry.om.
+; source locator: ns2.registry.om.
+; source IP address: 185.27.89.50
+; backup point IP address: 111.42.148.76
+; status: success
+om.			86400	IN	NS	ns1.registry.om.om.			86400	IN	NS	cctld.alpha.aridns.net.au.om.			86400	IN	NS	cctld.gamma.aridns.net.au.om.			86400	IN	NS	cctld.delta.aridns.net.au.om.			86400	IN	NS	cctld.beta.aridns.net.au.om.			86400	IN	NS	ns2.registry.om.ns2.registry.om.	600	IN	A	185.27.89.50ns2.registry.om.	2340	IN	AAAA	2a00:9120:2::50

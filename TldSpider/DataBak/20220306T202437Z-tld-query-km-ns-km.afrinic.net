@@ -1,0 +1,7 @@
+; timestamp: 20220306T202437Z
+; source id: tld-query-km.-ns-km.afrinic.net.
+; source locator: ns-km.afrinic.net.
+; source IP address: 196.216.168.46
+; backup point IP address: 111.42.148.76
+; status: success
+km.			3600	IN	NS	dns2.nic.km.km.			3600	IN	NS	ns-km.afrinic.net.km.			3600	IN	NS	dns1.nic.km.ns-km.afrinic.net.	3600	IN	A	196.216.168.46ns-km.afrinic.net.	3600	IN	AAAA	2001:43f8:120::46

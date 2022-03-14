@@ -1,0 +1,7 @@
+; timestamp: 20220306T194711Z
+; source id: tld-query-bj.-anycastdns1.nic.bj.
+; source locator: anycastdns1.nic.bj.
+; source IP address: 185.38.108.108
+; backup point IP address: 111.42.148.76
+; status: success
+bj.			705	IN	NS	ns1.nic.bj.bj.			705	IN	NS	pch.nic.bj.bj.			705	IN	NS	ns-bj.nic.fr.bj.			705	IN	NS	anycastdns1.nic.bj.bj.			705	IN	NS	anycastdns2.nic.bj.bj.			705	IN	NS	ns-bj.afrinic.net.bj.			705	IN	NS	ns2.nic.bj.anycastdns1.nic.bj.	3600	IN	A	185.38.108.108anycastdns1.nic.bj.	3600	IN	AAAA	2a00:fea0:dead::beef

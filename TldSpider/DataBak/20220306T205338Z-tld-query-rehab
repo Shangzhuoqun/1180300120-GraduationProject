@@ -1,0 +1,12 @@
+; timestamp: 20220306T205338Z
+; source id: tld-query-rehab.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v0n0.nic.rehab
+v0n1.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v0n1.nic.rehab
+v0n2.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v0n2.nic.rehab
+v0n3.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v0n3.nic.rehab
+v2n0.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v2n0.nic.rehab
+v2n1.nic.rehab.:../TldSpider/DataBak/20220306T205338Z-tld-query-rehab-v2n1.nic.rehab

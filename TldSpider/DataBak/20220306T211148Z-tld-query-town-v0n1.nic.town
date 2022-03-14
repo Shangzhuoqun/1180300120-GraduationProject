@@ -1,0 +1,7 @@
+; timestamp: 20220306T211148Z
+; source id: tld-query-town.-v0n1.nic.town.
+; source locator: v0n1.nic.town.
+; source IP address: 65.22.29.55
+; backup point IP address: 111.42.148.76
+; status: success
+town.			3599	IN	NS	v0n0.nic.town.town.			3599	IN	NS	v0n3.nic.town.town.			3599	IN	NS	v0n2.nic.town.town.			3599	IN	NS	v0n1.nic.town.town.			3599	IN	NS	v2n1.nic.town.town.			3599	IN	NS	v2n0.nic.town.v0n1.nic.town.		3599	IN	A	65.22.29.55v0n1.nic.town.		3599	IN	AAAA	2a01:8840:1f::55

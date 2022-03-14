@@ -1,0 +1,7 @@
+; timestamp: 20220306T202325Z
+; source id: tld-query-ke.-ns2ke.dns.business.
+; source locator: ns2ke.dns.business.
+; source IP address: 147.135.106.237
+; backup point IP address: 111.42.148.76
+; status: success
+ke.			86400	IN	NS	ns.anycast.kenic.or.ke.ke.			86400	IN	NS	kenic.anycastdns.cz.ke.			86400	IN	NS	mzizi.kenic.or.ke.ke.			86400	IN	NS	ns-ke.afrinic.net.ke.			86400	IN	NS	ns2ke.dns.business.ns2ke.dns.business.	3600	IN	A	147.135.106.237ns2ke.dns.business.	3600	IN	AAAA	2604:2dc0:200:2eb::237

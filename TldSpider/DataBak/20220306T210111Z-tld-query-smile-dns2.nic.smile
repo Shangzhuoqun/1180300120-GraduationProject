@@ -1,0 +1,7 @@
+; timestamp: 20220306T210111Z
+; source id: tld-query-smile.-dns2.nic.smile.
+; source locator: dns2.nic.smile.
+; source IP address: 103.49.82.81
+; backup point IP address: 111.42.148.76
+; status: success
+smile.			3599	IN	NS	dnsc.nic.smile.smile.			3599	IN	NS	dnsd.nic.smile.smile.			3599	IN	NS	dnsa.nic.smile.smile.			3599	IN	NS	dns2.nic.smile.smile.			3599	IN	NS	dns1.nic.smile.smile.			3599	IN	NS	dns3.nic.smile.smile.			3599	IN	NS	dns4.nic.smile.smile.			3599	IN	NS	dnsb.nic.smile.dns2.nic.smile.		3599	IN	A	103.49.82.81dns2.nic.smile.		3600	IN	AAAA	2401:fd80:402::81

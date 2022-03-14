@@ -1,0 +1,7 @@
+; timestamp: 20220306T204637Z
+; source id: tld-query-pars.-b.ns.nic.pars.
+; source locator: b.ns.nic.pars.
+; source IP address: 72.42.113.5
+; backup point IP address: 111.42.148.76
+; status: success
+pars.			3599	IN	NS	a.ns.nic.pars.pars.			3599	IN	NS	ns1.anycastdns.cz.pars.			3599	IN	NS	b.ns.nic.pars.pars.			3599	IN	NS	ns2.anycastdns.cz.b.ns.nic.pars.		599	IN	A	72.42.113.5b.ns.nic.pars.		599	IN	AAAA	2620:171:d01:dc::5

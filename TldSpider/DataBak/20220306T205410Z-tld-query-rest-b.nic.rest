@@ -1,0 +1,7 @@
+; timestamp: 20220306T205410Z
+; source id: tld-query-rest.-b.nic.rest.
+; source locator: b.nic.rest.
+; source IP address: 185.24.64.35
+; backup point IP address: 111.42.148.76
+; status: success
+rest.			3600	IN	NS	b.nic.rest.rest.			3600	IN	NS	c.nic.rest.rest.			3600	IN	NS	d.nic.rest.rest.			3600	IN	NS	a.nic.rest.b.nic.rest.		3600	IN	A	185.24.64.35b.nic.rest.		3600	IN	AAAA	2a04:2b00:13cc::1:35

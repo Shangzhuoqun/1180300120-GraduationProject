@@ -1,0 +1,9 @@
+; timestamp: 20220306T194439Z
+; source id: tld-query-ba.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.ba.:../TldSpider/DataBak/20220306T194439Z-tld-query-ba-ns.ba
+una.utic.net.ba.:../TldSpider/DataBak/20220306T194439Z-tld-query-ba-una.utic.net.ba
+sava.utic.net.ba.:../TldSpider/DataBak/20220306T194439Z-tld-query-ba-sava.utic.net.ba

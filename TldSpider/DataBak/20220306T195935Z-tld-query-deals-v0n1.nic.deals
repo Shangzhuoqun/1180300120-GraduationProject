@@ -1,0 +1,7 @@
+; timestamp: 20220306T195935Z
+; source id: tld-query-deals.-v0n1.nic.deals.
+; source locator: v0n1.nic.deals.
+; source IP address: 65.22.21.15
+; backup point IP address: 111.42.148.76
+; status: success
+deals.			530	IN	NS	v2n1.nic.deals.deals.			530	IN	NS	v0n2.nic.deals.deals.			530	IN	NS	v0n3.nic.deals.deals.			530	IN	NS	v0n1.nic.deals.deals.			530	IN	NS	v0n0.nic.deals.deals.			530	IN	NS	v2n0.nic.deals.v0n1.nic.deals.		3599	IN	A	65.22.21.15v0n1.nic.deals.		3598	IN	AAAA	2a01:8840:17::15

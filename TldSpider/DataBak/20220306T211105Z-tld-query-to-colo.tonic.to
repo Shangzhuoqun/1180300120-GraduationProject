@@ -1,0 +1,27 @@
+; timestamp: 20220306T211105Z
+; source id: tld-query-to.-colo.tonic.to.
+; source locator: colo.tonic.to.
+; source IP address: 216.74.32.101
+; backup point IP address: 111.42.148.76
+; status: success
+to.			3600	IN	NS	helsinki.tonic.to.to.			3600	IN	NS	colo.tonic.to.to.			3600	IN	NS	tonic.to.to.			3600	IN	NS	frankfurt.tonic.to.to.			3600	IN	NS	sydney.tonic.to.to.			3600	IN	NS	singapore.tonic.to.to.			3600	IN	NS	newyork.tonic.to.colo.tonic.to.		3600	IN	A	216.74.32.101dig @216.74.32.101 colo.tonic.to. AAAA
+
+; <<>> DiG 9.16.23 <<>> @216.74.32.101 colo.tonic.to. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47426
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;colo.tonic.to.			IN	AAAA
+
+;; AUTHORITY SECTION:
+tonic.to.		1537	IN	SOA	tonic.to. hostmaster.colo.to. 2020121901 43200 7200 2592000 3600
+
+;; Query time: 15 msec
+;; SERVER: 216.74.32.101#53(216.74.32.101)
+;; WHEN: Sun Mar 06 21:11:05 ;; MSG SIZE  rcvd: 94
+

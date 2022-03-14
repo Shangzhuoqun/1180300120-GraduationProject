@@ -1,0 +1,7 @@
+; timestamp: 20220306T202715Z
+; source id: tld-query-lk.-p.nic.lk.
+; source locator: p.nic.lk.
+; source IP address: 204.61.216.27
+; backup point IP address: 111.42.148.76
+; status: success
+lk.			43200	IN	NS	p.nic.lk.lk.			43200	IN	NS	l.nic.lk.lk.			43200	IN	NS	c.nic.lk.lk.			43200	IN	NS	d.nic.lk.lk.			43200	IN	NS	m.nic.lk.lk.			43200	IN	NS	pendragon.cs.purdue.edu.lk.			43200	IN	NS	ns1.ac.lk.lk.			43200	IN	NS	t.nic.lk.p.nic.lk.		3596	IN	A	204.61.216.27p.nic.lk.		3597	IN	AAAA	2001:500:14:6027:ad::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194350Z
+; source id: tld-query-author.-dnsd.nic.author.
+; source locator: dnsd.nic.author.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+author.			1540	IN	NS	dnsb.nic.author.author.			1540	IN	NS	dns2.nic.author.author.			1540	IN	NS	dnsa.nic.author.author.			1540	IN	NS	dns3.nic.author.author.			1540	IN	NS	dnsc.nic.author.author.			1540	IN	NS	dns1.nic.author.author.			1540	IN	NS	dns4.nic.author.author.			1540	IN	NS	dnsd.nic.author.dnsd.nic.author.	3599	IN	A	156.154.103.3dnsd.nic.author.	3599	IN	AAAA	2610:a1:1010::3

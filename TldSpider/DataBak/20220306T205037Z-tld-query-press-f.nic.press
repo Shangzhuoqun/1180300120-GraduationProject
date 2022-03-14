@@ -1,0 +1,7 @@
+; timestamp: 20220306T205037Z
+; source id: tld-query-press.-f.nic.press.
+; source locator: f.nic.press.
+; source IP address: 212.18.249.34
+; backup point IP address: 111.42.148.76
+; status: success
+press.			3598	IN	NS	g.nic.press.press.			3598	IN	NS	a.nic.press.press.			3598	IN	NS	b.nic.press.press.			3598	IN	NS	f.nic.press.press.			3598	IN	NS	e.nic.press.f.nic.press.		1362	IN	A	212.18.249.34f.nic.press.		3596	IN	AAAA	2a04:2b00:13ff::34

@@ -1,0 +1,7 @@
+; timestamp: 20220306T211004Z
+; source id: tld-query-tk.-d.ns.tk.
+; source locator: d.ns.tk.
+; source IP address: 194.0.41.1
+; backup point IP address: 111.42.148.76
+; status: success
+tk.			3594	IN	NS	d.ns.tk.tk.			3594	IN	NS	c.ns.tk.tk.			3594	IN	NS	b.ns.tk.tk.			3594	IN	NS	a.ns.tk.d.ns.tk.		1039	IN	A	194.0.41.1d.ns.tk.		1036	IN	AAAA	2001:678:5c::1

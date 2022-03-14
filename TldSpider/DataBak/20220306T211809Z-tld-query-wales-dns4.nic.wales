@@ -1,0 +1,7 @@
+; timestamp: 20220306T211809Z
+; source id: tld-query-wales.-dns4.nic.wales.
+; source locator: dns4.nic.wales.
+; source IP address: 43.230.51.2
+; backup point IP address: 111.42.148.76
+; status: success
+wales.			3598	IN	NS	dnsa.nic.wales.wales.			3598	IN	NS	dns3.nic.wales.wales.			3598	IN	NS	dnsc.nic.wales.wales.			3598	IN	NS	dnsd.nic.wales.wales.			3598	IN	NS	dns2.nic.wales.wales.			3598	IN	NS	dnsb.nic.wales.wales.			3598	IN	NS	dns4.nic.wales.wales.			3598	IN	NS	dns1.nic.wales.dns4.nic.wales.		3598	IN	A	43.230.51.2dns4.nic.wales.		3598	IN	AAAA	2401:fd80:407::2

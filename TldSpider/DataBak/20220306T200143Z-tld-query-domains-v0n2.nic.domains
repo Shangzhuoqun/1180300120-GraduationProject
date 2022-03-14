@@ -1,0 +1,7 @@
+; timestamp: 20220306T200143Z
+; source id: tld-query-domains.-v0n2.nic.domains.
+; source locator: v0n2.nic.domains.
+; source IP address: 65.22.34.51
+; backup point IP address: 111.42.148.76
+; status: success
+domains.		437	IN	NS	v0n1.nic.domains.domains.		437	IN	NS	v0n0.nic.domains.domains.		437	IN	NS	v0n3.nic.domains.domains.		437	IN	NS	v0n2.nic.domains.domains.		437	IN	NS	v2n1.nic.domains.domains.		437	IN	NS	v2n0.nic.domains.v0n2.nic.domains.	3600	IN	A	65.22.34.51v0n2.nic.domains.	3600	IN	AAAA	2a01:8840:24::51

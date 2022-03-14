@@ -1,0 +1,7 @@
+; timestamp: 20220306T212847Z
+; source id: tld-query-xn--rvc1e0am3e.-ns5.registry.in.
+; source locator: ns5.registry.in.
+; source IP address: 156.154.100.20
+; backup point IP address: 111.42.148.76
+; status: success
+xn--rvc1e0am3e.		3599	IN	NS	ns6.registry.in.xn--rvc1e0am3e.		3599	IN	NS	ns4.registry.in.xn--rvc1e0am3e.		3599	IN	NS	ns2.registry.in.xn--rvc1e0am3e.		3599	IN	NS	ns3.registry.in.xn--rvc1e0am3e.		3599	IN	NS	ns1.registry.in.xn--rvc1e0am3e.		3599	IN	NS	ns5.registry.in.ns5.registry.in.	2554	IN	A	156.154.100.20ns5.registry.in.	2752	IN	AAAA	2001:502:2eda::20

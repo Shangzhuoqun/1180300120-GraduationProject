@@ -1,0 +1,10 @@
+; timestamp: 20220306T202941Z
+; source id: tld-query-madrid.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+anycast9.irondns.net.:../TldSpider/DataBak/20220306T202941Z-tld-query-madrid-anycast9.irondns.net
+anycast10.irondns.net.:../TldSpider/DataBak/20220306T202941Z-tld-query-madrid-anycast10.irondns.net
+anycast23.irondns.net.:../TldSpider/DataBak/20220306T202941Z-tld-query-madrid-anycast23.irondns.net
+anycast24.irondns.net.:../TldSpider/DataBak/20220306T202941Z-tld-query-madrid-anycast24.irondns.net

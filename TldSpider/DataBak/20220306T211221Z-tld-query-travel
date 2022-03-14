@@ -1,0 +1,12 @@
+; timestamp: 20220306T211221Z
+; source id: tld-query-travel.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v0n0.nic.travel
+v0n1.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v0n1.nic.travel
+v0n2.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v0n2.nic.travel
+v0n3.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v0n3.nic.travel
+v2n0.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v2n0.nic.travel
+v2n1.nic.travel.:../TldSpider/DataBak/20220306T211221Z-tld-query-travel-v2n1.nic.travel

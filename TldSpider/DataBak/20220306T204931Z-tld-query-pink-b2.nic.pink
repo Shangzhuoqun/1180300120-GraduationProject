@@ -1,0 +1,7 @@
+; timestamp: 20220306T204931Z
+; source id: tld-query-pink.-b2.nic.pink.
+; source locator: b2.nic.pink.
+; source IP address: 65.22.31.21
+; backup point IP address: 111.42.148.76
+; status: success
+pink.			3599	IN	NS	b2.nic.pink.pink.			3599	IN	NS	a0.nic.pink.pink.			3599	IN	NS	b0.nic.pink.pink.			3599	IN	NS	a2.nic.pink.pink.			3599	IN	NS	c0.nic.pink.b2.nic.pink.		599	IN	A	65.22.31.21b2.nic.pink.		599	IN	AAAA	2a01:8840:21::21

@@ -1,0 +1,27 @@
+; timestamp: 20220306T194439Z
+; source id: tld-query-ba.-ns.ba.
+; source locator: ns.ba.
+; source IP address: 195.130.35.5
+; backup point IP address: 111.42.148.76
+; status: success
+ba.			979	IN	NS	auth03.ns.uu.net.ba.			979	IN	NS	ns.ba.ba.			979	IN	NS	sava.utic.net.ba.ba.			979	IN	NS	una.utic.net.ba.ns.ba.			3600	IN	A	195.130.35.5dig @195.130.35.5 ns.ba. AAAA
+
+; <<>> DiG 9.16.23 <<>> @195.130.35.5 ns.ba. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.ba.				IN	AAAA
+
+;; AUTHORITY SECTION:
+ba.			1800	IN	SOA	bosna.utic.net.ba. hostmaster.bosna.utic.net.ba. 2022030403 14400 3600 604800 86400
+
+;; Query time: 450 msec
+;; SERVER: 195.130.35.5#53(195.130.35.5)
+;; WHEN: Sun Mar 06 19:44:40 ;; MSG SIZE  rcvd: 96
+

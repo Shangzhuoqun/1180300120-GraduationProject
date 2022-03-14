@@ -1,0 +1,12 @@
+; timestamp: 20220306T195441Z
+; source id: tld-query-citadel.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns1.dns.nic.citadel
+ns2.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns2.dns.nic.citadel
+ns3.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns3.dns.nic.citadel
+ns4.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns4.dns.nic.citadel
+ns5.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns5.dns.nic.citadel
+ns6.dns.nic.citadel.:../TldSpider/DataBak/20220306T195441Z-tld-query-citadel-ns6.dns.nic.citadel

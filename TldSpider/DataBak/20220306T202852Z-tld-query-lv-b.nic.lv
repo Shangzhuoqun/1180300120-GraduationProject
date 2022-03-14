@@ -1,0 +1,27 @@
+; timestamp: 20220306T202852Z
+; source id: tld-query-lv.-b.nic.lv.
+; source locator: b.nic.lv.
+; source IP address: 92.240.70.1
+; backup point IP address: 111.42.148.76
+; status: success
+lv.			3600	IN	NS	d.nic.lv.lv.			3600	IN	NS	b.nic.lv.lv.			3600	IN	NS	a.nic.lv.lv.			3600	IN	NS	sunic.sunet.se.lv.			3600	IN	NS	nu.nic.lv.lv.			3600	IN	NS	n.nic.lv.b.nic.lv.		2178	IN	A	92.240.70.1dig @92.240.70.1 b.nic.lv. AAAA
+
+; <<>> DiG 9.16.23 <<>> @92.240.70.1 b.nic.lv. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21944
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;b.nic.lv.			IN	AAAA
+
+;; AUTHORITY SECTION:
+lv.			1800	IN	SOA	a.nic.lv. dns.nic.lv. 1646569216 3600 900 1296000 1800
+
+;; Query time: 324 msec
+;; SERVER: 92.240.70.1#53(92.240.70.1)
+;; WHEN: Sun Mar 06 20:29:05 ;; MSG SIZE  rcvd: 79
+

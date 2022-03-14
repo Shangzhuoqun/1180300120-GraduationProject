@@ -1,0 +1,7 @@
+; timestamp: 20220306T201957Z
+; source id: tld-query-it.-a.dns.it.
+; source locator: a.dns.it.
+; source IP address: 194.0.16.215
+; backup point IP address: 111.42.148.76
+; status: success
+it.			3600	IN	NS	nameserver.cnr.it.it.			3600	IN	NS	r.dns.it.it.			3600	IN	NS	a.dns.it.it.			3600	IN	NS	s.dns.it.it.			3600	IN	NS	dns.nic.it.it.			3600	IN	NS	m.dns.it.a.dns.it.		2976	IN	A	194.0.16.215a.dns.it.		600	IN	AAAA	2001:678:12:0:194:0:16:215

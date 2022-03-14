@@ -1,0 +1,27 @@
+; timestamp: 20220306T203925Z
+; source id: tld-query-mr.-ns2.nic.mr.
+; source locator: ns2.nic.mr.
+; source IP address: 82.151.64.2
+; backup point IP address: 111.42.148.76
+; status: success
+mr.			3600	IN	NS	ns2.nic.mr.mr.			3600	IN	NS	ns3.nic.mr.mr.			3600	IN	NS	ns-mr.nic.fr.mr.			3600	IN	NS	ns1.nic.mr.mr.			3600	IN	NS	ns-mr.afrinic.net.ns2.nic.mr.		3600	IN	A	82.151.64.2dig @82.151.64.2 ns2.nic.mr. AAAA
+
+; <<>> DiG 9.16.23 <<>> @82.151.64.2 ns2.nic.mr. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns2.nic.mr.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.mr.			36	IN	SOA	ns2.nic.mr. root.nic.mr. 2021012001 216 36 3456000 36
+
+;; Query time: 1105 msec
+;; SERVER: 82.151.64.2#53(82.151.64.2)
+;; WHEN: Sun Mar 06 20:39:30 ;; MSG SIZE  rcvd: 80
+

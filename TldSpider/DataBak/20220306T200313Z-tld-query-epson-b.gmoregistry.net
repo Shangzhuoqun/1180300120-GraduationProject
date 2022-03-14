@@ -1,0 +1,7 @@
+; timestamp: 20220306T200313Z
+; source id: tld-query-epson.-b.gmoregistry.net.
+; source locator: b.gmoregistry.net.
+; source IP address: 37.209.194.4
+; backup point IP address: 111.42.148.76
+; status: success
+epson.			375	IN	NS	l.gmoregistry.net.epson.			375	IN	NS	b.gmoregistry.net.epson.			375	IN	NS	k.gmoregistry.net.epson.			375	IN	NS	a.gmoregistry.net.b.gmoregistry.net.	873	IN	A	37.209.194.4b.gmoregistry.net.	2764	IN	AAAA	2001:dcd:2::4

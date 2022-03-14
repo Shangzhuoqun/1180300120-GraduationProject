@@ -1,0 +1,7 @@
+; timestamp: 20220306T201657Z
+; source id: tld-query-ie.-d.ns.ie.
+; source locator: d.ns.ie.
+; source IP address: 77.72.229.245
+; backup point IP address: 111.42.148.76
+; status: success
+ie.			172800	IN	NS	b.ns.ie.ie.			172800	IN	NS	h.ns.ie.ie.			172800	IN	NS	c.ns.ie.ie.			172800	IN	NS	g.ns.ie.ie.			172800	IN	NS	d.ns.ie.ie.			172800	IN	NS	i.ns.ie.d.ns.ie.		3599	IN	A	77.72.229.245d.ns.ie.		2878	IN	AAAA	2a01:3f0:0:309::53

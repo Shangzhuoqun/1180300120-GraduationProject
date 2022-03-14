@@ -1,0 +1,10 @@
+pk.	172800	in	ns	root-e.pknic.pk.
+pk.	172800	in	ns	root-s.pknic.pk.
+pk.	172800	in	ns	root-c1.pknic.pk.
+pk.	172800	in	ns	root-c2.pknic.pk.
+root-c1.pknic.pk.	172800	in	a	185.159.197.160
+root-c1.pknic.pk.	172800	in	aaaa	2620:10a:80aa:0:0:0:0:160
+root-c2.pknic.pk.	172800	in	a	185.159.198.160
+root-c2.pknic.pk.	172800	in	aaaa	2620:10a:80ab:0:0:0:0:160
+root-e.pknic.pk.	172800	in	a	107.6.178.178
+root-s.pknic.pk.	172800	in	a	119.81.34.90

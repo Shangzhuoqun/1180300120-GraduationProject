@@ -1,0 +1,7 @@
+; timestamp: 20220306T195718Z
+; source id: tld-query-compare.-a.nic.compare.
+; source locator: a.nic.compare.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+compare.		936	IN	NS	d.nic.compare.compare.		936	IN	NS	c.nic.compare.compare.		936	IN	NS	a.nic.compare.compare.		936	IN	NS	b.nic.compare.a.nic.compare.		3600	IN	A	37.209.192.9a.nic.compare.		3599	IN	AAAA	2001:dcd:1::9

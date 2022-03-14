@@ -1,0 +1,12 @@
+; timestamp: 20220306T211010Z
+; source id: tld-query-tkmaxx.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-a.nic.tkmaxx
+b.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-b.nic.tkmaxx
+c.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-c.nic.tkmaxx
+ns1.dns.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-ns1.dns.nic.tkmaxx
+ns2.dns.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-ns2.dns.nic.tkmaxx
+ns3.dns.nic.tkmaxx.:../TldSpider/DataBak/20220306T211010Z-tld-query-tkmaxx-ns3.dns.nic.tkmaxx

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212655Z
+; source id: tld-query-xn--mgbca7dzdo.-gtld.delta.aridns.net.au.
+; source locator: gtld.delta.aridns.net.au.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbca7dzdo.		3597	IN	NS	gtld.beta.aridns.net.au.xn--mgbca7dzdo.		3597	IN	NS	gtld.alpha.aridns.net.au.xn--mgbca7dzdo.		3597	IN	NS	gtld.gamma.aridns.net.au.xn--mgbca7dzdo.		3597	IN	NS	gtld.delta.aridns.net.au.gtld.delta.aridns.net.au. 3600	IN	A	37.209.198.10gtld.delta.aridns.net.au. 3600	IN	AAAA	2001:dcd:4::10

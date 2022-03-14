@@ -1,0 +1,10 @@
+; timestamp: 20220306T210937Z
+; source id: tld-query-theatre.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.theatre.:../TldSpider/DataBak/20220306T210937Z-tld-query-theatre-a.nic.theatre
+b.nic.theatre.:../TldSpider/DataBak/20220306T210937Z-tld-query-theatre-b.nic.theatre
+c.nic.theatre.:../TldSpider/DataBak/20220306T210937Z-tld-query-theatre-c.nic.theatre
+d.nic.theatre.:../TldSpider/DataBak/20220306T210937Z-tld-query-theatre-d.nic.theatre

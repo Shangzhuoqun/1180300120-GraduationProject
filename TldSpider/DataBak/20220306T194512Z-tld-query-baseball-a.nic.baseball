@@ -1,0 +1,7 @@
+; timestamp: 20220306T194512Z
+; source id: tld-query-baseball.-a.nic.baseball.
+; source locator: a.nic.baseball.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+baseball.		1491	IN	NS	c.nic.baseball.baseball.		1491	IN	NS	ns2.dns.nic.baseball.baseball.		1491	IN	NS	b.nic.baseball.baseball.		1491	IN	NS	ns1.dns.nic.baseball.baseball.		1491	IN	NS	ns3.dns.nic.baseball.baseball.		1491	IN	NS	a.nic.baseball.a.nic.baseball.		3600	IN	A	37.209.192.10a.nic.baseball.		3600	IN	AAAA	2001:dcd:1::10

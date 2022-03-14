@@ -1,0 +1,12 @@
+; timestamp: 20220306T195443Z
+; source id: tld-query-citi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-a.nic.citi
+b.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-b.nic.citi
+c.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-c.nic.citi
+ns1.dns.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-ns1.dns.nic.citi
+ns2.dns.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-ns2.dns.nic.citi
+ns3.dns.nic.citi.:../TldSpider/DataBak/20220306T195443Z-tld-query-citi-ns3.dns.nic.citi

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194837Z
+; source id: tld-query-booking.-a.nic.booking.
+; source locator: a.nic.booking.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+booking.		1328	IN	NS	b.nic.booking.booking.		1328	IN	NS	c.nic.booking.booking.		1328	IN	NS	ns2.dns.nic.booking.booking.		1328	IN	NS	ns3.dns.nic.booking.booking.		1328	IN	NS	a.nic.booking.booking.		1328	IN	NS	ns1.dns.nic.booking.a.nic.booking.		3600	IN	A	37.209.192.9a.nic.booking.		3600	IN	AAAA	2001:dcd:1::9

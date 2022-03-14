@@ -1,0 +1,12 @@
+; timestamp: 20220306T201910Z
+; source id: tld-query-ipiranga.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns1.dns.nic.ipiranga
+ns2.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns2.dns.nic.ipiranga
+ns3.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns3.dns.nic.ipiranga
+ns4.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns4.dns.nic.ipiranga
+ns5.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns5.dns.nic.ipiranga
+ns6.dns.nic.ipiranga.:../TldSpider/DataBak/20220306T201910Z-tld-query-ipiranga-ns6.dns.nic.ipiranga

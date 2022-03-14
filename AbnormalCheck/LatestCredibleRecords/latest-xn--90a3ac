@@ -1,0 +1,17 @@
+a.nic.rs.	172800	in	a	91.199.17.59
+a.nic.rs.	172800	in	aaaa	2001:67c:69c:0:0:0:0:59
+b.nic.rs.	172800	in	a	195.178.32.2
+b.nic.rs.	172800	in	aaaa	2a00:e90:0:3:0:0:0:3
+f.nic.rs.	172800	in	a	204.61.216.32
+f.nic.rs.	172800	in	aaaa	2001:500:14:6032:ad:0:0:1
+g.nic.rs.	172800	in	a	147.91.8.6
+h.nic.rs.	172800	in	a	91.199.17.60
+h.nic.rs.	172800	in	aaaa	2001:67c:69c:0:0:0:0:60
+l.nic.rs.	172800	in	a	194.146.106.114
+l.nic.rs.	172800	in	aaaa	2001:67c:1010:29:0:0:0:53
+xn--90a3ac.	172800	in	ns	a.nic.rs.
+xn--90a3ac.	172800	in	ns	b.nic.rs.
+xn--90a3ac.	172800	in	ns	f.nic.rs.
+xn--90a3ac.	172800	in	ns	g.nic.rs.
+xn--90a3ac.	172800	in	ns	h.nic.rs.
+xn--90a3ac.	172800	in	ns	l.nic.rs.

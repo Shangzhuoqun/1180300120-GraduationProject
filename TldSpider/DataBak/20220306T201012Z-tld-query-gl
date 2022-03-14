@@ -1,0 +1,10 @@
+; timestamp: 20220306T201012Z
+; source id: tld-query-gl.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nuuk.nic.gl.:../TldSpider/DataBak/20220306T201012Z-tld-query-gl-a.nuuk.nic.gl
+d.nic.gl.:../TldSpider/DataBak/20220306T201012Z-tld-query-gl-d.nic.gl
+ns1.anycastdns.cz.:../TldSpider/DataBak/20220306T201012Z-tld-query-gl-ns1.anycastdns.cz
+ns2.anycastdns.cz.:../TldSpider/DataBak/20220306T201012Z-tld-query-gl-ns2.anycastdns.cz

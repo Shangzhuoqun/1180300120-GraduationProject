@@ -1,0 +1,7 @@
+; timestamp: 20220306T194224Z
+; source id: tld-query-apartments.-v0n3.nic.apartments.
+; source locator: v0n3.nic.apartments.
+; source IP address: 161.232.14.56
+; backup point IP address: 111.42.148.76
+; status: success
+apartments.		1601	IN	NS	v0n3.nic.apartments.apartments.		1601	IN	NS	v2n1.nic.apartments.apartments.		1601	IN	NS	v2n0.nic.apartments.apartments.		1601	IN	NS	v0n1.nic.apartments.apartments.		1601	IN	NS	v0n0.nic.apartments.apartments.		1601	IN	NS	v0n2.nic.apartments.v0n3.nic.apartments.	3599	IN	A	161.232.14.56v0n3.nic.apartments.	3599	IN	AAAA	2a01:8840:f8::56

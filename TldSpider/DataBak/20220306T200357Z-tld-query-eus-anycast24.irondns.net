@@ -1,0 +1,7 @@
+; timestamp: 20220306T200357Z
+; source id: tld-query-eus.-anycast24.irondns.net.
+; source locator: anycast24.irondns.net.
+; source IP address: 195.253.65.12
+; backup point IP address: 111.42.148.76
+; status: success
+eus.			3598	IN	NS	anycast9.irondns.net.eus.			3598	IN	NS	anycast23.irondns.net.eus.			3598	IN	NS	anycast24.irondns.net.eus.			3598	IN	NS	anycast10.irondns.net.anycast24.irondns.net.	1406	IN	A	195.253.65.12anycast24.irondns.net.	2261	IN	AAAA	2a01:5b0:5::c

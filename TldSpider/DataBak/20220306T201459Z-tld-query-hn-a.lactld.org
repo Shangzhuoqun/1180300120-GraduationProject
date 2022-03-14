@@ -1,0 +1,7 @@
+; timestamp: 20220306T201459Z
+; source id: tld-query-hn.-a.lactld.org.
+; source locator: a.lactld.org.
+; source IP address: 200.0.68.10
+; backup point IP address: 111.42.148.76
+; status: success
+hn.			3600	IN	NS	pch-anycast.rds.org.hn.hn.			3600	IN	NS	a.lactld.org.a.lactld.org.		3441	IN	A	200.0.68.10a.lactld.org.		3442	IN	AAAA	2801:14:a000::10

@@ -1,0 +1,15 @@
+aero.	172800	in	ns	a0.nic.aero.
+aero.	172800	in	ns	a2.nic.aero.
+aero.	172800	in	ns	b0.nic.aero.
+aero.	172800	in	ns	b2.nic.aero.
+aero.	172800	in	ns	c0.nic.aero.
+a0.nic.aero.	172800	in	a	199.254.51.1
+a0.nic.aero.	172800	in	aaaa	2001:500:1d:0:0:0:0:1
+a2.nic.aero.	172800	in	a	199.249.115.1
+a2.nic.aero.	172800	in	aaaa	2001:500:43:0:0:0:0:1
+b0.nic.aero.	172800	in	a	199.254.52.1
+b0.nic.aero.	172800	in	aaaa	2001:500:1e:0:0:0:0:1
+b2.nic.aero.	172800	in	a	199.249.123.1
+b2.nic.aero.	172800	in	aaaa	2001:500:4b:0:0:0:0:1
+c0.nic.aero.	172800	in	a	199.254.54.1
+c0.nic.aero.	172800	in	aaaa	2001:500:20:0:0:0:0:1

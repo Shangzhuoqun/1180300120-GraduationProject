@@ -1,0 +1,10 @@
+; timestamp: 20220306T202547Z
+; source id: tld-query-lasalle.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.lasalle.:../TldSpider/DataBak/20220306T202547Z-tld-query-lasalle-a0.nic.lasalle
+a2.nic.lasalle.:../TldSpider/DataBak/20220306T202547Z-tld-query-lasalle-a2.nic.lasalle
+b0.nic.lasalle.:../TldSpider/DataBak/20220306T202547Z-tld-query-lasalle-b0.nic.lasalle
+c0.nic.lasalle.:../TldSpider/DataBak/20220306T202547Z-tld-query-lasalle-c0.nic.lasalle

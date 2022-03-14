@@ -1,0 +1,7 @@
+; timestamp: 20220306T210137Z
+; source id: tld-query-so.-d.nic.so.
+; source locator: d.nic.so.
+; source IP address: 196.216.168.54
+; backup point IP address: 111.42.148.76
+; status: success
+so.			1200	IN	NS	e.nic.so.so.			1200	IN	NS	d.nic.so.d.nic.so.		600	IN	A	196.216.168.54d.nic.so.		600	IN	AAAA	2001:43f8:120::54

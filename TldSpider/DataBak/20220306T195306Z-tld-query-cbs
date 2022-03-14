@@ -1,0 +1,10 @@
+; timestamp: 20220306T195306Z
+; source id: tld-query-cbs.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.cbs.:../TldSpider/DataBak/20220306T195306Z-tld-query-cbs-a0.nic.cbs
+a2.nic.cbs.:../TldSpider/DataBak/20220306T195306Z-tld-query-cbs-a2.nic.cbs
+b0.nic.cbs.:../TldSpider/DataBak/20220306T195306Z-tld-query-cbs-b0.nic.cbs
+c0.nic.cbs.:../TldSpider/DataBak/20220306T195306Z-tld-query-cbs-c0.nic.cbs

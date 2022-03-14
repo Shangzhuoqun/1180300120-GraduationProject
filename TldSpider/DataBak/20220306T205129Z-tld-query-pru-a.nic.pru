@@ -1,0 +1,7 @@
+; timestamp: 20220306T205129Z
+; source id: tld-query-pru.-a.nic.pru.
+; source locator: a.nic.pru.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+pru.			3600	IN	NS	ns2.dns.nic.pru.pru.			3600	IN	NS	a.nic.pru.pru.			3600	IN	NS	ns1.dns.nic.pru.pru.			3600	IN	NS	b.nic.pru.pru.			3600	IN	NS	c.nic.pru.pru.			3600	IN	NS	ns3.dns.nic.pru.a.nic.pru.		3600	IN	A	37.209.192.9a.nic.pru.		3600	IN	AAAA	2001:dcd:1::9

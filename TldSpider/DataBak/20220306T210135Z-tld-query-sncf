@@ -1,0 +1,9 @@
+; timestamp: 20220306T210135Z
+; source id: tld-query-sncf.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+d.nic.fr.:../TldSpider/DataBak/20220306T210135Z-tld-query-sncf-d.nic.fr
+f.ext.nic.fr.:../TldSpider/DataBak/20220306T210135Z-tld-query-sncf-f.ext.nic.fr
+g.ext.nic.fr.:../TldSpider/DataBak/20220306T210135Z-tld-query-sncf-g.ext.nic.fr

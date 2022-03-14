@@ -1,0 +1,7 @@
+; timestamp: 20220306T212546Z
+; source id: tld-query-xn--mgb9awbf.-cctld.delta.aridns.net.au.
+; source locator: cctld.delta.aridns.net.au.
+; source IP address: 37.209.198.6
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgb9awbf.		3599	IN	NS	ns2.registry.om.xn--mgb9awbf.		3599	IN	NS	cctld.beta.aridns.net.au.xn--mgb9awbf.		3599	IN	NS	cctld.alpha.aridns.net.au.xn--mgb9awbf.		3599	IN	NS	cctld.delta.aridns.net.au.xn--mgb9awbf.		3599	IN	NS	cctld.gamma.aridns.net.au.xn--mgb9awbf.		3599	IN	NS	ns1.registry.om.cctld.delta.aridns.net.au. 1172	IN	A	37.209.198.6cctld.delta.aridns.net.au. 1171	IN	AAAA	2001:dcd:4::6

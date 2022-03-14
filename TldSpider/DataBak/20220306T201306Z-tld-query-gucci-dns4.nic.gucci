@@ -1,0 +1,7 @@
+; timestamp: 20220306T201306Z
+; source id: tld-query-gucci.-dns4.nic.gucci.
+; source locator: dns4.nic.gucci.
+; source IP address: 43.230.51.43
+; backup point IP address: 111.42.148.76
+; status: success
+gucci.			3599	IN	NS	dns2.nic.gucci.gucci.			3599	IN	NS	dns1.nic.gucci.gucci.			3599	IN	NS	dnsc.nic.gucci.gucci.			3599	IN	NS	dns3.nic.gucci.gucci.			3599	IN	NS	dnsd.nic.gucci.gucci.			3599	IN	NS	dnsa.nic.gucci.gucci.			3599	IN	NS	dns4.nic.gucci.gucci.			3599	IN	NS	dnsb.nic.gucci.dns4.nic.gucci.		599	IN	A	43.230.51.43dns4.nic.gucci.		599	IN	AAAA	2401:fd80:407::43

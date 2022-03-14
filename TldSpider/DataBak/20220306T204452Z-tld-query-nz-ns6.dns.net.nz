@@ -1,0 +1,7 @@
+; timestamp: 20220306T204452Z
+; source id: tld-query-nz.-ns6.dns.net.nz.
+; source locator: ns6.dns.net.nz.
+; source IP address: 185.159.198.130
+; backup point IP address: 111.42.148.76
+; status: success
+nz.			3598	IN	NS	ns2.dns.net.nz.nz.			3598	IN	NS	ns4.dns.net.nz.nz.			3598	IN	NS	ns7.dns.net.nz.nz.			3598	IN	NS	ns1.dns.net.nz.nz.			3598	IN	NS	ns5.dns.net.nz.nz.			3598	IN	NS	ns6.dns.net.nz.nz.			3598	IN	NS	ns3.dns.net.nz.ns6.dns.net.nz.		3600	IN	A	185.159.198.130ns6.dns.net.nz.		3600	IN	AAAA	2620:10a:80ab::130

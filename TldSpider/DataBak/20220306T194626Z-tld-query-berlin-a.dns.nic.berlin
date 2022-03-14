@@ -1,0 +1,7 @@
+; timestamp: 20220306T194626Z
+; source id: tld-query-berlin.-a.dns.nic.berlin.
+; source locator: a.dns.nic.berlin.
+; source IP address: 194.0.25.16
+; backup point IP address: 111.42.148.76
+; status: success
+berlin.			742	IN	NS	a.dns.nic.berlin.berlin.			742	IN	NS	m.dns.nic.berlin.berlin.			742	IN	NS	n.dns.nic.berlin.a.dns.nic.berlin.	3600	IN	A	194.0.25.16a.dns.nic.berlin.	3600	IN	AAAA	2001:678:20::16

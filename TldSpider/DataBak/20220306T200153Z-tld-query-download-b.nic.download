@@ -1,0 +1,7 @@
+; timestamp: 20220306T200153Z
+; source id: tld-query-download.-b.nic.download.
+; source locator: b.nic.download.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+download.		3167	IN	NS	a.nic.download.download.		3167	IN	NS	b.nic.download.download.		3167	IN	NS	ns1.dns.nic.download.download.		3167	IN	NS	ns3.dns.nic.download.download.		3167	IN	NS	c.nic.download.download.		3167	IN	NS	ns2.dns.nic.download.b.nic.download.		3599	IN	A	37.209.194.10b.nic.download.		3600	IN	AAAA	2001:dcd:2::10

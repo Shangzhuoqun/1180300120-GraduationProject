@@ -1,0 +1,11 @@
+ns.thnic.net.	172800	in	a	202.28.0.1
+a.thains.co.th.	172800	in	a	122.155.23.64
+a.thains.co.th.	172800	in	aaaa	2001:c38:2000:183:0:0:0:30
+b.thains.co.th.	172800	in	a	203.159.64.64
+b.thains.co.th.	172800	in	aaaa	2405:3340:e011:3000:0:0:0:30
+p.thains.co.th.	172800	in	a	204.61.216.126
+p.thains.co.th.	172800	in	aaaa	2001:500:14:6126:ad:0:0:1
+xn--o3cw4h.	172800	in	ns	a.thains.co.th.
+xn--o3cw4h.	172800	in	ns	b.thains.co.th.
+xn--o3cw4h.	172800	in	ns	p.thains.co.th.
+xn--o3cw4h.	172800	in	ns	ns.thnic.net.

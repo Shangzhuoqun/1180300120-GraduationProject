@@ -1,0 +1,10 @@
+; timestamp: 20220306T204729Z
+; source id: tld-query-pe.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.lactld.org.:../TldSpider/DataBak/20220306T204729Z-tld-query-pe-a.lactld.org
+pch.rcp.pe.:../TldSpider/DataBak/20220306T204729Z-tld-query-pe-pch.rcp.pe
+pe1.dnsnode.net.:../TldSpider/DataBak/20220306T204729Z-tld-query-pe-pe1.dnsnode.net
+quipu.rcp.net.pe.:../TldSpider/DataBak/20220306T204729Z-tld-query-pe-quipu.rcp.net.pe

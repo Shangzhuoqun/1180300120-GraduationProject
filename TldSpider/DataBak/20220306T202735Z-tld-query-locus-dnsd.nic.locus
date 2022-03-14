@@ -1,0 +1,7 @@
+; timestamp: 20220306T202735Z
+; source id: tld-query-locus.-dnsd.nic.locus.
+; source locator: dnsd.nic.locus.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+locus.			3597	IN	NS	dnsd.nic.locus.locus.			3597	IN	NS	dnsc.nic.locus.locus.			3597	IN	NS	dns3.nic.locus.locus.			3597	IN	NS	dns4.nic.locus.locus.			3597	IN	NS	dns2.nic.locus.locus.			3597	IN	NS	dns1.nic.locus.locus.			3597	IN	NS	dnsb.nic.locus.locus.			3597	IN	NS	dnsa.nic.locus.dnsd.nic.locus.		3598	IN	A	156.154.103.3dnsd.nic.locus.		3598	IN	AAAA	2610:a1:1010::3

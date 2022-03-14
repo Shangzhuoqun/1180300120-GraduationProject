@@ -1,0 +1,9 @@
+; timestamp: 20220306T201058Z
+; source id: tld-query-gn.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+rip.psg.com.:../TldSpider/DataBak/20220306T201058Z-tld-query-gn-rip.psg.com
+fork.sth.dnsnode.net.:../TldSpider/DataBak/20220306T201058Z-tld-query-gn-fork.sth.dnsnode.net
+ns-gn.afrinic.net.:../TldSpider/DataBak/20220306T201058Z-tld-query-gn-ns-gn.afrinic.net

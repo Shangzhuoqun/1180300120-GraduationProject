@@ -1,0 +1,7 @@
+; timestamp: 20220306T212146Z
+; source id: tld-query-xn--55qw42g.-ns3.conac.cn.
+; source locator: ns3.conac.cn.
+; source IP address: 111.235.163.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--55qw42g.		3599	IN	NS	ns12.sdc.org.cn.xn--55qw42g.		3599	IN	NS	ns14.sdc.org.cn.xn--55qw42g.		3599	IN	NS	ns13.sdc.org.cn.ns3.conac.cn.		927	IN	A	111.235.163.1ns3.conac.cn.		927	IN	AAAA	2401:b400:9::1

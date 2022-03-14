@@ -1,0 +1,7 @@
+; timestamp: 20220306T200202Z
+; source id: tld-query-dunlop.-b0.nic.dunlop.
+; source locator: b0.nic.dunlop.
+; source IP address: 65.22.121.33
+; backup point IP address: 111.42.148.76
+; status: success
+dunlop.			422	IN	NS	a0.nic.dunlop.dunlop.			422	IN	NS	b0.nic.dunlop.dunlop.			422	IN	NS	a2.nic.dunlop.dunlop.			422	IN	NS	c0.nic.dunlop.b0.nic.dunlop.		600	IN	A	65.22.121.33b0.nic.dunlop.		598	IN	AAAA	2a01:8840:77::33

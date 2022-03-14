@@ -1,0 +1,10 @@
+; timestamp: 20220306T204819Z
+; source id: tld-query-philips.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.philips.:../TldSpider/DataBak/20220306T204819Z-tld-query-philips-a.nic.philips
+b.nic.philips.:../TldSpider/DataBak/20220306T204819Z-tld-query-philips-b.nic.philips
+c.nic.philips.:../TldSpider/DataBak/20220306T204819Z-tld-query-philips-c.nic.philips
+d.nic.philips.:../TldSpider/DataBak/20220306T204819Z-tld-query-philips-d.nic.philips

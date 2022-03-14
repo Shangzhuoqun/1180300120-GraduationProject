@@ -1,0 +1,7 @@
+; timestamp: 20220306T204653Z
+; source id: tld-query-pay.-dnsd.nic.pay.
+; source locator: dnsd.nic.pay.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+pay.			3597	IN	NS	dnsb.nic.pay.pay.			3597	IN	NS	dns4.nic.pay.pay.			3597	IN	NS	dns3.nic.pay.pay.			3597	IN	NS	dnsa.nic.pay.pay.			3597	IN	NS	dnsc.nic.pay.pay.			3597	IN	NS	dns2.nic.pay.pay.			3597	IN	NS	dnsd.nic.pay.pay.			3597	IN	NS	dns1.nic.pay.dnsd.nic.pay.		3600	IN	A	156.154.103.3dnsd.nic.pay.		3600	IN	AAAA	2610:a1:1010::3

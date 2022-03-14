@@ -1,0 +1,27 @@
+; timestamp: 20220306T204422Z
+; source id: tld-query-np.-np-ns.npix.net.np.
+; source locator: np-ns.npix.net.np.
+; source IP address: 198.32.126.50
+; backup point IP address: 111.42.148.76
+; status: success
+np.			86400	IN	NS	np.cctld.authdns.ripe.net.np.			86400	IN	NS	pch.nnic.np.np.			86400	IN	NS	np-ns.npix.net.np.np.			86400	IN	NS	shikhar.mos.com.np.np.			86400	IN	NS	ns4.apnic.net.np-ns.npix.net.np.	3600	IN	A	198.32.126.50dig @198.32.126.50 np-ns.npix.net.np. AAAA
+
+; <<>> DiG 9.16.23 <<>> @198.32.126.50 np-ns.npix.net.np. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;np-ns.npix.net.np.		IN	AAAA
+
+;; AUTHORITY SECTION:
+npix.net.np.		1799	IN	SOA	ns.npix.net.np. hostmaster.npix.net.np. 2021082401 28800 14400 3600000 3600
+
+;; Query time: 7 msec
+;; SERVER: 198.32.126.50#53(198.32.126.50)
+;; WHEN: Sun Mar 06 20:44:24 ;; MSG SIZE  rcvd: 96
+

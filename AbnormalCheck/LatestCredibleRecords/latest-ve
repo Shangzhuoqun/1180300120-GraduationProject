@@ -1,0 +1,16 @@
+ssdns-tld.nic.cl.	172800	in	a	200.7.5.14
+ssdns-tld.nic.cl.	172800	in	aaaa	2001:1398:276:0:200:7:5:14
+a.lactld.org.	172800	in	a	200.0.68.10
+a.lactld.org.	172800	in	aaaa	2801:14:a000:0:0:0:0:10
+ve.	172800	in	ns	a.lactld.org.
+ve.	172800	in	ns	ns3.nic.ve.
+ve.	172800	in	ns	ns4.nic.ve.
+ve.	172800	in	ns	ns5.nic.ve.
+ve.	172800	in	ns	ns6.nic.ve.
+ve.	172800	in	ns	ssdns-tld.nic.cl.
+ns3.nic.ve.	172800	in	a	190.9.129.56
+ns4.nic.ve.	172800	in	a	190.202.128.43
+ns5.nic.ve.	172800	in	a	45.175.22.88
+ns5.nic.ve.	172800	in	aaaa	2801:18:8800:3:18ba:beff:fe61:d08b
+ns6.nic.ve.	172800	in	a	45.175.22.4
+ns6.nic.ve.	172800	in	aaaa	2801:18:8800:1:0:0:0:4

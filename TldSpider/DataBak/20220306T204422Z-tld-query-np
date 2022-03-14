@@ -1,0 +1,11 @@
+; timestamp: 20220306T204422Z
+; source id: tld-query-np.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+np.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T204422Z-tld-query-np-np.cctld.authdns.ripe.net
+ns4.apnic.net.:../TldSpider/DataBak/20220306T204422Z-tld-query-np-ns4.apnic.net
+pch.nnic.np.:../TldSpider/DataBak/20220306T204422Z-tld-query-np-pch.nnic.np
+np-ns.npix.net.np.:../TldSpider/DataBak/20220306T204422Z-tld-query-np-np-ns.npix.net.np
+shikhar.mos.com.np.:../TldSpider/DataBak/20220306T204422Z-tld-query-np-shikhar.mos.com.np

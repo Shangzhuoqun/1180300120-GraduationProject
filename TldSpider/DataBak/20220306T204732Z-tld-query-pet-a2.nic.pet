@@ -1,0 +1,7 @@
+; timestamp: 20220306T204732Z
+; source id: tld-query-pet.-a2.nic.pet.
+; source locator: a2.nic.pet.
+; source IP address: 65.22.19.17
+; backup point IP address: 111.42.148.76
+; status: success
+pet.			3600	IN	NS	a2.nic.pet.pet.			3600	IN	NS	a0.nic.pet.pet.			3600	IN	NS	c0.nic.pet.pet.			3600	IN	NS	b0.nic.pet.a2.nic.pet.		600	IN	A	65.22.19.17a2.nic.pet.		599	IN	AAAA	2a01:8840:15::17

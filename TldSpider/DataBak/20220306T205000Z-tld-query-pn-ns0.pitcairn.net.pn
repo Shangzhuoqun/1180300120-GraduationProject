@@ -1,0 +1,27 @@
+; timestamp: 20220306T205000Z
+; source id: tld-query-pn.-ns0.pitcairn.net.pn.
+; source locator: ns0.pitcairn.net.pn.
+; source IP address: 173.230.153.180
+; backup point IP address: 111.42.148.76
+; status: success
+pn.			43200	IN	NS	dns1.nominetdns.uk.pn.			43200	IN	NS	dns4.nominetdns.uk.pn.			43200	IN	NS	ns1.pitcairn.net.pn.pn.			43200	IN	NS	fork.sth.dnsnode.net.pn.			43200	IN	NS	ns0.pitcairn.net.pn.ns0.pitcairn.net.pn.	3600	IN	A	173.230.153.180dig @173.230.153.180 ns0.pitcairn.net.pn. AAAA
+
+; <<>> DiG 9.16.23 <<>> @173.230.153.180 ns0.pitcairn.net.pn. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46669
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns0.pitcairn.net.pn.		IN	AAAA
+
+;; AUTHORITY SECTION:
+net.pn.			1079	IN	SOA	ns0.pitcairn.net.pn. registrations.pitcairn.gov.pn. 2021110701 3600 900 1209600 43200
+
+;; Query time: 7 msec
+;; SERVER: 173.230.153.180#53(173.230.153.180)
+;; WHEN: Sun Mar 06 20:50:01 ;; MSG SIZE  rcvd: 111
+

@@ -1,0 +1,12 @@
+xn--5tzm5g.	172800	in	ns	a0.nic.xn--5tzm5g.
+xn--5tzm5g.	172800	in	ns	a2.nic.xn--5tzm5g.
+xn--5tzm5g.	172800	in	ns	b0.nic.xn--5tzm5g.
+xn--5tzm5g.	172800	in	ns	c0.nic.xn--5tzm5g.
+a0.nic.xn--5tzm5g.	172800	in	a	65.22.16.9
+a0.nic.xn--5tzm5g.	172800	in	aaaa	2a01:8840:12:0:0:0:0:9
+a2.nic.xn--5tzm5g.	172800	in	a	65.22.19.9
+a2.nic.xn--5tzm5g.	172800	in	aaaa	2a01:8840:15:0:0:0:0:9
+b0.nic.xn--5tzm5g.	172800	in	a	65.22.17.9
+b0.nic.xn--5tzm5g.	172800	in	aaaa	2a01:8840:13:0:0:0:0:9
+c0.nic.xn--5tzm5g.	172800	in	a	65.22.18.9
+c0.nic.xn--5tzm5g.	172800	in	aaaa	2a01:8840:14:0:0:0:0:9

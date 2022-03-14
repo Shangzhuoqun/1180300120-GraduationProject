@@ -1,0 +1,7 @@
+; timestamp: 20220306T194058Z
+; source id: tld-query-afl.-a.nic.afl.
+; source locator: a.nic.afl.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+afl.			1648	IN	NS	b.nic.afl.afl.			1648	IN	NS	d.nic.afl.afl.			1648	IN	NS	c.nic.afl.afl.			1648	IN	NS	a.nic.afl.a.nic.afl.		3600	IN	A	37.209.192.9a.nic.afl.		3600	IN	AAAA	2001:dcd:1::9

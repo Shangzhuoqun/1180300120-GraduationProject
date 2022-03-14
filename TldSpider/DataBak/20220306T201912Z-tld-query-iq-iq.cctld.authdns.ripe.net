@@ -1,0 +1,7 @@
+; timestamp: 20220306T201912Z
+; source id: tld-query-iq.-iq.cctld.authdns.ripe.net.
+; source locator: iq.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.81
+; backup point IP address: 111.42.148.76
+; status: success
+iq.			86400	IN	NS	iq.cctld.authdns.ripe.net.iq.			86400	IN	NS	ns.cocca.fr.iq.			86400	IN	NS	ns1.cmc.iq.iq.			86400	IN	NS	nsp-anycast.cmc.iq.iq.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.81iq.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::81

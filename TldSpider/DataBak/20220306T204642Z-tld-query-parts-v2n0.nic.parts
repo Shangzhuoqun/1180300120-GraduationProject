@@ -1,0 +1,7 @@
+; timestamp: 20220306T204642Z
+; source id: tld-query-parts.-v2n0.nic.parts.
+; source locator: v2n0.nic.parts.
+; source IP address: 65.22.23.53
+; backup point IP address: 111.42.148.76
+; status: success
+parts.			3598	IN	NS	v0n3.nic.parts.parts.			3598	IN	NS	v0n0.nic.parts.parts.			3598	IN	NS	v2n0.nic.parts.parts.			3598	IN	NS	v0n2.nic.parts.parts.			3598	IN	NS	v0n1.nic.parts.parts.			3598	IN	NS	v2n1.nic.parts.v2n0.nic.parts.		3598	IN	A	65.22.23.53v2n0.nic.parts.		3598	IN	AAAA	2a01:8840:19::53

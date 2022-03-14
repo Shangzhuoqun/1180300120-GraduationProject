@@ -1,0 +1,10 @@
+; timestamp: 20220306T194228Z
+; source id: tld-query-apple.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.apple.:../TldSpider/DataBak/20220306T194228Z-tld-query-apple-a0.nic.apple
+a2.nic.apple.:../TldSpider/DataBak/20220306T194228Z-tld-query-apple-a2.nic.apple
+b0.nic.apple.:../TldSpider/DataBak/20220306T194228Z-tld-query-apple-b0.nic.apple
+c0.nic.apple.:../TldSpider/DataBak/20220306T194228Z-tld-query-apple-c0.nic.apple

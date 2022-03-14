@@ -1,0 +1,7 @@
+; timestamp: 20220306T201300Z
+; source id: tld-query-gu.-phloem.uoregon.edu.
+; source locator: phloem.uoregon.edu.
+; source IP address: 128.223.32.35
+; backup point IP address: 111.42.148.76
+; status: success
+gu.			3600	IN	NS	phloem.uoregon.edu.gu.			3600	IN	NS	green.uog.edu.gu.			3600	IN	NS	gu.cctld.authdns.ripe.net.gu.			3600	IN	NS	gold.uog.edu.phloem.uoregon.edu.	928	IN	A	128.223.32.35phloem.uoregon.edu.	3538	IN	AAAA	2001:468:d01:20::80df:2023

@@ -1,0 +1,10 @@
+; timestamp: 20220306T204809Z
+; source id: tld-query-ph.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+1.ns.ph.:../TldSpider/DataBak/20220306T204809Z-tld-query-ph-1.ns.ph
+ph.communitydns.net.:../TldSpider/DataBak/20220306T204809Z-tld-query-ph-ph.communitydns.net
+ns2.cuhk.edu.hk.:../TldSpider/DataBak/20220306T204809Z-tld-query-ph-ns2.cuhk.edu.hk
+ns4.apnic.net.:../TldSpider/DataBak/20220306T204809Z-tld-query-ph-ns4.apnic.net

@@ -1,0 +1,7 @@
+; timestamp: 20220306T211320Z
+; source id: tld-query-tz.-d.ext.nic.cz.
+; source locator: d.ext.nic.cz.
+; source IP address: 193.29.206.2
+; backup point IP address: 111.42.148.76
+; status: success
+tz.			3600	IN	NS	ns-tz.afrinic.net.tz.			3600	IN	NS	ns.anycast.co.tz.tz.			3600	IN	NS	d.ext.nic.cz.tz.			3600	IN	NS	fork.sth.dnsnode.net.tz.			3600	IN	NS	ns2.tznic.or.tz.tz.			3600	IN	NS	rip.psg.com.d.ext.nic.cz.		1432	IN	A	193.29.206.2d.ext.nic.cz.		1799	IN	AAAA	2001:678:1::2

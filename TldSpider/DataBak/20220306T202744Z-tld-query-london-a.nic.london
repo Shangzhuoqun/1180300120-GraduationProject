@@ -1,0 +1,7 @@
+; timestamp: 20220306T202744Z
+; source id: tld-query-london.-a.nic.london.
+; source locator: a.nic.london.
+; source IP address: 194.169.218.141
+; backup point IP address: 111.42.148.76
+; status: success
+london.			3600	IN	NS	b.nic.london.london.			3600	IN	NS	a.nic.london.london.			3600	IN	NS	d.nic.london.london.			3600	IN	NS	c.nic.london.a.nic.london.		3599	IN	A	194.169.218.141a.nic.london.		3599	IN	AAAA	2001:67c:13cc::1:141

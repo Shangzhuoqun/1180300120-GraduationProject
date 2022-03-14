@@ -1,0 +1,7 @@
+; timestamp: 20220306T212313Z
+; source id: tld-query-xn--czrs0t.-v2n0.nic.xn--czrs0t.
+; source locator: v2n0.nic.xn--czrs0t.
+; source IP address: 65.22.31.64
+; backup point IP address: 111.42.148.76
+; status: success
+xn--czrs0t.		3598	IN	NS	v2n0.nic.xn--czrs0t.xn--czrs0t.		3598	IN	NS	v0n1.nic.xn--czrs0t.xn--czrs0t.		3598	IN	NS	v0n0.nic.xn--czrs0t.xn--czrs0t.		3598	IN	NS	v0n3.nic.xn--czrs0t.xn--czrs0t.		3598	IN	NS	v2n1.nic.xn--czrs0t.xn--czrs0t.		3598	IN	NS	v0n2.nic.xn--czrs0t.v2n0.nic.xn--czrs0t.	3599	IN	A	65.22.31.64v2n0.nic.xn--czrs0t.	3598	IN	AAAA	2a01:8840:21::64

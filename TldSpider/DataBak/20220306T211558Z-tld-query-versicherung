@@ -1,0 +1,9 @@
+; timestamp: 20220306T211558Z
+; source id: tld-query-versicherung.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.dns.nic.versicherung.:../TldSpider/DataBak/20220306T211558Z-tld-query-versicherung-a.dns.nic.versicherung
+m.dns.nic.versicherung.:../TldSpider/DataBak/20220306T211558Z-tld-query-versicherung-m.dns.nic.versicherung
+n.dns.nic.versicherung.:../TldSpider/DataBak/20220306T211558Z-tld-query-versicherung-n.dns.nic.versicherung

@@ -1,0 +1,7 @@
+; timestamp: 20220306T213102Z
+; source id: tld-query-zone.-v0n3.nic.zone.
+; source locator: v0n3.nic.zone.
+; source IP address: 161.232.14.5
+; backup point IP address: 111.42.148.76
+; status: success
+zone.			3600	IN	NS	v0n1.nic.zone.zone.			3600	IN	NS	v0n3.nic.zone.zone.			3600	IN	NS	v2n0.nic.zone.zone.			3600	IN	NS	v0n0.nic.zone.zone.			3600	IN	NS	v2n1.nic.zone.zone.			3600	IN	NS	v0n2.nic.zone.v0n3.nic.zone.		2252	IN	A	161.232.14.5v0n3.nic.zone.		2251	IN	AAAA	2a01:8840:f8::5

@@ -1,0 +1,9 @@
+; timestamp: 20220306T202437Z
+; source id: tld-query-km.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.km.:../TldSpider/DataBak/20220306T202437Z-tld-query-km-dns1.nic.km
+dns2.nic.km.:../TldSpider/DataBak/20220306T202437Z-tld-query-km-dns2.nic.km
+ns-km.afrinic.net.:../TldSpider/DataBak/20220306T202437Z-tld-query-km-ns-km.afrinic.net

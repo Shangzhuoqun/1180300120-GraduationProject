@@ -1,0 +1,7 @@
+; timestamp: 20220306T200743Z
+; source id: tld-query-frl.-a.nic.frl.
+; source locator: a.nic.frl.
+; source IP address: 194.169.218.87
+; backup point IP address: 111.42.148.76
+; status: success
+frl.			172800	IN	NS	a.nic.frl.frl.			172800	IN	NS	c.nic.frl.frl.			172800	IN	NS	d.nic.frl.frl.			172800	IN	NS	b.nic.frl.a.nic.frl.		3600	IN	A	194.169.218.87a.nic.frl.		3600	IN	AAAA	2001:67c:13cc::1:87

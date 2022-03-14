@@ -1,0 +1,7 @@
+; timestamp: 20220306T210514Z
+; source id: tld-query-sv.-a.lactld.org.
+; source locator: a.lactld.org.
+; source IP address: 200.0.68.10
+; backup point IP address: 111.42.148.76
+; status: success
+sv.			3600	IN	NS	a.lactld.org.sv.			3600	IN	NS	auth02.ns.uu.net.sv.			3600	IN	NS	ns.dns.br.sv.			3600	IN	NS	cir.red.sv.sv.			3600	IN	NS	sv.cctld.authdns.ripe.net.sv.			3600	IN	NS	sir.red.sv.sv.			3600	IN	NS	dns-ext.nic.cr.sv.			3600	IN	NS	ns.uu.net.a.lactld.org.		426	IN	A	200.0.68.10a.lactld.org.		427	IN	AAAA	2801:14:a000::10

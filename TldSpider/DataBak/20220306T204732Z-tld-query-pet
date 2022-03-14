@@ -1,0 +1,10 @@
+; timestamp: 20220306T204732Z
+; source id: tld-query-pet.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.pet.:../TldSpider/DataBak/20220306T204732Z-tld-query-pet-a0.nic.pet
+a2.nic.pet.:../TldSpider/DataBak/20220306T204732Z-tld-query-pet-a2.nic.pet
+b0.nic.pet.:../TldSpider/DataBak/20220306T204732Z-tld-query-pet-b0.nic.pet
+c0.nic.pet.:../TldSpider/DataBak/20220306T204732Z-tld-query-pet-c0.nic.pet

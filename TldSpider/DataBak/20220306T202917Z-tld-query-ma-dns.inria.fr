@@ -1,0 +1,27 @@
+; timestamp: 20220306T202917Z
+; source id: tld-query-ma.-dns.inria.fr.
+; source locator: dns.inria.fr.
+; source IP address: 193.51.208.13
+; backup point IP address: 111.42.148.76
+; status: success
+ma.			3581	IN	NS	ns-ma.nic.fr.ma.			3581	IN	NS	dns.inria.fr.ma.			3581	IN	NS	e.tld.ma.ma.			3581	IN	NS	f.tld.ma.ma.			3581	IN	NS	c.tld.ma.ma.			3581	IN	NS	d.tld.ma.ma.			3581	IN	NS	b.tld.ma.ma.			3581	IN	NS	a.tld.ma.dns.inria.fr.		1940	IN	A	193.51.208.13dig @193.51.208.13 dns.inria.fr. AAAA
+
+; <<>> DiG 9.16.23 <<>> @193.51.208.13 dns.inria.fr. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29338
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dns.inria.fr.			IN	AAAA
+
+;; AUTHORITY SECTION:
+inria.fr.		238	IN	SOA	dns.inria.fr. hostmaster.inria.fr. 2022030411 7200 1800 3600000 900
+
+;; Query time: 3 msec
+;; SERVER: 193.51.208.13#53(193.51.208.13)
+;; WHEN: Sun Mar 06 20:29:39 ;; MSG SIZE  rcvd: 88
+

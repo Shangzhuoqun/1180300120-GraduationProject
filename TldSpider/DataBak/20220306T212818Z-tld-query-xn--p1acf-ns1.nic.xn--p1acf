@@ -1,0 +1,7 @@
+; timestamp: 20220306T212818Z
+; source id: tld-query-xn--p1acf.-ns1.nic.xn--p1acf.
+; source locator: ns1.nic.xn--p1acf.
+; source IP address: 72.42.113.2
+; backup point IP address: 111.42.148.76
+; status: success
+xn--p1acf.		3600	IN	NS	ns2.anycastdns.cz.xn--p1acf.		3600	IN	NS	ns1.nic.xn--p1acf.xn--p1acf.		3600	IN	NS	ns2.nic.xn--p1acf.xn--p1acf.		3600	IN	NS	ns1.anycastdns.cz.ns1.nic.xn--p1acf.	596	IN	A	72.42.113.2ns1.nic.xn--p1acf.	596	IN	AAAA	2620:171:d01:dc::2

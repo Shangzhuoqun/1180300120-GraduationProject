@@ -1,0 +1,7 @@
+cg.	172800	in	ns	sunic.sunet.se.
+cg.	172800	in	ns	dns-fr.dnsafrica.net.
+cg.	172800	in	ns	dns-za.dnsafrica.net.
+dns-fr.dnsafrica.net.	172800	in	a	151.80.35.161
+dns-za.dnsafrica.net.	172800	in	a	41.185.30.170
+sunic.sunet.se.	172800	in	a	192.36.125.2
+sunic.sunet.se.	172800	in	aaaa	2001:6b0:7:0:0:0:0:2

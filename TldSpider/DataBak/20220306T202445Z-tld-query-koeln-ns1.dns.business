@@ -1,0 +1,7 @@
+; timestamp: 20220306T202445Z
+; source id: tld-query-koeln.-ns1.dns.business.
+; source locator: ns1.dns.business.
+; source IP address: 157.90.205.138
+; backup point IP address: 111.42.148.76
+; status: success
+koeln.			3599	IN	NS	ns1.dns.business.koeln.			3599	IN	NS	dns.ryce-rsp.com.koeln.			3599	IN	NS	ns1.ryce-rsp.com.ns1.dns.business.	706	IN	A	157.90.205.138ns1.dns.business.	705	IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a

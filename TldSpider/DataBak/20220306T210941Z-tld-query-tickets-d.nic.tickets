@@ -1,0 +1,7 @@
+; timestamp: 20220306T210941Z
+; source id: tld-query-tickets.-d.nic.tickets.
+; source locator: d.nic.tickets.
+; source IP address: 212.18.249.58
+; backup point IP address: 111.42.148.76
+; status: success
+tickets.		3598	IN	NS	c.nic.tickets.tickets.		3598	IN	NS	d.nic.tickets.tickets.		3598	IN	NS	a.nic.tickets.tickets.		3598	IN	NS	b.nic.tickets.d.nic.tickets.		3599	IN	A	212.18.249.58d.nic.tickets.		3599	IN	AAAA	2a04:2b00:13ff::58

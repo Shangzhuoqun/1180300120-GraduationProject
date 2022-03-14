@@ -1,0 +1,11 @@
+; timestamp: 20220306T211347Z
+; source id: tld-query-ug.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.icann.org.:../TldSpider/DataBak/20220306T211347Z-tld-query-ug-ns.icann.org
+ug.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T211347Z-tld-query-ug-ug.cctld.authdns.ripe.net
+root.eahd.or.ug.:../TldSpider/DataBak/20220306T211347Z-tld-query-ug-root.eahd.or.ug
+ns-ug.afrinic.net.:../TldSpider/DataBak/20220306T211347Z-tld-query-ug-ns-ug.afrinic.net
+anycast.eahd.or.ug.:../TldSpider/DataBak/20220306T211347Z-tld-query-ug-anycast.eahd.or.ug

@@ -1,0 +1,11 @@
+ai.	172800	in	ns	a.lactld.org.
+ai.	172800	in	ns	pch.whois.ai.
+ai.	172800	in	ns	anycastdns1-cz.nic.ai.
+ai.	172800	in	ns	anycastdns2-cz.nic.ai.
+anycastdns1-cz.nic.ai.	172800	in	a	185.28.194.194
+anycastdns2-cz.nic.ai.	172800	in	a	185.38.108.108
+anycastdns2-cz.nic.ai.	172800	in	aaaa	2a00:fea0:dead:0:0:0:0:beef
+pch.whois.ai.	172800	in	a	204.61.216.123
+pch.whois.ai.	172800	in	aaaa	2001:500:14:6123:ad:0:0:1
+a.lactld.org.	172800	in	a	200.0.68.10
+a.lactld.org.	172800	in	aaaa	2801:14:a000:0:0:0:0:10

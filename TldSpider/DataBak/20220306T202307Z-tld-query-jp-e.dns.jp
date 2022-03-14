@@ -1,0 +1,7 @@
+; timestamp: 20220306T202307Z
+; source id: tld-query-jp.-e.dns.jp.
+; source locator: e.dns.jp.
+; source IP address: 192.50.43.53
+; backup point IP address: 111.42.148.76
+; status: success
+jp.			3598	IN	NS	e.dns.jp.jp.			3598	IN	NS	h.dns.jp.jp.			3598	IN	NS	b.dns.jp.jp.			3598	IN	NS	d.dns.jp.jp.			3598	IN	NS	f.dns.jp.jp.			3598	IN	NS	g.dns.jp.jp.			3598	IN	NS	a.dns.jp.jp.			3598	IN	NS	c.dns.jp.e.dns.jp.		2575	IN	A	192.50.43.53e.dns.jp.		1249	IN	AAAA	2001:200:c000::35

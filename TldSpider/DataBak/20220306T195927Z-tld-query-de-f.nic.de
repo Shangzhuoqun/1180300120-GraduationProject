@@ -1,0 +1,7 @@
+; timestamp: 20220306T195927Z
+; source id: tld-query-de.-f.nic.de.
+; source locator: f.nic.de.
+; source IP address: 81.91.164.5
+; backup point IP address: 111.42.148.76
+; status: success
+de.			9	IN	NS	l.de.net.de.			9	IN	NS	f.nic.de.de.			9	IN	NS	s.de.net.de.			9	IN	NS	n.de.net.de.			9	IN	NS	a.nic.de.de.			9	IN	NS	z.nic.de.f.nic.de.		600	IN	A	81.91.164.5f.nic.de.		600	IN	AAAA	2a02:568:0:2::53

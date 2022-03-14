@@ -1,0 +1,7 @@
+; timestamp: 20220306T203942Z
+; source id: tld-query-mtn.-dns1.nic.mtn.
+; source locator: dns1.nic.mtn.
+; source IP address: 213.248.219.42
+; backup point IP address: 111.42.148.76
+; status: success
+mtn.			172800	IN	NS	dns1.nic.mtn.mtn.			172800	IN	NS	dns2.nic.mtn.mtn.			172800	IN	NS	dns3.nic.mtn.mtn.			172800	IN	NS	dns4.nic.mtn.mtn.			172800	IN	NS	dnsa.nic.mtn.mtn.			172800	IN	NS	dnsb.nic.mtn.mtn.			172800	IN	NS	dnsc.nic.mtn.mtn.			172800	IN	NS	dnsd.nic.mtn.dns1.nic.mtn.		600	IN	A	213.248.219.42dns1.nic.mtn.		600	IN	AAAA	2a01:618:403::42

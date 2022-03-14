@@ -1,0 +1,7 @@
+; timestamp: 20220306T194113Z
+; source id: tld-query-ai.-a.lactld.org.
+; source locator: a.lactld.org.
+; source IP address: 200.0.68.10
+; backup point IP address: 111.42.148.76
+; status: success
+ai.			1645	IN	NS	pch.whois.ai.ai.			1645	IN	NS	anycastdns1-cz.nic.ai.ai.			1645	IN	NS	a.lactld.org.ai.			1645	IN	NS	anycastdns2-cz.nic.ai.a.lactld.org.		3600	IN	A	200.0.68.10a.lactld.org.		3600	IN	AAAA	2801:14:a000::10

@@ -1,0 +1,10 @@
+; timestamp: 20220306T201344Z
+; source id: tld-query-hdfcbank.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.hdfcbank.:../TldSpider/DataBak/20220306T201344Z-tld-query-hdfcbank-a0.nic.hdfcbank
+a2.nic.hdfcbank.:../TldSpider/DataBak/20220306T201344Z-tld-query-hdfcbank-a2.nic.hdfcbank
+b0.nic.hdfcbank.:../TldSpider/DataBak/20220306T201344Z-tld-query-hdfcbank-b0.nic.hdfcbank
+c0.nic.hdfcbank.:../TldSpider/DataBak/20220306T201344Z-tld-query-hdfcbank-c0.nic.hdfcbank

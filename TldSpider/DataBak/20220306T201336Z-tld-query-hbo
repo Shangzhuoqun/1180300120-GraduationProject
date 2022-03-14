@@ -1,0 +1,12 @@
+; timestamp: 20220306T201336Z
+; source id: tld-query-hbo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-a.nic.hbo
+b.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-b.nic.hbo
+c.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-c.nic.hbo
+ns1.dns.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-ns1.dns.nic.hbo
+ns2.dns.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-ns2.dns.nic.hbo
+ns3.dns.nic.hbo.:../TldSpider/DataBak/20220306T201336Z-tld-query-hbo-ns3.dns.nic.hbo

@@ -1,0 +1,27 @@
+; timestamp: 20220306T212052Z
+; source id: tld-query-xn--1qqw23a.-te.ngtld.cn.
+; source locator: te.ngtld.cn.
+; source IP address: 42.83.134.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--1qqw23a.		3596	IN	NS	tc.ngtld.cn.xn--1qqw23a.		3596	IN	NS	tb.ngtld.cn.xn--1qqw23a.		3596	IN	NS	td.ngtld.cn.xn--1qqw23a.		3596	IN	NS	ta.ngtld.cn.xn--1qqw23a.		3596	IN	NS	te.ngtld.cn.te.ngtld.cn.		1800	IN	A	42.83.134.1dig @42.83.134.1 te.ngtld.cn. AAAA
+
+; <<>> DiG 9.16.23 <<>> @42.83.134.1 te.ngtld.cn. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5916
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;te.ngtld.cn.			IN	AAAA
+
+;; AUTHORITY SECTION:
+ngtld.cn.		1800	IN	SOA	a.ngtld.cn. sysmgr.cnnic.cn. 2019082002 14400 600 1209600 43200
+
+;; Query time: 37 msec
+;; SERVER: 42.83.134.1#53(42.83.134.1)
+;; WHEN: Sun Mar 06 21:20:57 ;; MSG SIZE  rcvd: 91
+

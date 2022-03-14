@@ -1,0 +1,7 @@
+; timestamp: 20220306T200215Z
+; source id: tld-query-dz.-ns3.nic.fr.
+; source locator: ns3.nic.fr.
+; source IP address: 192.134.0.49
+; backup point IP address: 111.42.148.76
+; status: success
+dz.			416	IN	NS	ns1.nic.dz.dz.			416	IN	NS	ns4.nic.dz.dz.			416	IN	NS	ns5.nic.dz.dz.			416	IN	NS	ns3.nic.fr.dz.			416	IN	NS	ns2.nic.dz.dz.			416	IN	NS	ns-dz.afrinic.net.ns3.nic.fr.		291	IN	A	192.134.0.49ns3.nic.fr.		2234	IN	AAAA	2001:660:3006:1::1:1

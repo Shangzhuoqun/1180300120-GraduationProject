@@ -1,0 +1,27 @@
+; timestamp: 20220306T200347Z
+; source id: tld-query-et.-a.nic.et.
+; source locator: a.nic.et.
+; source IP address: 197.156.74.192
+; backup point IP address: 111.42.148.76
+; status: success
+et.			3600	IN	NS	b.nic.et.et.			3600	IN	NS	a.nic.et.a.nic.et.		2291	IN	A	197.156.74.192dig @197.156.74.192 a.nic.et. AAAA
+
+; <<>> DiG 9.16.23 <<>> @197.156.74.192 a.nic.et. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1950
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;a.nic.et.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.et.			1800	IN	SOA	ns1.telecom.net.et. postmaster.ethionet.et. 10015 300 1800 1209600 3600
+
+;; Query time: 784 msec
+;; SERVER: 197.156.74.192#53(197.156.74.192)
+;; WHEN: Sun Mar 06 20:03:49 ;; MSG SIZE  rcvd: 109
+

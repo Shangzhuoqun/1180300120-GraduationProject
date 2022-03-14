@@ -1,0 +1,7 @@
+; timestamp: 20220306T195913Z
+; source id: tld-query-dance.-v2n1.nic.dance.
+; source locator: v2n1.nic.dance.
+; source IP address: 161.232.13.50
+; backup point IP address: 111.42.148.76
+; status: success
+dance.			542	IN	NS	v2n1.nic.dance.dance.			542	IN	NS	v0n1.nic.dance.dance.			542	IN	NS	v0n0.nic.dance.dance.			542	IN	NS	v0n2.nic.dance.dance.			542	IN	NS	v0n3.nic.dance.dance.			542	IN	NS	v2n0.nic.dance.v2n1.nic.dance.		3600	IN	A	161.232.13.50v2n1.nic.dance.		3600	IN	AAAA	2a01:8840:f7::50

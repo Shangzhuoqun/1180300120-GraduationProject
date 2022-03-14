@@ -1,0 +1,7 @@
+; timestamp: 20220306T195927Z
+; source id: tld-query-de.-s.de.net.
+; source locator: s.de.net.
+; source IP address: 195.243.137.26
+; backup point IP address: 111.42.148.76
+; status: success
+de.			8	IN	NS	f.nic.de.de.			8	IN	NS	n.de.net.de.			8	IN	NS	a.nic.de.de.			8	IN	NS	z.nic.de.de.			8	IN	NS	l.de.net.de.			8	IN	NS	s.de.net.s.de.net.		1491	IN	A	195.243.137.26s.de.net.		600	IN	AAAA	2003:8:14::53

@@ -1,0 +1,27 @@
+; timestamp: 20220306T212840Z
+; source id: tld-query-xn--qxam.-gr-at.ics.forth.gr.
+; source locator: gr-at.ics.forth.gr.
+; source IP address: 78.104.145.227
+; backup point IP address: 111.42.148.76
+; status: success
+xn--qxam.		3599	IN	NS	gr-at.ics.forth.gr.xn--qxam.		3599	IN	NS	gr-d.ics.forth.gr.xn--qxam.		3599	IN	NS	gr-c.ics.forth.gr.xn--qxam.		3599	IN	NS	grdns.ics.forth.gr.xn--qxam.		3599	IN	NS	estia.ics.forth.gr.gr-at.ics.forth.gr.	1860	IN	A	78.104.145.227dig @78.104.145.227 gr-at.ics.forth.gr. AAAA
+
+; <<>> DiG 9.16.23 <<>> @78.104.145.227 gr-at.ics.forth.gr. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;gr-at.ics.forth.gr.		IN	AAAA
+
+;; AUTHORITY SECTION:
+ics.forth.gr.		59	IN	SOA	dns1.ics.forth.gr. noc.ics.forth.gr. 1646521801 3600 7200 1209600 7200
+
+;; Query time: 10 msec
+;; SERVER: 78.104.145.227#53(78.104.145.227)
+;; WHEN: Sun Mar 06 21:28:42 ;; MSG SIZE  rcvd: 92
+

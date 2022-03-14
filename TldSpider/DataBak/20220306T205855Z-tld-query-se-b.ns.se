@@ -1,0 +1,7 @@
+; timestamp: 20220306T205855Z
+; source id: tld-query-se.-b.ns.se.
+; source locator: b.ns.se.
+; source IP address: 192.36.133.107
+; backup point IP address: 111.42.148.76
+; status: success
+se.			172800	IN	NS	z.ns.se.se.			172800	IN	NS	c.ns.se.se.			172800	IN	NS	i.ns.se.se.			172800	IN	NS	f.ns.se.se.			172800	IN	NS	b.ns.se.se.			172800	IN	NS	a.ns.se.se.			172800	IN	NS	g.ns.se.se.			172800	IN	NS	y.ns.se.se.			172800	IN	NS	m.ns.se.se.			172800	IN	NS	x.ns.se.b.ns.se.		340	IN	A	192.36.133.107b.ns.se.		340	IN	AAAA	2001:67c:254c:301::53

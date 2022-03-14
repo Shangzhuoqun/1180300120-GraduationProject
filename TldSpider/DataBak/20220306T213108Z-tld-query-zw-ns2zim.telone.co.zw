@@ -1,0 +1,7 @@
+; timestamp: 20220306T213108Z
+; source id: tld-query-zw.-ns2zim.telone.co.zw.
+; source locator: ns2zim.telone.co.zw.
+; source IP address: 41.220.30.82
+; backup point IP address: 111.42.148.76
+; status: success
+zw.			3595	IN	NS	ns2zim.telone.co.zw.zw.			3595	IN	NS	ns2.liquidtelecom.net.zw.			3595	IN	NS	ns1zim.telone.co.zw.zw.			3595	IN	NS	zw-ns.anycast.pch.net.zw.			3595	IN	NS	ns1.liquidtelecom.net.ns2zim.telone.co.zw.	3599	IN	A	41.220.30.82ns2zim.telone.co.zw.	3597	IN	AAAA	2c0f:f758:0:a::82

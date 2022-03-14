@@ -1,0 +1,7 @@
+; timestamp: 20220306T200638Z
+; source id: tld-query-flowers.-ns3.uniregistry.net.
+; source locator: ns3.uniregistry.net.
+; source IP address: 185.159.197.3
+; backup point IP address: 111.42.148.76
+; status: success
+flowers.		3600	IN	NS	ns3.uniregistry.net.flowers.		3600	IN	NS	ns2.uniregistry.info.flowers.		3600	IN	NS	ns1.uniregistry.net.flowers.		3600	IN	NS	ns4.uniregistry.info.ns3.uniregistry.net.	2922	IN	A	185.159.197.3ns3.uniregistry.net.	3600	IN	AAAA	2620:10a:80aa::3

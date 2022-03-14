@@ -1,0 +1,15 @@
+dns1.tld.becloudby.com.	172800	in	a	93.125.25.72
+dns1.tld.becloudby.com.	172800	in	aaaa	2a00:c827:a:2:0:0:0:2
+dns2.tld.becloudby.com.	172800	in	a	93.125.25.73
+dns2.tld.becloudby.com.	172800	in	aaaa	2a00:c827:a:3:0:0:0:2
+dns3.tld.becloudby.com.	172800	in	a	185.98.83.4
+dns3.tld.becloudby.com.	172800	in	aaaa	2a01:ba80:e:c:1:0:0:4c
+dns4.tld.becloudby.com.	172800	in	a	184.72.17.94
+dns4.tld.becloudby.com.	172800	in	aaaa	2600:1f1c:e9d:8500:8445:614f:f582:9e87
+dns5.tld.becloudby.com.	172800	in	a	54.180.35.203
+dns5.tld.becloudby.com.	172800	in	aaaa	2406:da12:834:8700:3ff5:9f9d:f1cc:863a
+xn--90ais.	172800	in	ns	dns1.tld.becloudby.com.
+xn--90ais.	172800	in	ns	dns2.tld.becloudby.com.
+xn--90ais.	172800	in	ns	dns3.tld.becloudby.com.
+xn--90ais.	172800	in	ns	dns4.tld.becloudby.com.
+xn--90ais.	172800	in	ns	dns5.tld.becloudby.com.

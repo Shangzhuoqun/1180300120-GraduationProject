@@ -1,0 +1,7 @@
+; timestamp: 20220306T213108Z
+; source id: tld-query-zw.-zw-ns.anycast.pch.net.
+; source locator: zw-ns.anycast.pch.net.
+; source IP address: 204.61.216.128
+; backup point IP address: 111.42.148.76
+; status: success
+zw.			14400	IN	NS	ns2zim.telone.co.zw.zw.			14400	IN	NS	ns1zim.telone.co.zw.zw.			14400	IN	NS	zw-ns.anycast.pch.net.zw.			14400	IN	NS	ns2.liquidtelecom.net.zw.			14400	IN	NS	ns1.liquidtelecom.net.zw-ns.anycast.pch.net.	3600	IN	A	204.61.216.128zw-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6128:ad::1

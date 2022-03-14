@@ -1,0 +1,12 @@
+; timestamp: 20220306T195811Z
+; source id: tld-query-cu.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+cu.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-cu.cctld.authdns.ripe.net
+ns.dns.br.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-ns.dns.br
+ns.ceniai.net.cu.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-ns.ceniai.net.cu
+ns2.gip.net.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-ns2.gip.net
+ns2.ceniai.net.cu.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-ns2.ceniai.net.cu
+rip.psg.com.:../TldSpider/DataBak/20220306T195811Z-tld-query-cu-rip.psg.com

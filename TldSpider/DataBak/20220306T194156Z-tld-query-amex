@@ -1,0 +1,12 @@
+; timestamp: 20220306T194156Z
+; source id: tld-query-amex.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-a.nic.amex
+b.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-b.nic.amex
+c.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-c.nic.amex
+ns1.dns.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-ns1.dns.nic.amex
+ns2.dns.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-ns2.dns.nic.amex
+ns3.dns.nic.amex.:../TldSpider/DataBak/20220306T194156Z-tld-query-amex-ns3.dns.nic.amex

@@ -1,0 +1,14 @@
+; timestamp: 20220306T195858Z
+; source id: tld-query-cymru.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dns1.nic.cymru
+dns2.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dns2.nic.cymru
+dns3.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dns3.nic.cymru
+dns4.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dns4.nic.cymru
+dnsa.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dnsa.nic.cymru
+dnsb.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dnsb.nic.cymru
+dnsc.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dnsc.nic.cymru
+dnsd.nic.cymru.:../TldSpider/DataBak/20220306T195858Z-tld-query-cymru-dnsd.nic.cymru

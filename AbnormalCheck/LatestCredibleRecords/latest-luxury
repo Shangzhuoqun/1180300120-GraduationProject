@@ -1,0 +1,12 @@
+luxury.	172800	in	ns	a.nic.luxury.
+luxury.	172800	in	ns	b.nic.luxury.
+luxury.	172800	in	ns	c.nic.luxury.
+luxury.	172800	in	ns	d.nic.luxury.
+a.nic.luxury.	172800	in	a	194.169.218.98
+a.nic.luxury.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:98
+b.nic.luxury.	172800	in	a	185.24.64.98
+b.nic.luxury.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:98
+c.nic.luxury.	172800	in	a	212.18.248.98
+c.nic.luxury.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:85
+d.nic.luxury.	172800	in	a	212.18.249.98
+d.nic.luxury.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:98

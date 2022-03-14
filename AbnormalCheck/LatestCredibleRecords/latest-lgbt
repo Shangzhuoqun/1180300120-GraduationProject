@@ -1,0 +1,12 @@
+lgbt.	172800	in	ns	a0.nic.lgbt.
+lgbt.	172800	in	ns	a2.nic.lgbt.
+lgbt.	172800	in	ns	b0.nic.lgbt.
+lgbt.	172800	in	ns	c0.nic.lgbt.
+a0.nic.lgbt.	172800	in	a	65.22.32.1
+a0.nic.lgbt.	172800	in	aaaa	2a01:8840:22:0:0:0:0:1
+a2.nic.lgbt.	172800	in	a	65.22.35.1
+a2.nic.lgbt.	172800	in	aaaa	2a01:8840:25:0:0:0:0:1
+b0.nic.lgbt.	172800	in	a	65.22.33.1
+b0.nic.lgbt.	172800	in	aaaa	2a01:8840:23:0:0:0:0:1
+c0.nic.lgbt.	172800	in	a	65.22.34.1
+c0.nic.lgbt.	172800	in	aaaa	2a01:8840:24:0:0:0:0:1

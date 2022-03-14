@@ -1,0 +1,12 @@
+d.dns.flexireg.domains.	172800	in	a	89.111.135.1
+d.dns.flexireg.domains.	172800	in	aaaa	2a01:d8:8:0:0:0:0:1
+b.dns.flexireg.net.	172800	in	a	195.253.64.6
+b.dns.flexireg.net.	172800	in	aaaa	2a01:5b0:4:0:0:0:0:6
+c.dns.flexireg.org.	172800	in	a	195.253.65.6
+c.dns.flexireg.org.	172800	in	aaaa	2a01:5b0:5:0:0:0:0:6
+a.dns.flexireg.ru.	172800	in	a	31.177.70.1
+a.dns.flexireg.ru.	172800	in	aaaa	2a02:2090:6800:0:0:0:0:1
+xn--80adxhks.	172800	in	ns	a.dns.flexireg.ru.
+xn--80adxhks.	172800	in	ns	b.dns.flexireg.net.
+xn--80adxhks.	172800	in	ns	c.dns.flexireg.org.
+xn--80adxhks.	172800	in	ns	d.dns.flexireg.domains.

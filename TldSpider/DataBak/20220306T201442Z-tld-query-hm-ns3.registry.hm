@@ -1,0 +1,34 @@
+; timestamp: 20220306T201442Z
+; source id: tld-query-hm.-ns3.registry.hm.
+; source locator: ns3.registry.hm.
+; source IP address: 128.199.180.188
+; backup point IP address: 111.42.148.76
+; status: success
+dig @128.199.180.188 hm. NS
+
+; <<>> DiG 9.16.23 <<>> @128.199.180.188 hm. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+ns3.registry.hm.	3584	IN	A	128.199.180.188dig @128.199.180.188 ns3.registry.hm. AAAA
+
+; <<>> DiG 9.16.23 <<>> @128.199.180.188 ns3.registry.hm. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14572
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns3.registry.hm.		IN	AAAA
+
+;; AUTHORITY SECTION:
+registry.hm.		618	IN	SOA	ns1.registry.hm. hostmaster.registry.hm. 2020061001 10800 3600 604800 3600
+
+;; Query time: 4 msec
+;; SERVER: 128.199.180.188#53(128.199.180.188)
+;; WHEN: Sun Mar 06 20:14:59 ;; MSG SIZE  rcvd: 95
+

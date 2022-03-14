@@ -1,0 +1,14 @@
+; timestamp: 20220306T202216Z
+; source id: tld-query-jobs.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dns1.nic.jobs
+dns2.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dns2.nic.jobs
+dns3.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dns3.nic.jobs
+dns4.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dns4.nic.jobs
+dnsa.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dnsa.nic.jobs
+dnsb.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dnsb.nic.jobs
+dnsc.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dnsc.nic.jobs
+dnsd.nic.jobs.:../TldSpider/DataBak/20220306T202216Z-tld-query-jobs-dnsd.nic.jobs

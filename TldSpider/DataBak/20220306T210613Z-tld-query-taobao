@@ -1,0 +1,12 @@
+; timestamp: 20220306T210613Z
+; source id: tld-query-taobao.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-a.nic.taobao
+b.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-b.nic.taobao
+c.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-c.nic.taobao
+ns1.dns.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-ns1.dns.nic.taobao
+ns2.dns.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-ns2.dns.nic.taobao
+ns3.dns.nic.taobao.:../TldSpider/DataBak/20220306T210613Z-tld-query-taobao-ns3.dns.nic.taobao

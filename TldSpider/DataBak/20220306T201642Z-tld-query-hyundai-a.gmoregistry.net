@@ -1,0 +1,7 @@
+; timestamp: 20220306T201642Z
+; source id: tld-query-hyundai.-a.gmoregistry.net.
+; source locator: a.gmoregistry.net.
+; source IP address: 37.209.192.4
+; backup point IP address: 111.42.148.76
+; status: success
+hyundai.		3600	IN	NS	k.gmoregistry.net.hyundai.		3600	IN	NS	b.gmoregistry.net.hyundai.		3600	IN	NS	a.gmoregistry.net.hyundai.		3600	IN	NS	l.gmoregistry.net.a.gmoregistry.net.	2946	IN	A	37.209.192.4a.gmoregistry.net.	2946	IN	AAAA	2001:dcd:1::4

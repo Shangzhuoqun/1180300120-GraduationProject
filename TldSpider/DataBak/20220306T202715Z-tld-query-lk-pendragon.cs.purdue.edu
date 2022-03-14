@@ -1,0 +1,27 @@
+; timestamp: 20220306T202715Z
+; source id: tld-query-lk.-pendragon.cs.purdue.edu.
+; source locator: pendragon.cs.purdue.edu.
+; source IP address: 128.10.2.5
+; backup point IP address: 111.42.148.76
+; status: success
+lk.			3600	IN	NS	ns1.ac.lk.lk.			3600	IN	NS	p.nic.lk.lk.			3600	IN	NS	d.nic.lk.lk.			3600	IN	NS	pendragon.cs.purdue.edu.lk.			3600	IN	NS	t.nic.lk.lk.			3600	IN	NS	l.nic.lk.lk.			3600	IN	NS	m.nic.lk.lk.			3600	IN	NS	c.nic.lk.pendragon.cs.purdue.edu. 2694	IN	A	128.10.2.5dig @128.10.2.5 pendragon.cs.purdue.edu. AAAA
+
+; <<>> DiG 9.16.23 <<>> @128.10.2.5 pendragon.cs.purdue.edu. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21352
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;pendragon.cs.purdue.edu.	IN	AAAA
+
+;; AUTHORITY SECTION:
+cs.purdue.edu.		894	IN	SOA	pendragon.cs.purdue.edu. postmaster.cs.purdue.edu. 2022030215 10800 3600 604800 10800
+
+;; Query time: 3 msec
+;; SERVER: 128.10.2.5#53(128.10.2.5)
+;; WHEN: Sun Mar 06 20:27:21 ;; MSG SIZE  rcvd: 99
+

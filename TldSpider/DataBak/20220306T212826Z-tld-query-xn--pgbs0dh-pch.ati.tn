@@ -1,0 +1,7 @@
+; timestamp: 20220306T212826Z
+; source id: tld-query-xn--pgbs0dh.-pch.ati.tn.
+; source locator: pch.ati.tn.
+; source IP address: 204.61.216.94
+; backup point IP address: 111.42.148.76
+; status: success
+xn--pgbs0dh.		3600	IN	NS	pch.ati.tn.xn--pgbs0dh.		3600	IN	NS	ns2.ati.tn.xn--pgbs0dh.		3600	IN	NS	ns-tn.afrinic.net.xn--pgbs0dh.		3600	IN	NS	rip.psg.com.xn--pgbs0dh.		3600	IN	NS	ns2.nic.fr.xn--pgbs0dh.		3600	IN	NS	ns1.ati.tn.pch.ati.tn.		2552	IN	A	204.61.216.94pch.ati.tn.		42155	IN	AAAA	2001:500:14:6004:ad::1

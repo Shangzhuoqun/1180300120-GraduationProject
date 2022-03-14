@@ -1,0 +1,9 @@
+; timestamp: 20220306T195345Z
+; source id: tld-query-cg.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+sunic.sunet.se.:../TldSpider/DataBak/20220306T195345Z-tld-query-cg-sunic.sunet.se
+dns-fr.dnsafrica.net.:../TldSpider/DataBak/20220306T195345Z-tld-query-cg-dns-fr.dnsafrica.net
+dns-za.dnsafrica.net.:../TldSpider/DataBak/20220306T195345Z-tld-query-cg-dns-za.dnsafrica.net

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210613Z
+; source id: tld-query-taobao.-ns1.dns.nic.taobao.
+; source locator: ns1.dns.nic.taobao.
+; source IP address: 156.154.144.157
+; backup point IP address: 111.42.148.76
+; status: success
+taobao.			3251	IN	NS	ns1.dns.nic.taobao.taobao.			3251	IN	NS	c.nic.taobao.taobao.			3251	IN	NS	b.nic.taobao.taobao.			3251	IN	NS	a.nic.taobao.taobao.			3251	IN	NS	ns2.dns.nic.taobao.taobao.			3251	IN	NS	ns3.dns.nic.taobao.ns1.dns.nic.taobao.	3599	IN	A	156.154.144.157ns1.dns.nic.taobao.	3599	IN	AAAA	2610:a1:1071::9d

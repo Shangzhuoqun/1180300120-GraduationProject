@@ -1,0 +1,7 @@
+; timestamp: 20220306T194718Z
+; source id: tld-query-black.-b0.nic.black.
+; source locator: b0.nic.black.
+; source IP address: 65.22.69.33
+; backup point IP address: 111.42.148.76
+; status: success
+black.			1389	IN	NS	b0.nic.black.black.			1389	IN	NS	a0.nic.black.black.			1389	IN	NS	a2.nic.black.black.			1389	IN	NS	c0.nic.black.b0.nic.black.		599	IN	A	65.22.69.33b0.nic.black.		599	IN	AAAA	2a01:8840:43::33

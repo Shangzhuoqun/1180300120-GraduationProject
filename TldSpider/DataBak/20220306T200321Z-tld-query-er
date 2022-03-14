@@ -1,0 +1,9 @@
+; timestamp: 20220306T200321Z
+; source id: tld-query-er.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+er.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T200321Z-tld-query-er-er.cctld.authdns.ripe.net
+sawanew.noc.net.er.:../TldSpider/DataBak/20220306T200321Z-tld-query-er-sawanew.noc.net.er
+zaranew.noc.net.er.:../TldSpider/DataBak/20220306T200321Z-tld-query-er-zaranew.noc.net.er

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201344Z
+; source id: tld-query-hdfcbank.-b0.nic.hdfcbank.
+; source locator: b0.nic.hdfcbank.
+; source IP address: 65.22.181.33
+; backup point IP address: 111.42.148.76
+; status: success
+hdfcbank.		3598	IN	NS	b0.nic.hdfcbank.hdfcbank.		3598	IN	NS	c0.nic.hdfcbank.hdfcbank.		3598	IN	NS	a2.nic.hdfcbank.hdfcbank.		3598	IN	NS	a0.nic.hdfcbank.b0.nic.hdfcbank.	600	IN	A	65.22.181.33b0.nic.hdfcbank.	600	IN	AAAA	2a01:8840:af::33

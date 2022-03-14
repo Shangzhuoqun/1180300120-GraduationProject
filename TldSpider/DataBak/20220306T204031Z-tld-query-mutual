@@ -1,0 +1,12 @@
+; timestamp: 20220306T204031Z
+; source id: tld-query-mutual.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-a.nic.mutual
+b.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-b.nic.mutual
+c.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-c.nic.mutual
+ns1.dns.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-ns1.dns.nic.mutual
+ns2.dns.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-ns2.dns.nic.mutual
+ns3.dns.nic.mutual.:../TldSpider/DataBak/20220306T204031Z-tld-query-mutual-ns3.dns.nic.mutual

@@ -1,0 +1,13 @@
+bi.	172800	in	ns	bi.cctld.authdns.ripe.net.
+bi.	172800	in	ns	ns.nic.bi.
+bi.	172800	in	ns	ns1.nic.bi.
+bi.	172800	in	ns	anyns.nic.bi.
+bi.	172800	in	ns	ns-bi.afrinic.net.
+anyns.nic.bi.	172800	in	a	204.61.216.61
+anyns.nic.bi.	172800	in	aaaa	2001:500:14:6061:ad:0:0:1
+ns.nic.bi.	172800	in	a	196.2.8.205
+ns1.nic.bi.	172800	in	a	196.2.12.205
+ns-bi.afrinic.net.	172800	in	a	196.216.168.23
+ns-bi.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:23
+bi.cctld.authdns.ripe.net.	172800	in	a	193.0.9.62
+bi.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:62

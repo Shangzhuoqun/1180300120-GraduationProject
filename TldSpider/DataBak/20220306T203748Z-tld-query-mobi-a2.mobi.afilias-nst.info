@@ -1,0 +1,7 @@
+; timestamp: 20220306T203748Z
+; source id: tld-query-mobi.-a2.mobi.afilias-nst.info.
+; source locator: a2.mobi.afilias-nst.info.
+; source IP address: 199.249.118.1
+; backup point IP address: 111.42.148.76
+; status: success
+mobi.			3599	IN	NS	b0.mobi.afilias-nst.org.mobi.			3599	IN	NS	d0.mobi.afilias-nst.org.mobi.			3599	IN	NS	a0.mobi.afilias-nst.info.mobi.			3599	IN	NS	b2.mobi.afilias-nst.org.mobi.			3599	IN	NS	a2.mobi.afilias-nst.info.mobi.			3599	IN	NS	c0.mobi.afilias-nst.info.a2.mobi.afilias-nst.info. 1567	IN	A	199.249.118.1a2.mobi.afilias-nst.info. 1862	IN	AAAA	2001:500:46::1

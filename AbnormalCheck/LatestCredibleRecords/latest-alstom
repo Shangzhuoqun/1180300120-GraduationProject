@@ -1,0 +1,12 @@
+alstom.	172800	in	ns	anycast9.irondns.net.
+alstom.	172800	in	ns	anycast10.irondns.net.
+alstom.	172800	in	ns	anycast23.irondns.net.
+alstom.	172800	in	ns	anycast24.irondns.net.
+anycast10.irondns.net.	172800	in	a	195.253.64.12
+anycast10.irondns.net.	172800	in	aaaa	2a01:5b0:4:0:0:0:0:c
+anycast23.irondns.net.	172800	in	a	195.253.65.11
+anycast23.irondns.net.	172800	in	aaaa	2a01:5b0:5:0:0:0:0:b
+anycast24.irondns.net.	172800	in	a	195.253.65.12
+anycast24.irondns.net.	172800	in	aaaa	2a01:5b0:5:0:0:0:0:c
+anycast9.irondns.net.	172800	in	a	195.253.64.11
+anycast9.irondns.net.	172800	in	aaaa	2a01:5b0:4:0:0:0:0:b

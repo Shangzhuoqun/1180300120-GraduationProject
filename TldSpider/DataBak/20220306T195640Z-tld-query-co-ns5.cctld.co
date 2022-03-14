@@ -1,0 +1,7 @@
+; timestamp: 20220306T195640Z
+; source id: tld-query-co.-ns5.cctld.co.
+; source locator: ns5.cctld.co.
+; source IP address: 156.154.104.25
+; backup point IP address: 111.42.148.76
+; status: success
+co.			899	IN	NS	ns2.cctld.co.co.			899	IN	NS	ns5.cctld.co.co.			899	IN	NS	ns4.cctld.co.co.			899	IN	NS	ns3.cctld.co.co.			899	IN	NS	ns6.cctld.co.co.			899	IN	NS	ns1.cctld.co.ns5.cctld.co.		1114	IN	A	156.154.104.25ns5.cctld.co.		983	IN	AAAA	2610:a1:1011::21

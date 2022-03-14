@@ -1,0 +1,7 @@
+; timestamp: 20220306T201910Z
+; source id: tld-query-ipiranga.-ns2.dns.nic.ipiranga.
+; source locator: ns2.dns.nic.ipiranga.
+; source IP address: 156.154.145.83
+; backup point IP address: 111.42.148.76
+; status: success
+ipiranga.		3600	IN	NS	ns6.dns.nic.ipiranga.ipiranga.		3600	IN	NS	ns5.dns.nic.ipiranga.ipiranga.		3600	IN	NS	ns3.dns.nic.ipiranga.ipiranga.		3600	IN	NS	ns1.dns.nic.ipiranga.ipiranga.		3600	IN	NS	ns2.dns.nic.ipiranga.ipiranga.		3600	IN	NS	ns4.dns.nic.ipiranga.ns2.dns.nic.ipiranga.	3600	IN	A	156.154.145.83ns2.dns.nic.ipiranga.	3600	IN	AAAA	2610:a1:1072::53

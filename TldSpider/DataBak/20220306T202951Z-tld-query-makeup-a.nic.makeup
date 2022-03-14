@@ -1,0 +1,7 @@
+; timestamp: 20220306T202951Z
+; source id: tld-query-makeup.-a.nic.makeup.
+; source locator: a.nic.makeup.
+; source IP address: 194.169.218.116
+; backup point IP address: 111.42.148.76
+; status: success
+makeup.			3600	IN	NS	d.nic.makeup.makeup.			3600	IN	NS	a.nic.makeup.makeup.			3600	IN	NS	c.nic.makeup.makeup.			3600	IN	NS	b.nic.makeup.a.nic.makeup.		3600	IN	A	194.169.218.116a.nic.makeup.		3599	IN	AAAA	2001:67c:13cc::1:116

@@ -1,0 +1,14 @@
+; timestamp: 20220306T204812Z
+; source id: tld-query-pharmacy.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dns1.nic.pharmacy
+dns2.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dns2.nic.pharmacy
+dns3.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dns3.nic.pharmacy
+dns4.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dns4.nic.pharmacy
+dnsa.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dnsa.nic.pharmacy
+dnsb.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dnsb.nic.pharmacy
+dnsc.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dnsc.nic.pharmacy
+dnsd.nic.pharmacy.:../TldSpider/DataBak/20220306T204812Z-tld-query-pharmacy-dnsd.nic.pharmacy

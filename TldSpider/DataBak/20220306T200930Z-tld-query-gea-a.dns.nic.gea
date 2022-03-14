@@ -1,0 +1,7 @@
+; timestamp: 20220306T200930Z
+; source id: tld-query-gea.-a.dns.nic.gea.
+; source locator: a.dns.nic.gea.
+; source IP address: 194.0.25.33
+; backup point IP address: 111.42.148.76
+; status: success
+gea.			86400	IN	NS	a.dns.nic.gea.gea.			86400	IN	NS	m.dns.nic.gea.gea.			86400	IN	NS	n.dns.nic.gea.a.dns.nic.gea.		3600	IN	A	194.0.25.33a.dns.nic.gea.		3600	IN	AAAA	2001:678:20::33

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201535Z
+; source id: tld-query-hot.-dns4.nic.hot.
+; source locator: dns4.nic.hot.
+; source IP address: 43.230.50.69
+; backup point IP address: 111.42.148.76
+; status: success
+hot.			172800	IN	NS	dns2.nic.hot.hot.			172800	IN	NS	dns3.nic.hot.hot.			172800	IN	NS	dns4.nic.hot.hot.			172800	IN	NS	dns1.nic.hot.hot.			172800	IN	NS	dnsa.nic.hot.hot.			172800	IN	NS	dnsb.nic.hot.hot.			172800	IN	NS	dnsc.nic.hot.hot.			172800	IN	NS	dnsd.nic.hot.dns4.nic.hot.		3591	IN	A	43.230.50.69dns4.nic.hot.		3591	IN	AAAA	2401:fd80:406::69

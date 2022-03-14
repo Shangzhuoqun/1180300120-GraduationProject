@@ -1,0 +1,11 @@
+; timestamp: 20220306T202314Z
+; source id: tld-query-jprs.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+tld1.nic.jprs.:../TldSpider/DataBak/20220306T202314Z-tld-query-jprs-tld1.nic.jprs
+tld2.nic.jprs.:../TldSpider/DataBak/20220306T202314Z-tld-query-jprs-tld2.nic.jprs
+tld3.nic.jprs.:../TldSpider/DataBak/20220306T202314Z-tld-query-jprs-tld3.nic.jprs
+tld4.nic.jprs.:../TldSpider/DataBak/20220306T202314Z-tld-query-jprs-tld4.nic.jprs
+tld5.nic.jprs.:../TldSpider/DataBak/20220306T202314Z-tld-query-jprs-tld5.nic.jprs

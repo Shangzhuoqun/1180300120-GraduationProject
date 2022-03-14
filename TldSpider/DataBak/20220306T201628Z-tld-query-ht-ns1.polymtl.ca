@@ -1,0 +1,47 @@
+; timestamp: 20220306T201628Z
+; source id: tld-query-ht.-ns1.polymtl.ca.
+; source locator: ns1.polymtl.ca.
+; source IP address: 132.207.6.11
+; backup point IP address: 111.42.148.76
+; status: success
+dig @132.207.6.11 ht. NS
+
+; <<>> DiG 9.16.23 <<>> @132.207.6.11 ht. NS
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 48913
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 546a675f8bb917f7010000006224a6263218113082ad6c87 (good)
+;; QUESTION SECTION:
+;ht.				IN	NS
+
+;; Query time: 621 msec
+;; SERVER: 132.207.6.11#53(132.207.6.11)
+;; WHEN: Sun Mar 06 20:16:30 ;; MSG SIZE  rcvd: 59
+
+ns1.polymtl.ca.		2706	IN	A	132.207.6.11dig @132.207.6.11 ns1.polymtl.ca. AAAA
+
+; <<>> DiG 9.16.23 <<>> @132.207.6.11 ns1.polymtl.ca. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12047
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1.polymtl.ca.			IN	AAAA
+
+;; AUTHORITY SECTION:
+polymtl.ca.		1800	IN	SOA	ns1.polymtl.ca. dnsmaster.polymtl.ca. 2022022401 3600 900 604800 1800
+
+;; Query time: 4 msec
+;; SERVER: 132.207.6.11#53(132.207.6.11)
+;; WHEN: Sun Mar 06 20:16:31 ;; MSG SIZE  rcvd: 89
+

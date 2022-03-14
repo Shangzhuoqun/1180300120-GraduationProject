@@ -1,0 +1,10 @@
+; timestamp: 20220306T213039Z
+; source id: tld-query-yun.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.teleinfo.cn.:../TldSpider/DataBak/20220306T213039Z-tld-query-yun-ns1.teleinfo.cn
+ns2.teleinfoo.com.:../TldSpider/DataBak/20220306T213039Z-tld-query-yun-ns2.teleinfoo.com
+ns3.teleinfo.cn.:../TldSpider/DataBak/20220306T213039Z-tld-query-yun-ns3.teleinfo.cn
+ns4.teleinfoo.com.:../TldSpider/DataBak/20220306T213039Z-tld-query-yun-ns4.teleinfoo.com

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204501Z
+; source id: tld-query-office.-ns2.dns.nic.office.
+; source locator: ns2.dns.nic.office.
+; source IP address: 156.154.145.126
+; backup point IP address: 111.42.148.76
+; status: success
+office.			3598	IN	NS	ns2.dns.nic.office.office.			3598	IN	NS	b.nic.office.office.			3598	IN	NS	a.nic.office.office.			3598	IN	NS	ns3.dns.nic.office.office.			3598	IN	NS	ns1.dns.nic.office.office.			3598	IN	NS	c.nic.office.ns2.dns.nic.office.	3598	IN	A	156.154.145.126ns2.dns.nic.office.	3598	IN	AAAA	2610:a1:1072::7e

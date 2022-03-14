@@ -1,0 +1,27 @@
+; timestamp: 20220306T204036Z
+; source id: tld-query-mw.-domwe.sdn.mw.
+; source locator: domwe.sdn.mw.
+; source IP address: 41.87.2.154
+; backup point IP address: 111.42.148.76
+; status: success
+mw.			18000	IN	NS	domwe.sdn.mw.mw.			18000	IN	NS	chambo.sdnp.org.mw.mw.			18000	IN	NS	rip.psg.com.mw.			18000	IN	NS	d.ext.nic.cz.mw.			18000	IN	NS	pch1.nic.mw.mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.mw.			18000	IN	NS	ns4.apnic.net.domwe.sdn.mw.		3598	IN	A	41.87.2.154domwe.sdn.mw.		3598	IN	A	41.87.5.162domwe.sdn.mw.		3598	IN	A	196.45.190.9dig @196.45.190.9 domwe.sdn.mw. AAAA
+
+; <<>> DiG 9.16.23 <<>> @196.45.190.9 domwe.sdn.mw. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26688
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;domwe.sdn.mw.			IN	AAAA
+
+;; AUTHORITY SECTION:
+sdn.mw.			1799	IN	SOA	chambo.sdnp.org.mw. paulos.sdnp.org.mw. 2018072423 10800 3600 604800 86400
+
+;; Query time: 7 msec
+;; SERVER: 196.45.190.9#53(196.45.190.9)
+;; WHEN: Sun Mar 06 20:40:40 ;; MSG SIZE  rcvd: 100
+

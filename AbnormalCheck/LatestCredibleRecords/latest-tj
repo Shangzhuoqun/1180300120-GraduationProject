@@ -1,0 +1,10 @@
+ns2.tojikiston.com.	172800	in	a	193.111.11.4
+phloem.uoregon.edu.	172800	in	a	128.223.32.35
+phloem.uoregon.edu.	172800	in	aaaa	2001:468:d01:20:0:0:80df:2023
+tj.cctld.authdns.ripe.net.	172800	in	a	193.0.9.117
+tj.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:117
+tj.	172800	in	ns	tj.cctld.authdns.ripe.net.
+tj.	172800	in	ns	ns1.nic.tj.
+tj.	172800	in	ns	ns2.tojikiston.com.
+tj.	172800	in	ns	phloem.uoregon.edu.
+ns1.nic.tj.	172800	in	a	91.218.160.197

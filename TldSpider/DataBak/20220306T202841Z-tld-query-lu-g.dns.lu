@@ -1,0 +1,7 @@
+; timestamp: 20220306T202841Z
+; source id: tld-query-lu.-g.dns.lu.
+; source locator: g.dns.lu.
+; source IP address: 194.0.23.5
+; backup point IP address: 111.42.148.76
+; status: success
+lu.			86400	IN	NS	g.dns.lu.lu.			86400	IN	NS	i.dns.lu.lu.			86400	IN	NS	j.dns.lu.lu.			86400	IN	NS	k.dns.lu.lu.			86400	IN	NS	p.dns.lu.lu.			86400	IN	NS	ns1.dns.lu.g.dns.lu.		1853	IN	A	194.0.23.5g.dns.lu.		3600	IN	AAAA	2001:678:1b:5::5

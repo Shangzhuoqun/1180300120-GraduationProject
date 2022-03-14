@@ -1,0 +1,7 @@
+; timestamp: 20220306T200304Z
+; source id: tld-query-engineer.-v2n0.nic.engineer.
+; source locator: v2n0.nic.engineer.
+; source IP address: 65.22.27.22
+; backup point IP address: 111.42.148.76
+; status: success
+engineer.		380	IN	NS	v2n0.nic.engineer.engineer.		380	IN	NS	v0n0.nic.engineer.engineer.		380	IN	NS	v2n1.nic.engineer.engineer.		380	IN	NS	v0n3.nic.engineer.engineer.		380	IN	NS	v0n1.nic.engineer.engineer.		380	IN	NS	v0n2.nic.engineer.v2n0.nic.engineer.	3599	IN	A	65.22.27.22v2n0.nic.engineer.	3598	IN	AAAA	2a01:8840:1d::22

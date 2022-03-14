@@ -1,0 +1,7 @@
+; timestamp: 20220306T211815Z
+; source id: tld-query-walter.-d.nic.walter.
+; source locator: d.nic.walter.
+; source IP address: 37.209.198.9
+; backup point IP address: 111.42.148.76
+; status: success
+walter.			3594	IN	NS	c.nic.walter.walter.			3594	IN	NS	a.nic.walter.walter.			3594	IN	NS	d.nic.walter.walter.			3594	IN	NS	b.nic.walter.d.nic.walter.		3600	IN	A	37.209.198.9d.nic.walter.		3600	IN	AAAA	2001:dcd:4::9

@@ -1,0 +1,12 @@
+; timestamp: 20220306T203021Z
+; source id: tld-query-marshalls.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-a.nic.marshalls
+b.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-b.nic.marshalls
+c.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-c.nic.marshalls
+ns1.dns.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-ns1.dns.nic.marshalls
+ns2.dns.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-ns2.dns.nic.marshalls
+ns3.dns.nic.marshalls.:../TldSpider/DataBak/20220306T203021Z-tld-query-marshalls-ns3.dns.nic.marshalls

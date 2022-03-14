@@ -1,0 +1,7 @@
+; timestamp: 20220306T194034Z
+; source id: tld-query-actor.-v2n1.nic.actor.
+; source locator: v2n1.nic.actor.
+; source IP address: 161.232.17.60
+; backup point IP address: 111.42.148.76
+; status: success
+actor.			1662	IN	NS	v0n0.nic.actor.actor.			1662	IN	NS	v0n1.nic.actor.actor.			1662	IN	NS	v2n0.nic.actor.actor.			1662	IN	NS	v0n2.nic.actor.actor.			1662	IN	NS	v0n3.nic.actor.actor.			1662	IN	NS	v2n1.nic.actor.v2n1.nic.actor.		3598	IN	A	161.232.17.60v2n1.nic.actor.		3598	IN	AAAA	2a01:8840:fb::60

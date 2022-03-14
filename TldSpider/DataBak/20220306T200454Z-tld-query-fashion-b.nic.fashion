@@ -1,0 +1,7 @@
+; timestamp: 20220306T200454Z
+; source id: tld-query-fashion.-b.nic.fashion.
+; source locator: b.nic.fashion.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+fashion.		3600	IN	NS	a.nic.fashion.fashion.		3600	IN	NS	d.nic.fashion.fashion.		3600	IN	NS	c.nic.fashion.fashion.		3600	IN	NS	b.nic.fashion.b.nic.fashion.		3600	IN	A	37.209.194.10b.nic.fashion.		3600	IN	AAAA	2001:dcd:2::10

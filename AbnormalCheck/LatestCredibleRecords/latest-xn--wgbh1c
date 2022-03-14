@@ -1,0 +1,6 @@
+ns1.dotmasr.eg.	172800	in	a	81.21.97.155
+ns2.dotmasr.eg.	172800	in	a	81.21.99.11
+ns3.dotmasr.eg.	172800	in	a	81.10.38.11
+xn--wgbh1c.	172800	in	ns	ns1.dotmasr.eg.
+xn--wgbh1c.	172800	in	ns	ns2.dotmasr.eg.
+xn--wgbh1c.	172800	in	ns	ns3.dotmasr.eg.

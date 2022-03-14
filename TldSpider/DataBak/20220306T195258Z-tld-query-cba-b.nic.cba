@@ -1,0 +1,7 @@
+; timestamp: 20220306T195258Z
+; source id: tld-query-cba.-b.nic.cba.
+; source locator: b.nic.cba.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+cba.			1121	IN	NS	c.nic.cba.cba.			1121	IN	NS	b.nic.cba.cba.			1121	IN	NS	d.nic.cba.cba.			1121	IN	NS	a.nic.cba.b.nic.cba.		3600	IN	A	37.209.194.9b.nic.cba.		3599	IN	AAAA	2001:dcd:2::9

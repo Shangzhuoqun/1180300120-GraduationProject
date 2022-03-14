@@ -1,0 +1,12 @@
+helsinki.	172800	in	ns	a0.nic.helsinki.
+helsinki.	172800	in	ns	a2.nic.helsinki.
+helsinki.	172800	in	ns	b0.nic.helsinki.
+helsinki.	172800	in	ns	c0.nic.helsinki.
+a0.nic.helsinki.	172800	in	a	65.22.220.33
+a0.nic.helsinki.	172800	in	aaaa	2a01:8840:d6:0:0:0:0:33
+a2.nic.helsinki.	172800	in	a	65.22.223.33
+a2.nic.helsinki.	172800	in	aaaa	2a01:8840:d9:0:0:0:0:33
+b0.nic.helsinki.	172800	in	a	65.22.221.33
+b0.nic.helsinki.	172800	in	aaaa	2a01:8840:d7:0:0:0:0:33
+c0.nic.helsinki.	172800	in	a	65.22.222.33
+c0.nic.helsinki.	172800	in	aaaa	2a01:8840:d8:0:0:0:0:33

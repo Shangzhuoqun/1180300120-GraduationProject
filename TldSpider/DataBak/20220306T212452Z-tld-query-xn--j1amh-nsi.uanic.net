@@ -1,0 +1,27 @@
+; timestamp: 20220306T212452Z
+; source id: tld-query-xn--j1amh.-nsi.uanic.net.
+; source locator: nsi.uanic.net.
+; source IP address: 212.1.66.247
+; backup point IP address: 111.42.148.76
+; status: success
+xn--j1amh.		3600	IN	NS	dns1.u-registry.com.xn--j1amh.		3600	IN	NS	tier1.num.net.ua.xn--j1amh.		3600	IN	NS	dns2.u-registry.net.xn--j1amh.		3600	IN	NS	dns3.dotukr.com.xn--j1amh.		3600	IN	NS	nsi.uanic.net.nsi.uanic.net.		3600	IN	A	212.1.66.247dig @212.1.66.247 nsi.uanic.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @212.1.66.247 nsi.uanic.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16602
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;nsi.uanic.net.			IN	AAAA
+
+;; AUTHORITY SECTION:
+uanic.net.		1800	IN	SOA	ns3.dmedia-ua.com. admin.dmedia-ua.com. 2022012701 86400 7200 604800 86400
+
+;; Query time: 1109 msec
+;; SERVER: 212.1.66.247#53(212.1.66.247)
+;; WHEN: Sun Mar 06 21:24:59 ;; MSG SIZE  rcvd: 101
+

@@ -1,0 +1,10 @@
+gold.uog.edu.	172800	in	a	168.123.250.66
+green.uog.edu.	172800	in	a	168.123.250.56
+phloem.uoregon.edu.	172800	in	a	128.223.32.35
+phloem.uoregon.edu.	172800	in	aaaa	2001:468:d01:20:0:0:80df:2023
+gu.	172800	in	ns	gu.cctld.authdns.ripe.net.
+gu.	172800	in	ns	gold.uog.edu.
+gu.	172800	in	ns	green.uog.edu.
+gu.	172800	in	ns	phloem.uoregon.edu.
+gu.cctld.authdns.ripe.net.	172800	in	a	193.0.9.78
+gu.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:78

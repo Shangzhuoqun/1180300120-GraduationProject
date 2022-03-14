@@ -1,0 +1,7 @@
+; timestamp: 20220306T204056Z
+; source id: tld-query-mx.-c.mx-ns.mx.
+; source locator: c.mx-ns.mx.
+; source IP address: 192.100.224.1
+; backup point IP address: 111.42.148.76
+; status: success
+mx.			3600	IN	NS	x.mx-ns.mx.mx.			3600	IN	NS	i.mx-ns.mx.mx.			3600	IN	NS	c.mx-ns.mx.mx.			3600	IN	NS	o.mx-ns.mx.mx.			3600	IN	NS	e.mx-ns.mx.mx.			3600	IN	NS	m.mx-ns.mx.c.mx-ns.mx.		1908	IN	A	192.100.224.1c.mx-ns.mx.		2693	IN	AAAA	2001:1258::1

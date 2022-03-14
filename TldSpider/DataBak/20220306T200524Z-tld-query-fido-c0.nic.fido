@@ -1,0 +1,7 @@
+; timestamp: 20220306T200524Z
+; source id: tld-query-fido.-c0.nic.fido.
+; source locator: c0.nic.fido.
+; source IP address: 65.22.110.41
+; backup point IP address: 111.42.148.76
+; status: success
+fido.			3597	IN	NS	a2.nic.fido.fido.			3597	IN	NS	c0.nic.fido.fido.			3597	IN	NS	a0.nic.fido.fido.			3597	IN	NS	b0.nic.fido.c0.nic.fido.		598	IN	A	65.22.110.41c0.nic.fido.		597	IN	AAAA	2a01:8840:6c::41

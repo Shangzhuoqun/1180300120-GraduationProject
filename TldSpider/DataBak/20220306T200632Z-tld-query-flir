@@ -1,0 +1,12 @@
+; timestamp: 20220306T200632Z
+; source id: tld-query-flir.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-a.nic.flir
+b.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-b.nic.flir
+c.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-c.nic.flir
+ns1.dns.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-ns1.dns.nic.flir
+ns2.dns.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-ns2.dns.nic.flir
+ns3.dns.nic.flir.:../TldSpider/DataBak/20220306T200632Z-tld-query-flir-ns3.dns.nic.flir

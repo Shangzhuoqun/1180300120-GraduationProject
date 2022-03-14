@@ -1,0 +1,7 @@
+ba.	172800	in	ns	ns.ba.
+ba.	172800	in	ns	una.utic.net.ba.
+ba.	172800	in	ns	sava.utic.net.ba.
+sava.utic.net.ba.	172800	in	a	195.130.35.3
+una.utic.net.ba.	172800	in	a	204.61.216.117
+una.utic.net.ba.	172800	in	aaaa	2001:500:14:6117:ad:0:0:1
+ns.ba.	172800	in	a	195.130.35.5

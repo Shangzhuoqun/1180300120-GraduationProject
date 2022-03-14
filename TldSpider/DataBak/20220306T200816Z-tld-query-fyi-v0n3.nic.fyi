@@ -1,0 +1,7 @@
+; timestamp: 20220306T200816Z
+; source id: tld-query-fyi.-v0n3.nic.fyi.
+; source locator: v0n3.nic.fyi.
+; source IP address: 161.232.10.42
+; backup point IP address: 111.42.148.76
+; status: success
+fyi.			3599	IN	NS	v2n0.nic.fyi.fyi.			3599	IN	NS	v0n1.nic.fyi.fyi.			3599	IN	NS	v0n0.nic.fyi.fyi.			3599	IN	NS	v0n2.nic.fyi.fyi.			3599	IN	NS	v0n3.nic.fyi.fyi.			3599	IN	NS	v2n1.nic.fyi.v0n3.nic.fyi.		3598	IN	A	161.232.10.42v0n3.nic.fyi.		3598	IN	AAAA	2a01:8840:f4::42

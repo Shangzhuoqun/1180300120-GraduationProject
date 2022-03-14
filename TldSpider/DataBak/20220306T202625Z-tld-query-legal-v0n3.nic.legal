@@ -1,0 +1,7 @@
+; timestamp: 20220306T202625Z
+; source id: tld-query-legal.-v0n3.nic.legal.
+; source locator: v0n3.nic.legal.
+; source IP address: 161.232.10.12
+; backup point IP address: 111.42.148.76
+; status: success
+legal.			3598	IN	NS	v0n0.nic.legal.legal.			3598	IN	NS	v0n3.nic.legal.legal.			3598	IN	NS	v2n0.nic.legal.legal.			3598	IN	NS	v2n1.nic.legal.legal.			3598	IN	NS	v0n1.nic.legal.legal.			3598	IN	NS	v0n2.nic.legal.v0n3.nic.legal.		3598	IN	A	161.232.10.12v0n3.nic.legal.		3598	IN	AAAA	2a01:8840:f4::12

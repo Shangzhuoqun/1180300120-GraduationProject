@@ -1,0 +1,12 @@
+; timestamp: 20220306T210827Z
+; source id: tld-query-teva.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-a.nic.teva
+b.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-b.nic.teva
+c.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-c.nic.teva
+ns1.dns.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-ns1.dns.nic.teva
+ns2.dns.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-ns2.dns.nic.teva
+ns3.dns.nic.teva.:../TldSpider/DataBak/20220306T210827Z-tld-query-teva-ns3.dns.nic.teva

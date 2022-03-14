@@ -1,0 +1,11 @@
+ns.itu.ch.	172800	in	a	156.106.192.121
+ns.itu.ch.	172800	in	aaaa	2a00:7580:60:2141:0:0:0:10
+cm.	172800	in	ns	ns.itu.ch.
+cm.	172800	in	ns	kim.camnet.cm.
+cm.	172800	in	ns	lom.camnet.cm.
+cm.	172800	in	ns	auth02.ns.uu.net.
+cm.	172800	in	ns	sanaga.camnet.cm.
+kim.camnet.cm.	172800	in	a	195.24.192.35
+lom.camnet.cm.	172800	in	a	195.24.192.34
+sanaga.camnet.cm.	172800	in	a	195.24.192.17
+auth02.ns.uu.net.	172800	in	a	198.6.1.82

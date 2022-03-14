@@ -1,0 +1,7 @@
+; timestamp: 20220306T195927Z
+; source id: tld-query-de.-n.de.net.
+; source locator: n.de.net.
+; source IP address: 194.146.107.6
+; backup point IP address: 111.42.148.76
+; status: success
+de.			8	IN	NS	f.nic.de.de.			8	IN	NS	a.nic.de.de.			8	IN	NS	s.de.net.de.			8	IN	NS	n.de.net.de.			8	IN	NS	z.nic.de.de.			8	IN	NS	l.de.net.n.de.net.		3295	IN	A	194.146.107.6n.de.net.		3272	IN	AAAA	2001:67c:1011:1::53

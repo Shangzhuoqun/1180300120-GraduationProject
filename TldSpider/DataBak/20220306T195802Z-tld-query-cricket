@@ -1,0 +1,12 @@
+; timestamp: 20220306T195802Z
+; source id: tld-query-cricket.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-a.nic.cricket
+b.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-b.nic.cricket
+c.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-c.nic.cricket
+ns1.dns.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-ns1.dns.nic.cricket
+ns2.dns.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-ns2.dns.nic.cricket
+ns3.dns.nic.cricket.:../TldSpider/DataBak/20220306T195802Z-tld-query-cricket-ns3.dns.nic.cricket

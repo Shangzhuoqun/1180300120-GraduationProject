@@ -1,0 +1,7 @@
+; timestamp: 20220306T194247Z
+; source id: tld-query-army.-v0n3.nic.army.
+; source locator: v0n3.nic.army.
+; source IP address: 161.232.14.59
+; backup point IP address: 111.42.148.76
+; status: success
+army.			1591	IN	NS	v0n2.nic.army.army.			1591	IN	NS	v0n1.nic.army.army.			1591	IN	NS	v0n3.nic.army.army.			1591	IN	NS	v2n1.nic.army.army.			1591	IN	NS	v2n0.nic.army.army.			1591	IN	NS	v0n0.nic.army.v0n3.nic.army.		1784	IN	A	161.232.14.59v0n3.nic.army.		1784	IN	AAAA	2a01:8840:f8::59

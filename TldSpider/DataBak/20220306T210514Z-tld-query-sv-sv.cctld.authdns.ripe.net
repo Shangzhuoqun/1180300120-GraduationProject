@@ -1,0 +1,7 @@
+; timestamp: 20220306T210514Z
+; source id: tld-query-sv.-sv.cctld.authdns.ripe.net.
+; source locator: sv.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.112
+; backup point IP address: 111.42.148.76
+; status: success
+sv.			43200	IN	NS	a.lactld.org.sv.			43200	IN	NS	ns.uu.net.sv.			43200	IN	NS	ns.dns.br.sv.			43200	IN	NS	sv.cctld.authdns.ripe.net.sv.			43200	IN	NS	cir.red.sv.sv.			43200	IN	NS	sir.red.sv.sv.			43200	IN	NS	auth02.ns.uu.net.sv.			43200	IN	NS	dns-ext.nic.cr.sv.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.112sv.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::112

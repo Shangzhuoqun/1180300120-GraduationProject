@@ -1,0 +1,7 @@
+; timestamp: 20220306T205956Z
+; source id: tld-query-shiksha.-a2.nic.shiksha.
+; source locator: a2.nic.shiksha.
+; source IP address: 65.22.35.33
+; backup point IP address: 111.42.148.76
+; status: success
+shiksha.		3599	IN	NS	c0.nic.shiksha.shiksha.		3599	IN	NS	a0.nic.shiksha.shiksha.		3599	IN	NS	a2.nic.shiksha.shiksha.		3599	IN	NS	b0.nic.shiksha.a2.nic.shiksha.		599	IN	A	65.22.35.33a2.nic.shiksha.		600	IN	AAAA	2a01:8840:25::33

@@ -1,0 +1,17 @@
+{
+    "check" : {
+        "waitingCheckDataPath":"waitingCheckData",
+        "mergedDataPath":"MergeData/MergedData",
+        "logpath":"Log",
+        "fronttimes":"5",
+        "period":"43200" ,
+        "DataPath":"Data",
+        "DataBakPath":"DataBak",
+        "latestCredibleRecordsPath" : "LatestCredibleRecords",
+        "ianahttpspidercommand": "python ../IANAHttpSpider/ianaspider.py",
+        "rootspidercommand": "python ../RootSpider/rootspider.py",
+        "tldspidercommand": "python ../TldSpider/tldspider.py",
+        "mergedatacommand": "python ../MergeData/merge.py",
+        "response_method": "RPZ"
+    }
+}

@@ -1,0 +1,9 @@
+bs.	172800	in	ns	ns36.cdns.net.
+bs.	172800	in	ns	anyns.dns.bs.
+bs.	172800	in	ns	anyns.pch.net.
+anyns.dns.bs.	172800	in	a	204.61.216.68
+anyns.dns.bs.	172800	in	aaaa	2001:500:14:6068:ad:0:0:1
+ns36.cdns.net.	172800	in	a	194.0.1.36
+ns36.cdns.net.	172800	in	aaaa	2001:678:4:0:0:0:0:24
+anyns.pch.net.	172800	in	a	204.61.216.4
+anyns.pch.net.	172800	in	aaaa	2001:500:14:6004:ad:0:0:1

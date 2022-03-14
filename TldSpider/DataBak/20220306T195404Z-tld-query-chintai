@@ -1,0 +1,12 @@
+; timestamp: 20220306T195404Z
+; source id: tld-query-chintai.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-a.nic.chintai
+b.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-b.nic.chintai
+c.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-c.nic.chintai
+ns1.dns.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-ns1.dns.nic.chintai
+ns2.dns.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-ns2.dns.nic.chintai
+ns3.dns.nic.chintai.:../TldSpider/DataBak/20220306T195404Z-tld-query-chintai-ns3.dns.nic.chintai

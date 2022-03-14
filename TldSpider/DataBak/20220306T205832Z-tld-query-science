@@ -1,0 +1,12 @@
+; timestamp: 20220306T205832Z
+; source id: tld-query-science.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-a.nic.science
+b.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-b.nic.science
+c.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-c.nic.science
+ns1.dns.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-ns1.dns.nic.science
+ns2.dns.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-ns2.dns.nic.science
+ns3.dns.nic.science.:../TldSpider/DataBak/20220306T205832Z-tld-query-science-ns3.dns.nic.science

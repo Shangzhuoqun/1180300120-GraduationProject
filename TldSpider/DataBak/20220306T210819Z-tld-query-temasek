@@ -1,0 +1,10 @@
+; timestamp: 20220306T210819Z
+; source id: tld-query-temasek.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.temasek.:../TldSpider/DataBak/20220306T210819Z-tld-query-temasek-a0.nic.temasek
+a2.nic.temasek.:../TldSpider/DataBak/20220306T210819Z-tld-query-temasek-a2.nic.temasek
+b0.nic.temasek.:../TldSpider/DataBak/20220306T210819Z-tld-query-temasek-b0.nic.temasek
+c0.nic.temasek.:../TldSpider/DataBak/20220306T210819Z-tld-query-temasek-c0.nic.temasek

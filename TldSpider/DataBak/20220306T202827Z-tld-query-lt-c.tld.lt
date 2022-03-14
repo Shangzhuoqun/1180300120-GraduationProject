@@ -1,0 +1,7 @@
+; timestamp: 20220306T202827Z
+; source id: tld-query-lt.-c.tld.lt.
+; source locator: c.tld.lt.
+; source IP address: 194.0.1.4
+; backup point IP address: 111.42.148.76
+; status: success
+lt.			3598	IN	NS	d.tld.lt.lt.			3598	IN	NS	f.tld.lt.lt.			3598	IN	NS	c.tld.lt.lt.			3598	IN	NS	a.tld.lt.lt.			3598	IN	NS	b.tld.lt.lt.			3598	IN	NS	e.tld.lt.c.tld.lt.		3600	IN	A	194.0.1.4c.tld.lt.		3600	IN	AAAA	2001:678:4::4

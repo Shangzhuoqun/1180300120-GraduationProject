@@ -1,0 +1,7 @@
+; timestamp: 20220306T205905Z
+; source id: tld-query-security.-a.nic.security.
+; source locator: a.nic.security.
+; source IP address: 194.169.218.68
+; backup point IP address: 111.42.148.76
+; status: success
+security.		3600	IN	NS	a.nic.security.security.		3600	IN	NS	e.nic.security.security.		3600	IN	NS	b.nic.security.security.		3600	IN	NS	f.nic.security.a.nic.security.		3600	IN	A	194.169.218.68a.nic.security.		3600	IN	AAAA	2001:67c:13cc::1:68

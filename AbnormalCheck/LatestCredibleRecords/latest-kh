@@ -1,0 +1,9 @@
+kh.	172800	in	ns	ns.camnet.com.kh.
+kh.	172800	in	ns	ns1.dns.net.kh.
+kh.	172800	in	ns	ns4.apnic.net.
+kh.	172800	in	ns	dns1.online.com.kh.
+ns.camnet.com.kh.	172800	in	a	203.223.32.3
+dns1.online.com.kh.	172800	in	a	203.189.128.1
+ns1.dns.net.kh.	172800	in	a	203.223.32.21
+ns4.apnic.net.	172800	in	a	202.12.31.53
+ns4.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53

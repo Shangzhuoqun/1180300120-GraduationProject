@@ -1,0 +1,7 @@
+er.	172800	in	ns	er.cctld.authdns.ripe.net.
+er.	172800	in	ns	sawanew.noc.net.er.
+er.	172800	in	ns	zaranew.noc.net.er.
+sawanew.noc.net.er.	172800	in	a	196.200.96.1
+zaranew.noc.net.er.	172800	in	a	196.200.96.2
+er.cctld.authdns.ripe.net.	172800	in	a	193.0.9.72
+er.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:72

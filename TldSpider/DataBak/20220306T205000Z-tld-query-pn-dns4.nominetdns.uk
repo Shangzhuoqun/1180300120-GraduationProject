@@ -1,0 +1,7 @@
+; timestamp: 20220306T205000Z
+; source id: tld-query-pn.-dns4.nominetdns.uk.
+; source locator: dns4.nominetdns.uk.
+; source IP address: 43.230.51.254
+; backup point IP address: 111.42.148.76
+; status: success
+pn.			3599	IN	NS	fork.sth.dnsnode.net.pn.			3599	IN	NS	dns4.nominetdns.uk.pn.			3599	IN	NS	dns1.nominetdns.uk.pn.			3599	IN	NS	ns1.pitcairn.net.pn.pn.			3599	IN	NS	ns0.pitcairn.net.pn.dns4.nominetdns.uk.	1186	IN	A	43.230.51.254dns4.nominetdns.uk.	1186	IN	AAAA	2401:fd80:407::254

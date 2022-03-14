@@ -1,0 +1,7 @@
+; timestamp: 20220306T205625Z
+; source id: tld-query-ryukyu.-a.gmoregistry.net.
+; source locator: a.gmoregistry.net.
+; source IP address: 37.209.192.4
+; backup point IP address: 111.42.148.76
+; status: success
+ryukyu.			3600	IN	NS	b.gmoregistry.net.ryukyu.			3600	IN	NS	k.gmoregistry.net.ryukyu.			3600	IN	NS	a.gmoregistry.net.ryukyu.			3600	IN	NS	l.gmoregistry.net.a.gmoregistry.net.	563	IN	A	37.209.192.4a.gmoregistry.net.	563	IN	AAAA	2001:dcd:1::4

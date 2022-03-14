@@ -1,0 +1,7 @@
+; timestamp: 20220306T200853Z
+; source id: tld-query-gb.-ns0.ja.net.
+; source locator: ns0.ja.net.
+; source IP address: 128.86.1.20
+; backup point IP address: 111.42.148.76
+; status: success
+gb.			3599	IN	NS	ns4.ja.net.gb.			3599	IN	NS	ns0.ja.net.gb.			3599	IN	NS	ns.uu.net.ns0.ja.net.		416	IN	A	128.86.1.20ns0.ja.net.		416	IN	A	193.63.94.20ns0.ja.net.		1799	IN	AAAA	2001:630:0:8::14ns0.ja.net.		1799	IN	AAAA	2001:630:0:9::14

@@ -1,0 +1,13 @@
+; timestamp: 20220306T210038Z
+; source id: tld-query-sk.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-a.tld.sk
+b.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-b.tld.sk
+c.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-c.tld.sk
+e.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-e.tld.sk
+f.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-f.tld.sk
+g.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-g.tld.sk
+h.tld.sk.:../TldSpider/DataBak/20220306T210038Z-tld-query-sk-h.tld.sk

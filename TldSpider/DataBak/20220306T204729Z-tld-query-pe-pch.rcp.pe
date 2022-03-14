@@ -1,0 +1,7 @@
+; timestamp: 20220306T204729Z
+; source id: tld-query-pe.-pch.rcp.pe.
+; source locator: pch.rcp.pe.
+; source IP address: 204.61.216.85
+; backup point IP address: 111.42.148.76
+; status: success
+pe.			3599	IN	NS	PCH.RCP.pe.pe.			3599	IN	NS	A.LACTLD.ORG.pe.			3599	IN	NS	PE1.DNSNODE.NET.pe.			3599	IN	NS	QUIPU.RCP.NET.pe.pch.rcp.pe.		3599	IN	A	204.61.216.85pch.rcp.pe.		3598	IN	AAAA	2001:500:14:6085:ad::1

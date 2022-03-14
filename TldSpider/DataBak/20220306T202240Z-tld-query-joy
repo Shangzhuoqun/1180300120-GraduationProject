@@ -1,0 +1,14 @@
+; timestamp: 20220306T202240Z
+; source id: tld-query-joy.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dns1.nic.joy
+dns2.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dns2.nic.joy
+dns3.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dns3.nic.joy
+dns4.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dns4.nic.joy
+dnsa.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dnsa.nic.joy
+dnsb.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dnsb.nic.joy
+dnsc.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dnsc.nic.joy
+dnsd.nic.joy.:../TldSpider/DataBak/20220306T202240Z-tld-query-joy-dnsd.nic.joy

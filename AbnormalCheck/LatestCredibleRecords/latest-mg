@@ -1,0 +1,11 @@
+ns-mg.malagasy.com.	172800	in	a	87.98.132.231
+censvrns0001.ird.fr.	172800	in	a	91.203.32.147
+mg.	172800	in	ns	ns.dts.mg.
+mg.	172800	in	ns	ns.nic.mg.
+mg.	172800	in	ns	pch.nic.mg.
+mg.	172800	in	ns	ns-mg.malagasy.com.
+mg.	172800	in	ns	censvrns0001.ird.fr.
+ns.dts.mg.	172800	in	a	196.192.32.2
+ns.nic.mg.	172800	in	a	196.192.42.153
+pch.nic.mg.	172800	in	a	204.61.216.121
+pch.nic.mg.	172800	in	aaaa	2001:500:14:6121:ad:0:0:1

@@ -1,0 +1,28 @@
+; timestamp: 20220306T203225Z
+; source id: tld-query-mil.-eur1.nipr.mil.
+; source locator: eur1.nipr.mil.
+; source IP address: reached
+; backup point IP address: 111.42.148.76
+; status: success
+dig @199.252.154.234 mil. NS
+
+; <<>> DiG 9.16.23 <<>> @199.252.154.234 mil. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+dig @199.252.154.234 eur1.nipr.mil. A
+;; Warning: ID mismatch: expected ID 40806, got 39545
+
+; <<>> DiG 9.16.23 <<>> @199.252.154.234 eur1.nipr.mil. A
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+dig @199.252.154.234 eur1.nipr.mil. AAAA
+
+; <<>> DiG 9.16.23 <<>> @199.252.154.234 eur1.nipr.mil. AAAA
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+

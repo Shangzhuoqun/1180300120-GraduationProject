@@ -1,0 +1,10 @@
+; timestamp: 20220306T195336Z
+; source id: tld-query-cfd.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.cfd.:../TldSpider/DataBak/20220306T195336Z-tld-query-cfd-a.nic.cfd
+b.nic.cfd.:../TldSpider/DataBak/20220306T195336Z-tld-query-cfd-b.nic.cfd
+c.nic.cfd.:../TldSpider/DataBak/20220306T195336Z-tld-query-cfd-c.nic.cfd
+d.nic.cfd.:../TldSpider/DataBak/20220306T195336Z-tld-query-cfd-d.nic.cfd

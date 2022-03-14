@@ -1,0 +1,12 @@
+ns2.cuhk.edu.hk.	172800	in	a	137.189.6.21
+ns2.cuhk.edu.hk.	172800	in	aaaa	2405:3000:3:6:0:0:0:15
+ns4.apnic.net.	172800	in	a	202.12.31.53
+ns4.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53
+ph.communitydns.net.	172800	in	a	194.0.1.23
+ph.communitydns.net.	172800	in	aaaa	2001:678:4:0:0:0:0:17
+ph.	172800	in	ns	1.ns.ph.
+ph.	172800	in	ns	ph.communitydns.net.
+ph.	172800	in	ns	ns2.cuhk.edu.hk.
+ph.	172800	in	ns	ns4.apnic.net.
+1.ns.ph.	172800	in	a	206.51.255.1
+1.ns.ph.	172800	in	aaaa	2620:171:805:ad2:7068:0:0:1

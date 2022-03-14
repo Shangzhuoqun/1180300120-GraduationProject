@@ -1,0 +1,12 @@
+; timestamp: 20220306T194609Z
+; source id: tld-query-be.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-a.nsset.be
+b.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-b.nsset.be
+c.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-c.nsset.be
+d.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-d.nsset.be
+y.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-y.nsset.be
+z.nsset.be.:../TldSpider/DataBak/20220306T194609Z-tld-query-be-z.nsset.be

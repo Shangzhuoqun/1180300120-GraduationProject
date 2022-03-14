@@ -1,0 +1,7 @@
+; timestamp: 20220306T202021Z
+; source id: tld-query-jewelry.-v0n0.nic.jewelry.
+; source locator: v0n0.nic.jewelry.
+; source IP address: 65.22.28.26
+; backup point IP address: 111.42.148.76
+; status: success
+jewelry.		3600	IN	NS	v0n3.nic.jewelry.jewelry.		3600	IN	NS	v2n1.nic.jewelry.jewelry.		3600	IN	NS	v2n0.nic.jewelry.jewelry.		3600	IN	NS	v0n0.nic.jewelry.jewelry.		3600	IN	NS	v0n1.nic.jewelry.jewelry.		3600	IN	NS	v0n2.nic.jewelry.v0n0.nic.jewelry.	3599	IN	A	65.22.28.26v0n0.nic.jewelry.	3599	IN	AAAA	2a01:8840:1e::26

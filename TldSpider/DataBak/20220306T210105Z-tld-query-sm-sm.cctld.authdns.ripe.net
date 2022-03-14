@@ -1,0 +1,7 @@
+; timestamp: 20220306T210105Z
+; source id: tld-query-sm.-sm.cctld.authdns.ripe.net.
+; source locator: sm.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.110
+; backup point IP address: 111.42.148.76
+; status: success
+sm.			86400	IN	NS	sm.cctld.authdns.ripe.net.sm.			86400	IN	NS	dns.omniway.sm.sm.			86400	IN	NS	dns.intelcom.sm.sm.			86400	IN	NS	ns3.telecomitalia.sm.sm.cctld.authdns.ripe.net. 3377	IN	A	193.0.9.110sm.cctld.authdns.ripe.net. 3377	IN	AAAA	2001:67c:e0::110

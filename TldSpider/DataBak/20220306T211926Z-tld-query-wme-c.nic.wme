@@ -1,0 +1,7 @@
+; timestamp: 20220306T211926Z
+; source id: tld-query-wme.-c.nic.wme.
+; source locator: c.nic.wme.
+; source IP address: 212.18.248.31
+; backup point IP address: 111.42.148.76
+; status: success
+wme.			172800	IN	NS	b.nic.wme.wme.			172800	IN	NS	a.nic.wme.wme.			172800	IN	NS	c.nic.wme.wme.			172800	IN	NS	d.nic.wme.c.nic.wme.		3597	IN	A	212.18.248.31c.nic.wme.		3596	IN	AAAA	2a04:2b00:13ee::31

@@ -1,0 +1,11 @@
+; timestamp: 20220306T194653Z
+; source id: tld-query-bi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+bi.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T194653Z-tld-query-bi-bi.cctld.authdns.ripe.net
+ns.nic.bi.:../TldSpider/DataBak/20220306T194653Z-tld-query-bi-ns.nic.bi
+ns1.nic.bi.:../TldSpider/DataBak/20220306T194653Z-tld-query-bi-ns1.nic.bi
+anyns.nic.bi.:../TldSpider/DataBak/20220306T194653Z-tld-query-bi-anyns.nic.bi
+ns-bi.afrinic.net.:../TldSpider/DataBak/20220306T194653Z-tld-query-bi-ns-bi.afrinic.net

@@ -1,0 +1,7 @@
+; timestamp: 20220306T195921Z
+; source id: tld-query-datsun.-b.gmoregistry.net.
+; source locator: b.gmoregistry.net.
+; source IP address: 37.209.194.4
+; backup point IP address: 111.42.148.76
+; status: success
+datsun.			539	IN	NS	b.gmoregistry.net.datsun.			539	IN	NS	l.gmoregistry.net.datsun.			539	IN	NS	a.gmoregistry.net.datsun.			539	IN	NS	k.gmoregistry.net.b.gmoregistry.net.	1105	IN	A	37.209.194.4b.gmoregistry.net.	2996	IN	AAAA	2001:dcd:2::4

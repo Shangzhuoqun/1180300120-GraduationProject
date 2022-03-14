@@ -1,0 +1,7 @@
+; timestamp: 20220306T212951Z
+; source id: tld-query-xyz.-generationxyz.nic.xyz.
+; source locator: generationxyz.nic.xyz.
+; source IP address: 212.18.249.42
+; backup point IP address: 111.42.148.76
+; status: success
+xyz.			3599	IN	NS	y.nic.xyz.xyz.			3599	IN	NS	generationxyz.nic.xyz.xyz.			3599	IN	NS	z.nic.xyz.xyz.			3599	IN	NS	x.nic.xyz.generationxyz.nic.xyz.	1746	IN	A	212.18.249.42generationxyz.nic.xyz.	3377	IN	AAAA	2a04:2b00:13ff::42

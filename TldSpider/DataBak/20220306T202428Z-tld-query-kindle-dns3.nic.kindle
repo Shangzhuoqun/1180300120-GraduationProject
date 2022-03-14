@@ -1,0 +1,7 @@
+; timestamp: 20220306T202428Z
+; source id: tld-query-kindle.-dns3.nic.kindle.
+; source locator: dns3.nic.kindle.
+; source IP address: 213.248.222.58
+; backup point IP address: 111.42.148.76
+; status: success
+kindle.			3599	IN	NS	dns2.nic.kindle.kindle.			3599	IN	NS	dns1.nic.kindle.kindle.			3599	IN	NS	dnsc.nic.kindle.kindle.			3599	IN	NS	dns3.nic.kindle.kindle.			3599	IN	NS	dnsb.nic.kindle.kindle.			3599	IN	NS	dnsd.nic.kindle.kindle.			3599	IN	NS	dns4.nic.kindle.kindle.			3599	IN	NS	dnsa.nic.kindle.dns3.nic.kindle.	3600	IN	A	213.248.222.58dns3.nic.kindle.	3599	IN	AAAA	2a01:618:406::58

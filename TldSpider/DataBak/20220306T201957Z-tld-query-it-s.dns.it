@@ -1,0 +1,7 @@
+; timestamp: 20220306T201957Z
+; source id: tld-query-it.-s.dns.it.
+; source locator: s.dns.it.
+; source IP address: 194.146.106.30
+; backup point IP address: 111.42.148.76
+; status: success
+it.			3599	IN	NS	s.dns.it.it.			3599	IN	NS	m.dns.it.it.			3599	IN	NS	r.dns.it.it.			3599	IN	NS	a.dns.it.it.			3599	IN	NS	nameserver.cnr.it.it.			3599	IN	NS	dns.nic.it.s.dns.it.		2975	IN	A	194.146.106.30s.dns.it.		2975	IN	AAAA	2001:67c:1010:7::53

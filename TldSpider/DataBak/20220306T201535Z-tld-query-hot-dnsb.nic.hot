@@ -1,0 +1,7 @@
+; timestamp: 20220306T201535Z
+; source id: tld-query-hot.-dnsb.nic.hot.
+; source locator: dnsb.nic.hot.
+; source IP address: 156.154.101.3
+; backup point IP address: 111.42.148.76
+; status: success
+hot.			3599	IN	NS	dns3.nic.hot.hot.			3599	IN	NS	dnsc.nic.hot.hot.			3599	IN	NS	dnsb.nic.hot.hot.			3599	IN	NS	dns2.nic.hot.hot.			3599	IN	NS	dnsd.nic.hot.hot.			3599	IN	NS	dns1.nic.hot.hot.			3599	IN	NS	dnsa.nic.hot.hot.			3599	IN	NS	dns4.nic.hot.dnsb.nic.hot.		3592	IN	A	156.154.101.3dnsb.nic.hot.		3590	IN	AAAA	2001:502:2eda::3

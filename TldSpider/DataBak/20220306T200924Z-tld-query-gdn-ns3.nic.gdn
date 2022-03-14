@@ -1,0 +1,7 @@
+; timestamp: 20220306T200924Z
+; source id: tld-query-gdn.-ns3.nic.gdn.
+; source locator: ns3.nic.gdn.
+; source IP address: 194.0.26.11
+; backup point IP address: 111.42.148.76
+; status: success
+gdn.			3600	IN	NS	NS1.NIC.GDN.gdn.			3600	IN	NS	NS4.NIC.GDN.gdn.			3600	IN	NS	NS3.NIC.GDN.ns3.nic.gdn.		3599	IN	A	194.0.26.11ns3.nic.gdn.		3600	IN	AAAA	2001:67c:10e0::11

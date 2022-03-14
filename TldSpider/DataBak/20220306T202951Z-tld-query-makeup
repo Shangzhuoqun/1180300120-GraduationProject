@@ -1,0 +1,10 @@
+; timestamp: 20220306T202951Z
+; source id: tld-query-makeup.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.makeup.:../TldSpider/DataBak/20220306T202951Z-tld-query-makeup-a.nic.makeup
+b.nic.makeup.:../TldSpider/DataBak/20220306T202951Z-tld-query-makeup-b.nic.makeup
+c.nic.makeup.:../TldSpider/DataBak/20220306T202951Z-tld-query-makeup-c.nic.makeup
+d.nic.makeup.:../TldSpider/DataBak/20220306T202951Z-tld-query-makeup-d.nic.makeup

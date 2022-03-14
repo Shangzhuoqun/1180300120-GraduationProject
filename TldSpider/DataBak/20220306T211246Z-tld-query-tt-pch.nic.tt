@@ -1,0 +1,7 @@
+; timestamp: 20220306T211246Z
+; source id: tld-query-tt.-pch.nic.tt.
+; source locator: pch.nic.tt.
+; source IP address: 204.61.216.63
+; backup point IP address: 111.42.148.76
+; status: success
+tt.			86400	IN	NS	a.lactld.org.tt.			86400	IN	NS	ns3.nic.mx.tt.			86400	IN	NS	pch.nic.tt.tt.			86400	IN	NS	ripe.nic.tt.pch.nic.tt.		3600	IN	A	204.61.216.63pch.nic.tt.		3600	IN	AAAA	2001:500:14:6063:ad::1

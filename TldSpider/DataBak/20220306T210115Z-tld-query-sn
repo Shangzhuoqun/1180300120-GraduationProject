@@ -1,0 +1,11 @@
+; timestamp: 20220306T210115Z
+; source id: tld-query-sn.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.ucad.sn.:../TldSpider/DataBak/20220306T210115Z-tld-query-sn-ns.ucad.sn
+sn.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T210115Z-tld-query-sn-sn.cctld.authdns.ripe.net
+ns1.sonatel.sn.:../TldSpider/DataBak/20220306T210115Z-tld-query-sn-ns1.sonatel.sn
+ns-sn.nic.fr.:../TldSpider/DataBak/20220306T210115Z-tld-query-sn-ns-sn.nic.fr
+censvrns0001.ird.fr.:../TldSpider/DataBak/20220306T210115Z-tld-query-sn-censvrns0001.ird.fr

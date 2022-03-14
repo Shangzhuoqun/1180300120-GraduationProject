@@ -1,0 +1,12 @@
+; timestamp: 20220306T201333Z
+; source id: tld-query-haus.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v0n0.nic.haus
+v0n1.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v0n1.nic.haus
+v0n2.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v0n2.nic.haus
+v0n3.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v0n3.nic.haus
+v2n0.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v2n0.nic.haus
+v2n1.nic.haus.:../TldSpider/DataBak/20220306T201333Z-tld-query-haus-v2n1.nic.haus

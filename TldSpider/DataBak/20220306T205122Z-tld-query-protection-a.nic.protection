@@ -1,0 +1,7 @@
+; timestamp: 20220306T205122Z
+; source id: tld-query-protection.-a.nic.protection.
+; source locator: a.nic.protection.
+; source IP address: 194.169.218.67
+; backup point IP address: 111.42.148.76
+; status: success
+protection.		3595	IN	NS	b.nic.protection.protection.		3595	IN	NS	e.nic.protection.protection.		3595	IN	NS	f.nic.protection.protection.		3595	IN	NS	a.nic.protection.a.nic.protection.	3600	IN	A	194.169.218.67a.nic.protection.	3600	IN	AAAA	2001:67c:13cc::1:67

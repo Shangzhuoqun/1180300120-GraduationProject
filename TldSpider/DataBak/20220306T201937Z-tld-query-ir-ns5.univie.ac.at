@@ -1,0 +1,7 @@
+; timestamp: 20220306T201937Z
+; source id: tld-query-ir.-ns5.univie.ac.at.
+; source locator: ns5.univie.ac.at.
+; source IP address: 193.171.255.77
+; backup point IP address: 111.42.148.76
+; status: success
+ir.			1440	IN	NS	ns5.univie.ac.at.ir.			1440	IN	NS	a.nic.ir.ir.			1440	IN	NS	dns-ir.univie.ac.at.ir.			1440	IN	NS	b.nic.ir.ir.			1440	IN	NS	ir.cctld.authdns.ripe.net.ns5.univie.ac.at.	598	IN	A	193.171.255.77ns5.univie.ac.at.	597	IN	AAAA	2001:628:453:4305::53

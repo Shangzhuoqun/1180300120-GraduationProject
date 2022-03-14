@@ -1,0 +1,27 @@
+; timestamp: 20220306T200055Z
+; source id: tld-query-dj.-vps443605.ovh.net.
+; source locator: vps443605.ovh.net.
+; source IP address: 37.59.106.21
+; backup point IP address: 111.42.148.76
+; status: success
+dj.			172800	IN	NS	vps443605.ovh.net.dj.			172800	IN	NS	bow5.intnet.dj.dj.			172800	IN	NS	bow1.intnet.dj.vps443605.ovh.net.	600	IN	A	37.59.106.21dig @37.59.106.21 vps443605.ovh.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @37.59.106.21 vps443605.ovh.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4360
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;vps443605.ovh.net.		IN	AAAA
+
+;; AUTHORITY SECTION:
+ovh.net.		60	IN	SOA	dns10.ovh.net. tech.ovh.net. 2022030630 86400 3600 3600000 60
+
+;; Query time: 1483 msec
+;; SERVER: 37.59.106.21#53(37.59.106.21)
+;; WHEN: Sun Mar 06 20:01:02 ;; MSG SIZE  rcvd: 93
+

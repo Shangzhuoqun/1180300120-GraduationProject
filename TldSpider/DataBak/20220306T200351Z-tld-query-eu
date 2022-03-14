@@ -1,0 +1,11 @@
+; timestamp: 20220306T200351Z
+; source id: tld-query-eu.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+w.dns.eu.:../TldSpider/DataBak/20220306T200351Z-tld-query-eu-w.dns.eu
+x.dns.eu.:../TldSpider/DataBak/20220306T200351Z-tld-query-eu-x.dns.eu
+y.dns.eu.:../TldSpider/DataBak/20220306T200351Z-tld-query-eu-y.dns.eu
+be.dns.eu.:../TldSpider/DataBak/20220306T200351Z-tld-query-eu-be.dns.eu
+si.dns.eu.:../TldSpider/DataBak/20220306T200351Z-tld-query-eu-si.dns.eu

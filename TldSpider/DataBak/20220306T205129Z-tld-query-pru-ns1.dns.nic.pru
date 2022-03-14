@@ -1,0 +1,7 @@
+; timestamp: 20220306T205129Z
+; source id: tld-query-pru.-ns1.dns.nic.pru.
+; source locator: ns1.dns.nic.pru.
+; source IP address: 156.154.144.141
+; backup point IP address: 111.42.148.76
+; status: success
+pru.			86400	IN	NS	a.nic.pru.pru.			86400	IN	NS	b.nic.pru.pru.			86400	IN	NS	c.nic.pru.pru.			86400	IN	NS	ns1.dns.nic.pru.pru.			86400	IN	NS	ns2.dns.nic.pru.pru.			86400	IN	NS	ns3.dns.nic.pru.ns1.dns.nic.pru.	3599	IN	A	156.154.144.141ns1.dns.nic.pru.	3598	IN	AAAA	2610:a1:1071::8d

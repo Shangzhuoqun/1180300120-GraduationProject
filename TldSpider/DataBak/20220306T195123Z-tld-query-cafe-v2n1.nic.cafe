@@ -1,0 +1,7 @@
+; timestamp: 20220306T195123Z
+; source id: tld-query-cafe.-v2n1.nic.cafe.
+; source locator: v2n1.nic.cafe.
+; source IP address: 161.232.11.44
+; backup point IP address: 111.42.148.76
+; status: success
+cafe.			1186	IN	NS	v0n2.nic.cafe.cafe.			1186	IN	NS	v0n3.nic.cafe.cafe.			1186	IN	NS	v2n1.nic.cafe.cafe.			1186	IN	NS	v0n0.nic.cafe.cafe.			1186	IN	NS	v0n1.nic.cafe.cafe.			1186	IN	NS	v2n0.nic.cafe.v2n1.nic.cafe.		86400	IN	A	161.232.11.44v2n1.nic.cafe.		3600	IN	AAAA	2a01:8840:f5::44

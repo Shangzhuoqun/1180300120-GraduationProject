@@ -1,0 +1,14 @@
+; timestamp: 20220306T201121Z
+; source id: tld-query-gop.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dns1.nic.gop
+dns2.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dns2.nic.gop
+dns3.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dns3.nic.gop
+dns4.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dns4.nic.gop
+dnsa.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dnsa.nic.gop
+dnsb.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dnsb.nic.gop
+dnsc.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dnsc.nic.gop
+dnsd.nic.gop.:../TldSpider/DataBak/20220306T201121Z-tld-query-gop-dnsd.nic.gop

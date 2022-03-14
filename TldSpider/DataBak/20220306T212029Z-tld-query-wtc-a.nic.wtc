@@ -1,0 +1,7 @@
+; timestamp: 20220306T212029Z
+; source id: tld-query-wtc.-a.nic.wtc.
+; source locator: a.nic.wtc.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+wtc.			3600	IN	NS	c.nic.wtc.wtc.			3600	IN	NS	a.nic.wtc.wtc.			3600	IN	NS	b.nic.wtc.wtc.			3600	IN	NS	d.nic.wtc.a.nic.wtc.		3600	IN	A	37.209.192.9a.nic.wtc.		3600	IN	AAAA	2001:dcd:1::9

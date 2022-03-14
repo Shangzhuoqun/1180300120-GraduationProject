@@ -1,0 +1,7 @@
+; timestamp: 20220306T194632Z
+; source id: tld-query-bf.-ns-bf.nic.fr.
+; source locator: ns-bf.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+bf.			1421	IN	NS	pch.ns.registre.bf.bf.			1421	IN	NS	censvrns0001.ird.fr.bf.			1421	IN	NS	ns-bf.nic.fr.bf.			1421	IN	NS	a.registre.bf.ns-bf.nic.fr.		151200	IN	A	194.0.9.1ns-bf.nic.fr.		3599	IN	AAAA	2001:678:c::1

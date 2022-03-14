@@ -1,0 +1,7 @@
+; timestamp: 20220306T212130Z
+; source id: tld-query-xn--54b7fta0cc.-bd-ns.anycast.pch.net.
+; source locator: bd-ns.anycast.pch.net.
+; source IP address: 204.61.216.108
+; backup point IP address: 111.42.148.76
+; status: success
+xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.bd-ns.anycast.pch.net.	3600	IN	A	204.61.216.108bd-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6108:ad::1

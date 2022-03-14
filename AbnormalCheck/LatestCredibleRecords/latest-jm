@@ -1,0 +1,12 @@
+phloem.uoregon.edu.	172800	in	a	128.223.32.35
+phloem.uoregon.edu.	172800	in	aaaa	2001:468:d01:20:0:0:80df:2023
+jm.	172800	in	ns	jm.cctld.authdns.ripe.net.
+jm.	172800	in	ns	ns.jm.
+jm.	172800	in	ns	ns.utechjamaica.edu.jm.
+jm.	172800	in	ns	ns3-jm.fsl.org.jm.
+jm.	172800	in	ns	phloem.uoregon.edu.
+ns.utechjamaica.edu.jm.	172800	in	a	200.9.115.2
+ns.jm.	172800	in	a	196.2.1.6
+ns3-jm.fsl.org.jm.	172800	in	a	196.3.191.66
+jm.cctld.authdns.ripe.net.	172800	in	a	193.0.9.82
+jm.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:82

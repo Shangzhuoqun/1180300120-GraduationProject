@@ -1,0 +1,27 @@
+; timestamp: 20220306T202715Z
+; source id: tld-query-lk.-m.nic.lk.
+; source locator: m.nic.lk.
+; source IP address: 202.129.235.229
+; backup point IP address: 111.42.148.76
+; status: success
+lk.			43200	IN	NS	pendragon.cs.purdue.edu.lk.			43200	IN	NS	ns1.ac.lk.lk.			43200	IN	NS	c.nic.lk.lk.			43200	IN	NS	l.nic.lk.lk.			43200	IN	NS	m.nic.lk.lk.			43200	IN	NS	t.nic.lk.lk.			43200	IN	NS	p.nic.lk.lk.			43200	IN	NS	d.nic.lk.m.nic.lk.		3598	IN	A	202.129.235.229dig @202.129.235.229 m.nic.lk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.129.235.229 m.nic.lk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61589
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;m.nic.lk.			IN	AAAA
+
+;; AUTHORITY SECTION:
+lk.			1798	IN	SOA	ns.nic.lk. hostmaster.nic.lk. 2017997933 21600 10800 2592000 7200
+
+;; Query time: 6 msec
+;; SERVER: 202.129.235.229#53(202.129.235.229)
+;; WHEN: Sun Mar 06 20:27:18 ;; MSG SIZE  rcvd: 87
+

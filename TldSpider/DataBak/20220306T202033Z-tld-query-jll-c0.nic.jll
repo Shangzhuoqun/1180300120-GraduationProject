@@ -1,0 +1,7 @@
+; timestamp: 20220306T202033Z
+; source id: tld-query-jll.-c0.nic.jll.
+; source locator: c0.nic.jll.
+; source IP address: 65.22.150.9
+; backup point IP address: 111.42.148.76
+; status: success
+jll.			86400	IN	NS	a0.nic.jll.jll.			86400	IN	NS	c0.nic.jll.jll.			86400	IN	NS	a2.nic.jll.jll.			86400	IN	NS	b0.nic.jll.c0.nic.jll.		598	IN	A	65.22.150.9c0.nic.jll.		599	IN	AAAA	2a01:8840:94::9

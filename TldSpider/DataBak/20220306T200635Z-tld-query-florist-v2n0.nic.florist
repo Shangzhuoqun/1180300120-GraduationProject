@@ -1,0 +1,7 @@
+; timestamp: 20220306T200635Z
+; source id: tld-query-florist.-v2n0.nic.florist.
+; source locator: v2n0.nic.florist.
+; source IP address: 65.22.35.30
+; backup point IP address: 111.42.148.76
+; status: success
+florist.		3599	IN	NS	v2n0.nic.florist.florist.		3599	IN	NS	v0n1.nic.florist.florist.		3599	IN	NS	v2n1.nic.florist.florist.		3599	IN	NS	v0n3.nic.florist.florist.		3599	IN	NS	v0n2.nic.florist.florist.		3599	IN	NS	v0n0.nic.florist.v2n0.nic.florist.	3598	IN	A	65.22.35.30v2n0.nic.florist.	3598	IN	AAAA	2a01:8840:25::30

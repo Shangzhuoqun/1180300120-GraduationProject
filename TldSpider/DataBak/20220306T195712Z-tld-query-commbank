@@ -1,0 +1,10 @@
+; timestamp: 20220306T195712Z
+; source id: tld-query-commbank.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.commbank.:../TldSpider/DataBak/20220306T195712Z-tld-query-commbank-a.nic.commbank
+b.nic.commbank.:../TldSpider/DataBak/20220306T195712Z-tld-query-commbank-b.nic.commbank
+c.nic.commbank.:../TldSpider/DataBak/20220306T195712Z-tld-query-commbank-c.nic.commbank
+d.nic.commbank.:../TldSpider/DataBak/20220306T195712Z-tld-query-commbank-d.nic.commbank

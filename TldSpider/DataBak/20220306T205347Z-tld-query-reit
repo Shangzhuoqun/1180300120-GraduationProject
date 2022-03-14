@@ -1,0 +1,10 @@
+; timestamp: 20220306T205347Z
+; source id: tld-query-reit.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.reit.:../TldSpider/DataBak/20220306T205347Z-tld-query-reit-a.nic.reit
+b.nic.reit.:../TldSpider/DataBak/20220306T205347Z-tld-query-reit-b.nic.reit
+c.nic.reit.:../TldSpider/DataBak/20220306T205347Z-tld-query-reit-c.nic.reit
+d.nic.reit.:../TldSpider/DataBak/20220306T205347Z-tld-query-reit-d.nic.reit

@@ -1,0 +1,27 @@
+; timestamp: 20220306T202516Z
+; source id: tld-query-kw.-b.nic.kw.
+; source locator: b.nic.kw.
+; source IP address: 168.187.100.84
+; backup point IP address: 111.42.148.76
+; status: success
+kw.			7200	IN	NS	a.nic.kw.kw.			7200	IN	NS	b.nic.kw.kw.			7200	IN	NS	c.nic.kw.kw.			7200	IN	NS	d.nic.kw.kw.			7200	IN	NS	pch.nic.kw.b.nic.kw.		3600	IN	A	168.187.100.84dig @168.187.100.84 b.nic.kw. AAAA
+
+; <<>> DiG 9.16.23 <<>> @168.187.100.84 b.nic.kw. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2264
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;b.nic.kw.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.kw.			1799	IN	SOA	a.nic.kw. admin.nic.kw. 3996380148 21600 3600 604800 86400
+
+;; Query time: 4 msec
+;; SERVER: 168.187.100.84#53(168.187.100.84)
+;; WHEN: Sun Mar 06 20:25:18 ;; MSG SIZE  rcvd: 81
+

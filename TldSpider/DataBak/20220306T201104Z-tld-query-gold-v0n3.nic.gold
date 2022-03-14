@@ -1,0 +1,7 @@
+; timestamp: 20220306T201104Z
+; source id: tld-query-gold.-v0n3.nic.gold.
+; source locator: v0n3.nic.gold.
+; source IP address: 161.232.10.13
+; backup point IP address: 111.42.148.76
+; status: success
+gold.			3599	IN	NS	v2n1.nic.gold.gold.			3599	IN	NS	v0n2.nic.gold.gold.			3599	IN	NS	v0n0.nic.gold.gold.			3599	IN	NS	v2n0.nic.gold.gold.			3599	IN	NS	v0n1.nic.gold.gold.			3599	IN	NS	v0n3.nic.gold.v0n3.nic.gold.		3599	IN	A	161.232.10.13v0n3.nic.gold.		3599	IN	AAAA	2a01:8840:f4::13

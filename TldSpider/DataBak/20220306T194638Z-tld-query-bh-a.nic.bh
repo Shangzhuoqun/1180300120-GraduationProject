@@ -1,0 +1,7 @@
+; timestamp: 20220306T194638Z
+; source id: tld-query-bh.-a.nic.bh.
+; source locator: a.nic.bh.
+; source IP address: 194.169.218.115
+; backup point IP address: 111.42.148.76
+; status: success
+bh.			172800	IN	NS	a.nic.bh.bh.			172800	IN	NS	b.nic.bh.bh.			172800	IN	NS	d.nic.bh.bh.			172800	IN	NS	c.nic.bh.a.nic.bh.		3600	IN	A	194.169.218.115a.nic.bh.		3600	IN	AAAA	2001:67c:13cc::1:115

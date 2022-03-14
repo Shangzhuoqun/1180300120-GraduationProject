@@ -1,0 +1,12 @@
+; timestamp: 20220306T203225Z
+; source id: tld-query-mil.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+con1.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-con1.nipr.mil
+con2.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-con2.nipr.mil
+eur1.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-eur1.nipr.mil
+eur2.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-eur2.nipr.mil
+pac1.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-pac1.nipr.mil
+pac2.nipr.mil.:../TldSpider/DataBak/20220306T203225Z-tld-query-mil-pac2.nipr.mil

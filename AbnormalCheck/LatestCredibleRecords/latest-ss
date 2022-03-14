@@ -1,0 +1,15 @@
+ssnic.anycastdns.cz.	172800	in	a	185.28.194.194
+ssnic.anycastdns.cz.	172800	in	a	185.38.108.108
+ns-ss.afrinic.net.	172800	in	a	196.216.168.27
+ns-ss.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:27
+ss.	172800	in	ns	b.ns.tznic.or.tz.
+ss.	172800	in	ns	pch.nic.ss.
+ss.	172800	in	ns	root.nic.ss.
+ss.	172800	in	ns	ns-ss.afrinic.net.
+ss.	172800	in	ns	ssnic.anycastdns.cz.
+pch.nic.ss.	172800	in	a	204.61.216.130
+pch.nic.ss.	172800	in	aaaa	2001:500:14:6130:ad:0:0:1
+root.nic.ss.	172800	in	a	185.17.236.20
+root.nic.ss.	172800	in	aaaa	2a03:dd40:3:0:0:0:0:20
+b.ns.tznic.or.tz.	172800	in	a	196.216.162.70
+b.ns.tznic.or.tz.	172800	in	aaaa	2001:43f8:e0:1:0:0:0:70

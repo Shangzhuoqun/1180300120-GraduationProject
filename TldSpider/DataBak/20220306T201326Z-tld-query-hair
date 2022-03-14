@@ -1,0 +1,10 @@
+; timestamp: 20220306T201326Z
+; source id: tld-query-hair.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.hair.:../TldSpider/DataBak/20220306T201326Z-tld-query-hair-a.nic.hair
+b.nic.hair.:../TldSpider/DataBak/20220306T201326Z-tld-query-hair-b.nic.hair
+c.nic.hair.:../TldSpider/DataBak/20220306T201326Z-tld-query-hair-c.nic.hair
+d.nic.hair.:../TldSpider/DataBak/20220306T201326Z-tld-query-hair-d.nic.hair

@@ -1,0 +1,10 @@
+; timestamp: 20220306T201644Z
+; source id: tld-query-ibm.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.ibm.:../TldSpider/DataBak/20220306T201644Z-tld-query-ibm-a.nic.ibm
+b.nic.ibm.:../TldSpider/DataBak/20220306T201644Z-tld-query-ibm-b.nic.ibm
+c.nic.ibm.:../TldSpider/DataBak/20220306T201644Z-tld-query-ibm-c.nic.ibm
+d.nic.ibm.:../TldSpider/DataBak/20220306T201644Z-tld-query-ibm-d.nic.ibm

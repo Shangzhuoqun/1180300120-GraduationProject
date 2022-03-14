@@ -1,0 +1,14 @@
+; timestamp: 20220306T194733Z
+; source id: tld-query-bmw.-b.nic.bmw.
+; source locator: b.nic.bmw.
+; source IP address: 185.24.64.76
+; backup point IP address: 111.42.148.76
+; status: success
+dig @185.24.64.76 bmw. NS
+
+; <<>> DiG 9.16.23 <<>> @185.24.64.76 bmw. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+b.nic.bmw.		2713	IN	A	185.24.64.76b.nic.bmw.		3584	IN	AAAA	2a04:2b00:13cc::1:76

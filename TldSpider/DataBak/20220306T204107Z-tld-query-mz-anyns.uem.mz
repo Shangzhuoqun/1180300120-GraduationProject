@@ -1,0 +1,27 @@
+; timestamp: 20220306T204107Z
+; source id: tld-query-mz.-anyns.uem.mz.
+; source locator: anyns.uem.mz.
+; source IP address: 204.61.216.14
+; backup point IP address: 111.42.148.76
+; status: success
+mz.			86400	IN	NS	zebra.uem.mz.mz.			86400	IN	NS	anyns.uem.mz.mz.			86400	IN	NS	dzowo.uem.mz.mz.			86400	IN	NS	ns-mz.afrinic.net.mz.			86400	IN	NS	phloem.uoregon.edu.mz.			86400	IN	NS	oceano.uem.mz.anyns.uem.mz.		3600	IN	A	204.61.216.14dig @204.61.216.14 anyns.uem.mz. AAAA
+
+; <<>> DiG 9.16.23 <<>> @204.61.216.14 anyns.uem.mz. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24785
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;anyns.uem.mz.			IN	AAAA
+
+;; AUTHORITY SECTION:
+uem.mz.			300	IN	SOA	dzowo.uem.mz. godinho.dzowo.uem.mz. 2022030301 7200 3600 28800 300
+
+;; Query time: 1735 msec
+;; SERVER: 204.61.216.14#53(204.61.216.14)
+;; WHEN: Sun Mar 06 20:41:11 ;; MSG SIZE  rcvd: 91
+

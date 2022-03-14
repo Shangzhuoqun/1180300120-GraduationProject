@@ -1,0 +1,7 @@
+; timestamp: 20220306T194425Z
+; source id: tld-query-ax.-ns4.alcom.fi.
+; source locator: ns4.alcom.fi.
+; source IP address: 82.199.184.194
+; backup point IP address: 111.42.148.76
+; status: success
+ax.			86400	IN	NS	ns4.alcom.fi.ax.			86400	IN	NS	ns2.aland.net.ax.			86400	IN	NS	ns3.alcom.fi.ax.			86400	IN	NS	ns1.aland.net.ns4.alcom.fi.		1505	IN	A	82.199.184.194ns4.alcom.fi.		1504	IN	AAAA	2a00:5500:1:7::194

@@ -1,0 +1,14 @@
+; timestamp: 20220306T211504Z
+; source id: tld-query-uy.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.uy.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-a.nic.uy
+a.lactld.org.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-a.lactld.org
+b.nic.uy.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-b.nic.uy
+d.nic.uy.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-d.nic.uy
+ns.dns.br.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-ns.dns.br
+ns1.anteldata.com.uy.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-ns1.anteldata.com.uy
+ns2.anteldata.com.uy.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-ns2.anteldata.com.uy
+ns3.nic.mx.:../TldSpider/DataBak/20220306T211504Z-tld-query-uy-ns3.nic.mx

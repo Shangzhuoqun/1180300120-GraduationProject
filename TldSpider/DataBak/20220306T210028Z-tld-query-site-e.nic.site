@@ -1,0 +1,7 @@
+; timestamp: 20220306T210028Z
+; source id: tld-query-site.-e.nic.site.
+; source locator: e.nic.site.
+; source IP address: 212.18.248.61
+; backup point IP address: 111.42.148.76
+; status: success
+site.			2201	IN	NS	e.nic.site.site.			2201	IN	NS	g.nic.site.site.			2201	IN	NS	a.nic.site.site.			2201	IN	NS	f.nic.site.site.			2201	IN	NS	b.nic.site.e.nic.site.		600	IN	A	212.18.248.61e.nic.site.		3427	IN	AAAA	2a04:2b00:13ee::61

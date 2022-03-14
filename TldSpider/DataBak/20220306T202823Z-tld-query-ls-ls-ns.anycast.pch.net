@@ -1,0 +1,7 @@
+; timestamp: 20220306T202823Z
+; source id: tld-query-ls.-ls-ns.anycast.pch.net.
+; source locator: ls-ns.anycast.pch.net.
+; source IP address: 204.61.216.28
+; backup point IP address: 111.42.148.76
+; status: success
+ls.			18000	IN	NS	ls-ns.anycast.pch.net.ls.			18000	IN	NS	ns-ls.afrinic.net.ls.			18000	IN	NS	ns1.nic.ls.ls.			18000	IN	NS	ns2.nic.ls.ls-ns.anycast.pch.net.	3600	IN	A	204.61.216.28ls-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6028:ad::1

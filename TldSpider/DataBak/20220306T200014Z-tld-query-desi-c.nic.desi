@@ -1,0 +1,7 @@
+; timestamp: 20220306T200014Z
+; source id: tld-query-desi.-c.nic.desi.
+; source locator: c.nic.desi.
+; source IP address: 212.18.248.81
+; backup point IP address: 111.42.148.76
+; status: success
+desi.			508	IN	NS	c.nic.desi.desi.			508	IN	NS	b.nic.desi.desi.			508	IN	NS	a.nic.desi.desi.			508	IN	NS	d.nic.desi.c.nic.desi.		3600	IN	A	212.18.248.81c.nic.desi.		3600	IN	AAAA	2a04:2b00:13ee::81

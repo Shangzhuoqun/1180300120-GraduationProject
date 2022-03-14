@@ -1,0 +1,9 @@
+; timestamp: 20220306T201028Z
+; source id: tld-query-gm.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.nic.gm.:../TldSpider/DataBak/20220306T201028Z-tld-query-gm-ns1.nic.gm
+ns2.nic.gm.:../TldSpider/DataBak/20220306T201028Z-tld-query-gm-ns2.nic.gm
+ns-gm.afrinic.net.:../TldSpider/DataBak/20220306T201028Z-tld-query-gm-ns-gm.afrinic.net

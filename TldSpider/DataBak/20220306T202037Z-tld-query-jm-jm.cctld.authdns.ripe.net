@@ -1,0 +1,7 @@
+; timestamp: 20220306T202037Z
+; source id: tld-query-jm.-jm.cctld.authdns.ripe.net.
+; source locator: jm.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.82
+; backup point IP address: 111.42.148.76
+; status: success
+jm.			1800	IN	NS	jm.cctld.authdns.ripe.net.jm.			1800	IN	NS	ns.jm.jm.			1800	IN	NS	ns.utechjamaica.edu.jm.jm.			1800	IN	NS	ns-jm.ripe.net.jm.			1800	IN	NS	ns3-jm.fsl.org.jm.jm.			1800	IN	NS	phloem.uoregon.edu.jm.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.82jm.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::82

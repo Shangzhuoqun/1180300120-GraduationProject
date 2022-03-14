@@ -1,0 +1,7 @@
+; timestamp: 20220306T210407Z
+; source id: tld-query-statefarm.-ns1.dns.nic.statefarm.
+; source locator: ns1.dns.nic.statefarm.
+; source IP address: 156.154.144.154
+; backup point IP address: 111.42.148.76
+; status: success
+statefarm.		3598	IN	NS	ns2.dns.nic.statefarm.statefarm.		3598	IN	NS	ns1.dns.nic.statefarm.statefarm.		3598	IN	NS	b.nic.statefarm.statefarm.		3598	IN	NS	c.nic.statefarm.statefarm.		3598	IN	NS	a.nic.statefarm.statefarm.		3598	IN	NS	ns3.dns.nic.statefarm.ns1.dns.nic.statefarm.	3599	IN	A	156.154.144.154ns1.dns.nic.statefarm.	3600	IN	AAAA	2610:a1:1071::9a

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210950Z
+; source id: tld-query-tires.-v0n3.nic.tires.
+; source locator: v0n3.nic.tires.
+; source IP address: 161.232.12.64
+; backup point IP address: 111.42.148.76
+; status: success
+tires.			3599	IN	NS	v0n3.nic.tires.tires.			3599	IN	NS	v0n1.nic.tires.tires.			3599	IN	NS	v2n1.nic.tires.tires.			3599	IN	NS	v2n0.nic.tires.tires.			3599	IN	NS	v0n2.nic.tires.tires.			3599	IN	NS	v0n0.nic.tires.v0n3.nic.tires.		3599	IN	A	161.232.12.64v0n3.nic.tires.		3599	IN	AAAA	2a01:8840:f6::64

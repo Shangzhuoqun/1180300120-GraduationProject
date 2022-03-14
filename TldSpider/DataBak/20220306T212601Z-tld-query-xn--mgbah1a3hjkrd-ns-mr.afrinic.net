@@ -1,0 +1,7 @@
+; timestamp: 20220306T212601Z
+; source id: tld-query-xn--mgbah1a3hjkrd.-ns-mr.afrinic.net.
+; source locator: ns-mr.afrinic.net.
+; source IP address: 196.216.168.53
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbah1a3hjkrd.	3594	IN	NS	ns-mr.nic.fr.xn--mgbah1a3hjkrd.	3594	IN	NS	ns-mr.afrinic.net.xn--mgbah1a3hjkrd.	3594	IN	NS	ns2.nic.mr.xn--mgbah1a3hjkrd.	3594	IN	NS	ns3.nic.mr.xn--mgbah1a3hjkrd.	3594	IN	NS	ns1.nic.mr.ns-mr.afrinic.net.	800	IN	A	196.216.168.53ns-mr.afrinic.net.	809	IN	AAAA	2001:43f8:120::53

@@ -1,0 +1,10 @@
+; timestamp: 20220306T212323Z
+; source id: tld-query-xn--d1alf.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+d.ext.nic.cz.:../TldSpider/DataBak/20220306T212323Z-tld-query-xn--d1alf-d.ext.nic.cz
+ns2.arnes.si.:../TldSpider/DataBak/20220306T212323Z-tld-query-xn--d1alf-ns2.arnes.si
+tld1.marnet.mk.:../TldSpider/DataBak/20220306T212323Z-tld-query-xn--d1alf-tld1.marnet.mk
+dns-mk.univie.ac.at.:../TldSpider/DataBak/20220306T212323Z-tld-query-xn--d1alf-dns-mk.univie.ac.at

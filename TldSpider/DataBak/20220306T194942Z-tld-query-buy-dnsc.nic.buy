@@ -1,0 +1,7 @@
+; timestamp: 20220306T194942Z
+; source id: tld-query-buy.-dnsc.nic.buy.
+; source locator: dnsc.nic.buy.
+; source IP address: 156.154.102.3
+; backup point IP address: 111.42.148.76
+; status: success
+buy.			1253	IN	NS	dnsd.nic.buy.buy.			1253	IN	NS	dns3.nic.buy.buy.			1253	IN	NS	dns4.nic.buy.buy.			1253	IN	NS	dnsc.nic.buy.buy.			1253	IN	NS	dnsa.nic.buy.buy.			1253	IN	NS	dns2.nic.buy.buy.			1253	IN	NS	dns1.nic.buy.buy.			1253	IN	NS	dnsb.nic.buy.dnsc.nic.buy.		3595	IN	A	156.154.102.3dnsc.nic.buy.		3596	IN	AAAA	2610:a1:1009::3

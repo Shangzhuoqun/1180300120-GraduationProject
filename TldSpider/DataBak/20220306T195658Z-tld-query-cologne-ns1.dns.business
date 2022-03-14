@@ -1,0 +1,7 @@
+; timestamp: 20220306T195658Z
+; source id: tld-query-cologne.-ns1.dns.business.
+; source locator: ns1.dns.business.
+; source IP address: 157.90.205.138
+; backup point IP address: 111.42.148.76
+; status: success
+cologne.		950	IN	NS	dns.ryce-rsp.com.cologne.		950	IN	NS	ns1.ryce-rsp.com.cologne.		950	IN	NS	ns1.dns.business.ns1.dns.business.	3600	IN	A	157.90.205.138ns1.dns.business.	3600	IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a

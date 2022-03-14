@@ -1,0 +1,7 @@
+; timestamp: 20220306T212202Z
+; source id: tld-query-xn--80adxhks.-c.dns.flexireg.org.
+; source locator: c.dns.flexireg.org.
+; source IP address: 195.253.65.6
+; backup point IP address: 111.42.148.76
+; status: success
+xn--80adxhks.		3599	IN	NS	d.dns.flexireg.domains.xn--80adxhks.		3599	IN	NS	b.dns.flexireg.net.xn--80adxhks.		3599	IN	NS	a.dns.flexireg.ru.xn--80adxhks.		3599	IN	NS	c.dns.flexireg.org.c.dns.flexireg.org.	1012	IN	A	195.253.65.6c.dns.flexireg.org.	1014	IN	AAAA	2a01:5b0:5::6

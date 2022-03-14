@@ -1,0 +1,7 @@
+; timestamp: 20220306T205300Z
+; source id: tld-query-realestate.-dnsd.nic.realestate.
+; source locator: dnsd.nic.realestate.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+realestate.		3588	IN	NS	dnsd.nic.realestate.realestate.		3588	IN	NS	dns1.nic.realestate.realestate.		3588	IN	NS	dnsa.nic.realestate.realestate.		3588	IN	NS	dns2.nic.realestate.realestate.		3588	IN	NS	dnsb.nic.realestate.realestate.		3588	IN	NS	dns3.nic.realestate.realestate.		3588	IN	NS	dns4.nic.realestate.realestate.		3588	IN	NS	dnsc.nic.realestate.dnsd.nic.realestate.	151200	IN	A	156.154.103.3dnsd.nic.realestate.	3600	IN	AAAA	2610:a1:1010::3

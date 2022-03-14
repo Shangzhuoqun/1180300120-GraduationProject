@@ -1,0 +1,7 @@
+; timestamp: 20220306T204809Z
+; source id: tld-query-ph.-ph.communitydns.net.
+; source locator: ph.communitydns.net.
+; source IP address: 194.0.1.23
+; backup point IP address: 111.42.148.76
+; status: success
+ph.			3600	IN	NS	ph.communitydns.net.ph.			3600	IN	NS	1.ns.ph.ph.			3600	IN	NS	ns4.apnic.net.ph.			3600	IN	NS	ns2.cuhk.edu.hk.ph.communitydns.net.	3600	IN	A	194.0.1.23ph.communitydns.net.	3600	IN	AAAA	2001:678:4::17

@@ -1,0 +1,10 @@
+; timestamp: 20220306T200524Z
+; source id: tld-query-fido.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.fido.:../TldSpider/DataBak/20220306T200524Z-tld-query-fido-a0.nic.fido
+a2.nic.fido.:../TldSpider/DataBak/20220306T200524Z-tld-query-fido-a2.nic.fido
+b0.nic.fido.:../TldSpider/DataBak/20220306T200524Z-tld-query-fido-b0.nic.fido
+c0.nic.fido.:../TldSpider/DataBak/20220306T200524Z-tld-query-fido-c0.nic.fido

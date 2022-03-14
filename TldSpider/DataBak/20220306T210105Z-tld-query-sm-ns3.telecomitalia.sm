@@ -1,0 +1,7 @@
+; timestamp: 20220306T210105Z
+; source id: tld-query-sm.-ns3.telecomitalia.sm.
+; source locator: ns3.telecomitalia.sm.
+; source IP address: 194.0.27.12
+; backup point IP address: 111.42.148.76
+; status: success
+sm.			86400	IN	NS	dns.omniway.sm.sm.			86400	IN	NS	dns.intelcom.sm.sm.			86400	IN	NS	ns3.telecomitalia.sm.sm.			86400	IN	NS	sm.cctld.authdns.ripe.net.ns3.telecomitalia.sm.	3374	IN	A	194.0.27.12ns3.telecomitalia.sm.	3600	IN	AAAA	2001:678:28:0:c2:b7:40:12

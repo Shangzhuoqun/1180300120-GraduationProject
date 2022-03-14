@@ -1,0 +1,7 @@
+; timestamp: 20220306T200114Z
+; source id: tld-query-do.-phloem.uoregon.edu.
+; source locator: phloem.uoregon.edu.
+; source IP address: 128.223.32.35
+; backup point IP address: 111.42.148.76
+; status: success
+do.			446	IN	NS	ns1.nic.do.do.			446	IN	NS	a.lactld.org.do.			446	IN	NS	ns3.nic.mx.do.			446	IN	NS	ns.nic.do.do.			446	IN	NS	phloem.uoregon.edu.do.			446	IN	NS	ns2.nic.do.do.			446	IN	NS	ns4.nic.do.do.			446	IN	NS	ns5.nic.do.phloem.uoregon.edu.	1618	IN	A	128.223.32.35phloem.uoregon.edu.	1618	IN	AAAA	2001:468:d01:20::80df:2023

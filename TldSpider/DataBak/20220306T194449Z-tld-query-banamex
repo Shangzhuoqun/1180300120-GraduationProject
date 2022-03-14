@@ -1,0 +1,12 @@
+; timestamp: 20220306T194449Z
+; source id: tld-query-banamex.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-a.nic.banamex
+b.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-b.nic.banamex
+c.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-c.nic.banamex
+ns1.dns.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-ns1.dns.nic.banamex
+ns2.dns.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-ns2.dns.nic.banamex
+ns3.dns.nic.banamex.:../TldSpider/DataBak/20220306T194449Z-tld-query-banamex-ns3.dns.nic.banamex

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210454Z
+; source id: tld-query-sucks.-b.nic.sucks.
+; source locator: b.nic.sucks.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+sucks.			3600	IN	NS	a.nic.sucks.sucks.			3600	IN	NS	b.nic.sucks.sucks.			3600	IN	NS	c.nic.sucks.sucks.			3600	IN	NS	d.nic.sucks.b.nic.sucks.		3600	IN	A	37.209.194.10b.nic.sucks.		3600	IN	AAAA	2001:dcd:2::10

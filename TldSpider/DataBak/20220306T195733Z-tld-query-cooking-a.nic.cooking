@@ -1,0 +1,7 @@
+; timestamp: 20220306T195733Z
+; source id: tld-query-cooking.-a.nic.cooking.
+; source locator: a.nic.cooking.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+cooking.		930	IN	NS	d.nic.cooking.cooking.		930	IN	NS	c.nic.cooking.cooking.		930	IN	NS	b.nic.cooking.cooking.		930	IN	NS	a.nic.cooking.a.nic.cooking.		3600	IN	A	37.209.192.10a.nic.cooking.		3600	IN	AAAA	2001:dcd:1::10

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212930Z
+; source id: tld-query-xn--xkc2al3hye2a.-nic.lk-anycast.pch.net.
+; source locator: nic.lk-anycast.pch.net.
+; source IP address: 204.61.216.27
+; backup point IP address: 111.42.148.76
+; status: success
+xn--xkc2al3hye2a.	3599	IN	NS	ns-c.nic.lk.xn--xkc2al3hye2a.	3599	IN	NS	nic.lk-anycast.pch.net.xn--xkc2al3hye2a.	3599	IN	NS	lk.communitydns.net.xn--xkc2al3hye2a.	3599	IN	NS	ns1.ac.lk.xn--xkc2al3hye2a.	3599	IN	NS	ns-d.nic.lk.xn--xkc2al3hye2a.	3599	IN	NS	ns-l.nic.lk.xn--xkc2al3hye2a.	3599	IN	NS	ns-t.nic.lk.xn--xkc2al3hye2a.	3599	IN	NS	ns-b.nic.lk.nic.lk-anycast.pch.net.	3275	IN	A	204.61.216.27nic.lk-anycast.pch.net.	3276	IN	AAAA	2001:500:14:6027:ad::1

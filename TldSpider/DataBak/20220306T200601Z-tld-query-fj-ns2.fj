@@ -1,0 +1,7 @@
+; timestamp: 20220306T200601Z
+; source id: tld-query-fj.-ns2.fj.
+; source locator: ns2.fj.
+; source IP address: 144.120.146.65
+; backup point IP address: 111.42.148.76
+; status: success
+fj.			86400	IN	NS	ns4.fj.fj.			86400	IN	NS	ns3.fj.fj.			86400	IN	NS	ns2.fj.fj.			86400	IN	NS	ns5.fj.fj.			86400	IN	NS	ns1.fj.ns2.fj.			3600	IN	A	144.120.146.65ns2.fj.			3600	IN	AAAA	2402:2940:100:100d::1

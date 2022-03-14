@@ -1,0 +1,7 @@
+; timestamp: 20220306T202220Z
+; source id: tld-query-joburg.-coza1.dnsnode.net.
+; source locator: coza1.dnsnode.net.
+; source IP address: 194.146.106.74
+; backup point IP address: 111.42.148.76
+; status: success
+joburg.			3600	IN	NS	ns.coza.net.za.joburg.			3600	IN	NS	ns2us.dns.business.joburg.			3600	IN	NS	coza1.dnsnode.net.coza1.dnsnode.net.	851	IN	A	194.146.106.74coza1.dnsnode.net.	942	IN	AAAA	2001:67c:1010:18::53

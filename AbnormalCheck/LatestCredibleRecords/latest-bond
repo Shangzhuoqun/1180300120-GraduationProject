@@ -1,0 +1,12 @@
+bond.	172800	in	ns	a.nic.bond.
+bond.	172800	in	ns	b.nic.bond.
+bond.	172800	in	ns	c.nic.bond.
+bond.	172800	in	ns	d.nic.bond.
+a.nic.bond.	172800	in	a	194.169.218.85
+a.nic.bond.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:85
+b.nic.bond.	172800	in	a	185.24.64.85
+b.nic.bond.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:85
+c.nic.bond.	172800	in	a	212.18.248.85
+c.nic.bond.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:85
+d.nic.bond.	172800	in	a	212.18.249.85
+d.nic.bond.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:85

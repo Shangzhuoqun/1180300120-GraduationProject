@@ -1,0 +1,7 @@
+; timestamp: 20220306T210038Z
+; source id: tld-query-sk.-f.tld.sk.
+; source locator: f.tld.sk.
+; source IP address: 185.24.64.16
+; backup point IP address: 111.42.148.76
+; status: success
+sk.			341	IN	NS	b.tld.sk.sk.			341	IN	NS	a.tld.sk.sk.			341	IN	NS	c.tld.sk.sk.			341	IN	NS	e.tld.sk.sk.			341	IN	NS	g.tld.sk.sk.			341	IN	NS	h.tld.sk.sk.			341	IN	NS	f.tld.sk.f.tld.sk.		879	IN	A	185.24.64.16f.tld.sk.		3599	IN	AAAA	2a04:2b00:13cc::1:16

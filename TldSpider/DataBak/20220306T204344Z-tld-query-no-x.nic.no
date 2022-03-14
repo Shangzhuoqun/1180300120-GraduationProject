@@ -1,0 +1,7 @@
+; timestamp: 20220306T204344Z
+; source id: tld-query-no.-x.nic.no.
+; source locator: x.nic.no.
+; source IP address: 128.39.8.40
+; backup point IP address: 111.42.148.76
+; status: success
+no.			1767	IN	NS	z.nic.no.no.			1767	IN	NS	njet.norid.no.no.			1767	IN	NS	x.nic.no.no.			1767	IN	NS	not.norid.no.no.			1767	IN	NS	y.nic.no.no.			1767	IN	NS	i.nic.no.x.nic.no.		2829	IN	A	128.39.8.40x.nic.no.		2829	IN	AAAA	2001:700:0:412f::40

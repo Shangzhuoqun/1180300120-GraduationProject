@@ -1,0 +1,9 @@
+{
+    "tld-spider":{
+        "DataPath":"Data",
+        "DataBakPath":"DataBak",
+        "CurFilePath":"/",
+        "LogPath":"Log",
+        "Period":"43200"
+    }
+}

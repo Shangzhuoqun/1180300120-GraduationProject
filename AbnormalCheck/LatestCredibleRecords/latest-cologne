@@ -1,0 +1,9 @@
+ns1.dns.business.	172800	in	a	157.90.205.138
+ns1.dns.business.	172800	in	aaaa	2a01:4f8:252:4295:0:0:9d5a:cd8a
+cologne.	172800	in	ns	dns.ryce-rsp.com.
+cologne.	172800	in	ns	ns1.dns.business.
+cologne.	172800	in	ns	ns1.ryce-rsp.com.
+dns.ryce-rsp.com.	172800	in	a	194.0.11.114
+dns.ryce-rsp.com.	172800	in	aaaa	2001:678:e:114:0:0:0:53
+ns1.ryce-rsp.com.	172800	in	a	193.56.204.153
+ns1.ryce-rsp.com.	172800	in	aaaa	2a0c:8f40:0:701:0:0:0:153

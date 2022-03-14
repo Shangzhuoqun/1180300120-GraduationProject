@@ -1,0 +1,12 @@
+tech.	172800	in	ns	a.nic.tech.
+tech.	172800	in	ns	b.nic.tech.
+tech.	172800	in	ns	e.nic.tech.
+tech.	172800	in	ns	f.nic.tech.
+a.nic.tech.	172800	in	a	194.169.218.60
+a.nic.tech.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:60
+b.nic.tech.	172800	in	a	185.24.64.60
+b.nic.tech.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:60
+e.nic.tech.	172800	in	a	212.18.248.60
+e.nic.tech.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:60
+f.nic.tech.	172800	in	a	212.18.249.60
+f.nic.tech.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:60

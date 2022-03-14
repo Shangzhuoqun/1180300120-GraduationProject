@@ -1,0 +1,10 @@
+; timestamp: 20220306T194241Z
+; source id: tld-query-archi.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a0.nic.archi.:../TldSpider/DataBak/20220306T194241Z-tld-query-archi-a0.nic.archi
+a2.nic.archi.:../TldSpider/DataBak/20220306T194241Z-tld-query-archi-a2.nic.archi
+b0.nic.archi.:../TldSpider/DataBak/20220306T194241Z-tld-query-archi-b0.nic.archi
+c0.nic.archi.:../TldSpider/DataBak/20220306T194241Z-tld-query-archi-c0.nic.archi

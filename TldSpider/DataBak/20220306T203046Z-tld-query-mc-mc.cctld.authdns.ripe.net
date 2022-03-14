@@ -1,0 +1,7 @@
+; timestamp: 20220306T203046Z
+; source id: tld-query-mc.-mc.cctld.authdns.ripe.net.
+; source locator: mc.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.92
+; backup point IP address: 111.42.148.76
+; status: success
+mc.			3600	IN	NS	mc.cctld.authdns.ripe.net.mc.			3600	IN	NS	ns1.nic.mc.mc.			3600	IN	NS	ns2.nic.mc.mc.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.92mc.cctld.authdns.ripe.net. 86400 IN	AAAA	2001:67c:e0::92

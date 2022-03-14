@@ -1,0 +1,7 @@
+; timestamp: 20220306T211948Z
+; source id: tld-query-wolterskluwer.-b0.nic.wolterskluwer.
+; source locator: b0.nic.wolterskluwer.
+; source IP address: 65.22.205.25
+; backup point IP address: 111.42.148.76
+; status: success
+wolterskluwer.		3599	IN	NS	a2.nic.wolterskluwer.wolterskluwer.		3599	IN	NS	b0.nic.wolterskluwer.wolterskluwer.		3599	IN	NS	c0.nic.wolterskluwer.wolterskluwer.		3599	IN	NS	a0.nic.wolterskluwer.b0.nic.wolterskluwer.	599	IN	A	65.22.205.25b0.nic.wolterskluwer.	599	IN	AAAA	2a01:8840:c7::25

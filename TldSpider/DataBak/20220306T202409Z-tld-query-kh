@@ -1,0 +1,10 @@
+; timestamp: 20220306T202409Z
+; source id: tld-query-kh.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.camnet.com.kh.:../TldSpider/DataBak/20220306T202409Z-tld-query-kh-ns.camnet.com.kh
+ns1.dns.net.kh.:../TldSpider/DataBak/20220306T202409Z-tld-query-kh-ns1.dns.net.kh
+ns4.apnic.net.:../TldSpider/DataBak/20220306T202409Z-tld-query-kh-ns4.apnic.net
+dns1.online.com.kh.:../TldSpider/DataBak/20220306T202409Z-tld-query-kh-dns1.online.com.kh

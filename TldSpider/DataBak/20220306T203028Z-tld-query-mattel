@@ -1,0 +1,12 @@
+; timestamp: 20220306T203028Z
+; source id: tld-query-mattel.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-a.nic.mattel
+b.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-b.nic.mattel
+c.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-c.nic.mattel
+ns1.dns.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-ns1.dns.nic.mattel
+ns2.dns.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-ns2.dns.nic.mattel
+ns3.dns.nic.mattel.:../TldSpider/DataBak/20220306T203028Z-tld-query-mattel-ns3.dns.nic.mattel

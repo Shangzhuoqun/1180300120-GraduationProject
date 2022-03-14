@@ -1,0 +1,7 @@
+; timestamp: 20220306T194506Z
+; source id: tld-query-barclays.-a.nic.barclays.
+; source locator: a.nic.barclays.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+barclays.		1490	IN	NS	a.nic.barclays.barclays.		1490	IN	NS	d.nic.barclays.barclays.		1490	IN	NS	c.nic.barclays.barclays.		1490	IN	NS	b.nic.barclays.a.nic.barclays.		3600	IN	A	37.209.192.9a.nic.barclays.		3600	IN	AAAA	2001:dcd:1::9

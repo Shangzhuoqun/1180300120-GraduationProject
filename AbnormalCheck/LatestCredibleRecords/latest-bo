@@ -1,0 +1,11 @@
+bo.	172800	in	ns	ns.dns.br.
+bo.	172800	in	ns	ns.nic.bo.
+bo.	172800	in	ns	ns2.nic.fr.
+bo.	172800	in	ns	anycast.ns.nic.bo.
+ns.nic.bo.	172800	in	a	166.114.1.40
+anycast.ns.nic.bo.	172800	in	a	204.61.216.48
+anycast.ns.nic.bo.	172800	in	aaaa	2001:500:14:6048:ad:0:0:1
+ns.dns.br.	172800	in	a	200.160.0.5
+ns.dns.br.	172800	in	aaaa	2001:12ff:0:a20:0:0:0:5
+ns2.nic.fr.	172800	in	a	192.93.0.4
+ns2.nic.fr.	172800	in	aaaa	2001:660:3005:1:0:0:1:2

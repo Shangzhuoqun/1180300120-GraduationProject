@@ -1,0 +1,7 @@
+; timestamp: 20220306T201904Z
+; source id: tld-query-investments.-v0n3.nic.investments.
+; source locator: v0n3.nic.investments.
+; source IP address: 161.232.14.53
+; backup point IP address: 111.42.148.76
+; status: success
+investments.		3598	IN	NS	v0n0.nic.investments.investments.		3598	IN	NS	v2n1.nic.investments.investments.		3598	IN	NS	v0n2.nic.investments.investments.		3598	IN	NS	v0n1.nic.investments.investments.		3598	IN	NS	v2n0.nic.investments.investments.		3598	IN	NS	v0n3.nic.investments.v0n3.nic.investments.	3599	IN	A	161.232.14.53v0n3.nic.investments.	3599	IN	AAAA	2a01:8840:f8::53

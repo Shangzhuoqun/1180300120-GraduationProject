@@ -1,0 +1,12 @@
+; timestamp: 20220306T201350Z
+; source id: tld-query-health.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-a.nic.health
+b.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-b.nic.health
+c.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-c.nic.health
+ns1.dns.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-ns1.dns.nic.health
+ns2.dns.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-ns2.dns.nic.health
+ns3.dns.nic.health.:../TldSpider/DataBak/20220306T201350Z-tld-query-health-ns3.dns.nic.health

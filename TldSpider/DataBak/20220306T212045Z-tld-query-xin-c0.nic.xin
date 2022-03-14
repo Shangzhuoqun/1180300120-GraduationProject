@@ -1,0 +1,7 @@
+; timestamp: 20220306T212045Z
+; source id: tld-query-xin.-c0.nic.xin.
+; source locator: c0.nic.xin.
+; source IP address: 65.22.130.17
+; backup point IP address: 111.42.148.76
+; status: success
+xin.			86400	IN	NS	a0.nic.xin.xin.			86400	IN	NS	a2.nic.xin.xin.			86400	IN	NS	b0.nic.xin.xin.			86400	IN	NS	c0.nic.xin.c0.nic.xin.		600	IN	A	65.22.130.17c0.nic.xin.		600	IN	AAAA	2a01:8840:80::17

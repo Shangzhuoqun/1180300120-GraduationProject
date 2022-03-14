@@ -1,0 +1,7 @@
+; timestamp: 20220306T203925Z
+; source id: tld-query-mr.-ns-mr.nic.fr.
+; source locator: ns-mr.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+mr.			3600	IN	NS	ns-mr.afrinic.net.mr.			3600	IN	NS	ns-mr.nic.fr.mr.			3600	IN	NS	ns2.nic.mr.mr.			3600	IN	NS	ns1.nic.mr.mr.			3600	IN	NS	ns3.nic.mr.ns-mr.nic.fr.		3600	IN	A	194.0.9.1ns-mr.nic.fr.		3600	IN	AAAA	2001:678:c::1

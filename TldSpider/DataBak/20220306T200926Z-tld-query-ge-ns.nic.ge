@@ -1,0 +1,27 @@
+; timestamp: 20220306T200926Z
+; source id: tld-query-ge.-ns.nic.ge.
+; source locator: ns.nic.ge.
+; source IP address: 212.72.130.11
+; backup point IP address: 111.42.148.76
+; status: success
+ge.			14400	IN	NS	ns2.nic.ge.ge.			14400	IN	NS	ge.hostmaster.ua.ge.			14400	IN	NS	ns.uu.net.ge.			14400	IN	NS	ns2.nic.fr.ge.			14400	IN	NS	ns.nic.ge.ns.nic.ge.		3600	IN	A	212.72.130.11dig @212.72.130.11 ns.nic.ge. AAAA
+
+; <<>> DiG 9.16.23 <<>> @212.72.130.11 ns.nic.ge. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37787
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns.nic.ge.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.ge.			1800	IN	SOA	dns1.co.ge. admin.co.ge. 2021061000 28800 7200 604800 86400
+
+;; Query time: 4 msec
+;; SERVER: 212.72.130.11#53(212.72.130.11)
+;; WHEN: Sun Mar 06 20:09:29 ;; MSG SIZE  rcvd: 88
+

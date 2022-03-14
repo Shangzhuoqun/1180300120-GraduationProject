@@ -1,0 +1,10 @@
+; timestamp: 20220306T194505Z
+; source id: tld-query-barclaycard.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.barclaycard.:../TldSpider/DataBak/20220306T194505Z-tld-query-barclaycard-a.nic.barclaycard
+b.nic.barclaycard.:../TldSpider/DataBak/20220306T194505Z-tld-query-barclaycard-b.nic.barclaycard
+c.nic.barclaycard.:../TldSpider/DataBak/20220306T194505Z-tld-query-barclaycard-c.nic.barclaycard
+d.nic.barclaycard.:../TldSpider/DataBak/20220306T194505Z-tld-query-barclaycard-d.nic.barclaycard

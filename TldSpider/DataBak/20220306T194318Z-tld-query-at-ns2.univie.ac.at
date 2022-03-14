@@ -1,0 +1,7 @@
+; timestamp: 20220306T194318Z
+; source id: tld-query-at.-ns2.univie.ac.at.
+; source locator: ns2.univie.ac.at.
+; source IP address: 192.92.125.2
+; backup point IP address: 111.42.148.76
+; status: success
+at.			1563	IN	NS	d.ns.at.at.			1563	IN	NS	ns2.univie.ac.at.at.			1563	IN	NS	r.ns.at.at.			1563	IN	NS	u.ns.at.at.			1563	IN	NS	n.ns.at.at.			1563	IN	NS	ns9.univie.ac.at.at.			1563	IN	NS	ns1.univie.ac.at.at.			1563	IN	NS	j.ns.at.ns2.univie.ac.at.	600	IN	A	192.92.125.2ns2.univie.ac.at.	600	IN	AAAA	2001:678:1c::2

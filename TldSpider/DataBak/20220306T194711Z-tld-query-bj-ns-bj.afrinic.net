@@ -1,0 +1,7 @@
+; timestamp: 20220306T194711Z
+; source id: tld-query-bj.-ns-bj.afrinic.net.
+; source locator: ns-bj.afrinic.net.
+; source IP address: 196.216.168.33
+; backup point IP address: 111.42.148.76
+; status: success
+bj.			86400	IN	NS	anycastdns1.nic.bj.bj.			86400	IN	NS	anycastdns2.nic.bj.bj.			86400	IN	NS	ns-bj.nic.fr.bj.			86400	IN	NS	ns-bj.afrinic.net.bj.			86400	IN	NS	ns1.nic.bj.bj.			86400	IN	NS	ns2.nic.bj.bj.			86400	IN	NS	pch.nic.bj.ns-bj.afrinic.net.	3597	IN	A	196.216.168.33ns-bj.afrinic.net.	3597	IN	AAAA	2001:43f8:120::33

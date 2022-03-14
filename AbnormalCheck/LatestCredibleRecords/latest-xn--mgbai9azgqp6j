@@ -1,0 +1,6 @@
+ns.ntc.net.pk.	172800	in	a	202.83.164.166
+ns1.ntc.net.pk.	172800	in	a	202.83.164.167
+ns2.ntc.net.pk.	172800	in	a	175.107.198.150
+xn--mgbai9azgqp6j.	172800	in	ns	ns.ntc.net.pk.
+xn--mgbai9azgqp6j.	172800	in	ns	ns1.ntc.net.pk.
+xn--mgbai9azgqp6j.	172800	in	ns	ns2.ntc.net.pk.

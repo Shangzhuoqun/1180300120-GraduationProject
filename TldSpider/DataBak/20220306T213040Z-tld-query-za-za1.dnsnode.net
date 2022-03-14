@@ -1,0 +1,7 @@
+; timestamp: 20220306T213040Z
+; source id: tld-query-za.-za1.dnsnode.net.
+; source locator: za1.dnsnode.net.
+; source IP address: 194.146.106.78
+; backup point IP address: 111.42.148.76
+; status: success
+za.			3600	IN	NS	za-ns.anycast.pch.net.za.			3600	IN	NS	za1.dnsnode.net.za.			3600	IN	NS	nsza.is.co.za.za1.dnsnode.net.	3600	IN	A	194.146.106.78za1.dnsnode.net.	3600	IN	AAAA	2001:67c:1010:19::53

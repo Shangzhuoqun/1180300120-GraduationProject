@@ -1,0 +1,10 @@
+; timestamp: 20220306T194125Z
+; source id: tld-query-al.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.nic.al.:../TldSpider/DataBak/20220306T194125Z-tld-query-al-ns1.nic.al
+nsx.nic.al.:../TldSpider/DataBak/20220306T194125Z-tld-query-al-nsx.nic.al
+rip.psg.com.:../TldSpider/DataBak/20220306T194125Z-tld-query-al-rip.psg.com
+munnari.oz.au.:../TldSpider/DataBak/20220306T194125Z-tld-query-al-munnari.oz.au

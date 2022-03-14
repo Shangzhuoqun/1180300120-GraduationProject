@@ -1,0 +1,14 @@
+; timestamp: 20220306T210641Z
+; source id: tld-query-tc.-root6.zone.tc.
+; source locator: root6.zone.tc.
+; source IP address: 166.78.254.145
+; backup point IP address: 111.42.148.76
+; status: success
+dig @166.78.254.145 tc. NS
+
+; <<>> DiG 9.16.23 <<>> @166.78.254.145 tc. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+root6.zone.tc.		3600	IN	A	166.78.254.145root6.zone.tc.		3600	IN	AAAA	2001:4801:7819:74:a322:3632:ff10:3e2f

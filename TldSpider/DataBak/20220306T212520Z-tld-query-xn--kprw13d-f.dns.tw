@@ -1,0 +1,27 @@
+; timestamp: 20220306T212520Z
+; source id: tld-query-xn--kprw13d.-f.dns.tw.
+; source locator: f.dns.tw.
+; source IP address: 163.28.1.10
+; backup point IP address: 111.42.148.76
+; status: success
+xn--kprw13d.		3599	IN	NS	anytld.apnic.net.xn--kprw13d.		3599	IN	NS	d.dns.tw.xn--kprw13d.		3599	IN	NS	h.dns.tw.xn--kprw13d.		3599	IN	NS	f.dns.tw.xn--kprw13d.		3599	IN	NS	g.dns.tw.xn--kprw13d.		3599	IN	NS	e.dns.tw.f.dns.tw.		522	IN	A	163.28.1.10dig @163.28.1.10 f.dns.tw. AAAA
+
+; <<>> DiG 9.16.23 <<>> @163.28.1.10 f.dns.tw. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57855
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;f.dns.tw.			IN	AAAA
+
+;; AUTHORITY SECTION:
+tw.			177	IN	SOA	a.dns.tw. snw.twnic.net.tw. 2010571349 3600 900 1296000 900
+
+;; Query time: 0 msec
+;; SERVER: 163.28.1.10#53(163.28.1.10)
+;; WHEN: Sun Mar 06 21:25:21 ;; MSG SIZE  rcvd: 89
+

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201054Z
+; source id: tld-query-gmo.-a.gmoregistry.net.
+; source locator: a.gmoregistry.net.
+; source IP address: 37.209.192.4
+; backup point IP address: 111.42.148.76
+; status: success
+gmo.			3600	IN	NS	a.gmoregistry.net.gmo.			3600	IN	NS	l.gmoregistry.net.gmo.			3600	IN	NS	b.gmoregistry.net.gmo.			3600	IN	NS	k.gmoregistry.net.a.gmoregistry.net.	3293	IN	A	37.209.192.4a.gmoregistry.net.	3293	IN	AAAA	2001:dcd:1::4

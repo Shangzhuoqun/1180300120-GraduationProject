@@ -1,0 +1,14 @@
+; timestamp: 20220306T205046Z
+; source id: tld-query-prime.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dns1.nic.prime
+dns2.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dns2.nic.prime
+dns3.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dns3.nic.prime
+dns4.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dns4.nic.prime
+dnsa.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dnsa.nic.prime
+dnsb.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dnsb.nic.prime
+dnsc.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dnsc.nic.prime
+dnsd.nic.prime.:../TldSpider/DataBak/20220306T205046Z-tld-query-prime-dnsd.nic.prime

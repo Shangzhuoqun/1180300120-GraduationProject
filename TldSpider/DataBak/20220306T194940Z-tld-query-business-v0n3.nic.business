@@ -1,0 +1,7 @@
+; timestamp: 20220306T194940Z
+; source id: tld-query-business.-v0n3.nic.business.
+; source locator: v0n3.nic.business.
+; source IP address: 161.232.16.38
+; backup point IP address: 111.42.148.76
+; status: success
+business.		1276	IN	NS	v2n1.nic.business.business.		1276	IN	NS	v2n0.nic.business.business.		1276	IN	NS	v0n3.nic.business.business.		1276	IN	NS	v0n2.nic.business.business.		1276	IN	NS	v0n0.nic.business.business.		1276	IN	NS	v0n1.nic.business.v0n3.nic.business.	3081	IN	A	161.232.16.38v0n3.nic.business.	3079	IN	AAAA	2a01:8840:fa::38

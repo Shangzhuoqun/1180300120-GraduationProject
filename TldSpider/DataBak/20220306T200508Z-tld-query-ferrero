@@ -1,0 +1,12 @@
+; timestamp: 20220306T200508Z
+; source id: tld-query-ferrero.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-a.nic.ferrero
+b.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-b.nic.ferrero
+c.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-c.nic.ferrero
+ns1.dns.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-ns1.dns.nic.ferrero
+ns2.dns.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-ns2.dns.nic.ferrero
+ns3.dns.nic.ferrero.:../TldSpider/DataBak/20220306T200508Z-tld-query-ferrero-ns3.dns.nic.ferrero

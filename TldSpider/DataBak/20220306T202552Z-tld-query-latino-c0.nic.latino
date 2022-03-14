@@ -1,0 +1,7 @@
+; timestamp: 20220306T202552Z
+; source id: tld-query-latino.-c0.nic.latino.
+; source locator: c0.nic.latino.
+; source IP address: 65.22.94.17
+; backup point IP address: 111.42.148.76
+; status: success
+latino.			3599	IN	NS	b0.nic.latino.latino.			3599	IN	NS	a2.nic.latino.latino.			3599	IN	NS	c0.nic.latino.latino.			3599	IN	NS	a0.nic.latino.c0.nic.latino.		600	IN	A	65.22.94.17c0.nic.latino.		598	IN	AAAA	2a01:8840:5c::17

@@ -1,0 +1,7 @@
+; timestamp: 20220306T202634Z
+; source id: tld-query-li.-f.nic.li.
+; source locator: f.nic.li.
+; source IP address: 194.146.106.14
+; backup point IP address: 111.42.148.76
+; status: success
+li.			172800	IN	NS	a.nic.li.li.			172800	IN	NS	f.nic.li.li.			172800	IN	NS	d.nic.li.li.			172800	IN	NS	b.nic.li.li.			172800	IN	NS	e.nic.li.f.nic.li.		2743	IN	A	194.146.106.14f.nic.li.		2743	IN	AAAA	2001:67c:1010:3::53

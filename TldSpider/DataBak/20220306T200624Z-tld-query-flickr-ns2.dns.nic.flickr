@@ -1,0 +1,7 @@
+; timestamp: 20220306T200624Z
+; source id: tld-query-flickr.-ns2.dns.nic.flickr.
+; source locator: ns2.dns.nic.flickr.
+; source IP address: 156.154.145.60
+; backup point IP address: 111.42.148.76
+; status: success
+flickr.			3597	IN	NS	c.nic.flickr.flickr.			3597	IN	NS	ns1.dns.nic.flickr.flickr.			3597	IN	NS	ns2.dns.nic.flickr.flickr.			3597	IN	NS	b.nic.flickr.flickr.			3597	IN	NS	a.nic.flickr.flickr.			3597	IN	NS	ns3.dns.nic.flickr.ns2.dns.nic.flickr.	3597	IN	A	156.154.145.60ns2.dns.nic.flickr.	3597	IN	AAAA	2610:a1:1072::3c

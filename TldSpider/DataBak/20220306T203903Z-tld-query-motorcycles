@@ -1,0 +1,10 @@
+; timestamp: 20220306T203903Z
+; source id: tld-query-motorcycles.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.motorcycles.:../TldSpider/DataBak/20220306T203903Z-tld-query-motorcycles-a.nic.motorcycles
+b.nic.motorcycles.:../TldSpider/DataBak/20220306T203903Z-tld-query-motorcycles-b.nic.motorcycles
+c.nic.motorcycles.:../TldSpider/DataBak/20220306T203903Z-tld-query-motorcycles-c.nic.motorcycles
+d.nic.motorcycles.:../TldSpider/DataBak/20220306T203903Z-tld-query-motorcycles-d.nic.motorcycles

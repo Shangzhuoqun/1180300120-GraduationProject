@@ -1,0 +1,10 @@
+; timestamp: 20220306T194506Z
+; source id: tld-query-barclays.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.barclays.:../TldSpider/DataBak/20220306T194506Z-tld-query-barclays-a.nic.barclays
+b.nic.barclays.:../TldSpider/DataBak/20220306T194506Z-tld-query-barclays-b.nic.barclays
+c.nic.barclays.:../TldSpider/DataBak/20220306T194506Z-tld-query-barclays-c.nic.barclays
+d.nic.barclays.:../TldSpider/DataBak/20220306T194506Z-tld-query-barclays-d.nic.barclays

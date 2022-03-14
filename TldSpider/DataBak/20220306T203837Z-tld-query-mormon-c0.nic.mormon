@@ -1,0 +1,7 @@
+; timestamp: 20220306T203837Z
+; source id: tld-query-mormon.-c0.nic.mormon.
+; source locator: c0.nic.mormon.
+; source IP address: 65.22.154.1
+; backup point IP address: 111.42.148.76
+; status: success
+mormon.			3597	IN	NS	a2.nic.mormon.mormon.			3597	IN	NS	c0.nic.mormon.mormon.			3597	IN	NS	a0.nic.mormon.mormon.			3597	IN	NS	b0.nic.mormon.c0.nic.mormon.		598	IN	A	65.22.154.1c0.nic.mormon.		598	IN	AAAA	2a01:8840:98::1

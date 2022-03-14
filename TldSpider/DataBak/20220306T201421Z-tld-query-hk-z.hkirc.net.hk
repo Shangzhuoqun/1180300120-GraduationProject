@@ -1,0 +1,7 @@
+; timestamp: 20220306T201421Z
+; source id: tld-query-hk.-z.hkirc.net.hk.
+; source locator: z.hkirc.net.hk.
+; source IP address: 194.146.106.70
+; backup point IP address: 111.42.148.76
+; status: success
+hk.			3023	IN	NS	c.hkirc.net.hk.hk.			3023	IN	NS	y.hkirc.net.hk.hk.			3023	IN	NS	v.hkirc.net.hk.hk.			3023	IN	NS	x.hkirc.net.hk.hk.			3023	IN	NS	z.hkirc.net.hk.hk.			3023	IN	NS	t.hkirc.net.hk.hk.			3023	IN	NS	u.hkirc.net.hk.hk.			3023	IN	NS	d.hkirc.net.hk.z.hkirc.net.hk.		2145	IN	A	194.146.106.70z.hkirc.net.hk.		1287	IN	AAAA	2001:67c:1010:17::53

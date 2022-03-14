@@ -1,0 +1,7 @@
+; timestamp: 20220306T195118Z
+; source id: tld-query-ca.-any.ca-servers.ca.
+; source locator: any.ca-servers.ca.
+; source IP address: 199.4.144.2
+; backup point IP address: 111.42.148.76
+; status: success
+ca.			83987	IN	NS	x.ca-servers.ca.ca.			83987	IN	NS	any.ca-servers.ca.ca.			83987	IN	NS	j.ca-servers.ca.ca.			83987	IN	NS	c.ca-servers.ca.any.ca-servers.ca.	2386	IN	A	199.4.144.2any.ca-servers.ca.	3521	IN	AAAA	2001:500:a7::2

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204457Z
+; source id: tld-query-observer.-v0n1.nic.observer.
+; source locator: v0n1.nic.observer.
+; source IP address: 65.22.25.63
+; backup point IP address: 111.42.148.76
+; status: success
+observer.		3600	IN	NS	v0n2.nic.observer.observer.		3600	IN	NS	v0n3.nic.observer.observer.		3600	IN	NS	v2n0.nic.observer.observer.		3600	IN	NS	v0n1.nic.observer.observer.		3600	IN	NS	v2n1.nic.observer.observer.		3600	IN	NS	v0n0.nic.observer.v0n1.nic.observer.	3600	IN	A	65.22.25.63v0n1.nic.observer.	3600	IN	AAAA	2a01:8840:1b::63

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201255Z
+; source id: tld-query-gt.-ns-cz.gt.
+; source locator: ns-cz.gt.
+; source IP address: 193.29.206.2
+; backup point IP address: 111.42.148.76
+; status: success
+gt.			14400	IN	NS	a.lactld.org.gt.			14400	IN	NS	gt.anycastdns.cz.gt.			14400	IN	NS	ns.dns.br.gt.			14400	IN	NS	pch.gt.gt.			14400	IN	NS	ns-cz.gt.gt.			14400	IN	NS	ssdns-tld.nic.cl.ns-cz.gt.		3600	IN	A	193.29.206.2ns-cz.gt.		3600	IN	AAAA	2001:678:1::2

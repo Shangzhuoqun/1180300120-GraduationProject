@@ -1,0 +1,27 @@
+; timestamp: 20220306T203738Z
+; source id: tld-query-mn.-ns3.magic.mn.
+; source locator: ns3.magic.mn.
+; source IP address: 202.131.224.80
+; backup point IP address: 111.42.148.76
+; status: success
+mn.			86400	IN	NS	a2.cctld.afilias-nst.info.mn.			86400	IN	NS	d0.cctld.afilias-nst.org.mn.			86400	IN	NS	ns3.magic.mn.mn.			86400	IN	NS	ns2.magic.mn.mn.			86400	IN	NS	b2.cctld.afilias-nst.org.mn.			86400	IN	NS	c0.cctld.afilias-nst.info.mn.			86400	IN	NS	b0.cctld.afilias-nst.org.mn.			86400	IN	NS	ns1.magic.mn.mn.			86400	IN	NS	a0.cctld.afilias-nst.info.mn.			86400	IN	NS	ns4.magic.mn.ns3.magic.mn.		599	IN	A	202.131.224.80dig @202.131.224.80 ns3.magic.mn. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.131.224.80 ns3.magic.mn. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45731
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns3.magic.mn.			IN	AAAA
+
+;; AUTHORITY SECTION:
+magic.mn.		1383	IN	SOA	ns1.magic.mn. tech.datacom.mn. 2019111111 10800 1800 604800 1500
+
+;; Query time: 5 msec
+;; SERVER: 202.131.224.80#53(202.131.224.80)
+;; WHEN: Sun Mar 06 20:37:43 ;; MSG SIZE  rcvd: 94
+

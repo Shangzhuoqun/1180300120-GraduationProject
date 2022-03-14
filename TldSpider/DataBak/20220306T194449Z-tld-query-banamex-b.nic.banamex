@@ -1,0 +1,7 @@
+; timestamp: 20220306T194449Z
+; source id: tld-query-banamex.-b.nic.banamex.
+; source locator: b.nic.banamex.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+banamex.		1496	IN	NS	ns1.dns.nic.banamex.banamex.		1496	IN	NS	a.nic.banamex.banamex.		1496	IN	NS	b.nic.banamex.banamex.		1496	IN	NS	ns2.dns.nic.banamex.banamex.		1496	IN	NS	c.nic.banamex.banamex.		1496	IN	NS	ns3.dns.nic.banamex.b.nic.banamex.		3600	IN	A	37.209.194.9b.nic.banamex.		3600	IN	AAAA	2001:dcd:2::9

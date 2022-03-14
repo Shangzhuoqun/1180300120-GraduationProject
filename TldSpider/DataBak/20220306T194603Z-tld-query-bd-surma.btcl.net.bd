@@ -1,0 +1,7 @@
+; timestamp: 20220306T194603Z
+; source id: tld-query-bd.-surma.btcl.net.bd.
+; source locator: surma.btcl.net.bd.
+; source IP address: 203.112.194.232
+; backup point IP address: 111.42.148.76
+; status: success
+bd.			86400	IN	NS	jamuna.btcl.net.bd.bd.			86400	IN	NS	surma.btcl.net.bd.bd.			86400	IN	NS	dns.bd.bd.			86400	IN	NS	bd-ns.anycast.pch.net.surma.btcl.net.bd.	1278	IN	A	203.112.194.232surma.btcl.net.bd.	1277	IN	AAAA	2407:5000:88:4::232

@@ -1,0 +1,10 @@
+; timestamp: 20220306T211131Z
+; source id: tld-query-tokyo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.gmoregistry.net.:../TldSpider/DataBak/20220306T211131Z-tld-query-tokyo-a.gmoregistry.net
+b.gmoregistry.net.:../TldSpider/DataBak/20220306T211131Z-tld-query-tokyo-b.gmoregistry.net
+k.gmoregistry.net.:../TldSpider/DataBak/20220306T211131Z-tld-query-tokyo-k.gmoregistry.net
+l.gmoregistry.net.:../TldSpider/DataBak/20220306T211131Z-tld-query-tokyo-l.gmoregistry.net

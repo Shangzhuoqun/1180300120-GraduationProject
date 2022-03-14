@@ -1,0 +1,10 @@
+; timestamp: 20220306T205549Z
+; source id: tld-query-rodeo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.rodeo.:../TldSpider/DataBak/20220306T205549Z-tld-query-rodeo-a.nic.rodeo
+b.nic.rodeo.:../TldSpider/DataBak/20220306T205549Z-tld-query-rodeo-b.nic.rodeo
+c.nic.rodeo.:../TldSpider/DataBak/20220306T205549Z-tld-query-rodeo-c.nic.rodeo
+d.nic.rodeo.:../TldSpider/DataBak/20220306T205549Z-tld-query-rodeo-d.nic.rodeo

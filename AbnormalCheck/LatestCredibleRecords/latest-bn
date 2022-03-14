@@ -1,0 +1,10 @@
+bn.	172800	in	ns	ns1.bnnic.bn.
+bn.	172800	in	ns	ns2.bnnic.bn.
+bn.	172800	in	ns	ns4.apnic.net.
+bn.	172800	in	ns	bn-ns.anycast.pch.net.
+ns1.bnnic.bn.	172800	in	a	194.0.1.33
+ns2.bnnic.bn.	172800	in	a	202.93.214.163
+ns4.apnic.net.	172800	in	a	202.12.31.53
+ns4.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53
+bn-ns.anycast.pch.net.	172800	in	a	204.61.216.87
+bn-ns.anycast.pch.net.	172800	in	aaaa	2001:500:14:6087:ad:0:0:1

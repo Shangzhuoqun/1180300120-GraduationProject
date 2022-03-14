@@ -1,0 +1,7 @@
+; timestamp: 20220306T211504Z
+; source id: tld-query-uy.-ns1.anteldata.com.uy.
+; source locator: ns1.anteldata.com.uy.
+; source IP address: 200.40.30.254
+; backup point IP address: 111.42.148.76
+; status: success
+uy.			86400	IN	NS	ns3.nic.mx.uy.			86400	IN	NS	d.nic.uy.uy.			86400	IN	NS	ns.dns.br.uy.			86400	IN	NS	a.nic.uy.uy.			86400	IN	NS	ns2.anteldata.com.uy.uy.			86400	IN	NS	a.lactld.org.uy.			86400	IN	NS	b.nic.uy.uy.			86400	IN	NS	ns1.anteldata.com.uy.ns1.anteldata.com.uy.	3600	IN	A	200.40.30.254ns1.anteldata.com.uy.	3600	IN	AAAA	2800:a0:53:1001::1

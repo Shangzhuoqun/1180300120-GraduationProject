@@ -1,0 +1,14 @@
+py.	172800	in	ns	b.dns.py.
+py.	172800	in	ns	c.dns.py.
+py.	172800	in	ns	l.dns.py.
+py.	172800	in	ns	p.dns.py.
+py.	172800	in	ns	u.dns.py.
+b.dns.py.	172800	in	a	200.160.0.5
+b.dns.py.	172800	in	aaaa	2001:12ff:0:a20:0:0:0:5
+c.dns.py.	172800	in	a	130.59.31.30
+c.dns.py.	172800	in	aaaa	2001:620:0:ff:0:0:0:30
+l.dns.py.	172800	in	a	200.0.68.10
+l.dns.py.	172800	in	aaaa	2801:14:a000:0:0:0:0:10
+p.dns.py.	172800	in	a	204.61.216.107
+p.dns.py.	172800	in	aaaa	2001:500:14:6107:ad:0:0:1
+u.dns.py.	172800	in	a	198.6.1.65

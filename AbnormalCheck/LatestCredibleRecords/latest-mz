@@ -1,0 +1,14 @@
+phloem.uoregon.edu.	172800	in	a	128.223.32.35
+phloem.uoregon.edu.	172800	in	aaaa	2001:468:d01:20:0:0:80df:2023
+mz.	172800	in	ns	anyns.uem.mz.
+mz.	172800	in	ns	dzowo.uem.mz.
+mz.	172800	in	ns	ns-mz.afrinic.net.
+mz.	172800	in	ns	zebra.uem.mz.
+mz.	172800	in	ns	oceano.uem.mz.
+mz.	172800	in	ns	phloem.uoregon.edu.
+anyns.uem.mz.	172800	in	a	204.61.216.14
+dzowo.uem.mz.	172800	in	a	196.3.96.66
+oceano.uem.mz.	172800	in	a	196.3.96.69
+zebra.uem.mz.	172800	in	a	196.3.96.67
+ns-mz.afrinic.net.	172800	in	a	196.216.168.40
+ns-mz.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:40

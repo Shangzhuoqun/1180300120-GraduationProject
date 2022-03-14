@@ -1,0 +1,7 @@
+; timestamp: 20220306T194135Z
+; source id: tld-query-allstate.-c0.nic.allstate.
+; source locator: c0.nic.allstate.
+; source IP address: 65.22.50.9
+; backup point IP address: 111.42.148.76
+; status: success
+allstate.		1631	IN	NS	a0.nic.allstate.allstate.		1631	IN	NS	c0.nic.allstate.allstate.		1631	IN	NS	b0.nic.allstate.allstate.		1631	IN	NS	a2.nic.allstate.c0.nic.allstate.	599	IN	A	65.22.50.9c0.nic.allstate.	598	IN	AAAA	2a01:8840:30::9

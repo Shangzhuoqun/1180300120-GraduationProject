@@ -1,0 +1,10 @@
+; timestamp: 20220306T200527Z
+; source id: tld-query-film.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.film.:../TldSpider/DataBak/20220306T200527Z-tld-query-film-a.nic.film
+b.nic.film.:../TldSpider/DataBak/20220306T200527Z-tld-query-film-b.nic.film
+c.nic.film.:../TldSpider/DataBak/20220306T200527Z-tld-query-film-c.nic.film
+d.nic.film.:../TldSpider/DataBak/20220306T200527Z-tld-query-film-d.nic.film

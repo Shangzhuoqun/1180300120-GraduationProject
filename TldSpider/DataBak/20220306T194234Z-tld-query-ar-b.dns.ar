@@ -1,0 +1,7 @@
+; timestamp: 20220306T194234Z
+; source id: tld-query-ar.-b.dns.ar.
+; source locator: b.dns.ar.
+; source IP address: 200.108.147.50
+; backup point IP address: 111.42.148.76
+; status: success
+ar.			1600	IN	NS	f.dns.ar.ar.			1600	IN	NS	c.dns.ar.ar.			1600	IN	NS	e.dns.ar.ar.			1600	IN	NS	b.dns.ar.ar.			1600	IN	NS	d.dns.ar.ar.			1600	IN	NS	ar.cctld.authdns.ripe.net.ar.			1600	IN	NS	a.dns.ar.b.dns.ar.		3230	IN	A	200.108.147.50b.dns.ar.		3230	IN	AAAA	2801:140:11::50

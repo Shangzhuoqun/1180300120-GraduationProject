@@ -1,0 +1,7 @@
+; timestamp: 20220306T194203Z
+; source id: tld-query-amsterdam.-ns1.nic.amsterdam.
+; source locator: ns1.nic.amsterdam.
+; source IP address: 194.0.28.4
+; backup point IP address: 111.42.148.76
+; status: success
+amsterdam.		1619	IN	NS	ns3.nic.amsterdam.amsterdam.		1619	IN	NS	ns1.nic.amsterdam.amsterdam.		1619	IN	NS	ns2.nic.amsterdam.ns1.nic.amsterdam.	3600	IN	A	194.0.28.4ns1.nic.amsterdam.	3600	IN	AAAA	2001:678:2c:0:194:0:28:4

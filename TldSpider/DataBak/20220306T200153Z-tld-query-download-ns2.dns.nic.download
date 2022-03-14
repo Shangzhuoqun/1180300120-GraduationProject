@@ -1,0 +1,7 @@
+; timestamp: 20220306T200153Z
+; source id: tld-query-download.-ns2.dns.nic.download.
+; source locator: ns2.dns.nic.download.
+; source IP address: 156.154.145.50
+; backup point IP address: 111.42.148.76
+; status: success
+download.		3166	IN	NS	b.nic.download.download.		3166	IN	NS	c.nic.download.download.		3166	IN	NS	ns3.dns.nic.download.download.		3166	IN	NS	ns2.dns.nic.download.download.		3166	IN	NS	ns1.dns.nic.download.download.		3166	IN	NS	a.nic.download.ns2.dns.nic.download.	3599	IN	A	156.154.145.50ns2.dns.nic.download.	3599	IN	AAAA	2610:a1:1072::32

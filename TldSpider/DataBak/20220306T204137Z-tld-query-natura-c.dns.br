@@ -1,0 +1,7 @@
+; timestamp: 20220306T204137Z
+; source id: tld-query-natura.-c.dns.br.
+; source locator: c.dns.br.
+; source IP address: 200.192.233.10
+; backup point IP address: 111.42.148.76
+; status: success
+natura.			3599	IN	NS	c.dns.br.natura.			3599	IN	NS	a.dns.br.natura.			3599	IN	NS	d.dns.br.natura.			3599	IN	NS	f.dns.br.natura.			3599	IN	NS	e.dns.br.natura.			3599	IN	NS	b.dns.br.c.dns.br.		831	IN	A	200.192.233.10c.dns.br.		412	IN	AAAA	2001:12f8:a::10

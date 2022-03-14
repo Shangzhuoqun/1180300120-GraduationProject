@@ -1,0 +1,14 @@
+; timestamp: 20220306T201724Z
+; source id: tld-query-imdb.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dns1.nic.imdb
+dns2.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dns2.nic.imdb
+dns3.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dns3.nic.imdb
+dns4.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dns4.nic.imdb
+dnsa.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dnsa.nic.imdb
+dnsb.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dnsb.nic.imdb
+dnsc.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dnsc.nic.imdb
+dnsd.nic.imdb.:../TldSpider/DataBak/20220306T201724Z-tld-query-imdb-dnsd.nic.imdb

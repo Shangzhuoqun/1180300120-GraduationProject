@@ -1,0 +1,7 @@
+; timestamp: 20220306T212805Z
+; source id: tld-query-xn--nyqy26a.-ns1.teleinfo.cn.
+; source locator: ns1.teleinfo.cn.
+; source IP address: 103.61.60.1
+; backup point IP address: 111.42.148.76
+; status: success
+xn--nyqy26a.		3600	IN	NS	ns3.teleinfo.cn.xn--nyqy26a.		3600	IN	NS	ns4.teleinfoo.com.xn--nyqy26a.		3600	IN	NS	ns2.teleinfoo.com.xn--nyqy26a.		3600	IN	NS	ns1.teleinfo.cn.ns1.teleinfo.cn.	1920	IN	A	103.61.60.1ns1.teleinfo.cn.	1920	IN	AAAA	2402:7d80::1

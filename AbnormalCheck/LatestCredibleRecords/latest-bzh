@@ -1,0 +1,9 @@
+bzh.	172800	in	ns	d.nic.fr.
+bzh.	172800	in	ns	f.ext.nic.fr.
+bzh.	172800	in	ns	g.ext.nic.fr.
+d.nic.fr.	172800	in	a	194.0.9.1
+d.nic.fr.	172800	in	aaaa	2001:678:c:0:0:0:0:1
+f.ext.nic.fr.	172800	in	a	194.146.106.46
+f.ext.nic.fr.	172800	in	aaaa	2001:67c:1010:11:0:0:0:53
+g.ext.nic.fr.	172800	in	a	194.0.36.1
+g.ext.nic.fr.	172800	in	aaaa	2001:678:4c:0:0:0:0:1

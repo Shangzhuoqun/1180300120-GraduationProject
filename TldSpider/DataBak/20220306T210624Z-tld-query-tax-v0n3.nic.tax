@@ -1,0 +1,7 @@
+; timestamp: 20220306T210624Z
+; source id: tld-query-tax.-v0n3.nic.tax.
+; source locator: v0n3.nic.tax.
+; source IP address: 161.232.12.16
+; backup point IP address: 111.42.148.76
+; status: success
+tax.			3600	IN	NS	v0n0.nic.tax.tax.			3600	IN	NS	v0n2.nic.tax.tax.			3600	IN	NS	v2n1.nic.tax.tax.			3600	IN	NS	v0n1.nic.tax.tax.			3600	IN	NS	v2n0.nic.tax.tax.			3600	IN	NS	v0n3.nic.tax.v0n3.nic.tax.		3587	IN	A	161.232.12.16v0n3.nic.tax.		3587	IN	AAAA	2a01:8840:f6::16

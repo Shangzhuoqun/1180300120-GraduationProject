@@ -1,0 +1,11 @@
+; timestamp: 20220306T213108Z
+; source id: tld-query-zw.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.liquidtelecom.net.:../TldSpider/DataBak/20220306T213108Z-tld-query-zw-ns1.liquidtelecom.net
+ns2.liquidtelecom.net.:../TldSpider/DataBak/20220306T213108Z-tld-query-zw-ns2.liquidtelecom.net
+zw-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T213108Z-tld-query-zw-zw-ns.anycast.pch.net
+ns1zim.telone.co.zw.:../TldSpider/DataBak/20220306T213108Z-tld-query-zw-ns1zim.telone.co.zw
+ns2zim.telone.co.zw.:../TldSpider/DataBak/20220306T213108Z-tld-query-zw-ns2zim.telone.co.zw

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201022Z
+; source id: tld-query-global.-a0.nic.global.
+; source locator: a0.nic.global.
+; source IP address: 65.22.80.1
+; backup point IP address: 111.42.148.76
+; status: success
+global.			3600	IN	NS	c0.nic.global.global.			3600	IN	NS	a2.nic.global.global.			3600	IN	NS	b0.nic.global.global.			3600	IN	NS	a0.nic.global.a0.nic.global.		600	IN	A	65.22.80.1a0.nic.global.		600	IN	AAAA	2a01:8840:4e::1

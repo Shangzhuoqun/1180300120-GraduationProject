@@ -1,0 +1,7 @@
+; timestamp: 20220306T211347Z
+; source id: tld-query-ug.-ns.icann.org.
+; source locator: ns.icann.org.
+; source IP address: 199.4.138.53
+; backup point IP address: 111.42.148.76
+; status: success
+ug.			3600	IN	NS	ns.icann.org.ug.			3600	IN	NS	ns-ug.afrinic.net.ug.			3600	IN	NS	ug.cctld.authdns.ripe.net.ug.			3600	IN	NS	anycast.eahd.or.ug.ug.			3600	IN	NS	root.eahd.or.ug.ns.icann.org.		312	IN	A	199.4.138.53ns.icann.org.		347	IN	AAAA	2001:500:89::53

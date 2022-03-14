@@ -1,0 +1,12 @@
+saarland.	172800	in	ns	a.nic.saarland.
+saarland.	172800	in	ns	b.nic.saarland.
+saarland.	172800	in	ns	c.nic.saarland.
+saarland.	172800	in	ns	d.nic.saarland.
+a.nic.saarland.	172800	in	a	194.169.218.97
+a.nic.saarland.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:97
+b.nic.saarland.	172800	in	a	185.24.64.97
+b.nic.saarland.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:97
+c.nic.saarland.	172800	in	a	212.18.248.97
+c.nic.saarland.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:97
+d.nic.saarland.	172800	in	a	212.18.249.97
+d.nic.saarland.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:97

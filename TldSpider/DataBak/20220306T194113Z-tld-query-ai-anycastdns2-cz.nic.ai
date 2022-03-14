@@ -1,0 +1,7 @@
+; timestamp: 20220306T194113Z
+; source id: tld-query-ai.-anycastdns2-cz.nic.ai.
+; source locator: anycastdns2-cz.nic.ai.
+; source IP address: 185.38.108.108
+; backup point IP address: 111.42.148.76
+; status: success
+ai.			1644	IN	NS	pch.whois.ai.ai.			1644	IN	NS	anycastdns2-cz.nic.ai.ai.			1644	IN	NS	a.lactld.org.ai.			1644	IN	NS	anycastdns1-cz.nic.ai.anycastdns2-cz.nic.ai.	3600	IN	A	185.38.108.108anycastdns2-cz.nic.ai.	3600	IN	AAAA	2a00:fea0:dead::beef

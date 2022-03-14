@@ -1,0 +1,11 @@
+; timestamp: 20220306T195600Z
+; source id: tld-query-cm.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.itu.ch.:../TldSpider/DataBak/20220306T195600Z-tld-query-cm-ns.itu.ch
+kim.camnet.cm.:../TldSpider/DataBak/20220306T195600Z-tld-query-cm-kim.camnet.cm
+lom.camnet.cm.:../TldSpider/DataBak/20220306T195600Z-tld-query-cm-lom.camnet.cm
+auth02.ns.uu.net.:../TldSpider/DataBak/20220306T195600Z-tld-query-cm-auth02.ns.uu.net
+sanaga.camnet.cm.:../TldSpider/DataBak/20220306T195600Z-tld-query-cm-sanaga.camnet.cm

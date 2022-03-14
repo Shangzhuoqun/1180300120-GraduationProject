@@ -1,0 +1,7 @@
+; timestamp: 20220306T201109Z
+; source id: tld-query-golf.-v2n0.nic.golf.
+; source locator: v2n0.nic.golf.
+; source IP address: 65.22.31.46
+; backup point IP address: 111.42.148.76
+; status: success
+golf.			3598	IN	NS	v0n2.nic.golf.golf.			3598	IN	NS	v0n1.nic.golf.golf.			3598	IN	NS	v2n0.nic.golf.golf.			3598	IN	NS	v0n3.nic.golf.golf.			3598	IN	NS	v2n1.nic.golf.golf.			3598	IN	NS	v0n0.nic.golf.v2n0.nic.golf.		3598	IN	A	65.22.31.46v2n0.nic.golf.		3598	IN	AAAA	2a01:8840:21::46

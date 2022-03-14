@@ -1,0 +1,12 @@
+; timestamp: 20220306T204739Z
+; source id: tld-query-pfizer.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-a.nic.pfizer
+b.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-b.nic.pfizer
+c.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-c.nic.pfizer
+ns1.dns.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-ns1.dns.nic.pfizer
+ns2.dns.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-ns2.dns.nic.pfizer
+ns3.dns.nic.pfizer.:../TldSpider/DataBak/20220306T204739Z-tld-query-pfizer-ns3.dns.nic.pfizer

@@ -1,0 +1,10 @@
+sm.cctld.authdns.ripe.net.	172800	in	a	193.0.9.110
+sm.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:110
+sm.	172800	in	ns	sm.cctld.authdns.ripe.net.
+sm.	172800	in	ns	dns.omniway.sm.
+sm.	172800	in	ns	dns.intelcom.sm.
+sm.	172800	in	ns	ns3.telecomitalia.sm.
+dns.intelcom.sm.	172800	in	a	194.183.64.11
+dns.omniway.sm.	172800	in	a	194.183.64.10
+ns3.telecomitalia.sm.	172800	in	a	194.0.27.12
+ns3.telecomitalia.sm.	172800	in	aaaa	2001:678:28:0:c2:b7:40:12

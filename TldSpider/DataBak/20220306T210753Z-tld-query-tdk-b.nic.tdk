@@ -1,0 +1,7 @@
+; timestamp: 20220306T210753Z
+; source id: tld-query-tdk.-b.nic.tdk.
+; source locator: b.nic.tdk.
+; source IP address: 37.209.194.9
+; backup point IP address: 111.42.148.76
+; status: success
+tdk.			3598	IN	NS	c.nic.tdk.tdk.			3598	IN	NS	ns3.dns.nic.tdk.tdk.			3598	IN	NS	ns2.dns.nic.tdk.tdk.			3598	IN	NS	b.nic.tdk.tdk.			3598	IN	NS	ns1.dns.nic.tdk.tdk.			3598	IN	NS	a.nic.tdk.b.nic.tdk.		3598	IN	A	37.209.194.9b.nic.tdk.		3598	IN	AAAA	2001:dcd:2::9

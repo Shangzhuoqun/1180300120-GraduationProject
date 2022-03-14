@@ -1,0 +1,7 @@
+; timestamp: 20220306T200851Z
+; source id: tld-query-gay.-b.nic.gay.
+; source locator: b.nic.gay.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+gay.			3600	IN	NS	a.nic.gay.gay.			3600	IN	NS	b.nic.gay.gay.			3600	IN	NS	d.nic.gay.gay.			3600	IN	NS	c.nic.gay.b.nic.gay.		3600	IN	A	37.209.194.10b.nic.gay.		3600	IN	AAAA	2001:dcd:2::10

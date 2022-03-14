@@ -1,0 +1,14 @@
+; timestamp: 20220306T203115Z
+; source id: tld-query-med.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dns1.nic.med
+dns2.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dns2.nic.med
+dns3.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dns3.nic.med
+dns4.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dns4.nic.med
+dnsa.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dnsa.nic.med
+dnsb.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dnsb.nic.med
+dnsc.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dnsc.nic.med
+dnsd.nic.med.:../TldSpider/DataBak/20220306T203115Z-tld-query-med-dnsd.nic.med

@@ -1,0 +1,7 @@
+; timestamp: 20220306T203658Z
+; source id: tld-query-mini.-c.nic.mini.
+; source locator: c.nic.mini.
+; source IP address: 212.18.248.95
+; backup point IP address: 111.42.148.76
+; status: success
+mini.			3598	IN	NS	b.nic.mini.mini.			3598	IN	NS	c.nic.mini.mini.			3598	IN	NS	a.nic.mini.mini.			3598	IN	NS	d.nic.mini.c.nic.mini.		3598	IN	A	212.18.248.95c.nic.mini.		3598	IN	AAAA	2a04:2b00:13ee::95

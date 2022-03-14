@@ -1,0 +1,7 @@
+; timestamp: 20220306T211359Z
+; source id: tld-query-university.-v2n1.nic.university.
+; source locator: v2n1.nic.university.
+; source IP address: 161.232.11.19
+; backup point IP address: 111.42.148.76
+; status: success
+university.		3597	IN	NS	v0n1.nic.university.university.		3597	IN	NS	v0n0.nic.university.university.		3597	IN	NS	v2n0.nic.university.university.		3597	IN	NS	v2n1.nic.university.university.		3597	IN	NS	v0n3.nic.university.university.		3597	IN	NS	v0n2.nic.university.v2n1.nic.university.	3599	IN	A	161.232.11.19v2n1.nic.university.	3599	IN	AAAA	2a01:8840:f5::19

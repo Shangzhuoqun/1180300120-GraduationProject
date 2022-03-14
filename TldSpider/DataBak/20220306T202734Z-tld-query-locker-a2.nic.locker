@@ -1,0 +1,7 @@
+; timestamp: 20220306T202734Z
+; source id: tld-query-locker.-a2.nic.locker.
+; source locator: a2.nic.locker.
+; source IP address: 65.22.99.33
+; backup point IP address: 111.42.148.76
+; status: success
+locker.			3599	IN	NS	b0.nic.locker.locker.			3599	IN	NS	a2.nic.locker.locker.			3599	IN	NS	a0.nic.locker.locker.			3599	IN	NS	c0.nic.locker.a2.nic.locker.		600	IN	A	65.22.99.33a2.nic.locker.		599	IN	AAAA	2a01:8840:61::33

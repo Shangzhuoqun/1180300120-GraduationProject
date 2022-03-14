@@ -1,0 +1,7 @@
+; timestamp: 20220306T211221Z
+; source id: tld-query-travel.-v2n0.nic.travel.
+; source locator: v2n0.nic.travel.
+; source IP address: 65.22.31.8
+; backup point IP address: 111.42.148.76
+; status: success
+travel.			3598	IN	NS	v2n1.nic.travel.travel.			3598	IN	NS	v0n2.nic.travel.travel.			3598	IN	NS	v0n0.nic.travel.travel.			3598	IN	NS	v2n0.nic.travel.travel.			3598	IN	NS	v0n3.nic.travel.travel.			3598	IN	NS	v0n1.nic.travel.v2n0.nic.travel.	3598	IN	A	65.22.31.8v2n0.nic.travel.	3598	IN	AAAA	2a01:8840:21::8

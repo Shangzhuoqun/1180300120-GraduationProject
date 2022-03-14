@@ -1,0 +1,11 @@
+; timestamp: 20220306T210451Z
+; source id: tld-query-su.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.dns.ripn.net.:../TldSpider/DataBak/20220306T210451Z-tld-query-su-a.dns.ripn.net
+b.dns.ripn.net.:../TldSpider/DataBak/20220306T210451Z-tld-query-su-b.dns.ripn.net
+d.dns.ripn.net.:../TldSpider/DataBak/20220306T210451Z-tld-query-su-d.dns.ripn.net
+e.dns.ripn.net.:../TldSpider/DataBak/20220306T210451Z-tld-query-su-e.dns.ripn.net
+f.dns.ripn.net.:../TldSpider/DataBak/20220306T210451Z-tld-query-su-f.dns.ripn.net

@@ -1,0 +1,7 @@
+; timestamp: 20220306T211922Z
+; source id: tld-query-winners.-ns3.dns.nic.winners.
+; source locator: ns3.dns.nic.winners.
+; source IP address: 156.154.159.183
+; backup point IP address: 111.42.148.76
+; status: success
+winners.		3596	IN	NS	ns1.dns.nic.winners.winners.		3596	IN	NS	a.nic.winners.winners.		3596	IN	NS	ns2.dns.nic.winners.winners.		3596	IN	NS	c.nic.winners.winners.		3596	IN	NS	b.nic.winners.winners.		3596	IN	NS	ns3.dns.nic.winners.ns3.dns.nic.winners.	3598	IN	A	156.154.159.183ns3.dns.nic.winners.	3598	IN	AAAA	2610:a1:1073::b7

@@ -1,0 +1,7 @@
+; timestamp: 20220306T195854Z
+; source id: tld-query-cy.-cy-ns.anycast.pch.net.
+; source locator: cy-ns.anycast.pch.net.
+; source IP address: 204.61.216.44
+; backup point IP address: 111.42.148.76
+; status: success
+cy.			7200	IN	NS	cynic6.dns.cy.cy.			7200	IN	NS	estia.ics.forth.gr.cy.			7200	IN	NS	ns4.apnic.net.cy.			7200	IN	NS	cy-ns.anycast.pch.net.cy.			7200	IN	NS	ns31.rcode0.net.cy.			7200	IN	NS	cynic4.dns.cy.cy-ns.anycast.pch.net.	3600	IN	A	204.61.216.44cy-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6044:ad::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T195858Z
+; source id: tld-query-cymru.-dnsd.nic.cymru.
+; source locator: dnsd.nic.cymru.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+cymru.			550	IN	NS	dns4.nic.cymru.cymru.			550	IN	NS	dnsd.nic.cymru.cymru.			550	IN	NS	dns3.nic.cymru.cymru.			550	IN	NS	dnsb.nic.cymru.cymru.			550	IN	NS	dns2.nic.cymru.cymru.			550	IN	NS	dns1.nic.cymru.cymru.			550	IN	NS	dnsc.nic.cymru.cymru.			550	IN	NS	dnsa.nic.cymru.dnsd.nic.cymru.		3600	IN	A	156.154.103.3dnsd.nic.cymru.		151200	IN	AAAA	2610:a1:1010::3

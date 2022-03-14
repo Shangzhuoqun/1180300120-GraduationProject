@@ -1,0 +1,27 @@
+; timestamp: 20220306T212922Z
+; source id: tld-query-xn--wgbl6a.-d.registry.qa.
+; source locator: d.registry.qa.
+; source IP address: 212.77.192.13
+; backup point IP address: 111.42.148.76
+; status: success
+xn--wgbl6a.		3598	IN	NS	i.registry.qa.xn--wgbl6a.		3598	IN	NS	d.registry.qa.xn--wgbl6a.		3598	IN	NS	a.registry.qa.xn--wgbl6a.		3598	IN	NS	g.registry.qa.xn--wgbl6a.		3598	IN	NS	b.registry.qa.xn--wgbl6a.		3598	IN	NS	c.registry.qa.xn--wgbl6a.		3598	IN	NS	h.registry.qa.xn--wgbl6a.		3598	IN	NS	e.registry.qa.xn--wgbl6a.		3598	IN	NS	f.registry.qa.d.registry.qa.		1378	IN	A	212.77.192.13dig @212.77.192.13 d.registry.qa. AAAA
+
+; <<>> DiG 9.16.23 <<>> @212.77.192.13 d.registry.qa. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57557
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;d.registry.qa.			IN	AAAA
+
+;; AUTHORITY SECTION:
+registry.qa.		600	IN	SOA	ans0.qaregistry.qa. sent.mail.to.tech.at.domains.qa. 2016060168 3600 300 604800 600
+
+;; Query time: 245 msec
+;; SERVER: 212.77.192.13#53(212.77.192.13)
+;; WHEN: Sun Mar 06 21:29:25 ;; MSG SIZE  rcvd: 123
+

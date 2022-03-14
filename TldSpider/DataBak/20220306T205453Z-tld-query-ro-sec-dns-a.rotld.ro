@@ -1,0 +1,14 @@
+; timestamp: 20220306T205453Z
+; source id: tld-query-ro.-sec-dns-a.rotld.ro.
+; source locator: sec-dns-a.rotld.ro.
+; source IP address: 192.162.16.20
+; backup point IP address: 111.42.148.76
+; status: success
+dig @192.162.16.20 ro. NS
+
+; <<>> DiG 9.16.23 <<>> @192.162.16.20 ro. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+sec-dns-a.rotld.ro.	2579	IN	A	192.162.16.20sec-dns-a.rotld.ro.	3600	IN	AAAA	2a03:5e80:0:4:192:162:16:20

@@ -1,0 +1,12 @@
+; timestamp: 20220306T205248Z
+; source id: tld-query-racing.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-a.nic.racing
+b.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-b.nic.racing
+c.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-c.nic.racing
+ns1.dns.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-ns1.dns.nic.racing
+ns2.dns.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-ns2.dns.nic.racing
+ns3.dns.nic.racing.:../TldSpider/DataBak/20220306T205248Z-tld-query-racing-ns3.dns.nic.racing

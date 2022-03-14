@@ -1,0 +1,7 @@
+; timestamp: 20220306T194638Z
+; source id: tld-query-bh.-c.nic.bh.
+; source locator: c.nic.bh.
+; source IP address: 212.18.248.115
+; backup point IP address: 111.42.148.76
+; status: success
+bh.			172800	IN	NS	b.nic.bh.bh.			172800	IN	NS	c.nic.bh.bh.			172800	IN	NS	a.nic.bh.bh.			172800	IN	NS	d.nic.bh.c.nic.bh.		3600	IN	A	212.18.248.115c.nic.bh.		3600	IN	AAAA	2a04:2b00:13ee::115

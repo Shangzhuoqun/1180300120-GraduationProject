@@ -1,0 +1,12 @@
+; timestamp: 20220306T200726Z
+; source id: tld-query-fox.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-a.nic.fox
+b.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-b.nic.fox
+c.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-c.nic.fox
+ns1.dns.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-ns1.dns.nic.fox
+ns2.dns.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-ns2.dns.nic.fox
+ns3.dns.nic.fox.:../TldSpider/DataBak/20220306T200726Z-tld-query-fox-ns3.dns.nic.fox

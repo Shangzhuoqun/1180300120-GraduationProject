@@ -1,0 +1,48 @@
+; timestamp: 20220306T212405Z
+; source id: tld-query-xn--fzc2c9e2c.-ns3.ac.lk.
+; source locator: ns3.ac.lk.
+; source IP address: 88
+; backup point IP address: 111.42.148.76
+; status: success
+xn--fzc2c9e2c.		3597	IN	NS	ns-l.nic.lk.xn--fzc2c9e2c.		3597	IN	NS	nic.lk-anycast.pch.net.xn--fzc2c9e2c.		3597	IN	NS	ns-c.nic.lk.xn--fzc2c9e2c.		3597	IN	NS	ns-t.nic.lk.xn--fzc2c9e2c.		3597	IN	NS	ns1.ac.lk.xn--fzc2c9e2c.		3597	IN	NS	ns-d.nic.lk.xn--fzc2c9e2c.		3597	IN	NS	lk.communitydns.net.dig @202.124.166.178 ns3.ac.lk. A
+
+; <<>> DiG 9.16.23 <<>> @202.124.166.178 ns3.ac.lk. A
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 34308
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns3.ac.lk.			IN	A
+
+;; AUTHORITY SECTION:
+ac.lk.			7200	IN	SOA	ns1.ac.lk. noc.learn.ac.lk. 2022030301 7200 600 1209600 10800
+
+;; Query time: 1343 msec
+;; SERVER: 202.124.166.178#53(202.124.166.178)
+;; WHEN: Sun Mar 06 21:24:09 ;; MSG SIZE  rcvd: 88
+
+dig @202.124.166.178 ns3.ac.lk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.124.166.178 ns3.ac.lk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17413
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns3.ac.lk.			IN	AAAA
+
+;; AUTHORITY SECTION:
+ac.lk.			7200	IN	SOA	ns1.ac.lk. noc.learn.ac.lk. 2022030301 7200 600 1209600 10800
+
+;; Query time: 10 msec
+;; SERVER: 202.124.166.178#53(202.124.166.178)
+;; WHEN: Sun Mar 06 21:24:09 ;; MSG SIZE  rcvd: 88
+

@@ -1,0 +1,12 @@
+avianca.	172800	in	ns	a0.nic.avianca.
+avianca.	172800	in	ns	a2.nic.avianca.
+avianca.	172800	in	ns	b0.nic.avianca.
+avianca.	172800	in	ns	c0.nic.avianca.
+a0.nic.avianca.	172800	in	a	65.22.80.17
+a0.nic.avianca.	172800	in	aaaa	2a01:8840:4e:0:0:0:0:17
+a2.nic.avianca.	172800	in	a	65.22.83.17
+a2.nic.avianca.	172800	in	aaaa	2a01:8840:51:0:0:0:0:17
+b0.nic.avianca.	172800	in	a	65.22.81.17
+b0.nic.avianca.	172800	in	aaaa	2a01:8840:4f:0:0:0:0:17
+c0.nic.avianca.	172800	in	a	65.22.82.17
+c0.nic.avianca.	172800	in	aaaa	2a01:8840:50:0:0:0:0:17

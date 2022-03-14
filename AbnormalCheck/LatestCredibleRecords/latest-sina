@@ -1,0 +1,12 @@
+sina.	172800	in	ns	a0.nic.sina.
+sina.	172800	in	ns	a2.nic.sina.
+sina.	172800	in	ns	b0.nic.sina.
+sina.	172800	in	ns	c0.nic.sina.
+a0.nic.sina.	172800	in	a	65.22.140.33
+a0.nic.sina.	172800	in	aaaa	2a01:8840:8a:0:0:0:0:33
+a2.nic.sina.	172800	in	a	65.22.143.33
+a2.nic.sina.	172800	in	aaaa	2a01:8840:8d:0:0:0:0:33
+b0.nic.sina.	172800	in	a	65.22.141.33
+b0.nic.sina.	172800	in	aaaa	2a01:8840:8b:0:0:0:0:33
+c0.nic.sina.	172800	in	a	65.22.142.33
+c0.nic.sina.	172800	in	aaaa	2a01:8840:8c:0:0:0:0:33

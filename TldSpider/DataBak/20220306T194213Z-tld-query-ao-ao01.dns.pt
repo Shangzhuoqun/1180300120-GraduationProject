@@ -1,0 +1,7 @@
+; timestamp: 20220306T194213Z
+; source id: tld-query-ao.-ao01.dns.pt.
+; source locator: ao01.dns.pt.
+; source IP address: 185.39.208.17
+; backup point IP address: 111.42.148.76
+; status: success
+ao.			3600	IN	NS	ao01.dns.pt.ao.			3600	IN	NS	ao03.dns.pt.ao.			3600	IN	NS	h.dns.pt.ao01.dns.pt.		900	IN	A	185.39.208.17ao01.dns.pt.		900	IN	AAAA	2a04:6d80::17

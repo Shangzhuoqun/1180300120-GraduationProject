@@ -1,0 +1,27 @@
+; timestamp: 20220306T210105Z
+; source id: tld-query-sm.-dns.intelcom.sm.
+; source locator: dns.intelcom.sm.
+; source IP address: 194.183.64.11
+; backup point IP address: 111.42.148.76
+; status: success
+sm.			86400	IN	NS	dns.intelcom.sm.sm.			86400	IN	NS	dns.omniway.sm.sm.			86400	IN	NS	sm.cctld.authdns.ripe.net.sm.			86400	IN	NS	ns3.telecomitalia.sm.dns.intelcom.sm.	3599	IN	A	194.183.64.11dig @194.183.64.11 dns.intelcom.sm. AAAA
+
+; <<>> DiG 9.16.23 <<>> @194.183.64.11 dns.intelcom.sm. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61598
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dns.intelcom.sm.		IN	AAAA
+
+;; AUTHORITY SECTION:
+intelcom.sm.		1575	IN	SOA	dns.omniway.sm. hostmaster.telecomitalia.sm. 2021092501 86400 7200 3600000 3600
+
+;; Query time: 0 msec
+;; SERVER: 194.183.64.11#53(194.183.64.11)
+;; WHEN: Sun Mar 06 21:01:06 ;; MSG SIZE  rcvd: 117
+

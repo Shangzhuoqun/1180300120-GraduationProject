@@ -1,0 +1,10 @@
+; timestamp: 20220306T210108Z
+; source id: tld-query-smart.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.smart.:../TldSpider/DataBak/20220306T210108Z-tld-query-smart-a.nic.smart
+b.nic.smart.:../TldSpider/DataBak/20220306T210108Z-tld-query-smart-b.nic.smart
+c.nic.smart.:../TldSpider/DataBak/20220306T210108Z-tld-query-smart-c.nic.smart
+d.nic.smart.:../TldSpider/DataBak/20220306T210108Z-tld-query-smart-d.nic.smart

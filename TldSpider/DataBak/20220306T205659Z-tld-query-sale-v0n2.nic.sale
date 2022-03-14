@@ -1,0 +1,7 @@
+; timestamp: 20220306T205659Z
+; source id: tld-query-sale.-v0n2.nic.sale.
+; source locator: v0n2.nic.sale.
+; source IP address: 65.22.22.48
+; backup point IP address: 111.42.148.76
+; status: success
+sale.			3599	IN	NS	v0n3.nic.sale.sale.			3599	IN	NS	v0n1.nic.sale.sale.			3599	IN	NS	v2n0.nic.sale.sale.			3599	IN	NS	v0n2.nic.sale.sale.			3599	IN	NS	v0n0.nic.sale.sale.			3599	IN	NS	v2n1.nic.sale.v0n2.nic.sale.		3598	IN	A	65.22.22.48v0n2.nic.sale.		3598	IN	AAAA	2a01:8840:18::48

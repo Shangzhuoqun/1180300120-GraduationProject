@@ -1,0 +1,10 @@
+; timestamp: 20220306T194840Z
+; source id: tld-query-boston.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.boston.:../TldSpider/DataBak/20220306T194840Z-tld-query-boston-a.nic.boston
+b.nic.boston.:../TldSpider/DataBak/20220306T194840Z-tld-query-boston-b.nic.boston
+c.nic.boston.:../TldSpider/DataBak/20220306T194840Z-tld-query-boston-c.nic.boston
+d.nic.boston.:../TldSpider/DataBak/20220306T194840Z-tld-query-boston-d.nic.boston

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201700Z
+; source id: tld-query-ieee.-dns4.nic.ieee.
+; source locator: dns4.nic.ieee.
+; source IP address: 43.230.51.125
+; backup point IP address: 111.42.148.76
+; status: success
+ieee.			3599	IN	NS	dns4.nic.ieee.ieee.			3599	IN	NS	dns3.nic.ieee.ieee.			3599	IN	NS	dns2.nic.ieee.ieee.			3599	IN	NS	dns1.nic.ieee.ieee.			3599	IN	NS	dnsb.nic.ieee.ieee.			3599	IN	NS	dnsa.nic.ieee.ieee.			3599	IN	NS	dnsd.nic.ieee.ieee.			3599	IN	NS	dnsc.nic.ieee.dns4.nic.ieee.		3598	IN	A	43.230.51.125dns4.nic.ieee.		3600	IN	AAAA	2401:fd80:407::125

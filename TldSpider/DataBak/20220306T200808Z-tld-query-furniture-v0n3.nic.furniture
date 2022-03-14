@@ -1,0 +1,7 @@
+; timestamp: 20220306T200808Z
+; source id: tld-query-furniture.-v0n3.nic.furniture.
+; source locator: v0n3.nic.furniture.
+; source IP address: 161.232.16.59
+; backup point IP address: 111.42.148.76
+; status: success
+furniture.		3598	IN	NS	v0n2.nic.furniture.furniture.		3598	IN	NS	v2n1.nic.furniture.furniture.		3598	IN	NS	v0n0.nic.furniture.furniture.		3598	IN	NS	v0n1.nic.furniture.furniture.		3598	IN	NS	v0n3.nic.furniture.furniture.		3598	IN	NS	v2n0.nic.furniture.v0n3.nic.furniture.	3598	IN	A	161.232.16.59v0n3.nic.furniture.	3598	IN	AAAA	2a01:8840:fa::59

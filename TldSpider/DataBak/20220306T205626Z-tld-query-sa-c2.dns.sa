@@ -1,0 +1,7 @@
+; timestamp: 20220306T205626Z
+; source id: tld-query-sa.-c2.dns.sa.
+; source locator: c2.dns.sa.
+; source IP address: 86.111.196.9
+; backup point IP address: 111.42.148.76
+; status: success
+sa.			3600	IN	NS	s2.dns.sa.sa.			3600	IN	NS	n1.dns.sa.sa.			3600	IN	NS	i1.dns.sa.sa.			3600	IN	NS	c1.dns.sa.sa.			3600	IN	NS	c2.dns.sa.sa.			3600	IN	NS	p1.dns.sa.sa.			3600	IN	NS	s1.dns.sa.c2.dns.sa.		3600	IN	A	86.111.196.9c2.dns.sa.		3600	IN	AAAA	2001:67c:130:10::9

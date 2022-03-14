@@ -1,0 +1,10 @@
+; timestamp: 20220306T202525Z
+; source id: tld-query-la.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.nic.la.:../TldSpider/DataBak/20220306T202525Z-tld-query-la-ns1.nic.la
+ns2.nic.la.:../TldSpider/DataBak/20220306T202525Z-tld-query-la-ns2.nic.la
+ns3.nic.la.:../TldSpider/DataBak/20220306T202525Z-tld-query-la-ns3.nic.la
+ns4.nic.la.:../TldSpider/DataBak/20220306T202525Z-tld-query-la-ns4.nic.la

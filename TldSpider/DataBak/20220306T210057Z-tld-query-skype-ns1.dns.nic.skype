@@ -1,0 +1,7 @@
+; timestamp: 20220306T210057Z
+; source id: tld-query-skype.-ns1.dns.nic.skype.
+; source locator: ns1.dns.nic.skype.
+; source IP address: 156.154.144.151
+; backup point IP address: 111.42.148.76
+; status: success
+skype.			3599	IN	NS	ns2.dns.nic.skype.skype.			3599	IN	NS	c.nic.skype.skype.			3599	IN	NS	a.nic.skype.skype.			3599	IN	NS	ns3.dns.nic.skype.skype.			3599	IN	NS	b.nic.skype.skype.			3599	IN	NS	ns1.dns.nic.skype.ns1.dns.nic.skype.	3599	IN	A	156.154.144.151ns1.dns.nic.skype.	3599	IN	AAAA	2610:a1:1071::97

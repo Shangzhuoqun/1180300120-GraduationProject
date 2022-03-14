@@ -1,0 +1,7 @@
+; timestamp: 20220306T200150Z
+; source id: tld-query-dot.-b0.nic.dot.
+; source locator: b0.nic.dot.
+; source IP address: 65.22.93.1
+; backup point IP address: 111.42.148.76
+; status: success
+dot.			86400	IN	NS	a2.nic.dot.dot.			86400	IN	NS	a0.nic.dot.dot.			86400	IN	NS	c0.nic.dot.dot.			86400	IN	NS	b0.nic.dot.b0.nic.dot.		600	IN	A	65.22.93.1b0.nic.dot.		599	IN	AAAA	2a01:8840:5b::1

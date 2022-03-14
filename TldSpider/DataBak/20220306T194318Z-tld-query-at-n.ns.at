@@ -1,0 +1,7 @@
+; timestamp: 20220306T194318Z
+; source id: tld-query-at.-n.ns.at.
+; source locator: n.ns.at.
+; source IP address: 81.91.173.130
+; backup point IP address: 111.42.148.76
+; status: success
+at.			172800	IN	NS	d.ns.at.at.			172800	IN	NS	j.ns.at.at.			172800	IN	NS	n.ns.at.at.			172800	IN	NS	r.ns.at.at.			172800	IN	NS	u.ns.at.at.			172800	IN	NS	ns1.univie.ac.at.at.			172800	IN	NS	ns2.univie.ac.at.at.			172800	IN	NS	ns9.univie.ac.at.n.ns.at.		33	IN	A	81.91.173.130n.ns.at.		33	IN	AAAA	2a02:568:281::130

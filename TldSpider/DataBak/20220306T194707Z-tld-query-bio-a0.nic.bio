@@ -1,0 +1,7 @@
+; timestamp: 20220306T194707Z
+; source id: tld-query-bio.-a0.nic.bio.
+; source locator: a0.nic.bio.
+; source IP address: 65.22.84.9
+; backup point IP address: 111.42.148.76
+; status: success
+bio.			3600	IN	NS	c0.nic.bio.bio.			3600	IN	NS	b0.nic.bio.bio.			3600	IN	NS	a0.nic.bio.bio.			3600	IN	NS	a2.nic.bio.a0.nic.bio.		600	IN	A	65.22.84.9a0.nic.bio.		599	IN	AAAA	2a01:8840:52::9

@@ -1,0 +1,10 @@
+ns1.teleinfo.cn.	172800	in	a	103.61.60.1
+ns1.teleinfo.cn.	172800	in	aaaa	2402:7d80:0:0:0:0:0:1
+ns3.teleinfo.cn.	172800	in	a	103.61.62.1
+ns2.teleinfoo.com.	172800	in	a	103.61.61.1
+ns2.teleinfoo.com.	172800	in	aaaa	2402:7d80:8888:0:0:0:0:1
+ns4.teleinfoo.com.	172800	in	a	103.61.63.1
+xihuan.	172800	in	ns	ns1.teleinfo.cn.
+xihuan.	172800	in	ns	ns2.teleinfoo.com.
+xihuan.	172800	in	ns	ns3.teleinfo.cn.
+xihuan.	172800	in	ns	ns4.teleinfoo.com.

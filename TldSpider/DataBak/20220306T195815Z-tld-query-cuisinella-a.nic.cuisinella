@@ -1,0 +1,7 @@
+; timestamp: 20220306T195815Z
+; source id: tld-query-cuisinella.-a.nic.cuisinella.
+; source locator: a.nic.cuisinella.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+cuisinella.		594	IN	NS	a.nic.cuisinella.cuisinella.		594	IN	NS	d.nic.cuisinella.cuisinella.		594	IN	NS	b.nic.cuisinella.cuisinella.		594	IN	NS	c.nic.cuisinella.a.nic.cuisinella.	3600	IN	A	37.209.192.9a.nic.cuisinella.	3600	IN	AAAA	2001:dcd:1::9

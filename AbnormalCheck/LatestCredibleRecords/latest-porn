@@ -1,0 +1,12 @@
+porn.	172800	in	ns	a.nic.porn.
+porn.	172800	in	ns	b.nic.porn.
+porn.	172800	in	ns	c.nic.porn.
+porn.	172800	in	ns	d.nic.porn.
+a.nic.porn.	172800	in	a	37.209.192.10
+a.nic.porn.	172800	in	aaaa	2001:dcd:1:0:0:0:0:10
+b.nic.porn.	172800	in	a	37.209.194.10
+b.nic.porn.	172800	in	aaaa	2001:dcd:2:0:0:0:0:10
+c.nic.porn.	172800	in	a	37.209.196.10
+c.nic.porn.	172800	in	aaaa	2001:dcd:3:0:0:0:0:10
+d.nic.porn.	172800	in	a	37.209.198.10
+d.nic.porn.	172800	in	aaaa	2001:dcd:4:0:0:0:0:10

@@ -1,0 +1,7 @@
+; timestamp: 20220306T200351Z
+; source id: tld-query-eu.-si.dns.eu.
+; source locator: si.dns.eu.
+; source IP address: 193.2.221.60
+; backup point IP address: 111.42.148.76
+; status: success
+eu.			3598	IN	NS	x.dns.eu.eu.			3598	IN	NS	y.dns.eu.eu.			3598	IN	NS	be.dns.eu.eu.			3598	IN	NS	w.dns.eu.eu.			3598	IN	NS	si.dns.eu.si.dns.eu.		3598	IN	A	193.2.221.60si.dns.eu.		3598	IN	AAAA	2001:1470:8000:100::1

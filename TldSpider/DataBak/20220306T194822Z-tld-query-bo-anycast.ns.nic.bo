@@ -1,0 +1,7 @@
+; timestamp: 20220306T194822Z
+; source id: tld-query-bo.-anycast.ns.nic.bo.
+; source locator: anycast.ns.nic.bo.
+; source IP address: 204.61.216.48
+; backup point IP address: 111.42.148.76
+; status: success
+bo.			17600	IN	NS	ns.dns.br.bo.			17600	IN	NS	ns2.nic.fr.bo.			17600	IN	NS	ns.nic.bo.bo.			17600	IN	NS	anycast.ns.nic.bo.anycast.ns.nic.bo.	3600	IN	A	204.61.216.48anycast.ns.nic.bo.	3599	IN	AAAA	2001:500:14:6048:ad::1

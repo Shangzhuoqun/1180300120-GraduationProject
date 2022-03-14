@@ -1,0 +1,7 @@
+; timestamp: 20220306T195357Z
+; source id: tld-query-chase.-ns1.dns.nic.chase.
+; source locator: ns1.dns.nic.chase.
+; source IP address: 156.154.144.39
+; backup point IP address: 111.42.148.76
+; status: success
+chase.			1083	IN	NS	ns4.dns.nic.chase.chase.			1083	IN	NS	ns5.dns.nic.chase.chase.			1083	IN	NS	ns2.dns.nic.chase.chase.			1083	IN	NS	ns6.dns.nic.chase.chase.			1083	IN	NS	ns3.dns.nic.chase.chase.			1083	IN	NS	ns1.dns.nic.chase.ns1.dns.nic.chase.	3600	IN	A	156.154.144.39ns1.dns.nic.chase.	3600	IN	AAAA	2610:a1:1071::27

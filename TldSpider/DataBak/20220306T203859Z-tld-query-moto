@@ -1,0 +1,12 @@
+; timestamp: 20220306T203859Z
+; source id: tld-query-moto.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns1.dns.nic.moto
+ns2.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns2.dns.nic.moto
+ns3.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns3.dns.nic.moto
+ns4.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns4.dns.nic.moto
+ns5.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns5.dns.nic.moto
+ns6.dns.nic.moto.:../TldSpider/DataBak/20220306T203859Z-tld-query-moto-ns6.dns.nic.moto

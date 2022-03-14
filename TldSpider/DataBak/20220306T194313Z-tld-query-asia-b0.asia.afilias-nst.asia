@@ -1,0 +1,7 @@
+; timestamp: 20220306T194313Z
+; source id: tld-query-asia.-b0.asia.afilias-nst.asia.
+; source locator: b0.asia.afilias-nst.asia.
+; source IP address: 199.254.28.1
+; backup point IP address: 111.42.148.76
+; status: success
+asia.			1569	IN	NS	b0.asia.afilias-nst.asia.asia.			1569	IN	NS	a0.asia.afilias-nst.info.asia.			1569	IN	NS	c0.asia.afilias-nst.info.asia.			1569	IN	NS	a2.asia.afilias-nst.info.asia.			1569	IN	NS	d0.asia.afilias-nst.asia.asia.			1569	IN	NS	b2.asia.afilias-nst.org.b0.asia.afilias-nst.asia. 1390	IN	A	199.254.28.1b0.asia.afilias-nst.asia. 1455	IN	AAAA	2001:500:16::1

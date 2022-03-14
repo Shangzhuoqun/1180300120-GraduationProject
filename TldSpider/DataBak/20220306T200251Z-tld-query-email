@@ -1,0 +1,12 @@
+; timestamp: 20220306T200251Z
+; source id: tld-query-email.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v0n0.nic.email
+v0n1.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v0n1.nic.email
+v0n2.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v0n2.nic.email
+v0n3.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v0n3.nic.email
+v2n0.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v2n0.nic.email
+v2n1.nic.email.:../TldSpider/DataBak/20220306T200251Z-tld-query-email-v2n1.nic.email

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204747Z
+; source id: tld-query-pg.-munnari.oz.au.
+; source locator: munnari.oz.au.
+; source IP address: 202.29.151.3
+; backup point IP address: 111.42.148.76
+; status: success
+pg.			3578	IN	NS	ns1.unitech.ac.pg.pg.			3578	IN	NS	munnari.oz.au.pg.			3578	IN	NS	ns1.tiare.net.pg.pg.			3578	IN	NS	ns2.tiare.net.pg.pg.			3578	IN	NS	ns.UU.NET.munnari.oz.au.		3330	IN	A	202.29.151.3munnari.oz.au.		1450	IN	AAAA	2001:3c8:9007:1::21munnari.oz.au.		1450	IN	AAAA	2001:3c8:9009:181::2

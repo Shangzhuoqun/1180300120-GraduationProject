@@ -1,0 +1,7 @@
+; timestamp: 20220306T201225Z
+; source id: tld-query-gq.-b.ns.gq.
+; source locator: b.ns.gq.
+; source IP address: 185.21.169.65
+; backup point IP address: 111.42.148.76
+; status: success
+gq.			10800	IN	NS	a.ns.gq.gq.			10800	IN	NS	b.ns.gq.gq.			10800	IN	NS	c.ns.gq.gq.			10800	IN	NS	d.ns.gq.b.ns.gq.		1325	IN	A	185.21.169.65b.ns.gq.		1388	IN	AAAA	2a04:1b00:11::1

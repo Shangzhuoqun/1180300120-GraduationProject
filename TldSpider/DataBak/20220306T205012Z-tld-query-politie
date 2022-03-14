@@ -1,0 +1,9 @@
+; timestamp: 20220306T205012Z
+; source id: tld-query-politie.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.nic.politie.:../TldSpider/DataBak/20220306T205012Z-tld-query-politie-ns1.nic.politie
+ns2.nic.politie.:../TldSpider/DataBak/20220306T205012Z-tld-query-politie-ns2.nic.politie
+ns3.nic.politie.:../TldSpider/DataBak/20220306T205012Z-tld-query-politie-ns3.nic.politie

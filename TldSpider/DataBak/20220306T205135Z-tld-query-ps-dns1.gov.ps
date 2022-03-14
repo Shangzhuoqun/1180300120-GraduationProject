@@ -1,0 +1,34 @@
+; timestamp: 20220306T205135Z
+; source id: tld-query-ps.-dns1.gov.ps.
+; source locator: dns1.gov.ps.
+; source IP address: 213.244.86.68
+; backup point IP address: 111.42.148.76
+; status: success
+dig @213.244.82.147 ps. NS
+
+; <<>> DiG 9.16.23 <<>> @213.244.82.147 ps. NS
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+dns1.gov.ps.		2316	IN	A	213.244.86.68dig @213.244.82.147 dns1.gov.ps. AAAA
+
+; <<>> DiG 9.16.23 <<>> @213.244.82.147 dns1.gov.ps. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8206
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;dns1.gov.ps.			IN	AAAA
+
+;; AUTHORITY SECTION:
+gov.ps.			513	IN	SOA	ns1.gov.ps. sys.gov.ps. 2022022701 14400 600 1209600 3600
+
+;; Query time: 6 msec
+;; SERVER: 213.244.82.147#53(213.244.82.147)
+;; WHEN: Sun Mar 06 20:51:53 ;; MSG SIZE  rcvd: 84
+

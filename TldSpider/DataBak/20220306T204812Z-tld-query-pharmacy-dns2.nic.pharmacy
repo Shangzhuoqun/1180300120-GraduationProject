@@ -1,0 +1,7 @@
+; timestamp: 20220306T204812Z
+; source id: tld-query-pharmacy.-dns2.nic.pharmacy.
+; source locator: dns2.nic.pharmacy.
+; source IP address: 103.49.83.45
+; backup point IP address: 111.42.148.76
+; status: success
+pharmacy.		3598	IN	NS	dnsd.nic.pharmacy.pharmacy.		3598	IN	NS	dns1.nic.pharmacy.pharmacy.		3598	IN	NS	dnsc.nic.pharmacy.pharmacy.		3598	IN	NS	dns2.nic.pharmacy.pharmacy.		3598	IN	NS	dns3.nic.pharmacy.pharmacy.		3598	IN	NS	dns4.nic.pharmacy.pharmacy.		3598	IN	NS	dnsa.nic.pharmacy.pharmacy.		3598	IN	NS	dnsb.nic.pharmacy.dns2.nic.pharmacy.	599	IN	A	103.49.83.45dns2.nic.pharmacy.	598	IN	AAAA	2401:fd80:403::45

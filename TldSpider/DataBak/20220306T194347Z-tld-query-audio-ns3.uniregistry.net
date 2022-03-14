@@ -1,0 +1,7 @@
+; timestamp: 20220306T194347Z
+; source id: tld-query-audio.-ns3.uniregistry.net.
+; source locator: ns3.uniregistry.net.
+; source IP address: 185.159.197.3
+; backup point IP address: 111.42.148.76
+; status: success
+audio.			1545	IN	NS	ns2.uniregistry.info.audio.			1545	IN	NS	ns4.uniregistry.info.audio.			1545	IN	NS	ns1.uniregistry.net.audio.			1545	IN	NS	ns3.uniregistry.net.ns3.uniregistry.net.	3600	IN	A	185.159.197.3ns3.uniregistry.net.	3600	IN	AAAA	2620:10a:80aa::3

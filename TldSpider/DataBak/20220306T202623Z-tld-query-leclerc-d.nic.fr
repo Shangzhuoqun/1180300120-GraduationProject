@@ -1,0 +1,7 @@
+; timestamp: 20220306T202623Z
+; source id: tld-query-leclerc.-d.nic.fr.
+; source locator: d.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+leclerc.		3600	IN	NS	g.ext.nic.fr.leclerc.		3600	IN	NS	d.nic.fr.leclerc.		3600	IN	NS	f.ext.nic.fr.d.nic.fr.		1960	IN	A	194.0.9.1d.nic.fr.		2467	IN	AAAA	2001:678:c::1

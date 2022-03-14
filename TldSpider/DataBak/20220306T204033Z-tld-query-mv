@@ -1,0 +1,9 @@
+; timestamp: 20220306T204033Z
+; source id: tld-query-mv.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns.dhivehinet.net.mv.:../TldSpider/DataBak/20220306T204033Z-tld-query-mv-ns.dhivehinet.net.mv
+ns2.dhivehinet.net.mv.:../TldSpider/DataBak/20220306T204033Z-tld-query-mv-ns2.dhivehinet.net.mv
+mv-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T204033Z-tld-query-mv-mv-ns.anycast.pch.net

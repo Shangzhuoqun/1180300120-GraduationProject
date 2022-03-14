@@ -1,0 +1,27 @@
+; timestamp: 20220306T200610Z
+; source id: tld-query-fk.-ns2.horizon.net.fk.
+; source locator: ns2.horizon.net.fk.
+; source IP address: 80.73.216.251
+; backup point IP address: 111.42.148.76
+; status: success
+fk.			86400	IN	NS	ns1.horizon.net.fk.fk.			86400	IN	NS	ns2.horizon.net.fk.fk.			86400	IN	NS	ns3.horizon.net.fk.ns2.horizon.net.fk.	3600	IN	A	80.73.216.251dig @80.73.216.251 ns2.horizon.net.fk. AAAA
+
+; <<>> DiG 9.16.23 <<>> @80.73.216.251 ns2.horizon.net.fk. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4524
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns2.horizon.net.fk.		IN	AAAA
+
+;; AUTHORITY SECTION:
+horizon.net.fk.		1799	IN	SOA	ns1.horizon.net.fk. hostmaster.horizon.net.fk. 2020030400 10800 7200 1209600 86400
+
+;; Query time: 3 msec
+;; SERVER: 80.73.216.251#53(80.73.216.251)
+;; WHEN: Sun Mar 06 20:06:23 ;; MSG SIZE  rcvd: 98
+

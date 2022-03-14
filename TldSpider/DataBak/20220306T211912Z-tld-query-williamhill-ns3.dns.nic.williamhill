@@ -1,0 +1,7 @@
+; timestamp: 20220306T211912Z
+; source id: tld-query-williamhill.-ns3.dns.nic.williamhill.
+; source locator: ns3.dns.nic.williamhill.
+; source IP address: 156.154.159.181
+; backup point IP address: 111.42.148.76
+; status: success
+williamhill.		3598	IN	NS	a.nic.williamhill.williamhill.		3598	IN	NS	ns1.dns.nic.williamhill.williamhill.		3598	IN	NS	ns3.dns.nic.williamhill.williamhill.		3598	IN	NS	b.nic.williamhill.williamhill.		3598	IN	NS	ns2.dns.nic.williamhill.williamhill.		3598	IN	NS	c.nic.williamhill.ns3.dns.nic.williamhill. 3598	IN	A	156.154.159.181ns3.dns.nic.williamhill. 3599	IN	AAAA	2610:a1:1073::b5

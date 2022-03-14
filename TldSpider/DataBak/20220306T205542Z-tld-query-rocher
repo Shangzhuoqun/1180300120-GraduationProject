@@ -1,0 +1,12 @@
+; timestamp: 20220306T205542Z
+; source id: tld-query-rocher.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-a.nic.rocher
+b.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-b.nic.rocher
+c.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-c.nic.rocher
+ns1.dns.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-ns1.dns.nic.rocher
+ns2.dns.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-ns2.dns.nic.rocher
+ns3.dns.nic.rocher.:../TldSpider/DataBak/20220306T205542Z-tld-query-rocher-ns3.dns.nic.rocher

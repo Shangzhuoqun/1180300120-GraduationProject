@@ -1,0 +1,10 @@
+; timestamp: 20220306T194348Z
+; source id: tld-query-auspost.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.auspost.:../TldSpider/DataBak/20220306T194348Z-tld-query-auspost-a.nic.auspost
+b.nic.auspost.:../TldSpider/DataBak/20220306T194348Z-tld-query-auspost-b.nic.auspost
+c.nic.auspost.:../TldSpider/DataBak/20220306T194348Z-tld-query-auspost-c.nic.auspost
+d.nic.auspost.:../TldSpider/DataBak/20220306T194348Z-tld-query-auspost-d.nic.auspost

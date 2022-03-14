@@ -1,0 +1,10 @@
+ax.	172800	in	ns	ns1.aland.net.
+ax.	172800	in	ns	ns2.aland.net.
+ax.	172800	in	ns	ns3.alcom.fi.
+ax.	172800	in	ns	ns4.alcom.fi.
+ns3.alcom.fi.	172800	in	a	82.199.186.130
+ns3.alcom.fi.	172800	in	aaaa	2a00:5500:1:6:0:0:0:130
+ns4.alcom.fi.	172800	in	a	82.199.184.194
+ns4.alcom.fi.	172800	in	aaaa	2a00:5500:1:7:0:0:0:194
+ns1.aland.net.	172800	in	a	194.112.0.1
+ns2.aland.net.	172800	in	a	194.112.0.5

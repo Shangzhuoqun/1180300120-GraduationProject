@@ -1,0 +1,27 @@
+; timestamp: 20220306T211105Z
+; source id: tld-query-to.-singapore.tonic.to.
+; source locator: singapore.tonic.to.
+; source IP address: 188.166.187.0
+; backup point IP address: 111.42.148.76
+; status: success
+to.			86400	IN	NS	singapore.tonic.to.to.			86400	IN	NS	helsinki.tonic.to.to.			86400	IN	NS	newyork.tonic.to.to.			86400	IN	NS	colo.tonic.to.to.			86400	IN	NS	tonic.to.to.			86400	IN	NS	sydney.tonic.to.to.			86400	IN	NS	frankfurt.tonic.to.singapore.tonic.to.	3600	IN	A	188.166.187.0dig @188.166.187.0 singapore.tonic.to. AAAA
+
+; <<>> DiG 9.16.23 <<>> @188.166.187.0 singapore.tonic.to. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;singapore.tonic.to.		IN	AAAA
+
+;; AUTHORITY SECTION:
+tonic.to.		1800	IN	SOA	tonic.to. hostmaster.colo.to. 2020121901 43200 7200 2592000 3600
+
+;; Query time: 31 msec
+;; SERVER: 188.166.187.0#53(188.166.187.0)
+;; WHEN: Sun Mar 06 21:11:29 ;; MSG SIZE  rcvd: 99
+

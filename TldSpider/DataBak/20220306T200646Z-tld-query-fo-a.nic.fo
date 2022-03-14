@@ -1,0 +1,7 @@
+; timestamp: 20220306T200646Z
+; source id: tld-query-fo.-a.nic.fo.
+; source locator: a.nic.fo.
+; source IP address: 194.169.218.27
+; backup point IP address: 111.42.148.76
+; status: success
+fo.			172800	IN	NS	a.nic.fo.fo.			172800	IN	NS	d.nic.fo.fo.			172800	IN	NS	b.nic.fo.fo.			172800	IN	NS	c.nic.fo.a.nic.fo.		3600	IN	A	194.169.218.27a.nic.fo.		3600	IN	AAAA	2001:67c:13cc::1:27

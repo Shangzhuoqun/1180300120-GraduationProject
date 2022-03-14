@@ -1,0 +1,7 @@
+; timestamp: 20220306T204633Z
+; source id: tld-query-paris.-d.nic.fr.
+; source locator: d.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+paris.			3600	IN	NS	h.ext.nic.fr.paris.			3600	IN	NS	d.nic.fr.paris.			3600	IN	NS	f.ext.nic.fr.paris.			3600	IN	NS	g.ext.nic.fr.d.nic.fr.		748	IN	A	194.0.9.1d.nic.fr.		1256	IN	AAAA	2001:678:c::1

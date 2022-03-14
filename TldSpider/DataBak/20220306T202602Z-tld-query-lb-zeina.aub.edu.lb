@@ -1,0 +1,27 @@
+; timestamp: 20220306T202602Z
+; source id: tld-query-lb.-zeina.aub.edu.lb.
+; source locator: zeina.aub.edu.lb.
+; source IP address: 193.188.128.14
+; backup point IP address: 111.42.148.76
+; status: success
+lb.			14400	IN	NS	NS4.SEACOMNET.COM.lb.			14400	IN	NS	zeina.aub.edu.lb.lb.			14400	IN	NS	fork.sth.dnsnode.net.lb.			14400	IN	NS	NS3.SEACOMNET.COM.lb.			14400	IN	NS	rip.psg.com.lb.			14400	IN	NS	NS-JP.LBDR.ORG.LB.lb.			14400	IN	NS	NN.UNINETT.NO.zeina.aub.edu.lb.	3594	IN	A	193.188.128.14dig @193.188.128.14 zeina.aub.edu.lb. AAAA
+
+; <<>> DiG 9.16.23 <<>> @193.188.128.14 zeina.aub.edu.lb. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8395
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;zeina.aub.edu.lb.		IN	AAAA
+
+;; AUTHORITY SECTION:
+aub.edu.lb.		1794	IN	SOA	zeina.aub.edu.lb. postmaster.aub.edu.lb. 2022030300 86400 3600 604800 86400
+
+;; Query time: 3 msec
+;; SERVER: 193.188.128.14#53(193.188.128.14)
+;; WHEN: Sun Mar 06 20:26:11 ;; MSG SIZE  rcvd: 92
+

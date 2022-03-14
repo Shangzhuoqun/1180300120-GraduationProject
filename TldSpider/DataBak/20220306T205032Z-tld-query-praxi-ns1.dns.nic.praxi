@@ -1,0 +1,7 @@
+; timestamp: 20220306T205032Z
+; source id: tld-query-praxi.-ns1.dns.nic.praxi.
+; source locator: ns1.dns.nic.praxi.
+; source IP address: 156.154.144.139
+; backup point IP address: 111.42.148.76
+; status: success
+praxi.			3598	IN	NS	b.nic.praxi.praxi.			3598	IN	NS	c.nic.praxi.praxi.			3598	IN	NS	ns1.dns.nic.praxi.praxi.			3598	IN	NS	a.nic.praxi.praxi.			3598	IN	NS	ns3.dns.nic.praxi.praxi.			3598	IN	NS	ns2.dns.nic.praxi.ns1.dns.nic.praxi.	3600	IN	A	156.154.144.139ns1.dns.nic.praxi.	3600	IN	AAAA	2610:a1:1071::8b

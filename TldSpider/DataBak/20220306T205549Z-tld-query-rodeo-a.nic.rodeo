@@ -1,0 +1,7 @@
+; timestamp: 20220306T205549Z
+; source id: tld-query-rodeo.-a.nic.rodeo.
+; source locator: a.nic.rodeo.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+rodeo.			3600	IN	NS	b.nic.rodeo.rodeo.			3600	IN	NS	c.nic.rodeo.rodeo.			3600	IN	NS	d.nic.rodeo.rodeo.			3600	IN	NS	a.nic.rodeo.a.nic.rodeo.		3600	IN	A	37.209.192.10a.nic.rodeo.		3600	IN	AAAA	2001:dcd:1::10

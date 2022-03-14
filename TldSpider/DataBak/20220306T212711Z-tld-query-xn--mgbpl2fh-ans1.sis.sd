@@ -1,0 +1,27 @@
+; timestamp: 20220306T212711Z
+; source id: tld-query-xn--mgbpl2fh.-ans1.sis.sd.
+; source locator: ans1.sis.sd.
+; source IP address: 196.29.166.134
+; backup point IP address: 111.42.148.76
+; status: success
+xn--mgbpl2fh.		3600	IN	NS	ans2.canar.sd.xn--mgbpl2fh.		3600	IN	NS	ns-sd.afrinic.net.xn--mgbpl2fh.		3600	IN	NS	ans1.sis.sd.xn--mgbpl2fh.		3600	IN	NS	pch.sis.sd.xn--mgbpl2fh.		3600	IN	NS	ns.cocca.fr.xn--mgbpl2fh.		3600	IN	NS	ans1.canar.sd.ans1.sis.sd.		1889	IN	A	196.29.166.134dig @196.29.166.134 ans1.sis.sd. AAAA
+
+; <<>> DiG 9.16.23 <<>> @196.29.166.134 ans1.sis.sd. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34270
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ans1.sis.sd.			IN	AAAA
+
+;; AUTHORITY SECTION:
+sis.sd.			91	IN	SOA	ans1.sis.sd. mbashir.mbash.com. 2018052706 10800 3600 2592000 86400
+
+;; Query time: 0 msec
+;; SERVER: 196.29.166.134#53(196.29.166.134)
+;; WHEN: Sun Mar 06 21:27:12 ;; MSG SIZE  rcvd: 93
+

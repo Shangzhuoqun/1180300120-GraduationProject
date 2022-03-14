@@ -1,0 +1,14 @@
+fork.sth.dnsnode.net.	172800	in	a	77.72.229.254
+fork.sth.dnsnode.net.	172800	in	aaaa	2a01:3f0:0:306:0:0:0:53
+pn.	172800	in	ns	ns0.pitcairn.net.pn.
+pn.	172800	in	ns	ns1.pitcairn.net.pn.
+pn.	172800	in	ns	dns1.nominetdns.uk.
+pn.	172800	in	ns	dns4.nominetdns.uk.
+pn.	172800	in	ns	fork.sth.dnsnode.net.
+ns0.pitcairn.net.pn.	172800	in	a	173.230.153.180
+ns1.pitcairn.net.pn.	172800	in	a	204.61.216.136
+ns1.pitcairn.net.pn.	172800	in	aaaa	2001:500:14:6136:ad:0:0:1
+dns1.nominetdns.uk.	172800	in	a	213.248.219.254
+dns1.nominetdns.uk.	172800	in	aaaa	2a01:618:403:0:0:0:0:254
+dns4.nominetdns.uk.	172800	in	a	43.230.51.254
+dns4.nominetdns.uk.	172800	in	aaaa	2401:fd80:407:0:0:0:0:254

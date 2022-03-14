@@ -1,0 +1,7 @@
+; timestamp: 20220306T211312Z
+; source id: tld-query-tvs.-c0.nic.tvs.
+; source locator: c0.nic.tvs.
+; source IP address: 65.22.206.9
+; backup point IP address: 111.42.148.76
+; status: success
+tvs.			86400	IN	NS	c0.nic.tvs.tvs.			86400	IN	NS	a0.nic.tvs.tvs.			86400	IN	NS	a2.nic.tvs.tvs.			86400	IN	NS	b0.nic.tvs.c0.nic.tvs.		598	IN	A	65.22.206.9c0.nic.tvs.		598	IN	AAAA	2a01:8840:c8::9

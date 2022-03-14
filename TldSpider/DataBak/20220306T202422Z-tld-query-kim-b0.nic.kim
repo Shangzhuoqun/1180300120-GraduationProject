@@ -1,0 +1,7 @@
+; timestamp: 20220306T202422Z
+; source id: tld-query-kim.-b0.nic.kim.
+; source locator: b0.nic.kim.
+; source IP address: 65.22.29.1
+; backup point IP address: 111.42.148.76
+; status: success
+kim.			3600	IN	NS	a0.nic.kim.kim.			3600	IN	NS	c0.nic.kim.kim.			3600	IN	NS	a2.nic.kim.kim.			3600	IN	NS	b0.nic.kim.b0.nic.kim.		599	IN	A	65.22.29.1b0.nic.kim.		599	IN	AAAA	2a01:8840:1f::1

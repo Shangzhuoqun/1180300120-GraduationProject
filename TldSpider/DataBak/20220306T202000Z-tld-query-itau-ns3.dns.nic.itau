@@ -1,0 +1,7 @@
+; timestamp: 20220306T202000Z
+; source id: tld-query-itau.-ns3.dns.nic.itau.
+; source locator: ns3.dns.nic.itau.
+; source IP address: 156.154.159.84
+; backup point IP address: 111.42.148.76
+; status: success
+itau.			3599	IN	NS	ns4.dns.nic.itau.itau.			3599	IN	NS	ns6.dns.nic.itau.itau.			3599	IN	NS	ns2.dns.nic.itau.itau.			3599	IN	NS	ns1.dns.nic.itau.itau.			3599	IN	NS	ns5.dns.nic.itau.itau.			3599	IN	NS	ns3.dns.nic.itau.ns3.dns.nic.itau.	3599	IN	A	156.154.159.84ns3.dns.nic.itau.	3599	IN	AAAA	2610:a1:1073::54

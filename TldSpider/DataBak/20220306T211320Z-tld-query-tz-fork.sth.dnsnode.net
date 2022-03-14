@@ -1,0 +1,7 @@
+; timestamp: 20220306T211320Z
+; source id: tld-query-tz.-fork.sth.dnsnode.net.
+; source locator: fork.sth.dnsnode.net.
+; source IP address: 77.72.229.254
+; backup point IP address: 111.42.148.76
+; status: success
+tz.			3582	IN	NS	rip.psg.com.tz.			3582	IN	NS	ns.anycast.co.tz.tz.			3582	IN	NS	d.ext.nic.cz.tz.			3582	IN	NS	ns2.tznic.or.tz.tz.			3582	IN	NS	ns-tz.afrinic.net.tz.			3582	IN	NS	fork.sth.dnsnode.net.fork.sth.dnsnode.net.	1607	IN	A	77.72.229.254fork.sth.dnsnode.net.	746	IN	AAAA	2a01:3f0:0:306::53

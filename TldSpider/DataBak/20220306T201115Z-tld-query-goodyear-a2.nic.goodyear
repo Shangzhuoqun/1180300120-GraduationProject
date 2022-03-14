@@ -1,0 +1,7 @@
+; timestamp: 20220306T201115Z
+; source id: tld-query-goodyear.-a2.nic.goodyear.
+; source locator: a2.nic.goodyear.
+; source IP address: 65.22.123.41
+; backup point IP address: 111.42.148.76
+; status: success
+goodyear.		3599	IN	NS	a2.nic.goodyear.goodyear.		3599	IN	NS	c0.nic.goodyear.goodyear.		3599	IN	NS	a0.nic.goodyear.goodyear.		3599	IN	NS	b0.nic.goodyear.a2.nic.goodyear.	599	IN	A	65.22.123.41a2.nic.goodyear.	600	IN	AAAA	2a01:8840:79::41

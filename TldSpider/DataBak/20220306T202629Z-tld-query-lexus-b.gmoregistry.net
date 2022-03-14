@@ -1,0 +1,7 @@
+; timestamp: 20220306T202629Z
+; source id: tld-query-lexus.-b.gmoregistry.net.
+; source locator: b.gmoregistry.net.
+; source IP address: 37.209.194.4
+; backup point IP address: 111.42.148.76
+; status: success
+lexus.			3599	IN	NS	k.gmoregistry.net.lexus.			3599	IN	NS	b.gmoregistry.net.lexus.			3599	IN	NS	a.gmoregistry.net.lexus.			3599	IN	NS	l.gmoregistry.net.b.gmoregistry.net.	3115	IN	A	37.209.194.4b.gmoregistry.net.	115	IN	AAAA	2001:dcd:2::4

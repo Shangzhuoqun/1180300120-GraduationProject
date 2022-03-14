@@ -1,0 +1,7 @@
+; timestamp: 20220306T195917Z
+; source id: tld-query-date.-a.nic.date.
+; source locator: a.nic.date.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+date.			542	IN	NS	c.nic.date.date.			542	IN	NS	a.nic.date.date.			542	IN	NS	b.nic.date.date.			542	IN	NS	ns3.dns.nic.date.date.			542	IN	NS	ns2.dns.nic.date.date.			542	IN	NS	ns1.dns.nic.date.a.nic.date.		1358	IN	A	37.209.192.10a.nic.date.		1359	IN	AAAA	2001:dcd:1::10

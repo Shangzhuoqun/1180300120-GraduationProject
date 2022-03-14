@@ -1,0 +1,7 @@
+; timestamp: 20220306T200207Z
+; source id: tld-query-durban.-ns2us.dns.business.
+; source locator: ns2us.dns.business.
+; source IP address: 147.135.106.236
+; backup point IP address: 111.42.148.76
+; status: success
+durban.			424	IN	NS	ns.coza.net.za.durban.			424	IN	NS	coza1.dnsnode.net.durban.			424	IN	NS	ns2us.dns.business.ns2us.dns.business.	2065	IN	A	147.135.106.236ns2us.dns.business.	2064	IN	AAAA	2604:2dc0:200:2eb::2

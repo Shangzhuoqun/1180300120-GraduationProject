@@ -1,0 +1,12 @@
+mini.	172800	in	ns	a.nic.mini.
+mini.	172800	in	ns	b.nic.mini.
+mini.	172800	in	ns	c.nic.mini.
+mini.	172800	in	ns	d.nic.mini.
+a.nic.mini.	172800	in	a	194.169.218.95
+a.nic.mini.	172800	in	aaaa	2001:67c:13cc:0:0:0:1:95
+b.nic.mini.	172800	in	a	185.24.64.95
+b.nic.mini.	172800	in	aaaa	2a04:2b00:13cc:0:0:0:1:95
+c.nic.mini.	172800	in	a	212.18.248.95
+c.nic.mini.	172800	in	aaaa	2a04:2b00:13ee:0:0:0:0:95
+d.nic.mini.	172800	in	a	212.18.249.95
+d.nic.mini.	172800	in	aaaa	2a04:2b00:13ff:0:0:0:0:95

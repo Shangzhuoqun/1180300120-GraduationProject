@@ -1,0 +1,7 @@
+; timestamp: 20220306T205218Z
+; source id: tld-query-qa.-f.registry.qa.
+; source locator: f.registry.qa.
+; source IP address: 37.209.192.6
+; backup point IP address: 111.42.148.76
+; status: success
+qa.			3600	IN	NS	a.registry.qa.qa.			3600	IN	NS	g.registry.qa.qa.			3600	IN	NS	f.registry.qa.qa.			3600	IN	NS	h.registry.qa.qa.			3600	IN	NS	c.registry.qa.qa.			3600	IN	NS	d.registry.qa.qa.			3600	IN	NS	b.registry.qa.qa.			3600	IN	NS	e.registry.qa.qa.			3600	IN	NS	i.registry.qa.f.registry.qa.		3600	IN	A	37.209.192.6f.registry.qa.		3600	IN	AAAA	2001:dcd:1::6

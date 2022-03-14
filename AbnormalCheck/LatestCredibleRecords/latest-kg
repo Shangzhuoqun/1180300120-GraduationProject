@@ -1,0 +1,9 @@
+kg.	172800	in	ns	kg.cctld.authdns.ripe.net.
+kg.	172800	in	ns	ns.kg.
+kg.	172800	in	ns	ns2.kg.
+ns.kg.	172800	in	a	195.38.160.36
+ns.kg.	172800	in	aaaa	2a11:a380:0:0:195:38:160:36
+ns2.kg.	172800	in	a	195.38.160.38
+ns2.kg.	172800	in	aaaa	2a11:a380:0:0:195:38:160:38
+kg.cctld.authdns.ripe.net.	172800	in	a	193.0.9.84
+kg.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:84

@@ -1,0 +1,12 @@
+ae.	172800	in	ns	ns1.aedns.ae.
+ae.	172800	in	ns	ns2.aedns.ae.
+ae.	172800	in	ns	ns4.apnic.net.
+ae.	172800	in	ns	nsext-pch.aedns.ae.
+ns1.aedns.ae.	172800	in	a	79.98.120.73
+ns1.aedns.ae.	172800	in	aaaa	2a00:d30:120:0:0:0:0:73
+ns2.aedns.ae.	172800	in	a	79.98.121.73
+ns2.aedns.ae.	172800	in	aaaa	2a00:d30:121:0:0:0:0:73
+nsext-pch.aedns.ae.	172800	in	a	199.4.137.1
+nsext-pch.aedns.ae.	172800	in	aaaa	2001:500:7d:0:0:0:0:1
+ns4.apnic.net.	172800	in	a	202.12.31.53
+ns4.apnic.net.	172800	in	aaaa	2001:dd8:12:0:0:0:0:53

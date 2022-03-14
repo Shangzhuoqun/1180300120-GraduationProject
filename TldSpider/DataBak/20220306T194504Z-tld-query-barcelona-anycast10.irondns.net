@@ -1,0 +1,7 @@
+; timestamp: 20220306T194504Z
+; source id: tld-query-barcelona.-anycast10.irondns.net.
+; source locator: anycast10.irondns.net.
+; source IP address: 195.253.64.12
+; backup point IP address: 111.42.148.76
+; status: success
+barcelona.		1490	IN	NS	anycast23.irondns.net.barcelona.		1490	IN	NS	anycast9.irondns.net.barcelona.		1490	IN	NS	anycast10.irondns.net.barcelona.		1490	IN	NS	anycast24.irondns.net.anycast10.irondns.net.	2541	IN	A	195.253.64.12anycast10.irondns.net.	3395	IN	AAAA	2a01:5b0:4::c

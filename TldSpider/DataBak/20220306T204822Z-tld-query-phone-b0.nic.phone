@@ -1,0 +1,7 @@
+; timestamp: 20220306T204822Z
+; source id: tld-query-phone.-b0.nic.phone.
+; source locator: b0.nic.phone.
+; source IP address: 65.22.97.17
+; backup point IP address: 111.42.148.76
+; status: success
+phone.			3599	IN	NS	c0.nic.phone.phone.			3599	IN	NS	a0.nic.phone.phone.			3599	IN	NS	b0.nic.phone.phone.			3599	IN	NS	a2.nic.phone.b0.nic.phone.		600	IN	A	65.22.97.17b0.nic.phone.		598	IN	AAAA	2a01:8840:5f::17

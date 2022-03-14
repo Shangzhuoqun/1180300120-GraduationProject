@@ -1,0 +1,7 @@
+; timestamp: 20220306T201526Z
+; source id: tld-query-horse.-a.nic.horse.
+; source locator: a.nic.horse.
+; source IP address: 37.209.192.10
+; backup point IP address: 111.42.148.76
+; status: success
+horse.			3600	IN	NS	d.nic.horse.horse.			3600	IN	NS	b.nic.horse.horse.			3600	IN	NS	c.nic.horse.horse.			3600	IN	NS	a.nic.horse.a.nic.horse.		3600	IN	A	37.209.192.10a.nic.horse.		3600	IN	AAAA	2001:dcd:1::10

@@ -1,0 +1,7 @@
+; timestamp: 20220306T194914Z
+; source id: tld-query-bradesco.-dnsc.nic.bradesco.
+; source locator: dnsc.nic.bradesco.
+; source IP address: 156.154.102.3
+; backup point IP address: 111.42.148.76
+; status: success
+bradesco.		1294	IN	NS	dnsc.nic.bradesco.bradesco.		1294	IN	NS	dns2.nic.bradesco.bradesco.		1294	IN	NS	dnsb.nic.bradesco.bradesco.		1294	IN	NS	dnsd.nic.bradesco.bradesco.		1294	IN	NS	dns3.nic.bradesco.bradesco.		1294	IN	NS	dns1.nic.bradesco.bradesco.		1294	IN	NS	dns4.nic.bradesco.bradesco.		1294	IN	NS	dnsa.nic.bradesco.dnsc.nic.bradesco.	3598	IN	A	156.154.102.3dnsc.nic.bradesco.	3598	IN	AAAA	2610:a1:1009::3

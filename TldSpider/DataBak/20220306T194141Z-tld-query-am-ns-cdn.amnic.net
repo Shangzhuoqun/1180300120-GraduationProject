@@ -1,0 +1,7 @@
+; timestamp: 20220306T194141Z
+; source id: tld-query-am.-ns-cdn.amnic.net.
+; source locator: ns-cdn.amnic.net.
+; source IP address: 194.0.1.26
+; backup point IP address: 111.42.148.76
+; status: success
+am.			172800	IN	NS	fork.sth.dnsnode.net.am.			172800	IN	NS	ns-cdn.amnic.net.am.			172800	IN	NS	ns-pch.amnic.net.am.			172800	IN	NS	ns-pri.nic.am.ns-cdn.amnic.net.	2566	IN	A	194.0.1.26ns-cdn.amnic.net.	2566	IN	AAAA	2001:678:4::1a

@@ -1,0 +1,14 @@
+; timestamp: 20220306T210609Z
+; source id: tld-query-talk.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dns1.nic.talk
+dns2.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dns2.nic.talk
+dns3.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dns3.nic.talk
+dns4.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dns4.nic.talk
+dnsa.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dnsa.nic.talk
+dnsb.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dnsb.nic.talk
+dnsc.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dnsc.nic.talk
+dnsd.nic.talk.:../TldSpider/DataBak/20220306T210609Z-tld-query-talk-dnsd.nic.talk

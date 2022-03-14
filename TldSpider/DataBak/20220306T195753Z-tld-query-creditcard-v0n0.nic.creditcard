@@ -1,0 +1,7 @@
+; timestamp: 20220306T195753Z
+; source id: tld-query-creditcard.-v0n0.nic.creditcard.
+; source locator: v0n0.nic.creditcard.
+; source IP address: 65.22.20.65
+; backup point IP address: 111.42.148.76
+; status: success
+creditcard.		917	IN	NS	v2n0.nic.creditcard.creditcard.		917	IN	NS	v0n2.nic.creditcard.creditcard.		917	IN	NS	v0n0.nic.creditcard.creditcard.		917	IN	NS	v2n1.nic.creditcard.creditcard.		917	IN	NS	v0n3.nic.creditcard.creditcard.		917	IN	NS	v0n1.nic.creditcard.v0n0.nic.creditcard.	3600	IN	A	65.22.20.65v0n0.nic.creditcard.	3599	IN	AAAA	2a01:8840:16::65

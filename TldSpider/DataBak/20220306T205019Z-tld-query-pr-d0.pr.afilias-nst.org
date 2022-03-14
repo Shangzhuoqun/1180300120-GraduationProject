@@ -1,0 +1,7 @@
+; timestamp: 20220306T205019Z
+; source id: tld-query-pr.-d0.pr.afilias-nst.org.
+; source locator: d0.pr.afilias-nst.org.
+; source IP address: 199.254.62.17
+; backup point IP address: 111.42.148.76
+; status: success
+pr.			86400	IN	NS	d0.pr.afilias-nst.org.pr.			86400	IN	NS	b0.pr.afilias-nst.org.pr.			86400	IN	NS	pr-dns.denic.de.pr.			86400	IN	NS	a2.pr.afilias-nst.info.pr.			86400	IN	NS	a0.pr.afilias-nst.info.pr.			86400	IN	NS	c0.pr.afilias-nst.info.pr.			86400	IN	NS	a.lactld.org.pr.			86400	IN	NS	b2.pr.afilias-nst.org.d0.pr.afilias-nst.org.	3592	IN	A	199.254.62.17d0.pr.afilias-nst.org.	3593	IN	AAAA	2001:500:28::17

@@ -1,0 +1,7 @@
+; timestamp: 20220306T205444Z
+; source id: tld-query-rip.-v2n1.nic.rip.
+; source locator: v2n1.nic.rip.
+; source IP address: 161.232.17.22
+; backup point IP address: 111.42.148.76
+; status: success
+rip.			3600	IN	NS	v0n3.nic.rip.rip.			3600	IN	NS	v0n0.nic.rip.rip.			3600	IN	NS	v0n1.nic.rip.rip.			3600	IN	NS	v0n2.nic.rip.rip.			3600	IN	NS	v2n1.nic.rip.rip.			3600	IN	NS	v2n0.nic.rip.v2n1.nic.rip.		3592	IN	A	161.232.17.22v2n1.nic.rip.		3594	IN	AAAA	2a01:8840:fb::22

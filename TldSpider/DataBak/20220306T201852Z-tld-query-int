@@ -1,0 +1,12 @@
+; timestamp: 20220306T201852Z
+; source id: tld-query-int.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+x.iana-servers.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-x.iana-servers.net
+y.iana-servers.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-y.iana-servers.net
+z.iana-servers.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-z.iana-servers.net
+ns.uu.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-ns.uu.net
+ns0.ja.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-ns0.ja.net
+sec2.authdns.ripe.net.:../TldSpider/DataBak/20220306T201852Z-tld-query-int-sec2.authdns.ripe.net

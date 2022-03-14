@@ -1,0 +1,7 @@
+; timestamp: 20220306T202711Z
+; source id: tld-query-live.-v0n0.nic.live.
+; source locator: v0n0.nic.live.
+; source IP address: 65.22.20.1
+; backup point IP address: 111.42.148.76
+; status: success
+live.			3600	IN	NS	v2n0.nic.live.live.			3600	IN	NS	v0n3.nic.live.live.			3600	IN	NS	v0n1.nic.live.live.			3600	IN	NS	v0n2.nic.live.live.			3600	IN	NS	v2n1.nic.live.live.			3600	IN	NS	v0n0.nic.live.v0n0.nic.live.		3600	IN	A	65.22.20.1v0n0.nic.live.		3600	IN	AAAA	2a01:8840:16::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T205908Z
+; source id: tld-query-select.-c.nic.select.
+; source locator: c.nic.select.
+; source IP address: 37.209.196.9
+; backup point IP address: 111.42.148.76
+; status: success
+select.			3598	IN	NS	a.nic.select.select.			3598	IN	NS	b.nic.select.select.			3598	IN	NS	d.nic.select.select.			3598	IN	NS	c.nic.select.c.nic.select.		3599	IN	A	37.209.196.9c.nic.select.		3599	IN	AAAA	2001:dcd:3::9

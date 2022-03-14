@@ -1,0 +1,7 @@
+; timestamp: 20220306T200245Z
+; source id: tld-query-ee.-ee.eenet.ee.
+; source locator: ee.eenet.ee.
+; source IP address: 193.40.132.5
+; backup point IP address: 111.42.148.76
+; status: success
+ee.			21600	IN	NS	ns.tld.ee.ee.			21600	IN	NS	ee.aso.ee.ee.			21600	IN	NS	ee.eenet.ee.ee.			21600	IN	NS	e.tld.ee.ee.			21600	IN	NS	b.tld.ee.ee.eenet.ee.		2637	IN	A	193.40.132.5ee.eenet.ee.		2632	IN	AAAA	2001:bb8:4001::53

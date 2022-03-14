@@ -1,0 +1,12 @@
+; timestamp: 20220306T205029Z
+; source id: tld-query-pramerica.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-a.nic.pramerica
+b.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-b.nic.pramerica
+c.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-c.nic.pramerica
+ns1.dns.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-ns1.dns.nic.pramerica
+ns2.dns.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-ns2.dns.nic.pramerica
+ns3.dns.nic.pramerica.:../TldSpider/DataBak/20220306T205029Z-tld-query-pramerica-ns3.dns.nic.pramerica

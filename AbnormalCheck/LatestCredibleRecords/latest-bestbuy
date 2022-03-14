@@ -1,0 +1,12 @@
+bestbuy.	172800	in	ns	a0.nic.bestbuy.
+bestbuy.	172800	in	ns	a2.nic.bestbuy.
+bestbuy.	172800	in	ns	b0.nic.bestbuy.
+bestbuy.	172800	in	ns	c0.nic.bestbuy.
+a0.nic.bestbuy.	172800	in	a	65.22.216.9
+a0.nic.bestbuy.	172800	in	aaaa	2a01:8840:d2:0:0:0:0:9
+a2.nic.bestbuy.	172800	in	a	65.22.219.9
+a2.nic.bestbuy.	172800	in	aaaa	2a01:8840:d5:0:0:0:0:9
+b0.nic.bestbuy.	172800	in	a	65.22.217.9
+b0.nic.bestbuy.	172800	in	aaaa	2a01:8840:d3:0:0:0:0:9
+c0.nic.bestbuy.	172800	in	a	65.22.218.9
+c0.nic.bestbuy.	172800	in	aaaa	2a01:8840:d4:0:0:0:0:9

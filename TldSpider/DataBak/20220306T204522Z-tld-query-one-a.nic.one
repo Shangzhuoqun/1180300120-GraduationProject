@@ -1,0 +1,7 @@
+; timestamp: 20220306T204522Z
+; source id: tld-query-one.-a.nic.one.
+; source locator: a.nic.one.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+one.			3600	IN	NS	c.nic.one.one.			3600	IN	NS	d.nic.one.one.			3600	IN	NS	a.nic.one.one.			3600	IN	NS	b.nic.one.a.nic.one.		3091	IN	A	37.209.192.9a.nic.one.		3600	IN	AAAA	2001:dcd:1::9

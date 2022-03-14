@@ -1,0 +1,7 @@
+; timestamp: 20220306T201255Z
+; source id: tld-query-gt.-ns.dns.br.
+; source locator: ns.dns.br.
+; source IP address: 200.160.0.5
+; backup point IP address: 111.42.148.76
+; status: success
+gt.			3599	IN	NS	ns-cz.gt.gt.			3599	IN	NS	gt.anycastdns.cz.gt.			3599	IN	NS	ns.dns.br.gt.			3599	IN	NS	ssdns-tld.nic.cl.gt.			3599	IN	NS	a.lactld.org.gt.			3599	IN	NS	pch.gt.ns.dns.br.		2126	IN	A	200.160.0.5ns.dns.br.		3414	IN	AAAA	2001:12ff:0:a20::5

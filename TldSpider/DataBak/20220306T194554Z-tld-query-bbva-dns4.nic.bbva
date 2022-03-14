@@ -1,0 +1,7 @@
+; timestamp: 20220306T194554Z
+; source id: tld-query-bbva.-dns4.nic.bbva.
+; source locator: dns4.nic.bbva.
+; source IP address: 43.230.51.44
+; backup point IP address: 111.42.148.76
+; status: success
+bbva.			1451	IN	NS	dns1.nic.bbva.bbva.			1451	IN	NS	dns3.nic.bbva.bbva.			1451	IN	NS	dnsa.nic.bbva.bbva.			1451	IN	NS	dnsc.nic.bbva.bbva.			1451	IN	NS	dns4.nic.bbva.bbva.			1451	IN	NS	dnsd.nic.bbva.bbva.			1451	IN	NS	dns2.nic.bbva.bbva.			1451	IN	NS	dnsb.nic.bbva.dns4.nic.bbva.		598	IN	A	43.230.51.44dns4.nic.bbva.		598	IN	AAAA	2401:fd80:407::44

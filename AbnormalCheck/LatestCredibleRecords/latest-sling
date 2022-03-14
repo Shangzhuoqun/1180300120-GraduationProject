@@ -1,0 +1,12 @@
+sling.	172800	in	ns	a0.nic.sling.
+sling.	172800	in	ns	a2.nic.sling.
+sling.	172800	in	ns	b0.nic.sling.
+sling.	172800	in	ns	c0.nic.sling.
+a0.nic.sling.	172800	in	a	65.22.108.9
+a0.nic.sling.	172800	in	aaaa	2a01:8840:6a:0:0:0:0:9
+a2.nic.sling.	172800	in	a	65.22.111.9
+a2.nic.sling.	172800	in	aaaa	2a01:8840:6d:0:0:0:0:9
+b0.nic.sling.	172800	in	a	65.22.109.9
+b0.nic.sling.	172800	in	aaaa	2a01:8840:6b:0:0:0:0:9
+c0.nic.sling.	172800	in	a	65.22.110.9
+c0.nic.sling.	172800	in	aaaa	2a01:8840:6c:0:0:0:0:9

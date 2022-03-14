@@ -1,0 +1,7 @@
+; timestamp: 20220306T202510Z
+; source id: tld-query-krd.-d.nic.krd.
+; source locator: d.nic.krd.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+krd.			3599	IN	NS	c.nic.krd.krd.			3599	IN	NS	b.nic.krd.krd.			3599	IN	NS	a.nic.krd.krd.			3599	IN	NS	d.nic.krd.d.nic.krd.		3598	IN	A	37.209.198.10d.nic.krd.		3598	IN	AAAA	2001:dcd:4::10

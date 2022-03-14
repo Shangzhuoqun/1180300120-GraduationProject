@@ -1,0 +1,7 @@
+; timestamp: 20220306T211226Z
+; source id: tld-query-travelers.-c0.nic.travelers.
+; source locator: c0.nic.travelers.
+; source IP address: 65.22.202.9
+; backup point IP address: 111.42.148.76
+; status: success
+travelers.		3594	IN	NS	c0.nic.travelers.travelers.		3594	IN	NS	a2.nic.travelers.travelers.		3594	IN	NS	b0.nic.travelers.travelers.		3594	IN	NS	a0.nic.travelers.c0.nic.travelers.	600	IN	A	65.22.202.9c0.nic.travelers.	600	IN	AAAA	2a01:8840:c4::9

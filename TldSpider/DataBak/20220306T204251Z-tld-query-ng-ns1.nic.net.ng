@@ -1,0 +1,7 @@
+; timestamp: 20220306T204251Z
+; source id: tld-query-ng.-ns1.nic.net.ng.
+; source locator: ns1.nic.net.ng.
+; source IP address: 194.0.1.29
+; backup point IP address: 111.42.148.76
+; status: success
+ng.			3600	IN	NS	ns1.nic.net.ng.ng.			3600	IN	NS	ns2.nic.net.ng.ng.			3600	IN	NS	ns5.nic.net.ng.ng.			3600	IN	NS	nsa.nic.net.ng.ns1.nic.net.ng.		3600	IN	A	194.0.1.29ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d

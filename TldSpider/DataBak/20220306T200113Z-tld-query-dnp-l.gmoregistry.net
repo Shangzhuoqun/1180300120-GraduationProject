@@ -1,0 +1,7 @@
+; timestamp: 20220306T200113Z
+; source id: tld-query-dnp.-l.gmoregistry.net.
+; source locator: l.gmoregistry.net.
+; source IP address: 37.209.198.4
+; backup point IP address: 111.42.148.76
+; status: success
+dnp.			465	IN	NS	a.gmoregistry.net.dnp.			465	IN	NS	b.gmoregistry.net.dnp.			465	IN	NS	k.gmoregistry.net.dnp.			465	IN	NS	l.gmoregistry.net.l.gmoregistry.net.	2884	IN	A	37.209.198.4l.gmoregistry.net.	2884	IN	AAAA	2001:dcd:4::4

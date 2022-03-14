@@ -1,0 +1,7 @@
+; timestamp: 20220306T212323Z
+; source id: tld-query-xn--d1alf.-d.ext.nic.cz.
+; source locator: d.ext.nic.cz.
+; source IP address: 193.29.206.2
+; backup point IP address: 111.42.148.76
+; status: success
+xn--d1alf.		3600	IN	NS	tld1.marnet.mk.xn--d1alf.		3600	IN	NS	dns-mk.univie.ac.at.xn--d1alf.		3600	IN	NS	ns2.arnes.si.xn--d1alf.		3600	IN	NS	d.ext.nic.cz.d.ext.nic.cz.		830	IN	A	193.29.206.2d.ext.nic.cz.		1197	IN	AAAA	2001:678:1::2

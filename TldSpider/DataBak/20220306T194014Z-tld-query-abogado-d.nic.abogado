@@ -1,0 +1,7 @@
+; timestamp: 20220306T194014Z
+; source id: tld-query-abogado.-d.nic.abogado.
+; source locator: d.nic.abogado.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+abogado.		1677	IN	NS	c.nic.abogado.abogado.		1677	IN	NS	d.nic.abogado.abogado.		1677	IN	NS	b.nic.abogado.abogado.		1677	IN	NS	a.nic.abogado.d.nic.abogado.		3599	IN	A	37.209.198.10d.nic.abogado.		3599	IN	AAAA	2001:dcd:4::10

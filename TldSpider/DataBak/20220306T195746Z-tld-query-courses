@@ -1,0 +1,10 @@
+; timestamp: 20220306T195746Z
+; source id: tld-query-courses.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.courses.:../TldSpider/DataBak/20220306T195746Z-tld-query-courses-a.nic.courses
+b.nic.courses.:../TldSpider/DataBak/20220306T195746Z-tld-query-courses-b.nic.courses
+c.nic.courses.:../TldSpider/DataBak/20220306T195746Z-tld-query-courses-c.nic.courses
+d.nic.courses.:../TldSpider/DataBak/20220306T195746Z-tld-query-courses-d.nic.courses

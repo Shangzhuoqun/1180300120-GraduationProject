@@ -1,0 +1,7 @@
+; timestamp: 20220306T194653Z
+; source id: tld-query-bi.-bi.cctld.authdns.ripe.net.
+; source locator: bi.cctld.authdns.ripe.net.
+; source IP address: 193.0.9.62
+; backup point IP address: 111.42.148.76
+; status: success
+bi.			86400	IN	NS	bi.cctld.authdns.ripe.net.bi.			86400	IN	NS	ns.nic.bi.bi.			86400	IN	NS	ns1.nic.bi.bi.			86400	IN	NS	anyns.nic.bi.bi.			86400	IN	NS	ns-bi.afrinic.net.bi.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.62bi.cctld.authdns.ripe.net. 1651	IN	AAAA	2001:67c:e0::62

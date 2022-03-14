@@ -1,0 +1,12 @@
+nc.	172800	in	ns	nc.cctld.authdns.ripe.net.
+nc.	172800	in	ns	ns1.nc.
+nc.	172800	in	ns	ns2.nc.
+nc.	172800	in	ns	any-ns1.nc.
+any-ns1.nc.	172800	in	a	114.69.222.1
+any-ns1.nc.	172800	in	aaaa	2001:500:14:8000:7245:de00:0:1
+ns1.nc.	172800	in	a	202.87.129.16
+ns1.nc.	172800	in	aaaa	2404:2200:10:1000:0:0:53:1
+ns2.nc.	172800	in	a	202.87.129.17
+ns2.nc.	172800	in	aaaa	2404:2200:10:1000:0:0:53:2
+nc.cctld.authdns.ripe.net.	172800	in	a	193.0.9.100
+nc.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:100

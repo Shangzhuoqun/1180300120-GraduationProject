@@ -1,0 +1,14 @@
+; timestamp: 20220306T194535Z
+; source id: tld-query-bbc.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dns1.nic.bbc
+dns2.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dns2.nic.bbc
+dns3.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dns3.nic.bbc
+dns4.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dns4.nic.bbc
+dnsa.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dnsa.nic.bbc
+dnsb.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dnsb.nic.bbc
+dnsc.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dnsc.nic.bbc
+dnsd.nic.bbc.:../TldSpider/DataBak/20220306T194535Z-tld-query-bbc-dnsd.nic.bbc

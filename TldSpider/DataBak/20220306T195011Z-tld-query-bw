@@ -1,0 +1,10 @@
+; timestamp: 20220306T195011Z
+; source id: tld-query-bw.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+pch.nic.net.bw.:../TldSpider/DataBak/20220306T195011Z-tld-query-bw-pch.nic.net.bw
+dns1.nic.net.bw.:../TldSpider/DataBak/20220306T195011Z-tld-query-bw-dns1.nic.net.bw
+ns-bw.afrinic.net.:../TldSpider/DataBak/20220306T195011Z-tld-query-bw-ns-bw.afrinic.net
+master.btc.net.bw.:../TldSpider/DataBak/20220306T195011Z-tld-query-bw-master.btc.net.bw

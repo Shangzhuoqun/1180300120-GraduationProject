@@ -1,0 +1,7 @@
+; timestamp: 20220306T201531Z
+; source id: tld-query-host.-f.nic.host.
+; source locator: f.nic.host.
+; source IP address: 212.18.249.53
+; backup point IP address: 111.42.148.76
+; status: success
+host.			879	IN	NS	g.nic.host.host.			879	IN	NS	f.nic.host.host.			879	IN	NS	b.nic.host.host.			879	IN	NS	a.nic.host.host.			879	IN	NS	e.nic.host.f.nic.host.		3600	IN	A	212.18.249.53f.nic.host.		3600	IN	AAAA	2a04:2b00:13ff::53

@@ -1,0 +1,7 @@
+; timestamp: 20220306T211504Z
+; source id: tld-query-uy.-d.nic.uy.
+; source locator: d.nic.uy.
+; source IP address: 65.22.41.1
+; backup point IP address: 111.42.148.76
+; status: success
+uy.			86400	IN	NS	d.nic.uy.uy.			86400	IN	NS	b.nic.uy.uy.			86400	IN	NS	ns2.anteldata.com.uy.uy.			86400	IN	NS	a.lactld.org.uy.			86400	IN	NS	ns.dns.br.uy.			86400	IN	NS	ns1.anteldata.com.uy.uy.			86400	IN	NS	a.nic.uy.uy.			86400	IN	NS	ns3.nic.mx.d.nic.uy.		600	IN	A	65.22.41.1d.nic.uy.		600	IN	AAAA	2a01:8840:1bb::1

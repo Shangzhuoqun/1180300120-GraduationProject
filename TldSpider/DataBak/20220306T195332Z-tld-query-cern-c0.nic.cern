@@ -1,0 +1,7 @@
+; timestamp: 20220306T195332Z
+; source id: tld-query-cern.-c0.nic.cern.
+; source locator: c0.nic.cern.
+; source IP address: 65.22.226.1
+; backup point IP address: 111.42.148.76
+; status: success
+cern.			1102	IN	NS	b0.nic.cern.cern.			1102	IN	NS	c0.nic.cern.cern.			1102	IN	NS	a2.nic.cern.cern.			1102	IN	NS	a0.nic.cern.c0.nic.cern.		600	IN	A	65.22.226.1c0.nic.cern.		599	IN	AAAA	2a01:8840:dc::1

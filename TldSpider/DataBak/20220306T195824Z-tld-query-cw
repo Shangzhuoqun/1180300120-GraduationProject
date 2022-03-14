@@ -1,0 +1,13 @@
+; timestamp: 20220306T195824Z
+; source id: tld-query-cw.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+cw.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-cw.cctld.authdns.ripe.net
+ns0.ja.net.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-ns0.ja.net
+ns1.uoc.cw.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-ns1.uoc.cw
+ns2.uoc.cw.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-ns2.uoc.cw
+ns3.uoc.cw.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-ns3.uoc.cw
+kadushi.curinfo.cw.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-kadushi.curinfo.cw
+ns01-server.curinfo.cw.:../TldSpider/DataBak/20220306T195824Z-tld-query-cw-ns01-server.curinfo.cw

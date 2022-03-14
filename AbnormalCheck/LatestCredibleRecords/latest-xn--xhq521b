@@ -1,0 +1,13 @@
+ta.ngtld.cn.	172800	in	a	42.83.130.1
+ta.ngtld.cn.	172800	in	aaaa	2001:dc7:ffd1:0:0:0:0:1
+tb.ngtld.cn.	172800	in	a	42.83.131.1
+tb.ngtld.cn.	172800	in	aaaa	2001:dc7:ffd2:0:0:0:0:1
+tc.ngtld.cn.	172800	in	a	42.83.132.1
+tc.ngtld.cn.	172800	in	aaaa	2001:dc7:ffd3:0:0:0:0:1
+td.ngtld.cn.	172800	in	a	42.83.133.1
+te.ngtld.cn.	172800	in	a	42.83.134.1
+xn--xhq521b.	172800	in	ns	ta.ngtld.cn.
+xn--xhq521b.	172800	in	ns	tb.ngtld.cn.
+xn--xhq521b.	172800	in	ns	tc.ngtld.cn.
+xn--xhq521b.	172800	in	ns	td.ngtld.cn.
+xn--xhq521b.	172800	in	ns	te.ngtld.cn.

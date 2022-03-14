@@ -1,0 +1,13 @@
+; timestamp: 20220306T203744Z
+; source id: tld-query-mo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.monic.mo.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-a.monic.mo
+b.monic.mo.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-b.monic.mo
+c.monic.mo.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-c.monic.mo
+d.monic.mo.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-d.monic.mo
+e.monic.mo.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-e.monic.mo
+ns2.cuhk.edu.hk.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-ns2.cuhk.edu.hk
+ns17.cdns.net.:../TldSpider/DataBak/20220306T203744Z-tld-query-mo-ns17.cdns.net

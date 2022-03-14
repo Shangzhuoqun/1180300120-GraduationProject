@@ -1,0 +1,12 @@
+; timestamp: 20220306T200839Z
+; source id: tld-query-gap.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-a.nic.gap
+b.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-b.nic.gap
+c.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-c.nic.gap
+ns1.dns.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-ns1.dns.nic.gap
+ns2.dns.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-ns2.dns.nic.gap
+ns3.dns.nic.gap.:../TldSpider/DataBak/20220306T200839Z-tld-query-gap-ns3.dns.nic.gap

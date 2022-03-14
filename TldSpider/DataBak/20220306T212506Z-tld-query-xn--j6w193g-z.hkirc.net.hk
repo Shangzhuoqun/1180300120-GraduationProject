@@ -1,0 +1,7 @@
+; timestamp: 20220306T212506Z
+; source id: tld-query-xn--j6w193g.-z.hkirc.net.hk.
+; source locator: z.hkirc.net.hk.
+; source IP address: 194.146.106.70
+; backup point IP address: 111.42.148.76
+; status: success
+xn--j6w193g.		2772	IN	NS	z.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	x.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	d.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	u.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	c.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	y.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	t.hkirc.net.hk.xn--j6w193g.		2772	IN	NS	v.hkirc.net.hk.z.hkirc.net.hk.		265	IN	A	194.146.106.70z.hkirc.net.hk.		1351	IN	AAAA	2001:67c:1010:17::53

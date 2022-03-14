@@ -1,0 +1,9 @@
+hoppy.iom.com.	172800	in	a	217.23.163.140
+pebbles.iom.com.	172800	in	a	83.218.14.53
+im.	172800	in	ns	ns4.ja.net.
+im.	172800	in	ns	hoppy.iom.com.
+im.	172800	in	ns	barney.advsys.co.uk.
+im.	172800	in	ns	pebbles.iom.com.
+ns4.ja.net.	172800	in	a	193.62.157.66
+ns4.ja.net.	172800	in	aaaa	2001:630:0:47:0:0:0:42
+barney.advsys.co.uk.	172800	in	a	217.23.160.50

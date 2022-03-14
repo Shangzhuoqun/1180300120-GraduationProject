@@ -1,0 +1,7 @@
+; timestamp: 20220306T211843Z
+; source id: tld-query-website.-a.nic.website.
+; source locator: a.nic.website.
+; source IP address: 194.169.218.52
+; backup point IP address: 111.42.148.76
+; status: success
+website.		3057	IN	NS	e.nic.website.website.		3057	IN	NS	a.nic.website.website.		3057	IN	NS	b.nic.website.website.		3057	IN	NS	f.nic.website.a.nic.website.		2696	IN	A	194.169.218.52a.nic.website.		2106	IN	AAAA	2001:67c:13cc::1:52

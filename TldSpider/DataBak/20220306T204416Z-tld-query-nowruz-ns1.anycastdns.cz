@@ -1,0 +1,7 @@
+; timestamp: 20220306T204416Z
+; source id: tld-query-nowruz.-ns1.anycastdns.cz.
+; source locator: ns1.anycastdns.cz.
+; source IP address: 185.38.108.108
+; backup point IP address: 111.42.148.76
+; status: success
+nowruz.			3599	IN	NS	ns1.anycastdns.cz.nowruz.			3599	IN	NS	ns2.anycastdns.cz.nowruz.			3599	IN	NS	b.ns.nic.nowruz.nowruz.			3599	IN	NS	a.ns.nic.nowruz.ns1.anycastdns.cz.	318	IN	A	185.38.108.108ns1.anycastdns.cz.	528	IN	AAAA	2a00:fea0:dead::beef

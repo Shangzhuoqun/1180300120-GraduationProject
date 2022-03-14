@@ -1,0 +1,7 @@
+; timestamp: 20220306T194930Z
+; source id: tld-query-bt.-ns3.druknet.bt.
+; source locator: ns3.druknet.bt.
+; source IP address: 204.61.216.17
+; backup point IP address: 111.42.148.76
+; status: success
+bt.			86400	IN	NS	phloem.uoregon.edu.bt.			86400	IN	NS	ns3.druknet.bt.bt.			86400	IN	NS	auth00.ns.uu.net.bt.			86400	IN	NS	auth61.ns.uu.net.bt.			86400	IN	NS	ns.itu.ch.bt.			86400	IN	NS	ns1.druknet.bt.bt.			86400	IN	NS	ns2.druknet.bt.ns3.druknet.bt.		3599	IN	A	204.61.216.17ns3.druknet.bt.		3599	IN	AAAA	2001:500:14:6017:ad::1

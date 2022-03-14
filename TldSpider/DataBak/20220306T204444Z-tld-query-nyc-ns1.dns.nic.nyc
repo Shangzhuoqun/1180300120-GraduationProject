@@ -1,0 +1,7 @@
+; timestamp: 20220306T204444Z
+; source id: tld-query-nyc.-ns1.dns.nic.nyc.
+; source locator: ns1.dns.nic.nyc.
+; source IP address: 156.154.144.125
+; backup point IP address: 111.42.148.76
+; status: success
+nyc.			86400	IN	NS	a.nic.nyc.nyc.			86400	IN	NS	b.nic.nyc.nyc.			86400	IN	NS	c.nic.nyc.nyc.			86400	IN	NS	ns1.dns.nic.nyc.nyc.			86400	IN	NS	ns2.dns.nic.nyc.nyc.			86400	IN	NS	ns3.dns.nic.nyc.ns1.dns.nic.nyc.	3600	IN	A	156.154.144.125ns1.dns.nic.nyc.	3600	IN	AAAA	2610:a1:1071::7d

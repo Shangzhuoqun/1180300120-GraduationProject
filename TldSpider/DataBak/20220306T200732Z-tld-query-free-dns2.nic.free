@@ -1,0 +1,7 @@
+; timestamp: 20220306T200732Z
+; source id: tld-query-free.-dns2.nic.free.
+; source locator: dns2.nic.free.
+; source IP address: 103.49.82.67
+; backup point IP address: 111.42.148.76
+; status: success
+free.			3599	IN	NS	dns4.nic.free.free.			3599	IN	NS	dns2.nic.free.free.			3599	IN	NS	dnsa.nic.free.free.			3599	IN	NS	dnsc.nic.free.free.			3599	IN	NS	dnsb.nic.free.free.			3599	IN	NS	dns3.nic.free.free.			3599	IN	NS	dnsd.nic.free.free.			3599	IN	NS	dns1.nic.free.dns2.nic.free.		3600	IN	A	103.49.82.67dns2.nic.free.		3598	IN	AAAA	2401:fd80:402::67

@@ -1,0 +1,7 @@
+; timestamp: 20220306T203832Z
+; source id: tld-query-monster.-a.nic.monster.
+; source locator: a.nic.monster.
+; source IP address: 194.169.218.83
+; backup point IP address: 111.42.148.76
+; status: success
+monster.		3600	IN	NS	c.nic.monster.monster.		3600	IN	NS	a.nic.monster.monster.		3600	IN	NS	b.nic.monster.monster.		3600	IN	NS	d.nic.monster.a.nic.monster.		3600	IN	A	194.169.218.83a.nic.monster.		3600	IN	AAAA	2001:67c:13cc::1:83

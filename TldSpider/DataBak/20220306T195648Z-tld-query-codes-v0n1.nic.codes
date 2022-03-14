@@ -1,0 +1,7 @@
+; timestamp: 20220306T195648Z
+; source id: tld-query-codes.-v0n1.nic.codes.
+; source locator: v0n1.nic.codes.
+; source IP address: 65.22.33.43
+; backup point IP address: 111.42.148.76
+; status: success
+codes.			954	IN	NS	v0n3.nic.codes.codes.			954	IN	NS	v2n0.nic.codes.codes.			954	IN	NS	v0n1.nic.codes.codes.			954	IN	NS	v2n1.nic.codes.codes.			954	IN	NS	v0n2.nic.codes.codes.			954	IN	NS	v0n0.nic.codes.v0n1.nic.codes.		3600	IN	A	65.22.33.43v0n1.nic.codes.		3600	IN	AAAA	2a01:8840:23::43

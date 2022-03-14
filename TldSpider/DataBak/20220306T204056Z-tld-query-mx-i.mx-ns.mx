@@ -1,0 +1,27 @@
+; timestamp: 20220306T204056Z
+; source id: tld-query-mx.-i.mx-ns.mx.
+; source locator: i.mx-ns.mx.
+; source IP address: 207.248.68.1
+; backup point IP address: 111.42.148.76
+; status: success
+mx.			3599	IN	NS	x.mx-ns.mx.mx.			3599	IN	NS	e.mx-ns.mx.mx.			3599	IN	NS	m.mx-ns.mx.mx.			3599	IN	NS	o.mx-ns.mx.mx.			3599	IN	NS	c.mx-ns.mx.mx.			3599	IN	NS	i.mx-ns.mx.i.mx-ns.mx.		1907	IN	A	207.248.68.1dig @207.248.68.1 i.mx-ns.mx. AAAA
+
+; <<>> DiG 9.16.23 <<>> @207.248.68.1 i.mx-ns.mx. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60499
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;i.mx-ns.mx.			IN	AAAA
+
+;; AUTHORITY SECTION:
+mx-ns.mx.		893	IN	SOA	m.mx-ns.mx. hostmaster.nic.mx. 2014080401 3600 900 604800 1800
+
+;; Query time: 4 msec
+;; SERVER: 207.248.68.1#53(207.248.68.1)
+;; WHEN: Sun Mar 06 20:40:57 ;; MSG SIZE  rcvd: 92
+

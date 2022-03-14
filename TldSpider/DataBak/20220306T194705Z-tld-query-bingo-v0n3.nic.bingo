@@ -1,0 +1,7 @@
+; timestamp: 20220306T194705Z
+; source id: tld-query-bingo.-v0n3.nic.bingo.
+; source locator: v0n3.nic.bingo.
+; source IP address: 161.232.16.62
+; backup point IP address: 111.42.148.76
+; status: success
+bingo.			1397	IN	NS	v0n0.nic.bingo.bingo.			1397	IN	NS	v0n2.nic.bingo.bingo.			1397	IN	NS	v2n0.nic.bingo.bingo.			1397	IN	NS	v2n1.nic.bingo.bingo.			1397	IN	NS	v0n3.nic.bingo.bingo.			1397	IN	NS	v0n1.nic.bingo.v0n3.nic.bingo.		3599	IN	A	161.232.16.62v0n3.nic.bingo.		3599	IN	AAAA	2a01:8840:fa::62

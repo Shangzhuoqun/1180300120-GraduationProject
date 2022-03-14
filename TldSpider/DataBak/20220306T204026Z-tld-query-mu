@@ -1,0 +1,10 @@
+; timestamp: 20220306T204026Z
+; source id: tld-query-mu.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+fork.sth.dnsnode.net.:../TldSpider/DataBak/20220306T204026Z-tld-query-mu-fork.sth.dnsnode.net
+udns1.tld.mu.:../TldSpider/DataBak/20220306T204026Z-tld-query-mu-udns1.tld.mu
+udns2.tld.mu.:../TldSpider/DataBak/20220306T204026Z-tld-query-mu-udns2.tld.mu
+anycast1.irondns.net.:../TldSpider/DataBak/20220306T204026Z-tld-query-mu-anycast1.irondns.net

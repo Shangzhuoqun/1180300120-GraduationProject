@@ -1,0 +1,7 @@
+; timestamp: 20220306T200730Z
+; source id: tld-query-fr.-e.ext.nic.fr.
+; source locator: e.ext.nic.fr.
+; source IP address: 193.176.144.22
+; backup point IP address: 111.42.148.76
+; status: success
+fr.			3599	IN	NS	d.nic.fr.fr.			3599	IN	NS	f.ext.nic.fr.fr.			3599	IN	NS	e.ext.nic.fr.fr.			3599	IN	NS	g.ext.nic.fr.e.ext.nic.fr.		3600	IN	A	193.176.144.22e.ext.nic.fr.		3092	IN	AAAA	2a00:d78:0:102:193:176:144:22

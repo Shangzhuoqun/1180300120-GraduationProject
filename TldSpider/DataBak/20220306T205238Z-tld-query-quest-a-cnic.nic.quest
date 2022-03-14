@@ -1,0 +1,7 @@
+; timestamp: 20220306T205238Z
+; source id: tld-query-quest.-a-cnic.nic.quest.
+; source locator: a-cnic.nic.quest.
+; source IP address: 194.169.218.19
+; backup point IP address: 111.42.148.76
+; status: success
+quest.			3600	IN	NS	c-cnic.nic.quest.quest.			3600	IN	NS	b-cnic.nic.quest.quest.			3600	IN	NS	a-cnic.nic.quest.quest.			3600	IN	NS	d-cnic.nic.quest.a-cnic.nic.quest.	151200	IN	A	194.169.218.19a-cnic.nic.quest.	3600	IN	AAAA	2001:67c:13cc::1:19

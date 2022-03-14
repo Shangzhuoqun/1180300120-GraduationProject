@@ -1,0 +1,7 @@
+; timestamp: 20220306T205347Z
+; source id: tld-query-reit.-a.nic.reit.
+; source locator: a.nic.reit.
+; source IP address: 194.169.218.38
+; backup point IP address: 111.42.148.76
+; status: success
+reit.			3600	IN	NS	a.nic.reit.reit.			3600	IN	NS	b.nic.reit.reit.			3600	IN	NS	c.nic.reit.reit.			3600	IN	NS	d.nic.reit.a.nic.reit.		3600	IN	A	194.169.218.38a.nic.reit.		3600	IN	AAAA	2001:67c:13cc::1:38

@@ -1,0 +1,6 @@
+fk.	172800	in	ns	ns1.horizon.net.fk.
+fk.	172800	in	ns	ns2.horizon.net.fk.
+fk.	172800	in	ns	ns3.horizon.net.fk.
+ns1.horizon.net.fk.	172800	in	a	80.73.216.250
+ns2.horizon.net.fk.	172800	in	a	80.73.216.251
+ns3.horizon.net.fk.	172800	in	a	93.187.151.193

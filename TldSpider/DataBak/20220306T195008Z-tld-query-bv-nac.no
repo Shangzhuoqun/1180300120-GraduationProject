@@ -1,0 +1,7 @@
+; timestamp: 20220306T195008Z
+; source id: tld-query-bv.-nac.no.
+; source locator: nac.no.
+; source IP address: 128.39.2.22
+; backup point IP address: 111.42.148.76
+; status: success
+bv.			86400	IN	NS	z.nic.no.bv.			86400	IN	NS	y.nic.no.bv.			86400	IN	NS	nac.no.bv.			86400	IN	NS	server.nordu.net.bv.			86400	IN	NS	x.nic.no.bv.			86400	IN	NS	nn.uninett.no.nac.no.			3426	IN	A	128.39.2.22nac.no.			3426	IN	AAAA	2001:700:0:102::aa53

@@ -1,0 +1,27 @@
+; timestamp: 20220306T211630Z
+; source id: tld-query-vi.-auth110.ns.uu.net.
+; source locator: auth110.ns.uu.net.
+; source IP address: 198.6.1.114
+; backup point IP address: 111.42.148.76
+; status: success
+vi.			7200	IN	NS	auth100.ns.uu.net.vi.			7200	IN	NS	pch.nic.vi.vi.			7200	IN	NS	auth110.ns.uu.net.vi.			7200	IN	NS	ns3.nic.vi.auth110.ns.uu.net.	1016	IN	A	198.6.1.114dig @198.6.1.114 auth110.ns.uu.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @198.6.1.114 auth110.ns.uu.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60031
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;auth110.ns.uu.net.		IN	AAAA
+
+;; AUTHORITY SECTION:
+ns.uu.net.		300	IN	SOA	AUTH00.ns.uu.net. hostmaster.uu.net. 121 3600 900 604800 300
+
+;; Query time: 15 msec
+;; SERVER: 198.6.1.114#53(198.6.1.114)
+;; WHEN: Sun Mar 06 21:16:52 ;; MSG SIZE  rcvd: 100
+

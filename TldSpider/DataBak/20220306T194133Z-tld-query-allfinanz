@@ -1,0 +1,10 @@
+; timestamp: 20220306T194133Z
+; source id: tld-query-allfinanz.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.allfinanz.:../TldSpider/DataBak/20220306T194133Z-tld-query-allfinanz-a.nic.allfinanz
+b.nic.allfinanz.:../TldSpider/DataBak/20220306T194133Z-tld-query-allfinanz-b.nic.allfinanz
+c.nic.allfinanz.:../TldSpider/DataBak/20220306T194133Z-tld-query-allfinanz-c.nic.allfinanz
+d.nic.allfinanz.:../TldSpider/DataBak/20220306T194133Z-tld-query-allfinanz-d.nic.allfinanz

@@ -1,0 +1,9 @@
+; timestamp: 20220306T203736Z
+; source id: tld-query-mma.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+d.nic.fr.:../TldSpider/DataBak/20220306T203736Z-tld-query-mma-d.nic.fr
+f.ext.nic.fr.:../TldSpider/DataBak/20220306T203736Z-tld-query-mma-f.ext.nic.fr
+g.ext.nic.fr.:../TldSpider/DataBak/20220306T203736Z-tld-query-mma-g.ext.nic.fr

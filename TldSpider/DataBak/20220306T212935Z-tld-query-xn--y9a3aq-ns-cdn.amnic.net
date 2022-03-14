@@ -1,0 +1,7 @@
+; timestamp: 20220306T212935Z
+; source id: tld-query-xn--y9a3aq.-ns-cdn.amnic.net.
+; source locator: ns-cdn.amnic.net.
+; source IP address: 194.0.1.26
+; backup point IP address: 111.42.148.76
+; status: success
+xn--y9a3aq.		3599	IN	NS	ns-cdn.amnic.net.xn--y9a3aq.		3599	IN	NS	fork.sth.dnsnode.net.xn--y9a3aq.		3599	IN	NS	ns-pch.amnic.net.xn--y9a3aq.		3599	IN	NS	ns-pri.nic.am.ns-cdn.amnic.net.	3600	IN	A	194.0.1.26ns-cdn.amnic.net.	3600	IN	AAAA	2001:678:4::1a

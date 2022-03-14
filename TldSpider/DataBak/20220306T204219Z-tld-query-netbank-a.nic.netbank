@@ -1,0 +1,7 @@
+; timestamp: 20220306T204219Z
+; source id: tld-query-netbank.-a.nic.netbank.
+; source locator: a.nic.netbank.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+netbank.		3600	IN	NS	b.nic.netbank.netbank.		3600	IN	NS	c.nic.netbank.netbank.		3600	IN	NS	a.nic.netbank.netbank.		3600	IN	NS	d.nic.netbank.a.nic.netbank.		3600	IN	A	37.209.192.9a.nic.netbank.		3600	IN	AAAA	2001:dcd:1::9

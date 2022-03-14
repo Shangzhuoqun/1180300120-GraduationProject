@@ -1,0 +1,7 @@
+; timestamp: 20220306T195927Z
+; source id: tld-query-de.-a.nic.de.
+; source locator: a.nic.de.
+; source IP address: 194.0.0.53
+; backup point IP address: 111.42.148.76
+; status: success
+de.			9	IN	NS	l.de.net.de.			9	IN	NS	f.nic.de.de.			9	IN	NS	z.nic.de.de.			9	IN	NS	s.de.net.de.			9	IN	NS	n.de.net.de.			9	IN	NS	a.nic.de.a.nic.de.		900	IN	A	194.0.0.53a.nic.de.		1057	IN	AAAA	2001:678:2::53

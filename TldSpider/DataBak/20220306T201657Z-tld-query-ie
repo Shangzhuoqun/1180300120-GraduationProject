@@ -1,0 +1,12 @@
+; timestamp: 20220306T201657Z
+; source id: tld-query-ie.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+b.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-b.ns.ie
+c.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-c.ns.ie
+d.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-d.ns.ie
+g.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-g.ns.ie
+h.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-h.ns.ie
+i.ns.ie.:../TldSpider/DataBak/20220306T201657Z-tld-query-ie-i.ns.ie

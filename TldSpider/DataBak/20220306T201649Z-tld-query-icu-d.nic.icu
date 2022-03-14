@@ -1,0 +1,7 @@
+; timestamp: 20220306T201649Z
+; source id: tld-query-icu.-d.nic.icu.
+; source locator: d.nic.icu.
+; source IP address: 212.18.249.108
+; backup point IP address: 111.42.148.76
+; status: success
+icu.			3597	IN	NS	a.nic.icu.icu.			3597	IN	NS	d.nic.icu.icu.			3597	IN	NS	c.nic.icu.icu.			3597	IN	NS	b.nic.icu.d.nic.icu.		3600	IN	A	212.18.249.108d.nic.icu.		3600	IN	AAAA	2a04:2b00:13ff::108

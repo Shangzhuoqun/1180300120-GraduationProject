@@ -1,0 +1,10 @@
+; timestamp: 20220306T194603Z
+; source id: tld-query-bd.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns.bd.:../TldSpider/DataBak/20220306T194603Z-tld-query-bd-dns.bd
+bd-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T194603Z-tld-query-bd-bd-ns.anycast.pch.net
+surma.btcl.net.bd.:../TldSpider/DataBak/20220306T194603Z-tld-query-bd-surma.btcl.net.bd
+jamuna.btcl.net.bd.:../TldSpider/DataBak/20220306T194603Z-tld-query-bd-jamuna.btcl.net.bd

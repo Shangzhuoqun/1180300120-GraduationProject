@@ -1,0 +1,10 @@
+; timestamp: 20220306T194425Z
+; source id: tld-query-ax.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+ns1.aland.net.:../TldSpider/DataBak/20220306T194425Z-tld-query-ax-ns1.aland.net
+ns2.aland.net.:../TldSpider/DataBak/20220306T194425Z-tld-query-ax-ns2.aland.net
+ns3.alcom.fi.:../TldSpider/DataBak/20220306T194425Z-tld-query-ax-ns3.alcom.fi
+ns4.alcom.fi.:../TldSpider/DataBak/20220306T194425Z-tld-query-ax-ns4.alcom.fi

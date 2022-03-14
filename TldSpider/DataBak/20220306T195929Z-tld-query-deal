@@ -1,0 +1,14 @@
+; timestamp: 20220306T195929Z
+; source id: tld-query-deal.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dns1.nic.deal
+dns2.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dns2.nic.deal
+dns3.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dns3.nic.deal
+dns4.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dns4.nic.deal
+dnsa.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dnsa.nic.deal
+dnsb.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dnsb.nic.deal
+dnsc.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dnsc.nic.deal
+dnsd.nic.deal.:../TldSpider/DataBak/20220306T195929Z-tld-query-deal-dnsd.nic.deal

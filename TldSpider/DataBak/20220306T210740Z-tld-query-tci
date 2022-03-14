@@ -1,0 +1,10 @@
+; timestamp: 20220306T210740Z
+; source id: tld-query-tci.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.ns.nic.tci.:../TldSpider/DataBak/20220306T210740Z-tld-query-tci-a.ns.nic.tci
+b.ns.nic.tci.:../TldSpider/DataBak/20220306T210740Z-tld-query-tci-b.ns.nic.tci
+ns1.anycastdns.cz.:../TldSpider/DataBak/20220306T210740Z-tld-query-tci-ns1.anycastdns.cz
+ns2.anycastdns.cz.:../TldSpider/DataBak/20220306T210740Z-tld-query-tci-ns2.anycastdns.cz

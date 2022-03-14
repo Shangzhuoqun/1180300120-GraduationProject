@@ -1,0 +1,8 @@
+; timestamp: 20220306T203732Z
+; source id: tld-query-mls.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.ns.nic.mls.:../TldSpider/DataBak/20220306T203732Z-tld-query-mls-a.ns.nic.mls
+b.ns.nic.mls.:../TldSpider/DataBak/20220306T203732Z-tld-query-mls-b.ns.nic.mls

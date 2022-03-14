@@ -1,0 +1,7 @@
+; timestamp: 20220306T200201Z
+; source id: tld-query-dubai.-gtld.gamma.aridns.net.au.
+; source locator: gtld.gamma.aridns.net.au.
+; source IP address: 37.209.196.10
+; backup point IP address: 111.42.148.76
+; status: success
+dubai.			424	IN	NS	gtld.gamma.aridns.net.au.dubai.			424	IN	NS	gtld.beta.aridns.net.au.dubai.			424	IN	NS	gtld.alpha.aridns.net.au.dubai.			424	IN	NS	gtld.delta.aridns.net.au.gtld.gamma.aridns.net.au. 2297	IN	A	37.209.196.10gtld.gamma.aridns.net.au. 2297	IN	AAAA	2001:dcd:3::10

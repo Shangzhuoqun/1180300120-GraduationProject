@@ -1,0 +1,6 @@
+ns.cocca.fr.	172800	in	a	185.17.236.93
+ns.cocca.fr.	172800	in	aaaa	2a03:dd40:3:0:0:0:0:93
+ki.	172800	in	ns	ns.cocca.fr.
+ki.	172800	in	ns	pch.nic.ki.
+pch.nic.ki.	172800	in	a	204.61.216.26
+pch.nic.ki.	172800	in	aaaa	2001:500:14:6026:ad:0:0:1

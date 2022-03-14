@@ -1,0 +1,7 @@
+; timestamp: 20220306T205913Z
+; source id: tld-query-services.-v2n1.nic.services.
+; source locator: v2n1.nic.services.
+; source IP address: 161.232.11.37
+; backup point IP address: 111.42.148.76
+; status: success
+services.		3598	IN	NS	v0n3.nic.services.services.		3598	IN	NS	v2n0.nic.services.services.		3598	IN	NS	v2n1.nic.services.services.		3598	IN	NS	v0n2.nic.services.services.		3598	IN	NS	v0n1.nic.services.services.		3598	IN	NS	v0n0.nic.services.v2n1.nic.services.	3600	IN	A	161.232.11.37v2n1.nic.services.	3600	IN	AAAA	2a01:8840:f5::37

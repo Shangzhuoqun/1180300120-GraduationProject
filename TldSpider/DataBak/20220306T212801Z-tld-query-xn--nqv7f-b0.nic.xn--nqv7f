@@ -1,0 +1,7 @@
+; timestamp: 20220306T212801Z
+; source id: tld-query-xn--nqv7f.-b0.nic.xn--nqv7f.
+; source locator: b0.nic.xn--nqv7f.
+; source IP address: 65.22.185.17
+; backup point IP address: 111.42.148.76
+; status: success
+xn--nqv7f.		3598	IN	NS	a2.nic.xn--nqv7f.xn--nqv7f.		3598	IN	NS	b0.nic.xn--nqv7f.xn--nqv7f.		3598	IN	NS	a0.nic.xn--nqv7f.xn--nqv7f.		3598	IN	NS	c0.nic.xn--nqv7f.b0.nic.xn--nqv7f.	598	IN	A	65.22.185.17b0.nic.xn--nqv7f.	598	IN	AAAA	2a01:8840:b3::17

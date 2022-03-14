@@ -1,0 +1,7 @@
+; timestamp: 20220306T210021Z
+; source id: tld-query-silk.-dnsa.nic.silk.
+; source locator: dnsa.nic.silk.
+; source IP address: 156.154.100.3
+; backup point IP address: 111.42.148.76
+; status: success
+silk.			3598	IN	NS	dnsd.nic.silk.silk.			3598	IN	NS	dnsa.nic.silk.silk.			3598	IN	NS	dnsc.nic.silk.silk.			3598	IN	NS	dns4.nic.silk.silk.			3598	IN	NS	dnsb.nic.silk.silk.			3598	IN	NS	dns2.nic.silk.silk.			3598	IN	NS	dns3.nic.silk.silk.			3598	IN	NS	dns1.nic.silk.dnsa.nic.silk.		3599	IN	A	156.154.100.3dnsa.nic.silk.		3599	IN	AAAA	2001:502:ad09::3

@@ -1,0 +1,7 @@
+; timestamp: 20220306T210819Z
+; source id: tld-query-temasek.-c0.nic.temasek.
+; source locator: c0.nic.temasek.
+; source IP address: 65.22.142.9
+; backup point IP address: 111.42.148.76
+; status: success
+temasek.		3598	IN	NS	a0.nic.temasek.temasek.		3598	IN	NS	c0.nic.temasek.temasek.		3598	IN	NS	b0.nic.temasek.temasek.		3598	IN	NS	a2.nic.temasek.c0.nic.temasek.		597	IN	A	65.22.142.9c0.nic.temasek.		597	IN	AAAA	2a01:8840:8c::9

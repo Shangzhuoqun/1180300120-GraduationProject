@@ -1,0 +1,14 @@
+; timestamp: 20220306T193959Z
+; source id: tld-query-abbvie.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dns1.nic.abbvie
+dns2.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dns2.nic.abbvie
+dns3.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dns3.nic.abbvie
+dns4.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dns4.nic.abbvie
+dnsa.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dnsa.nic.abbvie
+dnsb.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dnsb.nic.abbvie
+dnsc.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dnsc.nic.abbvie
+dnsd.nic.abbvie.:../TldSpider/DataBak/20220306T193959Z-tld-query-abbvie-dnsd.nic.abbvie

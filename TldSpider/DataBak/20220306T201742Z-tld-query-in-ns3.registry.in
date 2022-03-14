@@ -1,0 +1,7 @@
+; timestamp: 20220306T201742Z
+; source id: tld-query-in.-ns3.registry.in.
+; source locator: ns3.registry.in.
+; source IP address: 37.209.196.12
+; backup point IP address: 111.42.148.76
+; status: success
+in.			3599	IN	NS	ns4.registry.in.in.			3599	IN	NS	ns1.registry.in.in.			3599	IN	NS	ns2.registry.in.in.			3599	IN	NS	ns5.registry.in.in.			3599	IN	NS	ns3.registry.in.in.			3599	IN	NS	ns6.registry.in.ns3.registry.in.	3600	IN	A	37.209.196.12ns3.registry.in.	3600	IN	AAAA	2001:dcd:3::12

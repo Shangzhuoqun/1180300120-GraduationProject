@@ -1,0 +1,7 @@
+; timestamp: 20220306T204649Z
+; source id: tld-query-passagens.-a.nic.passagens.
+; source locator: a.nic.passagens.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+passagens.		3600	IN	NS	ns2.dns.nic.passagens.passagens.		3600	IN	NS	b.nic.passagens.passagens.		3600	IN	NS	a.nic.passagens.passagens.		3600	IN	NS	ns3.dns.nic.passagens.passagens.		3600	IN	NS	ns1.dns.nic.passagens.passagens.		3600	IN	NS	c.nic.passagens.a.nic.passagens.	3600	IN	A	37.209.192.9a.nic.passagens.	3600	IN	AAAA	2001:dcd:1::9

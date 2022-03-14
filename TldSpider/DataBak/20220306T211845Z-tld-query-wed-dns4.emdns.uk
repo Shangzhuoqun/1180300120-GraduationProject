@@ -1,0 +1,7 @@
+; timestamp: 20220306T211845Z
+; source id: tld-query-wed.-dns4.emdns.uk.
+; source locator: dns4.emdns.uk.
+; source IP address: 43.230.49.153
+; backup point IP address: 111.42.148.76
+; status: success
+wed.			86400	IN	NS	dns1.emdns.uk.wed.			86400	IN	NS	dns2.emdns.uk.wed.			86400	IN	NS	dns3.emdns.uk.wed.			86400	IN	NS	dns4.emdns.uk.wed.			86400	IN	NS	dnsa.emdns.uk.wed.			86400	IN	NS	dnsb.emdns.uk.wed.			86400	IN	NS	dnsc.emdns.uk.wed.			86400	IN	NS	dnsd.emdns.uk.dns4.emdns.uk.		3597	IN	A	43.230.49.153dns4.emdns.uk.		3597	IN	AAAA	2401:fd80:405::153

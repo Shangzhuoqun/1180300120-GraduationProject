@@ -1,0 +1,10 @@
+; timestamp: 20220306T200555Z
+; source id: tld-query-fishing.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.fishing.:../TldSpider/DataBak/20220306T200555Z-tld-query-fishing-a.nic.fishing
+b.nic.fishing.:../TldSpider/DataBak/20220306T200555Z-tld-query-fishing-b.nic.fishing
+c.nic.fishing.:../TldSpider/DataBak/20220306T200555Z-tld-query-fishing-c.nic.fishing
+d.nic.fishing.:../TldSpider/DataBak/20220306T200555Z-tld-query-fishing-d.nic.fishing

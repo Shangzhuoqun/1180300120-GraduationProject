@@ -1,0 +1,27 @@
+; timestamp: 20220306T213058Z
+; source id: tld-query-zm.-gransy.nic.zm.
+; source locator: gransy.nic.zm.
+; source IP address: 185.28.194.194
+; backup point IP address: 111.42.148.76
+; status: success
+zm.			3598	IN	NS	gransy.nic.zm.zm.			3598	IN	NS	cocca.nic.zm.zm.			3598	IN	NS	pch.nic.zm.gransy.nic.zm.		2303	IN	A	185.28.194.194gransy.nic.zm.		2303	IN	A	185.38.108.108dig @185.38.108.108 gransy.nic.zm. AAAA
+
+; <<>> DiG 9.16.23 <<>> @185.38.108.108 gransy.nic.zm. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51807
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;gransy.nic.zm.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.zm.			1403	IN	SOA	zicta1.nic.zm. hostmaster.coccaregistry.org. 2021012011 21600 3600 604800 21600
+
+;; Query time: 10 msec
+;; SERVER: 185.38.108.108#53(185.38.108.108)
+;; WHEN: Sun Mar 06 21:31:02 ;; MSG SIZE  rcvd: 113
+

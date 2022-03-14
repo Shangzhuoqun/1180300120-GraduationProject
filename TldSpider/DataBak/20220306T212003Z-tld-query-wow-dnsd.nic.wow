@@ -1,0 +1,7 @@
+; timestamp: 20220306T212003Z
+; source id: tld-query-wow.-dnsd.nic.wow.
+; source locator: dnsd.nic.wow.
+; source IP address: 156.154.103.3
+; backup point IP address: 111.42.148.76
+; status: success
+wow.			3597	IN	NS	dns4.nic.wow.wow.			3597	IN	NS	dnsc.nic.wow.wow.			3597	IN	NS	dns2.nic.wow.wow.			3597	IN	NS	dns1.nic.wow.wow.			3597	IN	NS	dns3.nic.wow.wow.			3597	IN	NS	dnsa.nic.wow.wow.			3597	IN	NS	dnsd.nic.wow.wow.			3597	IN	NS	dnsb.nic.wow.dnsd.nic.wow.		3600	IN	A	156.154.103.3dnsd.nic.wow.		3600	IN	AAAA	2610:a1:1010::3

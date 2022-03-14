@@ -1,0 +1,7 @@
+; timestamp: 20220306T201632Z
+; source id: tld-query-hu.-b.hu.
+; source locator: b.hu.
+; source IP address: 193.239.149.161
+; backup point IP address: 111.42.148.76
+; status: success
+hu.			2919	IN	NS	ns2.nic.fr.hu.			2919	IN	NS	c.hu.hu.			2919	IN	NS	b.hu.hu.			2919	IN	NS	a.hu.hu.			2919	IN	NS	ns-com.nic.hu.hu.			2919	IN	NS	e.hu.hu.			2919	IN	NS	d.hu.b.hu.			3600	IN	A	193.239.149.161b.hu.			3599	IN	AAAA	2001:738:4:4000::3

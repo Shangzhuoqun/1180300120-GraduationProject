@@ -1,0 +1,7 @@
+; timestamp: 20220306T195701Z
+; source id: tld-query-com.-f.gtld-servers.net.
+; source locator: f.gtld-servers.net.
+; source IP address: 192.35.51.30
+; backup point IP address: 111.42.148.76
+; status: success
+com.			947	IN	NS	h.gtld-servers.net.com.			947	IN	NS	l.gtld-servers.net.com.			947	IN	NS	j.gtld-servers.net.com.			947	IN	NS	b.gtld-servers.net.com.			947	IN	NS	d.gtld-servers.net.com.			947	IN	NS	c.gtld-servers.net.com.			947	IN	NS	e.gtld-servers.net.com.			947	IN	NS	i.gtld-servers.net.com.			947	IN	NS	f.gtld-servers.net.com.			947	IN	NS	a.gtld-servers.net.com.			947	IN	NS	k.gtld-servers.net.com.			947	IN	NS	g.gtld-servers.net.com.			947	IN	NS	m.gtld-servers.net.f.gtld-servers.net.	1413	IN	A	192.35.51.30f.gtld-servers.net.	554	IN	AAAA	2001:503:d414::30

@@ -1,0 +1,12 @@
+icbc.	172800	in	ns	a0.nic.icbc.
+icbc.	172800	in	ns	a2.nic.icbc.
+icbc.	172800	in	ns	b0.nic.icbc.
+icbc.	172800	in	ns	c0.nic.icbc.
+a0.nic.icbc.	172800	in	a	65.22.128.33
+a0.nic.icbc.	172800	in	aaaa	2a01:8840:7e:0:0:0:0:33
+a2.nic.icbc.	172800	in	a	65.22.131.33
+a2.nic.icbc.	172800	in	aaaa	2a01:8840:81:0:0:0:0:33
+b0.nic.icbc.	172800	in	a	65.22.129.33
+b0.nic.icbc.	172800	in	aaaa	2a01:8840:7f:0:0:0:0:33
+c0.nic.icbc.	172800	in	a	65.22.130.33
+c0.nic.icbc.	172800	in	aaaa	2a01:8840:80:0:0:0:0:33

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204739Z
+; source id: tld-query-pfizer.-ns3.dns.nic.pfizer.
+; source locator: ns3.dns.nic.pfizer.
+; source IP address: 156.154.159.134
+; backup point IP address: 111.42.148.76
+; status: success
+pfizer.			3598	IN	NS	a.nic.pfizer.pfizer.			3598	IN	NS	c.nic.pfizer.pfizer.			3598	IN	NS	b.nic.pfizer.pfizer.			3598	IN	NS	ns1.dns.nic.pfizer.pfizer.			3598	IN	NS	ns2.dns.nic.pfizer.pfizer.			3598	IN	NS	ns3.dns.nic.pfizer.ns3.dns.nic.pfizer.	3596	IN	A	156.154.159.134ns3.dns.nic.pfizer.	3596	IN	AAAA	2610:a1:1073::86

@@ -1,0 +1,9 @@
+; timestamp: 20220306T200055Z
+; source id: tld-query-dj.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+bow1.intnet.dj.:../TldSpider/DataBak/20220306T200055Z-tld-query-dj-bow1.intnet.dj
+bow5.intnet.dj.:../TldSpider/DataBak/20220306T200055Z-tld-query-dj-bow5.intnet.dj
+vps443605.ovh.net.:../TldSpider/DataBak/20220306T200055Z-tld-query-dj-vps443605.ovh.net

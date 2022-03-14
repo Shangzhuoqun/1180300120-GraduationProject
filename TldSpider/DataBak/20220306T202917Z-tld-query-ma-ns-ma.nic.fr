@@ -1,0 +1,7 @@
+; timestamp: 20220306T202917Z
+; source id: tld-query-ma.-ns-ma.nic.fr.
+; source locator: ns-ma.nic.fr.
+; source IP address: 194.0.9.1
+; backup point IP address: 111.42.148.76
+; status: success
+ma.			3580	IN	NS	f.tld.ma.ma.			3580	IN	NS	e.tld.ma.ma.			3580	IN	NS	c.tld.ma.ma.			3580	IN	NS	d.tld.ma.ma.			3580	IN	NS	a.tld.ma.ma.			3580	IN	NS	ns-ma.nic.fr.ma.			3580	IN	NS	b.tld.ma.ma.			3580	IN	NS	dns.inria.fr.ns-ma.nic.fr.		3600	IN	A	194.0.9.1ns-ma.nic.fr.		3600	IN	AAAA	2001:678:c::1

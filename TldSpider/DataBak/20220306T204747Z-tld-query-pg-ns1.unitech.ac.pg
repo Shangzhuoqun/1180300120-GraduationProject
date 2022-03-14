@@ -1,0 +1,27 @@
+; timestamp: 20220306T204747Z
+; source id: tld-query-pg.-ns1.unitech.ac.pg.
+; source locator: ns1.unitech.ac.pg.
+; source IP address: 202.1.32.49
+; backup point IP address: 111.42.148.76
+; status: success
+pg.			172800	IN	NS	ns1.unitech.ac.PG.pg.			172800	IN	NS	ns1.tiare.net.PG.pg.			172800	IN	NS	ns.UU.NET.pg.			172800	IN	NS	munnari.oz.au.pg.			172800	IN	NS	ns2.tiare.net.PG.ns1.unitech.ac.pg.	3597	IN	A	202.1.32.49dig @202.1.32.49 ns1.unitech.ac.pg. AAAA
+
+; <<>> DiG 9.16.23 <<>> @202.1.32.49 ns1.unitech.ac.pg. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19352
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1.unitech.ac.pg.		IN	AAAA
+
+;; AUTHORITY SECTION:
+unitech.ac.pg.		1800	IN	SOA	dns1.unitech.ac.pg. root.unitech.ac.pg. 2021102000 10800 3600 2419200 86400
+
+;; Query time: 3522 msec
+;; SERVER: 202.1.32.49#53(202.1.32.49)
+;; WHEN: Sun Mar 06 20:47:54 ;; MSG SIZE  rcvd: 92
+

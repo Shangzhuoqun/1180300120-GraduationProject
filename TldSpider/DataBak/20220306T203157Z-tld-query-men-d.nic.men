@@ -1,0 +1,7 @@
+; timestamp: 20220306T203157Z
+; source id: tld-query-men.-d.nic.men.
+; source locator: d.nic.men.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+men.			3599	IN	NS	c.nic.men.men.			3599	IN	NS	d.nic.men.men.			3599	IN	NS	a.nic.men.men.			3599	IN	NS	b.nic.men.d.nic.men.		3599	IN	A	37.209.198.10d.nic.men.		3599	IN	AAAA	2001:dcd:4::10

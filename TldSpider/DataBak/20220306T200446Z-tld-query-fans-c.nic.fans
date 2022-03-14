@@ -1,0 +1,7 @@
+; timestamp: 20220306T200446Z
+; source id: tld-query-fans.-c.nic.fans.
+; source locator: c.nic.fans.
+; source IP address: 212.18.248.39
+; backup point IP address: 111.42.148.76
+; status: success
+fans.			3599	IN	NS	a.nic.fans.fans.			3599	IN	NS	b.nic.fans.fans.			3599	IN	NS	d.nic.fans.fans.			3599	IN	NS	c.nic.fans.c.nic.fans.		3599	IN	A	212.18.248.39c.nic.fans.		3599	IN	AAAA	2a04:2b00:13ee::39

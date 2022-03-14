@@ -1,0 +1,10 @@
+; timestamp: 20220306T205356Z
+; source id: tld-query-rent.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.rent.:../TldSpider/DataBak/20220306T205356Z-tld-query-rent-a.nic.rent
+b.nic.rent.:../TldSpider/DataBak/20220306T205356Z-tld-query-rent-b.nic.rent
+c.nic.rent.:../TldSpider/DataBak/20220306T205356Z-tld-query-rent-c.nic.rent
+d.nic.rent.:../TldSpider/DataBak/20220306T205356Z-tld-query-rent-d.nic.rent

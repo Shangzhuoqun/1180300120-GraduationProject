@@ -1,0 +1,7 @@
+; timestamp: 20220306T211133Z
+; source id: tld-query-tools.-v0n2.nic.tools.
+; source locator: v0n2.nic.tools.
+; source IP address: 65.22.30.44
+; backup point IP address: 111.42.148.76
+; status: success
+tools.			3599	IN	NS	v2n0.nic.tools.tools.			3599	IN	NS	v2n1.nic.tools.tools.			3599	IN	NS	v0n1.nic.tools.tools.			3599	IN	NS	v0n3.nic.tools.tools.			3599	IN	NS	v0n0.nic.tools.tools.			3599	IN	NS	v0n2.nic.tools.v0n2.nic.tools.		3600	IN	A	65.22.30.44v0n2.nic.tools.		3600	IN	AAAA	2a01:8840:20::44

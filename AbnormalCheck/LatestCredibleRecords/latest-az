@@ -1,0 +1,6 @@
+az.	172800	in	ns	az.hostmaster.ua.
+az.	172800	in	ns	rip.psg.com.
+rip.psg.com.	172800	in	a	147.28.0.39
+rip.psg.com.	172800	in	aaaa	2001:418:1:0:0:0:0:39
+az.hostmaster.ua.	172800	in	a	195.47.253.13
+az.hostmaster.ua.	172800	in	aaaa	2001:67c:258:0:0:0:0:13

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201654Z
+; source id: tld-query-id.-d.dns.id.
+; source locator: d.dns.id.
+; source IP address: 45.126.57.57
+; backup point IP address: 111.42.148.76
+; status: success
+id.			3373	IN	NS	e.dns.id.id.			3373	IN	NS	b.dns.id.id.			3373	IN	NS	c.dns.id.id.			3373	IN	NS	ns4.apnic.net.id.			3373	IN	NS	d.dns.id.d.dns.id.		3599	IN	A	45.126.57.57d.dns.id.		3599	IN	AAAA	2402:ee80:d::d

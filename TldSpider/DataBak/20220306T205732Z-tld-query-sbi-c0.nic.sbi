@@ -1,0 +1,7 @@
+; timestamp: 20220306T205732Z
+; source id: tld-query-sbi.-c0.nic.sbi.
+; source locator: c0.nic.sbi.
+; source IP address: 65.22.178.9
+; backup point IP address: 111.42.148.76
+; status: success
+sbi.			86400	IN	NS	a0.nic.sbi.sbi.			86400	IN	NS	a2.nic.sbi.sbi.			86400	IN	NS	c0.nic.sbi.sbi.			86400	IN	NS	b0.nic.sbi.c0.nic.sbi.		598	IN	A	65.22.178.9c0.nic.sbi.		600	IN	AAAA	2a01:8840:ac::9

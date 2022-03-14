@@ -1,0 +1,12 @@
+; timestamp: 20220306T204928Z
+; source id: tld-query-ping.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-a.nic.ping
+b.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-b.nic.ping
+c.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-c.nic.ping
+ns1.dns.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-ns1.dns.nic.ping
+ns2.dns.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-ns2.dns.nic.ping
+ns3.dns.nic.ping.:../TldSpider/DataBak/20220306T204928Z-tld-query-ping-ns3.dns.nic.ping

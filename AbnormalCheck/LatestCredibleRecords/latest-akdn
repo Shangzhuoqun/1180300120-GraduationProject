@@ -1,0 +1,12 @@
+akdn.	172800	in	ns	a0.nic.akdn.
+akdn.	172800	in	ns	a2.nic.akdn.
+akdn.	172800	in	ns	b0.nic.akdn.
+akdn.	172800	in	ns	c0.nic.akdn.
+a0.nic.akdn.	172800	in	a	65.22.44.17
+a0.nic.akdn.	172800	in	aaaa	2a01:8840:2a:0:0:0:0:17
+a2.nic.akdn.	172800	in	a	65.22.47.17
+a2.nic.akdn.	172800	in	aaaa	2a01:8840:2d:0:0:0:0:17
+b0.nic.akdn.	172800	in	a	65.22.45.17
+b0.nic.akdn.	172800	in	aaaa	2a01:8840:2b:0:0:0:0:17
+c0.nic.akdn.	172800	in	a	65.22.46.17
+c0.nic.akdn.	172800	in	aaaa	2a01:8840:2c:0:0:0:0:17

@@ -1,0 +1,12 @@
+; timestamp: 20220306T195439Z
+; source id: tld-query-cisco.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-a.nic.cisco
+b.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-b.nic.cisco
+c.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-c.nic.cisco
+ns1.dns.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-ns1.dns.nic.cisco
+ns2.dns.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-ns2.dns.nic.cisco
+ns3.dns.nic.cisco.:../TldSpider/DataBak/20220306T195439Z-tld-query-cisco-ns3.dns.nic.cisco

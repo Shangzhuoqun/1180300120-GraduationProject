@@ -1,0 +1,7 @@
+; timestamp: 20220306T204527Z
+; source id: tld-query-onl.-c0.nic.onl.
+; source locator: c0.nic.onl.
+; source IP address: 65.22.138.1
+; backup point IP address: 111.42.148.76
+; status: success
+onl.			3600	IN	NS	a0.nic.onl.onl.			3600	IN	NS	c0.nic.onl.onl.			3600	IN	NS	b0.nic.onl.onl.			3600	IN	NS	a2.nic.onl.c0.nic.onl.		598	IN	A	65.22.138.1c0.nic.onl.		598	IN	AAAA	2a01:8840:88::1

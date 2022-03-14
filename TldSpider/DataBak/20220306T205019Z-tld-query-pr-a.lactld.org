@@ -1,0 +1,7 @@
+; timestamp: 20220306T205019Z
+; source id: tld-query-pr.-a.lactld.org.
+; source locator: a.lactld.org.
+; source IP address: 200.0.68.10
+; backup point IP address: 111.42.148.76
+; status: success
+pr.			1114	IN	NS	a2.pr.afilias-nst.info.pr.			1114	IN	NS	b0.pr.afilias-nst.org.pr.			1114	IN	NS	a0.pr.afilias-nst.info.pr.			1114	IN	NS	pr-dns.denic.de.pr.			1114	IN	NS	a.lactld.org.pr.			1114	IN	NS	c0.pr.afilias-nst.info.pr.			1114	IN	NS	b2.pr.afilias-nst.org.pr.			1114	IN	NS	d0.pr.afilias-nst.org.a.lactld.org.		1321	IN	A	200.0.68.10a.lactld.org.		1322	IN	AAAA	2801:14:a000::10

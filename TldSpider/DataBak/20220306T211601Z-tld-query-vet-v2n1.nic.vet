@@ -1,0 +1,7 @@
+; timestamp: 20220306T211601Z
+; source id: tld-query-vet.-v2n1.nic.vet.
+; source locator: v2n1.nic.vet.
+; source IP address: 161.232.17.49
+; backup point IP address: 111.42.148.76
+; status: success
+vet.			3600	IN	NS	v0n0.nic.vet.vet.			3600	IN	NS	v0n1.nic.vet.vet.			3600	IN	NS	v0n2.nic.vet.vet.			3600	IN	NS	v0n3.nic.vet.vet.			3600	IN	NS	v2n0.nic.vet.vet.			3600	IN	NS	v2n1.nic.vet.v2n1.nic.vet.		3592	IN	A	161.232.17.49v2n1.nic.vet.		3592	IN	AAAA	2a01:8840:fb::49

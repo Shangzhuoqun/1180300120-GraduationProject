@@ -1,0 +1,6 @@
+cd.	172800	in	ns	ns-root-21.scpt-network.net.
+cd.	172800	in	ns	ns-root-22.scpt-network.net.
+cd.	172800	in	ns	ns-root-23.scpt-network.net.
+ns-root-21.scpt-network.net.	172800	in	a	102.68.62.15
+ns-root-22.scpt-network.net.	172800	in	a	102.68.60.15
+ns-root-23.scpt-network.net.	172800	in	a	161.97.87.130

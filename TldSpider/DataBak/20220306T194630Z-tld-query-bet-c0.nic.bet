@@ -1,0 +1,7 @@
+; timestamp: 20220306T194630Z
+; source id: tld-query-bet.-c0.nic.bet.
+; source locator: c0.nic.bet.
+; source IP address: 65.22.38.17
+; backup point IP address: 111.42.148.76
+; status: success
+bet.			1423	IN	NS	c0.nic.bet.bet.			1423	IN	NS	a0.nic.bet.bet.			1423	IN	NS	b0.nic.bet.bet.			1423	IN	NS	a2.nic.bet.c0.nic.bet.		598	IN	A	65.22.38.17c0.nic.bet.		598	IN	AAAA	2a01:8840:28::17

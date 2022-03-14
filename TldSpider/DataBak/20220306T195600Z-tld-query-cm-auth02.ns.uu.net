@@ -1,0 +1,27 @@
+; timestamp: 20220306T195600Z
+; source id: tld-query-cm.-auth02.ns.uu.net.
+; source locator: auth02.ns.uu.net.
+; source IP address: 198.6.1.82
+; backup point IP address: 111.42.148.76
+; status: success
+cm.			981	IN	NS	ns.itu.ch.cm.			981	IN	NS	ns-cm.nic.fr.cm.			981	IN	NS	ns1.nic.cm.cm.			981	IN	NS	auth02.ns.uu.net.cm.			981	IN	NS	ns2.nic.cm.cm.			981	IN	NS	ns-cm.afrinic.net.cm.			981	IN	NS	benoue.camnet.cm.cm.			981	IN	NS	kim.camnet.cm.cm.			981	IN	NS	phloem.uoregon.edu.cm.			981	IN	NS	lom.camnet.cm.cm.			981	IN	NS	mbam.camnet.cm.auth02.ns.uu.net.	2397	IN	A	198.6.1.82dig @198.6.1.82 auth02.ns.uu.net. AAAA
+
+; <<>> DiG 9.16.23 <<>> @198.6.1.82 auth02.ns.uu.net. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28676
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;auth02.ns.uu.net.		IN	AAAA
+
+;; AUTHORITY SECTION:
+ns.uu.net.		300	IN	SOA	AUTH00.ns.uu.net. hostmaster.uu.net. 121 3600 900 604800 300
+
+;; Query time: 9 msec
+;; SERVER: 198.6.1.82#53(198.6.1.82)
+;; WHEN: Sun Mar 06 19:56:21 ;; MSG SIZE  rcvd: 99
+

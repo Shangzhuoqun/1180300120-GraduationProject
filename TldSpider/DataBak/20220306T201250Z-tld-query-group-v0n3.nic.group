@@ -1,0 +1,7 @@
+; timestamp: 20220306T201250Z
+; source id: tld-query-group.-v0n3.nic.group.
+; source locator: v0n3.nic.group.
+; source IP address: 161.232.10.2
+; backup point IP address: 111.42.148.76
+; status: success
+group.			3599	IN	NS	v0n2.nic.group.group.			3599	IN	NS	v2n1.nic.group.group.			3599	IN	NS	v0n1.nic.group.group.			3599	IN	NS	v0n0.nic.group.group.			3599	IN	NS	v0n3.nic.group.group.			3599	IN	NS	v2n0.nic.group.v0n3.nic.group.		3599	IN	A	161.232.10.2v0n3.nic.group.		3599	IN	AAAA	2a01:8840:f4::2

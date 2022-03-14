@@ -1,0 +1,7 @@
+; timestamp: 20220306T202443Z
+; source id: tld-query-kn.-pch.nic.kn.
+; source locator: pch.nic.kn.
+; source IP address: 204.61.216.109
+; backup point IP address: 111.42.148.76
+; status: success
+kn.			14400	IN	NS	ns1.anycastdns.cz.kn.			14400	IN	NS	pch.nic.kn.kn.			14400	IN	NS	ns2.anycastdns.cz.pch.nic.kn.		3600	IN	A	204.61.216.109pch.nic.kn.		3599	IN	AAAA	2001:500:14:6109:ad::1

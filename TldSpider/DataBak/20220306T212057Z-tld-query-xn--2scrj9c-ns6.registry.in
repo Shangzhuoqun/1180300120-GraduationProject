@@ -1,0 +1,7 @@
+; timestamp: 20220306T212057Z
+; source id: tld-query-xn--2scrj9c.-ns6.registry.in.
+; source locator: ns6.registry.in.
+; source IP address: 156.154.101.20
+; backup point IP address: 111.42.148.76
+; status: success
+xn--2scrj9c.		3598	IN	NS	ns6.registry.in.xn--2scrj9c.		3598	IN	NS	ns3.registry.in.xn--2scrj9c.		3598	IN	NS	ns2.registry.in.xn--2scrj9c.		3598	IN	NS	ns1.registry.in.xn--2scrj9c.		3598	IN	NS	ns5.registry.in.xn--2scrj9c.		3598	IN	NS	ns4.registry.in.ns6.registry.in.	3600	IN	A	156.154.101.20ns6.registry.in.	3220	IN	AAAA	2001:502:ad09::20

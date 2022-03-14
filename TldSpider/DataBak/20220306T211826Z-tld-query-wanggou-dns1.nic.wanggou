@@ -1,0 +1,7 @@
+; timestamp: 20220306T211826Z
+; source id: tld-query-wanggou.-dns1.nic.wanggou.
+; source locator: dns1.nic.wanggou.
+; source IP address: 213.248.218.86
+; backup point IP address: 111.42.148.76
+; status: success
+wanggou.		3600	IN	NS	dns4.nic.wanggou.wanggou.		3600	IN	NS	dnsb.nic.wanggou.wanggou.		3600	IN	NS	dnsd.nic.wanggou.wanggou.		3600	IN	NS	dns1.nic.wanggou.wanggou.		3600	IN	NS	dnsa.nic.wanggou.wanggou.		3600	IN	NS	dnsc.nic.wanggou.wanggou.		3600	IN	NS	dns3.nic.wanggou.wanggou.		3600	IN	NS	dns2.nic.wanggou.dns1.nic.wanggou.	3600	IN	A	213.248.218.86dns1.nic.wanggou.	3600	IN	AAAA	2a01:618:402::86

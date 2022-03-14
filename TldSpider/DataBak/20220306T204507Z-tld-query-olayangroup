@@ -1,0 +1,10 @@
+; timestamp: 20220306T204507Z
+; source id: tld-query-olayangroup.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.olayangroup.:../TldSpider/DataBak/20220306T204507Z-tld-query-olayangroup-a.nic.olayangroup
+b.nic.olayangroup.:../TldSpider/DataBak/20220306T204507Z-tld-query-olayangroup-b.nic.olayangroup
+c.nic.olayangroup.:../TldSpider/DataBak/20220306T204507Z-tld-query-olayangroup-c.nic.olayangroup
+d.nic.olayangroup.:../TldSpider/DataBak/20220306T204507Z-tld-query-olayangroup-d.nic.olayangroup

@@ -1,0 +1,7 @@
+; timestamp: 20220306T212325Z
+; source id: tld-query-xn--e1a4c.-si.dns.eu.
+; source locator: si.dns.eu.
+; source IP address: 193.2.221.60
+; backup point IP address: 111.42.148.76
+; status: success
+xn--e1a4c.		3597	IN	NS	y.dns.eu.xn--e1a4c.		3597	IN	NS	w.dns.eu.xn--e1a4c.		3597	IN	NS	si.dns.eu.xn--e1a4c.		3597	IN	NS	x.dns.eu.xn--e1a4c.		3597	IN	NS	be.dns.eu.si.dns.eu.		3600	IN	A	193.2.221.60si.dns.eu.		3600	IN	AAAA	2001:1470:8000:100::1

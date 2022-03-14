@@ -1,0 +1,12 @@
+; timestamp: 20220306T202659Z
+; source id: tld-query-limo.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+v0n0.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v0n0.nic.limo
+v0n1.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v0n1.nic.limo
+v0n2.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v0n2.nic.limo
+v0n3.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v0n3.nic.limo
+v2n0.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v2n0.nic.limo
+v2n1.nic.limo.:../TldSpider/DataBak/20220306T202659Z-tld-query-limo-v2n1.nic.limo

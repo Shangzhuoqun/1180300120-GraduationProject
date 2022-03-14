@@ -1,0 +1,27 @@
+; timestamp: 20220306T210538Z
+; source id: tld-query-sy.-ns1.tld.sy.
+; source locator: ns1.tld.sy.
+; source IP address: 82.137.200.85
+; backup point IP address: 111.42.148.76
+; status: success
+sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.sy.			86400	IN	NS	ns1.tld.sy.sy.			86400	IN	NS	pch.anycast.tld.sy.ns1.tld.sy.		600	IN	A	82.137.200.85dig @82.137.200.85 ns1.tld.sy. AAAA
+
+; <<>> DiG 9.16.23 <<>> @82.137.200.85 ns1.tld.sy. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21913
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;ns1.tld.sy.			IN	AAAA
+
+;; AUTHORITY SECTION:
+tld.sy.			300	IN	SOA	ns3.tld.sy. webmaster.tld.sy. 2022022102 10800 3600 2592000 38400
+
+;; Query time: 1919 msec
+;; SERVER: 82.137.200.85#53(82.137.200.85)
+;; WHEN: Sun Mar 06 21:05:42 ;; MSG SIZE  rcvd: 89
+

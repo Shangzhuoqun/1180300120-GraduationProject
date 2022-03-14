@@ -1,0 +1,7 @@
+; timestamp: 20220306T194615Z
+; source id: tld-query-beer.-d.nic.beer.
+; source locator: d.nic.beer.
+; source IP address: 37.209.198.10
+; backup point IP address: 111.42.148.76
+; status: success
+beer.			1436	IN	NS	d.nic.beer.beer.			1436	IN	NS	a.nic.beer.beer.			1436	IN	NS	c.nic.beer.beer.			1436	IN	NS	b.nic.beer.d.nic.beer.		3599	IN	A	37.209.198.10d.nic.beer.		3599	IN	AAAA	2001:dcd:4::10

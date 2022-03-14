@@ -1,0 +1,10 @@
+; timestamp: 20220306T195747Z
+; source id: tld-query-cpa.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.cpa.:../TldSpider/DataBak/20220306T195747Z-tld-query-cpa-a.nic.cpa
+b.nic.cpa.:../TldSpider/DataBak/20220306T195747Z-tld-query-cpa-b.nic.cpa
+c.nic.cpa.:../TldSpider/DataBak/20220306T195747Z-tld-query-cpa-c.nic.cpa
+d.nic.cpa.:../TldSpider/DataBak/20220306T195747Z-tld-query-cpa-d.nic.cpa

@@ -1,0 +1,11 @@
+dns-mk.univie.ac.at.	172800	in	a	78.104.145.4
+dns-mk.univie.ac.at.	172800	in	aaaa	2001:628:453:bb:0:0:0:4
+d.ext.nic.cz.	172800	in	a	193.29.206.2
+d.ext.nic.cz.	172800	in	aaaa	2001:678:1:0:0:0:0:2
+tld1.marnet.mk.	172800	in	a	194.149.137.168
+ns2.arnes.si.	172800	in	a	194.249.4.44
+ns2.arnes.si.	172800	in	aaaa	2001:1470:8000:53:0:0:0:44
+xn--d1alf.	172800	in	ns	d.ext.nic.cz.
+xn--d1alf.	172800	in	ns	ns2.arnes.si.
+xn--d1alf.	172800	in	ns	tld1.marnet.mk.
+xn--d1alf.	172800	in	ns	dns-mk.univie.ac.at.

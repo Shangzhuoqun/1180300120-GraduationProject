@@ -1,0 +1,7 @@
+; timestamp: 20220306T213040Z
+; source id: tld-query-za.-za-ns.anycast.pch.net.
+; source locator: za-ns.anycast.pch.net.
+; source IP address: 204.61.216.55
+; backup point IP address: 111.42.148.76
+; status: success
+za.			3598	IN	NS	za-ns.anycast.pch.net.za.			3598	IN	NS	nsza.is.co.za.za.			3598	IN	NS	za1.dnsnode.net.za-ns.anycast.pch.net.	3600	IN	A	204.61.216.55za-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6055:ad::1

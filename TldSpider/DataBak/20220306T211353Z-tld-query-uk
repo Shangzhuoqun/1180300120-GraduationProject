@@ -1,0 +1,14 @@
+; timestamp: 20220306T211353Z
+; source id: tld-query-uk.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+nsa.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-nsa.nic.uk
+nsb.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-nsb.nic.uk
+nsc.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-nsc.nic.uk
+nsd.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-nsd.nic.uk
+dns1.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-dns1.nic.uk
+dns2.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-dns2.nic.uk
+dns3.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-dns3.nic.uk
+dns4.nic.uk.:../TldSpider/DataBak/20220306T211353Z-tld-query-uk-dns4.nic.uk

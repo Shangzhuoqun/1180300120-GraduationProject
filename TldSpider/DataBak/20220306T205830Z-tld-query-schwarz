@@ -1,0 +1,10 @@
+; timestamp: 20220306T205830Z
+; source id: tld-query-schwarz.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.schwarz.:../TldSpider/DataBak/20220306T205830Z-tld-query-schwarz-a.nic.schwarz
+b.nic.schwarz.:../TldSpider/DataBak/20220306T205830Z-tld-query-schwarz-b.nic.schwarz
+c.nic.schwarz.:../TldSpider/DataBak/20220306T205830Z-tld-query-schwarz-c.nic.schwarz
+d.nic.schwarz.:../TldSpider/DataBak/20220306T205830Z-tld-query-schwarz-d.nic.schwarz

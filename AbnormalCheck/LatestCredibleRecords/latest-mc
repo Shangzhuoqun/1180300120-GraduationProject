@@ -1,0 +1,7 @@
+mc.	172800	in	ns	mc.cctld.authdns.ripe.net.
+mc.	172800	in	ns	ns1.nic.mc.
+mc.	172800	in	ns	ns2.nic.mc.
+ns1.nic.mc.	172800	in	a	88.209.82.210
+ns2.nic.mc.	172800	in	a	149.5.230.10
+mc.cctld.authdns.ripe.net.	172800	in	a	193.0.9.92
+mc.cctld.authdns.ripe.net.	172800	in	aaaa	2001:67c:e0:0:0:0:0:92

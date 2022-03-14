@@ -1,0 +1,7 @@
+; timestamp: 20220306T200448Z
+; source id: tld-query-farm.-v0n1.nic.farm.
+; source locator: v0n1.nic.farm.
+; source IP address: 65.22.33.8
+; backup point IP address: 111.42.148.76
+; status: success
+farm.			3599	IN	NS	v0n0.nic.farm.farm.			3599	IN	NS	v0n3.nic.farm.farm.			3599	IN	NS	v0n1.nic.farm.farm.			3599	IN	NS	v2n1.nic.farm.farm.			3599	IN	NS	v2n0.nic.farm.farm.			3599	IN	NS	v0n2.nic.farm.v0n1.nic.farm.		3599	IN	A	65.22.33.8v0n1.nic.farm.		3600	IN	AAAA	2a01:8840:23::8

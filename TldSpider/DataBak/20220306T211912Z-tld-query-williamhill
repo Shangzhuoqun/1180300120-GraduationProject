@@ -1,0 +1,12 @@
+; timestamp: 20220306T211912Z
+; source id: tld-query-williamhill.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-a.nic.williamhill
+b.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-b.nic.williamhill
+c.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-c.nic.williamhill
+ns1.dns.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-ns1.dns.nic.williamhill
+ns2.dns.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-ns2.dns.nic.williamhill
+ns3.dns.nic.williamhill.:../TldSpider/DataBak/20220306T211912Z-tld-query-williamhill-ns3.dns.nic.williamhill

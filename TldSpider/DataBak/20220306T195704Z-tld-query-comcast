@@ -1,0 +1,14 @@
+; timestamp: 20220306T195704Z
+; source id: tld-query-comcast.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dns1.nic.comcast
+dns2.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dns2.nic.comcast
+dns3.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dns3.nic.comcast
+dns4.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dns4.nic.comcast
+dnsa.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dnsa.nic.comcast
+dnsb.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dnsb.nic.comcast
+dnsc.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dnsc.nic.comcast
+dnsd.nic.comcast.:../TldSpider/DataBak/20220306T195704Z-tld-query-comcast-dnsd.nic.comcast

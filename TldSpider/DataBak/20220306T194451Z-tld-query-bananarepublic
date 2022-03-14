@@ -1,0 +1,12 @@
+; timestamp: 20220306T194451Z
+; source id: tld-query-bananarepublic.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+a.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-a.nic.bananarepublic
+b.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-b.nic.bananarepublic
+c.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-c.nic.bananarepublic
+ns1.dns.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-ns1.dns.nic.bananarepublic
+ns2.dns.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-ns2.dns.nic.bananarepublic
+ns3.dns.nic.bananarepublic.:../TldSpider/DataBak/20220306T194451Z-tld-query-bananarepublic-ns3.dns.nic.bananarepublic

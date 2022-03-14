@@ -1,0 +1,7 @@
+; timestamp: 20220306T203707Z
+; source id: tld-query-mit.-a2.nic.mit.
+; source locator: a2.nic.mit.
+; source IP address: 65.22.239.17
+; backup point IP address: 111.42.148.76
+; status: success
+mit.			86400	IN	NS	b0.nic.mit.mit.			86400	IN	NS	a2.nic.mit.mit.			86400	IN	NS	a0.nic.mit.mit.			86400	IN	NS	c0.nic.mit.a2.nic.mit.		599	IN	A	65.22.239.17a2.nic.mit.		600	IN	AAAA	2a01:8840:e9::17

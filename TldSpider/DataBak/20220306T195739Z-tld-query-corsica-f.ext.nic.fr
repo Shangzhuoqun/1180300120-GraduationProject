@@ -1,0 +1,7 @@
+; timestamp: 20220306T195739Z
+; source id: tld-query-corsica.-f.ext.nic.fr.
+; source locator: f.ext.nic.fr.
+; source IP address: 194.146.106.46
+; backup point IP address: 111.42.148.76
+; status: success
+corsica.		927	IN	NS	d.nic.fr.corsica.		927	IN	NS	g.ext.nic.fr.corsica.		927	IN	NS	f.ext.nic.fr.f.ext.nic.fr.		570	IN	A	194.146.106.46f.ext.nic.fr.		627	IN	AAAA	2001:67c:1010:11::53

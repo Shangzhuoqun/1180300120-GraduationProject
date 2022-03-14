@@ -1,0 +1,27 @@
+; timestamp: 20220306T201012Z
+; source id: tld-query-gl.-a.nuuk.nic.gl.
+; source locator: a.nuuk.nic.gl.
+; source IP address: 194.177.224.13
+; backup point IP address: 111.42.148.76
+; status: success
+gl.			86400	IN	NS	ns2.anycastdns.cz.gl.			86400	IN	NS	d.nic.gl.gl.			86400	IN	NS	ns1.anycastdns.cz.gl.			86400	IN	NS	a.nuuk.nic.gl.a.nuuk.nic.gl.		1349	IN	A	194.177.224.13dig @194.177.224.13 a.nuuk.nic.gl. AAAA
+
+; <<>> DiG 9.16.23 <<>> @194.177.224.13 a.nuuk.nic.gl. AAAA
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37225
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;a.nuuk.nic.gl.			IN	AAAA
+
+;; AUTHORITY SECTION:
+nic.gl.			600	IN	SOA	A.NS.TELE.gl. gl-admin.TELE.gl. 2021010311 21600 3600 604800 600
+
+;; Query time: 695 msec
+;; SERVER: 194.177.224.13#53(194.177.224.13)
+;; WHEN: Sun Mar 06 20:10:14 ;; MSG SIZE  rcvd: 97
+

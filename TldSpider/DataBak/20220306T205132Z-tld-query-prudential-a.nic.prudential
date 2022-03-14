@@ -1,0 +1,7 @@
+; timestamp: 20220306T205132Z
+; source id: tld-query-prudential.-a.nic.prudential.
+; source locator: a.nic.prudential.
+; source IP address: 37.209.192.9
+; backup point IP address: 111.42.148.76
+; status: success
+prudential.		3600	IN	NS	a.nic.prudential.prudential.		3600	IN	NS	ns2.dns.nic.prudential.prudential.		3600	IN	NS	ns1.dns.nic.prudential.prudential.		3600	IN	NS	c.nic.prudential.prudential.		3600	IN	NS	b.nic.prudential.prudential.		3600	IN	NS	ns3.dns.nic.prudential.a.nic.prudential.	3600	IN	A	37.209.192.9a.nic.prudential.	3600	IN	AAAA	2001:dcd:1::9

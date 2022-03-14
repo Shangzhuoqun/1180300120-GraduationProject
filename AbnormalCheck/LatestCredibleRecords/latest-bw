@@ -1,0 +1,13 @@
+bw.	172800	in	ns	pch.nic.net.bw.
+bw.	172800	in	ns	dns1.nic.net.bw.
+bw.	172800	in	ns	ns-bw.afrinic.net.
+bw.	172800	in	ns	master.btc.net.bw.
+master.btc.net.bw.	172800	in	a	168.167.168.37
+master.btc.net.bw.	172800	in	aaaa	2c0f:ff00:0:6:0:0:0:3
+master.btc.net.bw.	172800	in	aaaa	2c0f:ff00:0:6:0:0:0:5
+dns1.nic.net.bw.	172800	in	a	168.167.98.226
+dns1.nic.net.bw.	172800	in	aaaa	2c0f:ff00:1:3:0:0:0:226
+pch.nic.net.bw.	172800	in	a	204.61.216.70
+pch.nic.net.bw.	172800	in	aaaa	2001:500:14:6070:ad:0:0:1
+ns-bw.afrinic.net.	172800	in	a	196.216.168.72
+ns-bw.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:72

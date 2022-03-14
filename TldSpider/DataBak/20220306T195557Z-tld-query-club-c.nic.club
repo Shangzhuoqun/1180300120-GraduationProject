@@ -1,0 +1,7 @@
+; timestamp: 20220306T195557Z
+; source id: tld-query-club.-c.nic.club.
+; source locator: c.nic.club.
+; source IP address: 37.209.196.10
+; backup point IP address: 111.42.148.76
+; status: success
+club.			1001	IN	NS	ns1.dns.nic.club.club.			1001	IN	NS	b.nic.club.club.			1001	IN	NS	a.nic.club.club.			1001	IN	NS	ns2.dns.nic.club.club.			1001	IN	NS	c.nic.club.club.			1001	IN	NS	ns3.dns.nic.club.c.nic.club.		520	IN	A	37.209.196.10c.nic.club.		519	IN	AAAA	2001:dcd:3::10

@@ -1,0 +1,10 @@
+; timestamp: 20220306T204147Z
+; source id: tld-query-nc.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+nc.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T204147Z-tld-query-nc-nc.cctld.authdns.ripe.net
+ns1.nc.:../TldSpider/DataBak/20220306T204147Z-tld-query-nc-ns1.nc
+ns2.nc.:../TldSpider/DataBak/20220306T204147Z-tld-query-nc-ns2.nc
+any-ns1.nc.:../TldSpider/DataBak/20220306T204147Z-tld-query-nc-any-ns1.nc

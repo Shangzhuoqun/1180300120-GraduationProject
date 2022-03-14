@@ -1,0 +1,14 @@
+; timestamp: 20220306T211826Z
+; source id: tld-query-wanggou.
+; source locator: none
+; source IP address: none
+; backup point IP address: 111.42.148.76
+; status: success
+dns1.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dns1.nic.wanggou
+dns2.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dns2.nic.wanggou
+dns3.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dns3.nic.wanggou
+dns4.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dns4.nic.wanggou
+dnsa.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dnsa.nic.wanggou
+dnsb.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dnsb.nic.wanggou
+dnsc.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dnsc.nic.wanggou
+dnsd.nic.wanggou.:../TldSpider/DataBak/20220306T211826Z-tld-query-wanggou-dnsd.nic.wanggou

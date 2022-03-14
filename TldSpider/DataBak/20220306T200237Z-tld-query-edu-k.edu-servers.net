@@ -1,0 +1,7 @@
+; timestamp: 20220306T200237Z
+; source id: tld-query-edu.-k.edu-servers.net.
+; source locator: k.edu-servers.net.
+; source IP address: 192.52.178.30
+; backup point IP address: 111.42.148.76
+; status: success
+edu.			400	IN	NS	f.edu-servers.net.edu.			400	IN	NS	k.edu-servers.net.edu.			400	IN	NS	j.edu-servers.net.edu.			400	IN	NS	m.edu-servers.net.edu.			400	IN	NS	d.edu-servers.net.edu.			400	IN	NS	e.edu-servers.net.edu.			400	IN	NS	l.edu-servers.net.edu.			400	IN	NS	g.edu-servers.net.edu.			400	IN	NS	b.edu-servers.net.edu.			400	IN	NS	a.edu-servers.net.edu.			400	IN	NS	h.edu-servers.net.edu.			400	IN	NS	i.edu-servers.net.edu.			400	IN	NS	c.edu-servers.net.k.edu-servers.net.	2693	IN	A	192.52.178.30k.edu-servers.net.	3600	IN	AAAA	2001:503:d2d::30

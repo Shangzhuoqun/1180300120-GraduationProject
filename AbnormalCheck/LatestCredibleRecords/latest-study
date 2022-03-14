@@ -1,0 +1,12 @@
+study.	172800	in	ns	a.nic.study.
+study.	172800	in	ns	b.nic.study.
+study.	172800	in	ns	c.nic.study.
+study.	172800	in	ns	d.nic.study.
+a.nic.study.	172800	in	a	37.209.192.10
+a.nic.study.	172800	in	aaaa	2001:dcd:1:0:0:0:0:10
+b.nic.study.	172800	in	a	37.209.194.10
+b.nic.study.	172800	in	aaaa	2001:dcd:2:0:0:0:0:10
+c.nic.study.	172800	in	a	37.209.196.10
+c.nic.study.	172800	in	aaaa	2001:dcd:3:0:0:0:0:10
+d.nic.study.	172800	in	a	37.209.198.10
+d.nic.study.	172800	in	aaaa	2001:dcd:4:0:0:0:0:10

@@ -1,0 +1,7 @@
+; timestamp: 20220306T201644Z
+; source id: tld-query-ibm.-c.nic.ibm.
+; source locator: c.nic.ibm.
+; source IP address: 37.209.196.9
+; backup point IP address: 111.42.148.76
+; status: success
+ibm.			2909	IN	NS	d.nic.ibm.ibm.			2909	IN	NS	a.nic.ibm.ibm.			2909	IN	NS	b.nic.ibm.ibm.			2909	IN	NS	c.nic.ibm.c.nic.ibm.		3599	IN	A	37.209.196.9c.nic.ibm.		3599	IN	AAAA	2001:dcd:3::9

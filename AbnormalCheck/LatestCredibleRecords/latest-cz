@@ -1,0 +1,12 @@
+cz.	172800	in	ns	a.ns.nic.cz.
+cz.	172800	in	ns	b.ns.nic.cz.
+cz.	172800	in	ns	c.ns.nic.cz.
+cz.	172800	in	ns	d.ns.nic.cz.
+a.ns.nic.cz.	172800	in	a	194.0.12.1
+a.ns.nic.cz.	172800	in	aaaa	2001:678:f:0:0:0:0:1
+b.ns.nic.cz.	172800	in	a	194.0.13.1
+b.ns.nic.cz.	172800	in	aaaa	2001:678:10:0:0:0:0:1
+c.ns.nic.cz.	172800	in	a	194.0.14.1
+c.ns.nic.cz.	172800	in	aaaa	2001:678:11:0:0:0:0:1
+d.ns.nic.cz.	172800	in	a	193.29.206.1
+d.ns.nic.cz.	172800	in	aaaa	2001:678:1:0:0:0:0:1

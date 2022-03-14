@@ -1,0 +1,7 @@
+; timestamp: 20220306T202325Z
+; source id: tld-query-ke.-ns.anycast.kenic.or.ke.
+; source locator: ns.anycast.kenic.or.ke.
+; source IP address: 204.61.216.7
+; backup point IP address: 111.42.148.76
+; status: success
+ke.			86400	IN	NS	NS-KE.AFRINIC.NET.ke.			86400	IN	NS	NS2KE.DNS.BUSINESS.ke.			86400	IN	NS	KENIC.ANYCASTDNS.CZ.ke.			86400	IN	NS	MZIZI.KENIC.OR.KE.ke.			86400	IN	NS	NS.ANYCAST.KENIC.OR.KE.ns.anycast.kenic.or.ke.	600	IN	A	204.61.216.7ns.anycast.kenic.or.ke.	600	IN	AAAA	2001:500:14:6007:ad::1

@@ -1,0 +1,7 @@
+; timestamp: 20220306T204809Z
+; source id: tld-query-ph.-ns2.cuhk.edu.hk.
+; source locator: ns2.cuhk.edu.hk.
+; source IP address: 137.189.6.21
+; backup point IP address: 111.42.148.76
+; status: success
+ph.			3599	IN	NS	1.ns.ph.ph.			3599	IN	NS	ph.communitydns.net.ph.			3599	IN	NS	ns2.cuhk.edu.hk.ph.			3599	IN	NS	ns4.apnic.net.ns2.cuhk.edu.hk.	1208	IN	A	137.189.6.21ns2.cuhk.edu.hk.	1208	IN	AAAA	2405:3000:3:6::15

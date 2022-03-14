@@ -1,0 +1,7 @@
+; timestamp: 20220306T201255Z
+; source id: tld-query-gt.-gt.anycastdns.cz.
+; source locator: gt.anycastdns.cz.
+; source IP address: 185.28.194.194
+; backup point IP address: 111.42.148.76
+; status: success
+gt.			3600	IN	NS	ns-cz.gt.gt.			3600	IN	NS	ssdns-tld.nic.cl.gt.			3600	IN	NS	gt.anycastdns.cz.gt.			3600	IN	NS	ns.dns.br.gt.			3600	IN	NS	pch.gt.gt.			3600	IN	NS	a.lactld.org.gt.anycastdns.cz.	1800	IN	A	185.28.194.194gt.anycastdns.cz.	1800	IN	A	185.38.108.108gt.anycastdns.cz.	1800	IN	AAAA	2a00:fea0:dead::beef

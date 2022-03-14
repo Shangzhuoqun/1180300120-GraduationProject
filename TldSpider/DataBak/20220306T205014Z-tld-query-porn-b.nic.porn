@@ -1,0 +1,7 @@
+; timestamp: 20220306T205014Z
+; source id: tld-query-porn.-b.nic.porn.
+; source locator: b.nic.porn.
+; source IP address: 37.209.194.10
+; backup point IP address: 111.42.148.76
+; status: success
+porn.			3599	IN	NS	d.nic.porn.porn.			3599	IN	NS	b.nic.porn.porn.			3599	IN	NS	a.nic.porn.porn.			3599	IN	NS	c.nic.porn.b.nic.porn.		3599	IN	A	37.209.194.10b.nic.porn.		3599	IN	AAAA	2001:dcd:2::10
