@@ -1,7 +1,0 @@
-; timestamp: 20220306T195250Z
-; source id: tld-query-cat.-nsc.nic.de.
-; source locator: nsc.nic.de.
-; source IP address: 194.0.11.110
-; backup point IP address: 111.42.148.76
-; status: success
-cat.			86400	IN	NS	ns.nic.cat.cat.			86400	IN	NS	nsc.nic.de.cat.			86400	IN	NS	anyc1.irondns.net.cat.			86400	IN	NS	cat.pch.net.cat.			86400	IN	NS	ns1.nic.es.cat.			86400	IN	NS	switch.nic.cat.nsc.nic.de.		3190	IN	A	194.0.11.110nsc.nic.de.		2076	IN	AAAA	2001:678:e:110::53

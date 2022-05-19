@@ -1,7 +1,0 @@
-; timestamp: 20220306T204033Z
-; source id: tld-query-mv.-mv-ns.anycast.pch.net.
-; source locator: mv-ns.anycast.pch.net.
-; source IP address: 204.61.216.24
-; backup point IP address: 111.42.148.76
-; status: success
-mv.			3600	IN	NS	ns2.dhivehinet.net.mv.mv.			3600	IN	NS	ns.dhivehinet.net.mv.mv.			3600	IN	NS	ns.mv.mv.			3600	IN	NS	mv-ns.anycast.pch.net.mv-ns.anycast.pch.net.	3598	IN	A	204.61.216.24mv-ns.anycast.pch.net.	3598	IN	AAAA	2001:500:14:6024:ad::1

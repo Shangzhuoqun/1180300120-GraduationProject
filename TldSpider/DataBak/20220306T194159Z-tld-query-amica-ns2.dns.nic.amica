@@ -1,7 +1,0 @@
-; timestamp: 20220306T194159Z
-; source id: tld-query-amica.-ns2.dns.nic.amica.
-; source locator: ns2.dns.nic.amica.
-; source IP address: 156.154.145.11
-; backup point IP address: 111.42.148.76
-; status: success
-amica.			1618	IN	NS	ns3.dns.nic.amica.amica.			1618	IN	NS	ns2.dns.nic.amica.amica.			1618	IN	NS	b.nic.amica.amica.			1618	IN	NS	ns1.dns.nic.amica.amica.			1618	IN	NS	c.nic.amica.amica.			1618	IN	NS	a.nic.amica.ns2.dns.nic.amica.	3598	IN	A	156.154.145.11ns2.dns.nic.amica.	3598	IN	AAAA	2610:a1:1072::b

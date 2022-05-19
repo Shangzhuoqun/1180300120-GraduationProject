@@ -1,7 +1,0 @@
-; timestamp: 20220306T194318Z
-; source id: tld-query-at.-j.ns.at.
-; source locator: j.ns.at.
-; source IP address: 194.146.106.50
-; backup point IP address: 111.42.148.76
-; status: success
-at.			1565	IN	NS	ns9.univie.ac.at.at.			1565	IN	NS	u.ns.at.at.			1565	IN	NS	n.ns.at.at.			1565	IN	NS	j.ns.at.at.			1565	IN	NS	d.ns.at.at.			1565	IN	NS	ns2.univie.ac.at.at.			1565	IN	NS	ns1.univie.ac.at.at.			1565	IN	NS	r.ns.at.j.ns.at.		34	IN	A	194.146.106.50j.ns.at.		33	IN	AAAA	2001:67c:1010:12::53

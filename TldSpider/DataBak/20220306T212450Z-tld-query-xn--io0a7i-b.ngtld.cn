@@ -1,7 +1,0 @@
-; timestamp: 20220306T212450Z
-; source id: tld-query-xn--io0a7i.-b.ngtld.cn.
-; source locator: b.ngtld.cn.
-; source IP address: 125.208.41.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--io0a7i.		3600	IN	NS	c.ngtld.cn.xn--io0a7i.		3600	IN	NS	a.ngtld.cn.xn--io0a7i.		3600	IN	NS	d.ngtld.cn.xn--io0a7i.		3600	IN	NS	b.ngtld.cn.xn--io0a7i.		3600	IN	NS	e.ngtld.cn.b.ngtld.cn.		715	IN	A	125.208.41.1b.ngtld.cn.		362	IN	AAAA	2001:dc7:ffc2::1

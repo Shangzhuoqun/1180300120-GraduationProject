@@ -1,7 +1,0 @@
-; timestamp: 20220306T201534Z
-; source id: tld-query-hosting.-ns4.uniregistry.info.
-; source locator: ns4.uniregistry.info.
-; source IP address: 185.159.198.3
-; backup point IP address: 111.42.148.76
-; status: success
-hosting.		3598	IN	NS	ns1.uniregistry.net.hosting.		3598	IN	NS	ns2.uniregistry.info.hosting.		3598	IN	NS	ns4.uniregistry.info.hosting.		3598	IN	NS	ns3.uniregistry.net.ns4.uniregistry.info.	3064	IN	A	185.159.198.3ns4.uniregistry.info.	3064	IN	AAAA	2620:10a:80ab::3

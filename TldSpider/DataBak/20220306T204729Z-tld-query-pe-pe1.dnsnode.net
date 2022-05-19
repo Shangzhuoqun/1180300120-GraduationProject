@@ -1,7 +1,0 @@
-; timestamp: 20220306T204729Z
-; source id: tld-query-pe.-pe1.dnsnode.net.
-; source locator: pe1.dnsnode.net.
-; source IP address: 194.146.106.82
-; backup point IP address: 111.42.148.76
-; status: success
-pe.			3597	IN	NS	A.LACTLD.ORG.pe.			3597	IN	NS	QUIPU.RCP.NET.pe.pe.			3597	IN	NS	PCH.RCP.pe.pe.			3597	IN	NS	PE1.DNSNODE.NET.pe1.dnsnode.net.	3598	IN	A	194.146.106.82pe1.dnsnode.net.	3598	IN	AAAA	2001:67c:1010:20::53

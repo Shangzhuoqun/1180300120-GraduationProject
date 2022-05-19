@@ -1,6 +1,0 @@
-gy.	172800	in	ns	a.lactld.org.
-gy.	172800	in	ns	gy-ns.anycast.pch.net.
-gy-ns.anycast.pch.net.	172800	in	a	204.61.216.34
-gy-ns.anycast.pch.net.	172800	in	aaaa	2001:500:14:6034:ad:0:0:1
-a.lactld.org.	172800	in	a	200.0.68.10
-a.lactld.org.	172800	in	aaaa	2801:14:a000:0:0:0:0:10

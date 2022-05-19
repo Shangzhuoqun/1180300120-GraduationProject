@@ -1,7 +1,0 @@
-; timestamp: 20220306T211539Z
-; source id: tld-query-ve.-ns6.nic.ve.
-; source locator: ns6.nic.ve.
-; source IP address: 45.175.22.4
-; backup point IP address: 111.42.148.76
-; status: success
-ve.			18000	IN	NS	ns6.nic.ve.ve.			18000	IN	NS	a.lactld.org.ve.			18000	IN	NS	ns4.nic.ve.ve.			18000	IN	NS	ns3.nic.ve.ve.			18000	IN	NS	ns5.nic.ve.ve.			18000	IN	NS	ssdns-tld.nic.cl.ns6.nic.ve.		3600	IN	A	45.175.22.4ns6.nic.ve.		3600	IN	AAAA	2801:18:8800:1::4

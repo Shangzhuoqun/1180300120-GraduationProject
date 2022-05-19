@@ -1,7 +1,0 @@
-; timestamp: 20220306T211658Z
-; source id: tld-query-vig.-a2.nic.vig.
-; source locator: a2.nic.vig.
-; source IP address: 65.22.51.25
-; backup point IP address: 111.42.148.76
-; status: success
-VIG.			86400	IN	NS	c0.nic.VIG.VIG.			86400	IN	NS	a2.nic.VIG.VIG.			86400	IN	NS	a0.nic.VIG.VIG.			86400	IN	NS	b0.nic.VIG.a2.nic.vig.		600	IN	A	65.22.51.25a2.nic.vig.		599	IN	AAAA	2a01:8840:31::25

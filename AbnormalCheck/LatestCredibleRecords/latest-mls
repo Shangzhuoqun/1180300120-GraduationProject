@@ -1,6 +1,0 @@
-mls.	172800	in	ns	a.ns.nic.mls.
-mls.	172800	in	ns	b.ns.nic.mls.
-a.ns.nic.mls.	172800	in	a	185.159.197.8
-a.ns.nic.mls.	172800	in	aaaa	2620:10a:80aa:0:0:0:0:8
-b.ns.nic.mls.	172800	in	a	185.159.198.8
-b.ns.nic.mls.	172800	in	aaaa	2620:10a:80ab:0:0:0:0:8

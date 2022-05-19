@@ -1,7 +1,0 @@
-; timestamp: 20220306T212745Z
-; source id: tld-query-xn--ngbe9e0a.-d.nic.xn--ngbe9e0a.
-; source locator: d.nic.xn--ngbe9e0a.
-; source IP address: 212.18.249.22
-; backup point IP address: 111.42.148.76
-; status: success
-xn--ngbe9e0a.		3599	IN	NS	a.nic.xn--ngbe9e0a.xn--ngbe9e0a.		3599	IN	NS	b.nic.xn--ngbe9e0a.xn--ngbe9e0a.		3599	IN	NS	d.nic.xn--ngbe9e0a.xn--ngbe9e0a.		3599	IN	NS	c.nic.xn--ngbe9e0a.d.nic.xn--ngbe9e0a.	3598	IN	A	212.18.249.22d.nic.xn--ngbe9e0a.	3598	IN	AAAA	2a04:2b00:13ff::22

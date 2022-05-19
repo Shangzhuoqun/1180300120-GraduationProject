@@ -1,9 +1,0 @@
-politie.	172800	in	ns	ns1.nic.politie.
-politie.	172800	in	ns	ns2.nic.politie.
-politie.	172800	in	ns	ns3.nic.politie.
-ns1.nic.politie.	172800	in	a	194.0.28.5
-ns1.nic.politie.	172800	in	aaaa	2001:678:2c:0:194:0:28:5
-ns2.nic.politie.	172800	in	a	194.146.106.42
-ns2.nic.politie.	172800	in	aaaa	2001:67c:1010:10:0:0:0:53
-ns3.nic.politie.	172800	in	a	194.0.25.27
-ns3.nic.politie.	172800	in	aaaa	2001:678:20:0:0:0:0:27

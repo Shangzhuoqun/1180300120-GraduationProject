@@ -1,7 +1,0 @@
-; timestamp: 20220306T212238Z
-; source id: tld-query-xn--9krt00a.-a2.nic.xn--9krt00a.
-; source locator: a2.nic.xn--9krt00a.
-; source IP address: 65.22.115.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--9krt00a.		3599	IN	NS	c0.nic.xn--9krt00a.xn--9krt00a.		3599	IN	NS	a0.nic.xn--9krt00a.xn--9krt00a.		3599	IN	NS	b0.nic.xn--9krt00a.xn--9krt00a.		3599	IN	NS	a2.nic.xn--9krt00a.a2.nic.xn--9krt00a.	600	IN	A	65.22.115.1a2.nic.xn--9krt00a.	600	IN	AAAA	2a01:8840:71::1

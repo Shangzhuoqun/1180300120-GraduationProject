@@ -1,7 +1,0 @@
-; timestamp: 20220306T212246Z
-; source id: tld-query-xn--c1avg.-c0.nic.xn--c1avg.
-; source locator: c0.nic.xn--c1avg.
-; source IP address: 65.22.186.25
-; backup point IP address: 111.42.148.76
-; status: success
-xn--c1avg.		3599	IN	NS	b0.nic.xn--c1avg.xn--c1avg.		3599	IN	NS	a0.nic.xn--c1avg.xn--c1avg.		3599	IN	NS	c0.nic.xn--c1avg.xn--c1avg.		3599	IN	NS	a2.nic.xn--c1avg.c0.nic.xn--c1avg.	599	IN	A	65.22.186.25c0.nic.xn--c1avg.	600	IN	AAAA	2a01:8840:b4::25

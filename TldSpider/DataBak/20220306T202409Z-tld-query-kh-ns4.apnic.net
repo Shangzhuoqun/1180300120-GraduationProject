@@ -1,7 +1,0 @@
-; timestamp: 20220306T202409Z
-; source id: tld-query-kh.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-kh.			3600	IN	NS	dns1.online.com.kh.kh.			3600	IN	NS	ns4.apnic.net.kh.			3600	IN	NS	ns.camnet.com.kh.kh.			3600	IN	NS	ns1.dns.net.kh.ns4.apnic.net.		2874	IN	A	202.12.31.53ns4.apnic.net.		329	IN	AAAA	2001:dd8:12::53

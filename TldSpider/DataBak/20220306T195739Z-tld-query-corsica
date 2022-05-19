@@ -1,9 +1,0 @@
-; timestamp: 20220306T195739Z
-; source id: tld-query-corsica.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-d.nic.fr.:../TldSpider/DataBak/20220306T195739Z-tld-query-corsica-d.nic.fr
-f.ext.nic.fr.:../TldSpider/DataBak/20220306T195739Z-tld-query-corsica-f.ext.nic.fr
-g.ext.nic.fr.:../TldSpider/DataBak/20220306T195739Z-tld-query-corsica-g.ext.nic.fr

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205811Z
-; source id: tld-query-schmidt.-d.nic.schmidt.
-; source locator: d.nic.schmidt.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-schmidt.		3599	IN	NS	c.nic.schmidt.schmidt.		3599	IN	NS	a.nic.schmidt.schmidt.		3599	IN	NS	d.nic.schmidt.schmidt.		3599	IN	NS	b.nic.schmidt.d.nic.schmidt.		3599	IN	A	37.209.198.9d.nic.schmidt.		3599	IN	AAAA	2001:dcd:4::9

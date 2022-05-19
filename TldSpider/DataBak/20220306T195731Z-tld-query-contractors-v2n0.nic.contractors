@@ -1,7 +1,0 @@
-; timestamp: 20220306T195731Z
-; source id: tld-query-contractors.-v2n0.nic.contractors.
-; source locator: v2n0.nic.contractors.
-; source IP address: 65.22.27.56
-; backup point IP address: 111.42.148.76
-; status: success
-contractors.		931	IN	NS	v2n1.nic.contractors.contractors.		931	IN	NS	v0n3.nic.contractors.contractors.		931	IN	NS	v0n2.nic.contractors.contractors.		931	IN	NS	v0n1.nic.contractors.contractors.		931	IN	NS	v2n0.nic.contractors.contractors.		931	IN	NS	v0n0.nic.contractors.v2n0.nic.contractors.	3599	IN	A	65.22.27.56v2n0.nic.contractors.	3599	IN	AAAA	2a01:8840:1d::56

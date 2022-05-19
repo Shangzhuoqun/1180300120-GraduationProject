@@ -1,7 +1,0 @@
-; timestamp: 20220306T205542Z
-; source id: tld-query-rocher.-ns3.dns.nic.rocher.
-; source locator: ns3.dns.nic.rocher.
-; source IP address: 156.154.159.145
-; backup point IP address: 111.42.148.76
-; status: success
-rocher.			3597	IN	NS	ns2.dns.nic.rocher.rocher.			3597	IN	NS	a.nic.rocher.rocher.			3597	IN	NS	b.nic.rocher.rocher.			3597	IN	NS	c.nic.rocher.rocher.			3597	IN	NS	ns3.dns.nic.rocher.rocher.			3597	IN	NS	ns1.dns.nic.rocher.ns3.dns.nic.rocher.	3598	IN	A	156.154.159.145ns3.dns.nic.rocher.	3598	IN	AAAA	2610:a1:1073::91

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212936Z
-; source id: tld-query-xn--yfro4i67o.-pch.sgzones.sg.
-; source locator: pch.sgzones.sg.
-; source IP address: 204.61.216.57
-; backup point IP address: 111.42.148.76
-; status: success
-xn--yfro4i67o.		3599	IN	NS	NS4.APNIC.NET.xn--yfro4i67o.		3599	IN	NS	DSANY2.SGNIC.SG.xn--yfro4i67o.		3599	IN	NS	DSANY3.SGNIC.SG.xn--yfro4i67o.		3599	IN	NS	PCH.SGZONES.SG.xn--yfro4i67o.		3599	IN	NS	DSANY.SGNIC.SG.pch.sgzones.sg.		1801	IN	A	204.61.216.57pch.sgzones.sg.		1803	IN	AAAA	2001:500:14:6057:ad::1

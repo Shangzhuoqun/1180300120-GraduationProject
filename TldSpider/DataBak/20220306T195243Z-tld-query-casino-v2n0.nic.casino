@@ -1,7 +1,0 @@
-; timestamp: 20220306T195243Z
-; source id: tld-query-casino.-v2n0.nic.casino.
-; source locator: v2n0.nic.casino.
-; source IP address: 65.22.23.18
-; backup point IP address: 111.42.148.76
-; status: success
-casino.			1127	IN	NS	v0n0.nic.casino.casino.			1127	IN	NS	v0n2.nic.casino.casino.			1127	IN	NS	v0n3.nic.casino.casino.			1127	IN	NS	v2n0.nic.casino.casino.			1127	IN	NS	v0n1.nic.casino.casino.			1127	IN	NS	v2n1.nic.casino.v2n0.nic.casino.	3600	IN	A	65.22.23.18v2n0.nic.casino.	3600	IN	AAAA	2a01:8840:19::18

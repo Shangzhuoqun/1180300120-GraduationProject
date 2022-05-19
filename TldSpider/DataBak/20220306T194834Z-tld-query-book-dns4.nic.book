@@ -1,7 +1,0 @@
-; timestamp: 20220306T194834Z
-; source id: tld-query-book.-dns4.nic.book.
-; source locator: dns4.nic.book.
-; source IP address: 43.230.50.61
-; backup point IP address: 111.42.148.76
-; status: success
-book.			1329	IN	NS	dnsd.nic.book.book.			1329	IN	NS	dns4.nic.book.book.			1329	IN	NS	dns2.nic.book.book.			1329	IN	NS	dnsa.nic.book.book.			1329	IN	NS	dns3.nic.book.book.			1329	IN	NS	dns1.nic.book.book.			1329	IN	NS	dnsb.nic.book.book.			1329	IN	NS	dnsc.nic.book.dns4.nic.book.		3599	IN	A	43.230.50.61dns4.nic.book.		3599	IN	AAAA	2401:fd80:406::61

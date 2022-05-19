@@ -1,7 +1,0 @@
-; timestamp: 20220306T210958Z
-; source id: tld-query-tjmaxx.-b.nic.tjmaxx.
-; source locator: b.nic.tjmaxx.
-; source IP address: 37.209.194.9
-; backup point IP address: 111.42.148.76
-; status: success
-tjmaxx.			3599	IN	NS	b.nic.tjmaxx.tjmaxx.			3599	IN	NS	ns1.dns.nic.tjmaxx.tjmaxx.			3599	IN	NS	c.nic.tjmaxx.tjmaxx.			3599	IN	NS	ns2.dns.nic.tjmaxx.tjmaxx.			3599	IN	NS	ns3.dns.nic.tjmaxx.tjmaxx.			3599	IN	NS	a.nic.tjmaxx.b.nic.tjmaxx.		3599	IN	A	37.209.194.9b.nic.tjmaxx.		3600	IN	AAAA	2001:dcd:2::9

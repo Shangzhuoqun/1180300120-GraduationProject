@@ -1,7 +1,0 @@
-; timestamp: 20220306T210138Z
-; source id: tld-query-soccer.-v2n0.nic.soccer.
-; source locator: v2n0.nic.soccer.
-; source IP address: 65.22.35.58
-; backup point IP address: 111.42.148.76
-; status: success
-soccer.			3597	IN	NS	v2n0.nic.soccer.soccer.			3597	IN	NS	v0n1.nic.soccer.soccer.			3597	IN	NS	v0n0.nic.soccer.soccer.			3597	IN	NS	v2n1.nic.soccer.soccer.			3597	IN	NS	v0n2.nic.soccer.soccer.			3597	IN	NS	v0n3.nic.soccer.v2n0.nic.soccer.	3598	IN	A	65.22.35.58v2n0.nic.soccer.	3598	IN	AAAA	2a01:8840:25::58

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202314Z
-; source id: tld-query-jprs.-tld4.nic.jprs.
-; source locator: tld4.nic.jprs.
-; source IP address: 103.198.210.1
-; backup point IP address: 111.42.148.76
-; status: success
-jprs.			3599	IN	NS	tld5.nic.jprs.jprs.			3599	IN	NS	tld1.nic.jprs.jprs.			3599	IN	NS	tld2.nic.jprs.jprs.			3599	IN	NS	tld4.nic.jprs.jprs.			3599	IN	NS	tld3.nic.jprs.tld4.nic.jprs.		3598	IN	A	103.198.210.1tld4.nic.jprs.		3598	IN	AAAA	2403:2880::1

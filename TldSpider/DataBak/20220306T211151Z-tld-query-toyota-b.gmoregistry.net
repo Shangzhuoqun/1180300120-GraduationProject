@@ -1,7 +1,0 @@
-; timestamp: 20220306T211151Z
-; source id: tld-query-toyota.-b.gmoregistry.net.
-; source locator: b.gmoregistry.net.
-; source IP address: 37.209.194.4
-; backup point IP address: 111.42.148.76
-; status: success
-toyota.			3600	IN	NS	k.gmoregistry.net.toyota.			3600	IN	NS	l.gmoregistry.net.toyota.			3600	IN	NS	b.gmoregistry.net.toyota.			3600	IN	NS	a.gmoregistry.net.b.gmoregistry.net.	394	IN	A	37.209.194.4b.gmoregistry.net.	1520	IN	AAAA	2001:dcd:2::4

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195443Z
-; source id: tld-query-citi.-ns3.dns.nic.citi.
-; source locator: ns3.dns.nic.citi.
-; source IP address: 156.154.159.213
-; backup point IP address: 111.42.148.76
-; status: success
-citi.			1055	IN	NS	ns2.dns.nic.citi.citi.			1055	IN	NS	ns3.dns.nic.citi.citi.			1055	IN	NS	ns1.dns.nic.citi.citi.			1055	IN	NS	b.nic.citi.citi.			1055	IN	NS	a.nic.citi.citi.			1055	IN	NS	c.nic.citi.ns3.dns.nic.citi.	3600	IN	A	156.154.159.213ns3.dns.nic.citi.	3600	IN	AAAA	2610:a1:1073::d5

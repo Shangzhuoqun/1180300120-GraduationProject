@@ -1,7 +1,0 @@
-; timestamp: 20220306T202653Z
-; source id: tld-query-lilly.-ns1.dns.nic.lilly.
-; source locator: ns1.dns.nic.lilly.
-; source IP address: 156.154.144.104
-; backup point IP address: 111.42.148.76
-; status: success
-lilly.			3598	IN	NS	ns1.dns.nic.lilly.lilly.			3598	IN	NS	c.nic.lilly.lilly.			3598	IN	NS	b.nic.lilly.lilly.			3598	IN	NS	ns3.dns.nic.lilly.lilly.			3598	IN	NS	ns2.dns.nic.lilly.lilly.			3598	IN	NS	a.nic.lilly.ns1.dns.nic.lilly.	3599	IN	A	156.154.144.104ns1.dns.nic.lilly.	3599	IN	AAAA	2610:a1:1071::68

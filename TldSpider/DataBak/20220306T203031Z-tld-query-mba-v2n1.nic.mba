@@ -1,7 +1,0 @@
-; timestamp: 20220306T203031Z
-; source id: tld-query-mba.-v2n1.nic.mba.
-; source locator: v2n1.nic.mba.
-; source IP address: 161.232.13.59
-; backup point IP address: 111.42.148.76
-; status: success
-mba.			3600	IN	NS	v0n1.nic.mba.mba.			3600	IN	NS	v0n2.nic.mba.mba.			3600	IN	NS	v2n1.nic.mba.mba.			3600	IN	NS	v2n0.nic.mba.mba.			3600	IN	NS	v0n0.nic.mba.mba.			3600	IN	NS	v0n3.nic.mba.v2n1.nic.mba.		3600	IN	A	161.232.13.59v2n1.nic.mba.		3600	IN	AAAA	2a01:8840:f7::59

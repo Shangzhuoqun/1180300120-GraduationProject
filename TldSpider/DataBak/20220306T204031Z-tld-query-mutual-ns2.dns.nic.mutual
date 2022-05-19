@@ -1,7 +1,0 @@
-; timestamp: 20220306T204031Z
-; source id: tld-query-mutual.-ns2.dns.nic.mutual.
-; source locator: ns2.dns.nic.mutual.
-; source IP address: 156.154.145.118
-; backup point IP address: 111.42.148.76
-; status: success
-mutual.			3599	IN	NS	b.nic.mutual.mutual.			3599	IN	NS	ns1.dns.nic.mutual.mutual.			3599	IN	NS	ns2.dns.nic.mutual.mutual.			3599	IN	NS	a.nic.mutual.mutual.			3599	IN	NS	c.nic.mutual.mutual.			3599	IN	NS	ns3.dns.nic.mutual.ns2.dns.nic.mutual.	3599	IN	A	156.154.145.118ns2.dns.nic.mutual.	3598	IN	AAAA	2610:a1:1072::76

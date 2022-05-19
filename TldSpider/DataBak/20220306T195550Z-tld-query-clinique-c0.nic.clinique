@@ -1,7 +1,0 @@
-; timestamp: 20220306T195550Z
-; source id: tld-query-clinique.-c0.nic.clinique.
-; source locator: c0.nic.clinique.
-; source IP address: 65.22.54.41
-; backup point IP address: 111.42.148.76
-; status: success
-clinique.		1005	IN	NS	a0.nic.clinique.clinique.		1005	IN	NS	c0.nic.clinique.clinique.		1005	IN	NS	b0.nic.clinique.clinique.		1005	IN	NS	a2.nic.clinique.c0.nic.clinique.	598	IN	A	65.22.54.41c0.nic.clinique.	599	IN	AAAA	2a01:8840:34::41

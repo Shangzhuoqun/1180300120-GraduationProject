@@ -1,7 +1,0 @@
-; timestamp: 20220306T212155Z
-; source id: tld-query-xn--6frz82g.-c0.nic.xn--6frz82g.
-; source locator: c0.nic.xn--6frz82g.
-; source IP address: 65.22.26.9
-; backup point IP address: 111.42.148.76
-; status: success
-xn--6frz82g.		3599	IN	NS	a2.nic.xn--6frz82g.xn--6frz82g.		3599	IN	NS	c0.nic.xn--6frz82g.xn--6frz82g.		3599	IN	NS	b0.nic.xn--6frz82g.xn--6frz82g.		3599	IN	NS	a0.nic.xn--6frz82g.c0.nic.xn--6frz82g.	598	IN	A	65.22.26.9c0.nic.xn--6frz82g.	598	IN	AAAA	2a01:8840:1c::9

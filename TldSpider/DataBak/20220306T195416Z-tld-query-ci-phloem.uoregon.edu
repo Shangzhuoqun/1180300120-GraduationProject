@@ -1,7 +1,0 @@
-; timestamp: 20220306T195416Z
-; source id: tld-query-ci.-phloem.uoregon.edu.
-; source locator: phloem.uoregon.edu.
-; source IP address: 128.223.32.35
-; backup point IP address: 111.42.148.76
-; status: success
-ci.			1061	IN	NS	ns-ci.afrinic.net.ci.			1061	IN	NS	any.nic.ci.ci.			1061	IN	NS	ns.nic.ci.ci.			1061	IN	NS	ns1.nic.ci.ci.			1061	IN	NS	ci.hosting.nic.fr.ci.			1061	IN	NS	phloem.uoregon.edu.phloem.uoregon.edu.	2038	IN	A	128.223.32.35phloem.uoregon.edu.	2038	IN	AAAA	2001:468:d01:20::80df:2023

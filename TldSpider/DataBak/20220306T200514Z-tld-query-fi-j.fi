@@ -1,7 +1,0 @@
-; timestamp: 20220306T200514Z
-; source id: tld-query-fi.-j.fi.
-; source locator: j.fi.
-; source IP address: 185.159.199.190
-; backup point IP address: 111.42.148.76
-; status: success
-fi.			86400	IN	NS	a.fi.fi.			86400	IN	NS	b.fi.fi.			86400	IN	NS	c.fi.fi.			86400	IN	NS	d.fi.fi.			86400	IN	NS	e.fi.fi.			86400	IN	NS	f.fi.fi.			86400	IN	NS	g.fi.fi.			86400	IN	NS	h.fi.fi.			86400	IN	NS	i.fi.fi.			86400	IN	NS	j.fi.j.fi.			3595	IN	A	185.159.199.190j.fi.			3595	IN	AAAA	2620:10a:80ac::190

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194046Z
-; source id: tld-query-adult.-d.nic.adult.
-; source locator: d.nic.adult.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-adult.			1655	IN	NS	b.nic.adult.adult.			1655	IN	NS	d.nic.adult.adult.			1655	IN	NS	c.nic.adult.adult.			1655	IN	NS	a.nic.adult.d.nic.adult.		3599	IN	A	37.209.198.10d.nic.adult.		3599	IN	AAAA	2001:dcd:4::10

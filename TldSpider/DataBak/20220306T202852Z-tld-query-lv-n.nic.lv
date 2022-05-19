@@ -1,7 +1,0 @@
-; timestamp: 20220306T202852Z
-; source id: tld-query-lv.-n.nic.lv.
-; source locator: n.nic.lv.
-; source IP address: 194.146.106.150
-; backup point IP address: 111.42.148.76
-; status: success
-lv.			3600	IN	NS	n.nic.lv.lv.			3600	IN	NS	d.nic.lv.lv.			3600	IN	NS	sunic.sunet.se.lv.			3600	IN	NS	a.nic.lv.lv.			3600	IN	NS	b.nic.lv.lv.			3600	IN	NS	nu.nic.lv.n.nic.lv.		3600	IN	A	194.146.106.150n.nic.lv.		3600	IN	AAAA	2001:67c:1010:38::53

@@ -1,8 +1,0 @@
-ns1.anycastdns.cz.	172800	in	a	185.38.108.108
-ns1.anycastdns.cz.	172800	in	aaaa	2a00:fea0:dead:0:0:0:0:beef
-ns2.anycastdns.cz.	172800	in	a	185.28.194.194
-nf.	172800	in	ns	ns.anycast.nic.nf.
-nf.	172800	in	ns	ns1.anycastdns.cz.
-nf.	172800	in	ns	ns2.anycastdns.cz.
-ns.anycast.nic.nf.	172800	in	a	204.61.216.51
-ns.anycast.nic.nf.	172800	in	aaaa	2001:500:14:6051:ad:0:0:1

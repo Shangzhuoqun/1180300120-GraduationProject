@@ -1,27 +1,0 @@
-; timestamp: 20220306T205614Z
-; source id: tld-query-rw.-ns3.ricta.org.rw.
-; source locator: ns3.ricta.org.rw.
-; source IP address: 41.138.85.98
-; backup point IP address: 111.42.148.76
-; status: success
-rw.			1800	IN	NS	pch.ricta.org.rw.rw.			1800	IN	NS	ns1.ricta.org.rw.rw.			1800	IN	NS	fork.sth.dnsnode.net.rw.			1800	IN	NS	ns-rw.afrinic.net.rw.			1800	IN	NS	ns3.ricta.org.rw.ns3.ricta.org.rw.	854	IN	A	41.138.85.98dig @41.138.85.98 ns3.ricta.org.rw. AAAA
-
-; <<>> DiG 9.16.23 <<>> @41.138.85.98 ns3.ricta.org.rw. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10653
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns3.ricta.org.rw.		IN	AAAA
-
-;; AUTHORITY SECTION:
-ricta.org.rw.		1799	IN	SOA	ns3.ricta.org.rw. info.ricta.org.rw. 2022021902 21600 3600 604800 1800
-
-;; Query time: 85 msec
-;; SERVER: 41.138.85.98#53(41.138.85.98)
-;; WHEN: Sun Mar 06 20:56:16 ;; MSG SIZE  rcvd: 86
-

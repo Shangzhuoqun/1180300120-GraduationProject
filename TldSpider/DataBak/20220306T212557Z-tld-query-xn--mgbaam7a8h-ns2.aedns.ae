@@ -1,7 +1,0 @@
-; timestamp: 20220306T212557Z
-; source id: tld-query-xn--mgbaam7a8h.-ns2.aedns.ae.
-; source locator: ns2.aedns.ae.
-; source IP address: 79.98.121.73
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbaam7a8h.		3599	IN	NS	ns1.aedns.ae.xn--mgbaam7a8h.		3599	IN	NS	ns2.aedns.ae.xn--mgbaam7a8h.		3599	IN	NS	nsext-pch.aedns.ae.ns2.aedns.ae.		2378	IN	A	79.98.121.73ns2.aedns.ae.		3599	IN	AAAA	2a00:d30:121::73

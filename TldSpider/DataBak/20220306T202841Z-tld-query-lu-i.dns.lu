@@ -1,7 +1,0 @@
-; timestamp: 20220306T202841Z
-; source id: tld-query-lu.-i.dns.lu.
-; source locator: i.dns.lu.
-; source IP address: 194.146.106.66
-; backup point IP address: 111.42.148.76
-; status: success
-lu.			1704	IN	NS	p.dns.lu.lu.			1704	IN	NS	j.dns.lu.lu.			1704	IN	NS	ns1.dns.lu.lu.			1704	IN	NS	k.dns.lu.lu.			1704	IN	NS	g.dns.lu.lu.			1704	IN	NS	i.dns.lu.i.dns.lu.		3600	IN	A	194.146.106.66i.dns.lu.		3599	IN	AAAA	2001:67c:1010:16::53

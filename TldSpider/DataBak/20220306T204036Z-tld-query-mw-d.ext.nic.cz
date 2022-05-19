@@ -1,7 +1,0 @@
-; timestamp: 20220306T204036Z
-; source id: tld-query-mw.-d.ext.nic.cz.
-; source locator: d.ext.nic.cz.
-; source IP address: 193.29.206.2
-; backup point IP address: 111.42.148.76
-; status: success
-mw.			1269	IN	NS	pch1.nic.mw.mw.			1269	IN	NS	d.ext.nic.cz.mw.			1269	IN	NS	domwe.sdn.mw.mw.			1269	IN	NS	rip.psg.com.mw.			1269	IN	NS	mw.cctld.authdns.ripe.net.mw.			1269	IN	NS	ns4.apnic.net.mw.			1269	IN	NS	chambo.sdnp.org.mw.d.ext.nic.cz.		1597	IN	A	193.29.206.2d.ext.nic.cz.		1597	IN	AAAA	2001:678:1::2

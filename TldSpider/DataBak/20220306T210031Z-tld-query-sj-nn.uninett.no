@@ -1,7 +1,0 @@
-; timestamp: 20220306T210031Z
-; source id: tld-query-sj.-nn.uninett.no.
-; source locator: nn.uninett.no.
-; source IP address: 158.38.0.181
-; backup point IP address: 111.42.148.76
-; status: success
-sj.			3595	IN	NS	y.nic.no.sj.			3595	IN	NS	nn.uninett.no.sj.			3595	IN	NS	x.nic.no.sj.			3595	IN	NS	server.nordu.net.sj.			3595	IN	NS	z.nic.no.sj.			3595	IN	NS	nac.no.nn.uninett.no.		600	IN	A	158.38.0.181nn.uninett.no.		600	IN	AAAA	2001:700:0:503::aa:5302

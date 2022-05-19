@@ -1,7 +1,0 @@
-; timestamp: 20220306T200421Z
-; source id: tld-query-extraspace.-b0.nic.extraspace.
-; source locator: b0.nic.extraspace.
-; source IP address: 65.22.117.1
-; backup point IP address: 111.42.148.76
-; status: success
-extraspace.		3599	IN	NS	a2.nic.extraspace.extraspace.		3599	IN	NS	b0.nic.extraspace.extraspace.		3599	IN	NS	a0.nic.extraspace.extraspace.		3599	IN	NS	c0.nic.extraspace.b0.nic.extraspace.	599	IN	A	65.22.117.1b0.nic.extraspace.	599	IN	AAAA	2a01:8840:73::1

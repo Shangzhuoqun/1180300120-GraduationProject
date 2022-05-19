@@ -1,7 +1,0 @@
-; timestamp: 20220306T212118Z
-; source id: tld-query-xn--45brj9c.-ns4.registry.in.
-; source locator: ns4.registry.in.
-; source IP address: 37.209.198.12
-; backup point IP address: 111.42.148.76
-; status: success
-xn--45brj9c.		3599	IN	NS	ns3.registry.in.xn--45brj9c.		3599	IN	NS	ns2.registry.in.xn--45brj9c.		3599	IN	NS	ns5.registry.in.xn--45brj9c.		3599	IN	NS	ns4.registry.in.xn--45brj9c.		3599	IN	NS	ns6.registry.in.xn--45brj9c.		3599	IN	NS	ns1.registry.in.ns4.registry.in.	3579	IN	A	37.209.198.12ns4.registry.in.	3003	IN	AAAA	2001:dcd:4::12

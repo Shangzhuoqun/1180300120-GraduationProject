@@ -1,7 +1,0 @@
-; timestamp: 20220306T211050Z
-; source id: tld-query-tn.-ns1.ati.tn.
-; source locator: ns1.ati.tn.
-; source IP address: 41.228.62.63
-; backup point IP address: 111.42.148.76
-; status: success
-tn.			86400	IN	NS	ns2.ati.tn.tn.			86400	IN	NS	pch.ati.tn.tn.			86400	IN	NS	ns-tn.afrinic.net.tn.			86400	IN	NS	rip.psg.com.tn.			86400	IN	NS	ns1.ati.tn.tn.			86400	IN	NS	ns2.nic.fr.ns1.ati.tn.		3600	IN	A	41.228.62.63ns1.ati.tn.		3600	IN	AAAA	2c0f:fab0:ffff:4:41:228:62:63

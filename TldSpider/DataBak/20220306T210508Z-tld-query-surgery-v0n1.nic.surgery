@@ -1,7 +1,0 @@
-; timestamp: 20220306T210508Z
-; source id: tld-query-surgery.-v0n1.nic.surgery.
-; source locator: v0n1.nic.surgery.
-; source IP address: 65.22.25.31
-; backup point IP address: 111.42.148.76
-; status: success
-surgery.		3599	IN	NS	v2n1.nic.surgery.surgery.		3599	IN	NS	v0n1.nic.surgery.surgery.		3599	IN	NS	v2n0.nic.surgery.surgery.		3599	IN	NS	v0n2.nic.surgery.surgery.		3599	IN	NS	v0n3.nic.surgery.surgery.		3599	IN	NS	v0n0.nic.surgery.v0n1.nic.surgery.	3599	IN	A	65.22.25.31v0n1.nic.surgery.	3599	IN	AAAA	2a01:8840:1b::31

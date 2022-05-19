@@ -1,7 +1,0 @@
-; timestamp: 20220306T195909Z
-; source id: tld-query-dabur.-b0.nic.dabur.
-; source locator: b0.nic.dabur.
-; source IP address: 65.22.181.25
-; backup point IP address: 111.42.148.76
-; status: success
-dabur.			545	IN	NS	a2.nic.dabur.dabur.			545	IN	NS	c0.nic.dabur.dabur.			545	IN	NS	a0.nic.dabur.dabur.			545	IN	NS	b0.nic.dabur.b0.nic.dabur.		600	IN	A	65.22.181.25b0.nic.dabur.		598	IN	AAAA	2a01:8840:af::25

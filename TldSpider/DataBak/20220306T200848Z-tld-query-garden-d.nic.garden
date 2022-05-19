@@ -1,7 +1,0 @@
-; timestamp: 20220306T200848Z
-; source id: tld-query-garden.-d.nic.garden.
-; source locator: d.nic.garden.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-garden.			3598	IN	NS	c.nic.garden.garden.			3598	IN	NS	b.nic.garden.garden.			3598	IN	NS	d.nic.garden.garden.			3598	IN	NS	a.nic.garden.d.nic.garden.		3598	IN	A	37.209.198.10d.nic.garden.		3598	IN	AAAA	2001:dcd:4::10

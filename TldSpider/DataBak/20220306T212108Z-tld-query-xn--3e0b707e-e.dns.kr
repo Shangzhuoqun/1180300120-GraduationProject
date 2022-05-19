@@ -1,7 +1,0 @@
-; timestamp: 20220306T212108Z
-; source id: tld-query-xn--3e0b707e.-e.dns.kr.
-; source locator: e.dns.kr.
-; source IP address: 202.30.124.100
-; backup point IP address: 111.42.148.76
-; status: success
-xn--3e0b707e.		3599	IN	NS	g.dns.kr.xn--3e0b707e.		3599	IN	NS	b.dns.kr.xn--3e0b707e.		3599	IN	NS	d.dns.kr.xn--3e0b707e.		3599	IN	NS	f.dns.kr.xn--3e0b707e.		3599	IN	NS	c.dns.kr.xn--3e0b707e.		3599	IN	NS	e.dns.kr.e.dns.kr.		261	IN	A	202.30.124.100e.dns.kr.		3197	IN	AAAA	2001:dcc:5::100

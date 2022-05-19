@@ -1,7 +1,0 @@
-; timestamp: 20220306T200036Z
-; source id: tld-query-direct.-v2n1.nic.direct.
-; source locator: v2n1.nic.direct.
-; source IP address: 161.232.13.46
-; backup point IP address: 111.42.148.76
-; status: success
-direct.			489	IN	NS	v0n0.nic.direct.direct.			489	IN	NS	v0n3.nic.direct.direct.			489	IN	NS	v2n0.nic.direct.direct.			489	IN	NS	v2n1.nic.direct.direct.			489	IN	NS	v0n1.nic.direct.direct.			489	IN	NS	v0n2.nic.direct.v2n1.nic.direct.	3600	IN	A	161.232.13.46v2n1.nic.direct.	3600	IN	AAAA	2a01:8840:f7::46

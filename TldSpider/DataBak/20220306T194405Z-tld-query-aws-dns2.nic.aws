@@ -1,7 +1,0 @@
-; timestamp: 20220306T194405Z
-; source id: tld-query-aws.-dns2.nic.aws.
-; source locator: dns2.nic.aws.
-; source IP address: 103.49.82.53
-; backup point IP address: 111.42.148.76
-; status: success
-aws.			172800	IN	NS	dns2.nic.aws.aws.			172800	IN	NS	dns3.nic.aws.aws.			172800	IN	NS	dns4.nic.aws.aws.			172800	IN	NS	dns1.nic.aws.aws.			172800	IN	NS	dnsa.nic.aws.aws.			172800	IN	NS	dnsb.nic.aws.aws.			172800	IN	NS	dnsc.nic.aws.aws.			172800	IN	NS	dnsd.nic.aws.dns2.nic.aws.		3597	IN	A	103.49.82.53dns2.nic.aws.		3597	IN	AAAA	2401:fd80:402::53

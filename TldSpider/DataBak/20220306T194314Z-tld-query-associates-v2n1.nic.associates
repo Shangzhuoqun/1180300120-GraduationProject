@@ -1,7 +1,0 @@
-; timestamp: 20220306T194314Z
-; source id: tld-query-associates.-v2n1.nic.associates.
-; source locator: v2n1.nic.associates.
-; source IP address: 161.232.15.27
-; backup point IP address: 111.42.148.76
-; status: success
-associates.		1567	IN	NS	v2n0.nic.associates.associates.		1567	IN	NS	v2n1.nic.associates.associates.		1567	IN	NS	v0n2.nic.associates.associates.		1567	IN	NS	v0n0.nic.associates.associates.		1567	IN	NS	v0n3.nic.associates.associates.		1567	IN	NS	v0n1.nic.associates.v2n1.nic.associates.	86400	IN	A	161.232.15.27v2n1.nic.associates.	3599	IN	AAAA	2a01:8840:f9::27

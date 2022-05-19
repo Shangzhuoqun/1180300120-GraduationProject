@@ -1,7 +1,0 @@
-; timestamp: 20220306T204140Z
-; source id: tld-query-navy.-v0n0.nic.navy.
-; source locator: v0n0.nic.navy.
-; source IP address: 65.22.28.34
-; backup point IP address: 111.42.148.76
-; status: success
-navy.			3600	IN	NS	v0n3.nic.navy.navy.			3600	IN	NS	v0n0.nic.navy.navy.			3600	IN	NS	v0n1.nic.navy.navy.			3600	IN	NS	v2n1.nic.navy.navy.			3600	IN	NS	v2n0.nic.navy.navy.			3600	IN	NS	v0n2.nic.navy.v0n0.nic.navy.		3600	IN	A	65.22.28.34v0n0.nic.navy.		3600	IN	AAAA	2a01:8840:1e::34

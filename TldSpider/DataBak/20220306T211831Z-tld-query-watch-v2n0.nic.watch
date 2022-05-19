@@ -1,7 +1,0 @@
-; timestamp: 20220306T211831Z
-; source id: tld-query-watch.-v2n0.nic.watch.
-; source locator: v2n0.nic.watch.
-; source IP address: 65.22.35.48
-; backup point IP address: 111.42.148.76
-; status: success
-watch.			3599	IN	NS	v0n2.nic.watch.watch.			3599	IN	NS	v0n3.nic.watch.watch.			3599	IN	NS	v0n1.nic.watch.watch.			3599	IN	NS	v2n1.nic.watch.watch.			3599	IN	NS	v2n0.nic.watch.watch.			3599	IN	NS	v0n0.nic.watch.v2n0.nic.watch.		3600	IN	A	65.22.35.48v2n0.nic.watch.		3599	IN	AAAA	2a01:8840:25::48

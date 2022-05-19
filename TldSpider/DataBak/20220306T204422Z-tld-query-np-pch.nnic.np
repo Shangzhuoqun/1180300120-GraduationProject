@@ -1,7 +1,0 @@
-; timestamp: 20220306T204422Z
-; source id: tld-query-np.-pch.nnic.np.
-; source locator: pch.nnic.np.
-; source IP address: 204.61.216.11
-; backup point IP address: 111.42.148.76
-; status: success
-np.			86400	IN	NS	np.cctld.authdns.ripe.net.np.			86400	IN	NS	pch.nnic.np.np.			86400	IN	NS	shikhar.mos.com.np.np.			86400	IN	NS	ns4.apnic.net.np.			86400	IN	NS	np-ns.npix.net.np.pch.nnic.np.		3600	IN	A	204.61.216.11pch.nnic.np.		1146	IN	AAAA	2001:500:14:6011:ad::1

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212935Z
-; source id: tld-query-xn--y9a3aq.-fork.sth.dnsnode.net.
-; source locator: fork.sth.dnsnode.net.
-; source IP address: 77.72.229.254
-; backup point IP address: 111.42.148.76
-; status: success
-xn--y9a3aq.		3600	IN	NS	ns-cdn.amnic.net.xn--y9a3aq.		3600	IN	NS	fork.sth.dnsnode.net.xn--y9a3aq.		3600	IN	NS	ns-pch.amnic.net.xn--y9a3aq.		3600	IN	NS	ns-pri.nic.am.fork.sth.dnsnode.net.	651	IN	A	77.72.229.254fork.sth.dnsnode.net.	600	IN	AAAA	2a01:3f0:0:306::53

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205605Z
-; source id: tld-query-rugby.-b.nic.rugby.
-; source locator: b.nic.rugby.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-rugby.			3599	IN	NS	d.nic.rugby.rugby.			3599	IN	NS	b.nic.rugby.rugby.			3599	IN	NS	a.nic.rugby.rugby.			3599	IN	NS	c.nic.rugby.b.nic.rugby.		3599	IN	A	37.209.194.10b.nic.rugby.		3599	IN	AAAA	2001:dcd:2::10

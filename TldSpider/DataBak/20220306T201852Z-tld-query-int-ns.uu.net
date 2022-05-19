@@ -1,27 +1,0 @@
-; timestamp: 20220306T201852Z
-; source id: tld-query-int.-ns.uu.net.
-; source locator: ns.uu.net.
-; source IP address: 137.39.1.3
-; backup point IP address: 111.42.148.76
-; status: success
-int.			3597	IN	NS	ns.uu.net.int.			3597	IN	NS	y.iana-servers.net.int.			3597	IN	NS	ns0.ja.net.int.			3597	IN	NS	sec2.authdns.ripe.net.int.			3597	IN	NS	z.iana-servers.net.int.			3597	IN	NS	x.iana-servers.net.ns.uu.net.		333	IN	A	137.39.1.3dig @137.39.1.3 ns.uu.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @137.39.1.3 ns.uu.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18971
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.uu.net.			IN	AAAA
-
-;; AUTHORITY SECTION:
-ns.uu.net.		300	IN	SOA	AUTH00.ns.uu.net. hostmaster.uu.net. 121 3600 900 604800 300
-
-;; Query time: 8 msec
-;; SERVER: 137.39.1.3#53(137.39.1.3)
-;; WHEN: Sun Mar 06 20:18:56 ;; MSG SIZE  rcvd: 92
-

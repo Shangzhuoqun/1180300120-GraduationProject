@@ -1,7 +1,0 @@
-; timestamp: 20220306T205918Z
-; source id: tld-query-sew.-a0.nic.sew.
-; source locator: a0.nic.sew.
-; source IP address: 65.22.188.25
-; backup point IP address: 111.42.148.76
-; status: success
-sew.			86400	IN	NS	c0.nic.sew.sew.			86400	IN	NS	a2.nic.sew.sew.			86400	IN	NS	a0.nic.sew.sew.			86400	IN	NS	b0.nic.sew.a0.nic.sew.		600	IN	A	65.22.188.25a0.nic.sew.		300	IN	AAAA	2a01:8840:b6::25

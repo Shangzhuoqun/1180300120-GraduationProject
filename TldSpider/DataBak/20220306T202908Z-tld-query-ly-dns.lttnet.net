@@ -1,27 +1,0 @@
-; timestamp: 20220306T202908Z
-; source id: tld-query-ly.-dns.lttnet.net.
-; source locator: dns.lttnet.net.
-; source IP address: 62.240.36.9
-; backup point IP address: 111.42.148.76
-; status: success
-ly.			3600	IN	NS	ns-ly.afrinic.net.ly.			3600	IN	NS	pch.ltt.ly.ly.			3600	IN	NS	phloem.uoregon.edu.ly.			3600	IN	NS	dns1.lttnet.net.ly.			3600	IN	NS	dns.lttnet.net.dns.lttnet.net.		3600	IN	A	62.240.36.9dig @62.240.36.9 dns.lttnet.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @62.240.36.9 dns.lttnet.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33632
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;dns.lttnet.net.			IN	AAAA
-
-;; AUTHORITY SECTION:
-lttnet.net.		1800	IN	SOA	dns.lttnet.net. hostmaster.lttnet.net. 2021122901 3600 3600 604800 21600
-
-;; Query time: 382 msec
-;; SERVER: 62.240.36.9#53(62.240.36.9)
-;; WHEN: Sun Mar 06 20:29:10 ;; MSG SIZE  rcvd: 90
-

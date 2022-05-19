@@ -1,7 +1,0 @@
-; timestamp: 20220306T195549Z
-; source id: tld-query-clinic.-v2n0.nic.clinic.
-; source locator: v2n0.nic.clinic.
-; source IP address: 65.22.35.47
-; backup point IP address: 111.42.148.76
-; status: success
-clinic.			1006	IN	NS	v0n0.nic.clinic.clinic.			1006	IN	NS	v2n1.nic.clinic.clinic.			1006	IN	NS	v0n1.nic.clinic.clinic.			1006	IN	NS	v0n2.nic.clinic.clinic.			1006	IN	NS	v0n3.nic.clinic.clinic.			1006	IN	NS	v2n0.nic.clinic.v2n0.nic.clinic.	3599	IN	A	65.22.35.47v2n0.nic.clinic.	3599	IN	AAAA	2a01:8840:25::47

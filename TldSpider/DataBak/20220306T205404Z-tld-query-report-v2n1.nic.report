@@ -1,7 +1,0 @@
-; timestamp: 20220306T205404Z
-; source id: tld-query-report.-v2n1.nic.report.
-; source locator: v2n1.nic.report.
-; source IP address: 161.232.15.18
-; backup point IP address: 111.42.148.76
-; status: success
-report.			3598	IN	NS	v0n2.nic.report.report.			3598	IN	NS	v2n0.nic.report.report.			3598	IN	NS	v0n1.nic.report.report.			3598	IN	NS	v2n1.nic.report.report.			3598	IN	NS	v0n3.nic.report.report.			3598	IN	NS	v0n0.nic.report.v2n1.nic.report.	3600	IN	A	161.232.15.18v2n1.nic.report.	3599	IN	AAAA	2a01:8840:f9::18

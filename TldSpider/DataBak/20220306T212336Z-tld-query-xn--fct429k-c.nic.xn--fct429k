@@ -1,7 +1,0 @@
-; timestamp: 20220306T212336Z
-; source id: tld-query-xn--fct429k.-c.nic.xn--fct429k.
-; source locator: c.nic.xn--fct429k.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-xn--fct429k.		3599	IN	NS	ns1.dns.nic.xn--fct429k.xn--fct429k.		3599	IN	NS	c.nic.xn--fct429k.xn--fct429k.		3599	IN	NS	b.nic.xn--fct429k.xn--fct429k.		3599	IN	NS	ns3.dns.nic.xn--fct429k.xn--fct429k.		3599	IN	NS	ns2.dns.nic.xn--fct429k.xn--fct429k.		3599	IN	NS	a.nic.xn--fct429k.c.nic.xn--fct429k.	3599	IN	A	37.209.196.10c.nic.xn--fct429k.	3599	IN	AAAA	2001:dcd:3::10

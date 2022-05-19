@@ -1,7 +1,0 @@
-; timestamp: 20220306T201519Z
-; source id: tld-query-homes.-c.nic.homes.
-; source locator: c.nic.homes.
-; source IP address: 212.18.248.132
-; backup point IP address: 111.42.148.76
-; status: success
-homes.			3599	IN	NS	c.nic.homes.homes.			3599	IN	NS	b.nic.homes.homes.			3599	IN	NS	d.nic.homes.homes.			3599	IN	NS	a.nic.homes.c.nic.homes.		3599	IN	A	212.18.248.132c.nic.homes.		3599	IN	AAAA	2a04:2b00:13ee::132

@@ -1,27 +1,0 @@
-; timestamp: 20220306T200215Z
-; source id: tld-query-dz.-ns2.nic.dz.
-; source locator: ns2.nic.dz.
-; source IP address: 213.179.160.66
-; backup point IP address: 111.42.148.76
-; status: success
-dz.			10800	IN	NS	ns2.nic.dz.dz.			10800	IN	NS	ns4.nic.dz.dz.			10800	IN	NS	ns3.nic.fr.dz.			10800	IN	NS	ns1.nic.dz.dz.			10800	IN	NS	ns-dz.afrinic.net.dz.			10800	IN	NS	ns5.nic.dz.ns2.nic.dz.		3599	IN	A	213.179.160.66dig @213.179.160.66 ns2.nic.dz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @213.179.160.66 ns2.nic.dz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26881
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.nic.dz.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.dz.			10800	IN	SOA	ns1.nic.dz. dnsmaster.nic.dz. 2021102101 86400 1800 2592000 36000
-
-;; Query time: 1622 msec
-;; SERVER: 213.179.160.66#53(213.179.160.66)
-;; WHEN: Sun Mar 06 20:02:19 ;; MSG SIZE  rcvd: 89
-

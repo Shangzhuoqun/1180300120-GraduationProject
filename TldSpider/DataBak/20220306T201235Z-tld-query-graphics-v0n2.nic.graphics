@@ -1,7 +1,0 @@
-; timestamp: 20220306T201235Z
-; source id: tld-query-graphics.-v0n2.nic.graphics.
-; source locator: v0n2.nic.graphics.
-; source IP address: 65.22.30.20
-; backup point IP address: 111.42.148.76
-; status: success
-graphics.		3599	IN	NS	v2n0.nic.graphics.graphics.		3599	IN	NS	v0n3.nic.graphics.graphics.		3599	IN	NS	v0n0.nic.graphics.graphics.		3599	IN	NS	v2n1.nic.graphics.graphics.		3599	IN	NS	v0n2.nic.graphics.graphics.		3599	IN	NS	v0n1.nic.graphics.v0n2.nic.graphics.	3598	IN	A	65.22.30.20v0n2.nic.graphics.	3599	IN	AAAA	2a01:8840:20::20

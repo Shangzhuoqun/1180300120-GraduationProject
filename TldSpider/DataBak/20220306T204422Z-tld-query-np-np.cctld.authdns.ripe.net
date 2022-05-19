@@ -1,7 +1,0 @@
-; timestamp: 20220306T204422Z
-; source id: tld-query-np.-np.cctld.authdns.ripe.net.
-; source locator: np.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.102
-; backup point IP address: 111.42.148.76
-; status: success
-np.			86400	IN	NS	shikhar.mos.com.np.np.			86400	IN	NS	np-ns.npix.net.np.np.			86400	IN	NS	ns4.apnic.net.np.			86400	IN	NS	pch.nnic.np.np.			86400	IN	NS	np.cctld.authdns.ripe.net.np.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.102np.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::102

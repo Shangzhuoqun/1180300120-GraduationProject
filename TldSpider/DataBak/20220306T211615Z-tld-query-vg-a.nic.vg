@@ -1,7 +1,0 @@
-; timestamp: 20220306T211615Z
-; source id: tld-query-vg.-a.nic.vg.
-; source locator: a.nic.vg.
-; source IP address: 194.169.218.104
-; backup point IP address: 111.42.148.76
-; status: success
-vg.			172800	IN	NS	b.nic.vg.vg.			172800	IN	NS	c.nic.vg.vg.			172800	IN	NS	d.nic.vg.vg.			172800	IN	NS	a.nic.vg.a.nic.vg.		3600	IN	A	194.169.218.104a.nic.vg.		3600	IN	AAAA	2001:67c:13cc::1:104

@@ -1,7 +1,0 @@
-; timestamp: 20220306T204607Z
-; source id: tld-query-ott.-b0.nic.ott.
-; source locator: b0.nic.ott.
-; source IP address: 65.22.93.9
-; backup point IP address: 111.42.148.76
-; status: success
-ott.			86400	IN	NS	b0.nic.ott.ott.			86400	IN	NS	a0.nic.ott.ott.			86400	IN	NS	a2.nic.ott.ott.			86400	IN	NS	c0.nic.ott.b0.nic.ott.		599	IN	A	65.22.93.9b0.nic.ott.		600	IN	AAAA	2a01:8840:5b::9

@@ -1,7 +1,0 @@
-; timestamp: 20220306T203842Z
-; source id: tld-query-mortgage.-v2n1.nic.mortgage.
-; source locator: v2n1.nic.mortgage.
-; source IP address: 161.232.17.56
-; backup point IP address: 111.42.148.76
-; status: success
-mortgage.		3596	IN	NS	v2n0.nic.mortgage.mortgage.		3596	IN	NS	v0n3.nic.mortgage.mortgage.		3596	IN	NS	v2n1.nic.mortgage.mortgage.		3596	IN	NS	v0n0.nic.mortgage.mortgage.		3596	IN	NS	v0n2.nic.mortgage.mortgage.		3596	IN	NS	v0n1.nic.mortgage.v2n1.nic.mortgage.	3596	IN	A	161.232.17.56v2n1.nic.mortgage.	3596	IN	AAAA	2a01:8840:fb::56

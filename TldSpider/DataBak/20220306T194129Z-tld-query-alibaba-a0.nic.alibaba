@@ -1,7 +1,0 @@
-; timestamp: 20220306T194129Z
-; source id: tld-query-alibaba.-a0.nic.alibaba.
-; source locator: a0.nic.alibaba.
-; source IP address: 65.22.132.9
-; backup point IP address: 111.42.148.76
-; status: success
-alibaba.		1638	IN	NS	a2.nic.alibaba.alibaba.		1638	IN	NS	a0.nic.alibaba.alibaba.		1638	IN	NS	c0.nic.alibaba.alibaba.		1638	IN	NS	b0.nic.alibaba.a0.nic.alibaba.		600	IN	A	65.22.132.9a0.nic.alibaba.		600	IN	AAAA	2a01:8840:82::9

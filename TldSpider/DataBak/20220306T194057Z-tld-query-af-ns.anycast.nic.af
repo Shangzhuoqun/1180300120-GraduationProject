@@ -1,7 +1,0 @@
-; timestamp: 20220306T194057Z
-; source id: tld-query-af.-ns.anycast.nic.af.
-; source locator: ns.anycast.nic.af.
-; source IP address: 204.61.216.13
-; backup point IP address: 111.42.148.76
-; status: success
-af.			86400	IN	NS	ns1.anycastdns.cz.af.			86400	IN	NS	ns2.anycastdns.cz.af.			86400	IN	NS	ns.anycast.nic.af.ns.anycast.nic.af.	600	IN	A	204.61.216.13ns.anycast.nic.af.	600	IN	AAAA	2001:500:14:6013:ad::1

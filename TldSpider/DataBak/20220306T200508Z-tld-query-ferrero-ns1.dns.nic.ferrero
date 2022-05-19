@@ -1,7 +1,0 @@
-; timestamp: 20220306T200508Z
-; source id: tld-query-ferrero.-ns1.dns.nic.ferrero.
-; source locator: ns1.dns.nic.ferrero.
-; source IP address: 156.154.144.57
-; backup point IP address: 111.42.148.76
-; status: success
-ferrero.		3598	IN	NS	c.nic.ferrero.ferrero.		3598	IN	NS	ns2.dns.nic.ferrero.ferrero.		3598	IN	NS	ns3.dns.nic.ferrero.ferrero.		3598	IN	NS	ns1.dns.nic.ferrero.ferrero.		3598	IN	NS	a.nic.ferrero.ferrero.		3598	IN	NS	b.nic.ferrero.ns1.dns.nic.ferrero.	3600	IN	A	156.154.144.57ns1.dns.nic.ferrero.	151200	IN	AAAA	2610:a1:1071::39

@@ -1,27 +1,0 @@
-; timestamp: 20220306T201028Z
-; source id: tld-query-gm.-ns1.nic.gm.
-; source locator: ns1.nic.gm.
-; source IP address: 194.63.250.217
-; backup point IP address: 111.42.148.76
-; status: success
-gm.			3600	IN	NS	ns1.nic.gm.gm.			3600	IN	NS	ns2.nic.gm.gm.			3600	IN	NS	ns-gm.afrinic.net.ns1.nic.gm.		3052	IN	A	194.63.250.217dig @194.63.250.217 ns1.nic.gm. AAAA
-
-; <<>> DiG 9.16.23 <<>> @194.63.250.217 ns1.nic.gm. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16943
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.nic.gm.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.gm.			1248	IN	SOA	ns1.nextsite.com. hostmaster.nextsite.com. 2018011816 900 600 86400 3600
-
-;; Query time: 10 msec
-;; SERVER: 194.63.250.217#53(194.63.250.217)
-;; WHEN: Sun Mar 06 20:10:30 ;; MSG SIZE  rcvd: 102
-

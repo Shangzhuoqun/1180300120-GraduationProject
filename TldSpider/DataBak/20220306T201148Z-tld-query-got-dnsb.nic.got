@@ -1,7 +1,0 @@
-; timestamp: 20220306T201148Z
-; source id: tld-query-got.-dnsb.nic.got.
-; source locator: dnsb.nic.got.
-; source IP address: 156.154.101.3
-; backup point IP address: 111.42.148.76
-; status: success
-got.			3600	IN	NS	dnsc.nic.got.got.			3600	IN	NS	dns4.nic.got.got.			3600	IN	NS	dnsb.nic.got.got.			3600	IN	NS	dnsd.nic.got.got.			3600	IN	NS	dnsa.nic.got.got.			3600	IN	NS	dns3.nic.got.got.			3600	IN	NS	dns1.nic.got.got.			3600	IN	NS	dns2.nic.got.dnsb.nic.got.		3593	IN	A	156.154.101.3dnsb.nic.got.		3593	IN	AAAA	2001:502:2eda::3

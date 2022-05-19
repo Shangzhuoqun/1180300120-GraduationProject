@@ -1,7 +1,0 @@
-; timestamp: 20220306T200351Z
-; source id: tld-query-eu.-y.dns.eu.
-; source locator: y.dns.eu.
-; source IP address: 194.146.106.90
-; backup point IP address: 111.42.148.76
-; status: success
-eu.			3599	IN	NS	w.dns.eu.eu.			3599	IN	NS	be.dns.eu.eu.			3599	IN	NS	y.dns.eu.eu.			3599	IN	NS	x.dns.eu.eu.			3599	IN	NS	si.dns.eu.y.dns.eu.		3599	IN	A	194.146.106.90y.dns.eu.		3346	IN	AAAA	2001:67c:1010:23::53

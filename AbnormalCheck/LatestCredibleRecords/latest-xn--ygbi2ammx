@@ -1,8 +1,0 @@
-dns1.gov.ps.	172800	in	a	213.244.82.147
-dns3.gov.ps.	172800	in	a	212.14.253.242
-idn.pnina.ps.	172800	in	a	208.64.68.4
-ns1.pnina.ps.	172800	in	a	194.6.225.20
-xn--ygbi2ammx.	172800	in	ns	idn.pnina.ps.
-xn--ygbi2ammx.	172800	in	ns	ns1.pnina.ps.
-xn--ygbi2ammx.	172800	in	ns	dns1.gov.ps.
-xn--ygbi2ammx.	172800	in	ns	dns3.gov.ps.

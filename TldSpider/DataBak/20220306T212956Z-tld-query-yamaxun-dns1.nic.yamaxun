@@ -1,7 +1,0 @@
-; timestamp: 20220306T212956Z
-; source id: tld-query-yamaxun.-dns1.nic.yamaxun.
-; source locator: dns1.nic.yamaxun.
-; source IP address: 213.248.218.88
-; backup point IP address: 111.42.148.76
-; status: success
-yamaxun.		3600	IN	NS	dnsd.nic.yamaxun.yamaxun.		3600	IN	NS	dns2.nic.yamaxun.yamaxun.		3600	IN	NS	dns3.nic.yamaxun.yamaxun.		3600	IN	NS	dnsb.nic.yamaxun.yamaxun.		3600	IN	NS	dns1.nic.yamaxun.yamaxun.		3600	IN	NS	dns4.nic.yamaxun.yamaxun.		3600	IN	NS	dnsc.nic.yamaxun.yamaxun.		3600	IN	NS	dnsa.nic.yamaxun.dns1.nic.yamaxun.	3600	IN	A	213.248.218.88dns1.nic.yamaxun.	3600	IN	AAAA	2a01:618:402::88

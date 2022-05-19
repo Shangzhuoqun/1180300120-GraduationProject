@@ -1,7 +1,0 @@
-; timestamp: 20220306T202602Z
-; source id: tld-query-lb.-nn.uninett.no.
-; source locator: nn.uninett.no.
-; source IP address: 158.38.0.181
-; backup point IP address: 111.42.148.76
-; status: success
-lb.			3600	IN	NS	fork.sth.dnsnode.net.lb.			3600	IN	NS	nn.uninett.no.lb.			3600	IN	NS	rip.psg.com.lb.			3600	IN	NS	zeina.aub.edu.lb.lb.			3600	IN	NS	ns4.seacomnet.com.lb.			3600	IN	NS	ns-jp.lbdr.org.lb.lb.			3600	IN	NS	ns3.seacomnet.com.nn.uninett.no.		1920	IN	A	158.38.0.181nn.uninett.no.		1274	IN	AAAA	2001:700:0:503::aa:5302

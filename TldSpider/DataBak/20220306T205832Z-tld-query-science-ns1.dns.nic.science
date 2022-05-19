@@ -1,7 +1,0 @@
-; timestamp: 20220306T205832Z
-; source id: tld-query-science.-ns1.dns.nic.science.
-; source locator: ns1.dns.nic.science.
-; source IP address: 156.154.169.41
-; backup point IP address: 111.42.148.76
-; status: success
-science.		3596	IN	NS	ns3.dns.nic.science.science.		3596	IN	NS	c.nic.science.science.		3596	IN	NS	ns1.dns.nic.science.science.		3596	IN	NS	a.nic.science.science.		3596	IN	NS	b.nic.science.science.		3596	IN	NS	ns2.dns.nic.science.ns1.dns.nic.science.	3600	IN	A	156.154.169.41ns1.dns.nic.science.	3600	IN	AAAA	2610:a1:1071::1:29

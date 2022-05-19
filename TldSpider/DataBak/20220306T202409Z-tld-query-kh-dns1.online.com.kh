@@ -1,27 +1,0 @@
-; timestamp: 20220306T202409Z
-; source id: tld-query-kh.-dns1.online.com.kh.
-; source locator: dns1.online.com.kh.
-; source IP address: 203.189.128.1
-; backup point IP address: 111.42.148.76
-; status: success
-kh.			10800	IN	NS	dns1.online.com.kh.kh.			10800	IN	NS	ns1.dns.net.kh.kh.			10800	IN	NS	ns4.apnic.net.kh.			10800	IN	NS	ns.camnet.com.kh.dns1.online.com.kh.	3274	IN	A	203.189.128.1dig @203.189.128.1 dns1.online.com.kh. AAAA
-
-; <<>> DiG 9.16.23 <<>> @203.189.128.1 dns1.online.com.kh. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45703
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;dns1.online.com.kh.		IN	AAAA
-
-;; AUTHORITY SECTION:
-online.com.kh.		1793	IN	SOA	dns1.online.com.kh. hostmaster.online.com.kh. 2022030500 10800 3600 43200 43200
-
-;; Query time: 5 msec
-;; SERVER: 203.189.128.1#53(203.189.128.1)
-;; WHEN: Sun Mar 06 20:24:19 ;; MSG SIZE  rcvd: 94
-

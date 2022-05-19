@@ -1,7 +1,0 @@
-; timestamp: 20220306T195906Z
-; source id: tld-query-cyou.-a.nic.cyou.
-; source locator: a.nic.cyou.
-; source IP address: 194.169.218.120
-; backup point IP address: 111.42.148.76
-; status: success
-cyou.			547	IN	NS	a.nic.cyou.cyou.			547	IN	NS	c.nic.cyou.cyou.			547	IN	NS	d.nic.cyou.cyou.			547	IN	NS	b.nic.cyou.a.nic.cyou.		594	IN	A	194.169.218.120a.nic.cyou.		594	IN	AAAA	2001:67c:13cc::1:120

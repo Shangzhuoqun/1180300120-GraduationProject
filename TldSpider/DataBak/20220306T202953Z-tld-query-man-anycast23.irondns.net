@@ -1,7 +1,0 @@
-; timestamp: 20220306T202953Z
-; source id: tld-query-man.-anycast23.irondns.net.
-; source locator: anycast23.irondns.net.
-; source IP address: 195.253.65.11
-; backup point IP address: 111.42.148.76
-; status: success
-man.			3600	IN	NS	anycast24.irondns.net.man.			3600	IN	NS	anycast23.irondns.net.man.			3600	IN	NS	anycast9.irondns.net.man.			3600	IN	NS	anycast10.irondns.net.anycast23.irondns.net.	2009	IN	A	195.253.65.11anycast23.irondns.net.	2042	IN	AAAA	2a01:5b0:5::b

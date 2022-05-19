@@ -1,7 +1,0 @@
-; timestamp: 20220306T205726Z
-; source id: tld-query-save.-dns3.nic.save.
-; source locator: dns3.nic.save.
-; source IP address: 213.248.222.79
-; backup point IP address: 111.42.148.76
-; status: success
-save.			3599	IN	NS	dnsb.nic.save.save.			3599	IN	NS	dnsc.nic.save.save.			3599	IN	NS	dns4.nic.save.save.			3599	IN	NS	dnsa.nic.save.save.			3599	IN	NS	dns3.nic.save.save.			3599	IN	NS	dns1.nic.save.save.			3599	IN	NS	dnsd.nic.save.save.			3599	IN	NS	dns2.nic.save.dns3.nic.save.		3600	IN	A	213.248.222.79dns3.nic.save.		3600	IN	AAAA	2a01:618:406::79

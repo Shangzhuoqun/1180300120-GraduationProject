@@ -1,7 +1,0 @@
-; timestamp: 20220306T212716Z
-; source id: tld-query-xn--mgbtx2b.-nsp-anycast.cmc.iq.
-; source locator: nsp-anycast.cmc.iq.
-; source IP address: 194.117.58.42
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbtx2b.		3597	IN	NS	sns-pb.isc.org.xn--mgbtx2b.		3597	IN	NS	ns.cocca.fr.xn--mgbtx2b.		3597	IN	NS	nsp-anycast.cmc.iq.nsp-anycast.cmc.iq.	600	IN	A	194.117.58.42nsp-anycast.cmc.iq.	600	IN	AAAA	2001:500:14:8001:ad::42

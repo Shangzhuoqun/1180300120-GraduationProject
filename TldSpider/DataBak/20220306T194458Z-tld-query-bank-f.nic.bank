@@ -1,7 +1,0 @@
-; timestamp: 20220306T194458Z
-; source id: tld-query-bank.-f.nic.bank.
-; source locator: f.nic.bank.
-; source IP address: 156.154.105.27
-; backup point IP address: 111.42.148.76
-; status: success
-bank.			1494	IN	NS	e.nic.bank.bank.			1494	IN	NS	x.nic.bank.bank.			1494	IN	NS	d.nic.bank.bank.			1494	IN	NS	f.nic.bank.bank.			1494	IN	NS	w.nic.bank.bank.			1494	IN	NS	y.nic.bank.f.nic.bank.		3599	IN	A	156.154.105.27f.nic.bank.		3599	IN	AAAA	2610:a1:1012::27

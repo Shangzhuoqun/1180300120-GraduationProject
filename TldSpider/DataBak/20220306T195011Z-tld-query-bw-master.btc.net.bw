@@ -1,7 +1,0 @@
-; timestamp: 20220306T195011Z
-; source id: tld-query-bw.-master.btc.net.bw.
-; source locator: master.btc.net.bw.
-; source IP address: 168.167.168.37
-; backup point IP address: 111.42.148.76
-; status: success
-bw.			1220	IN	NS	master.btc.net.bw.bw.			1220	IN	NS	ns-bw.afrinic.net.bw.			1220	IN	NS	dns1.nic.net.bw.bw.			1220	IN	NS	pch.nic.net.bw.master.btc.net.bw.	1179	IN	A	168.167.168.37master.btc.net.bw.	3600	IN	AAAA	2c0f:ff00:0:6::5master.btc.net.bw.	3600	IN	AAAA	2c0f:ff00:0:6::3

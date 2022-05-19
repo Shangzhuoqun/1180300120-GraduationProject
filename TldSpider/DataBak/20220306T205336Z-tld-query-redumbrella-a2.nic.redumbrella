@@ -1,7 +1,0 @@
-; timestamp: 20220306T205336Z
-; source id: tld-query-redumbrella.-a2.nic.redumbrella.
-; source locator: a2.nic.redumbrella.
-; source IP address: 65.22.203.1
-; backup point IP address: 111.42.148.76
-; status: success
-redumbrella.		3599	IN	NS	b0.nic.redumbrella.redumbrella.		3599	IN	NS	c0.nic.redumbrella.redumbrella.		3599	IN	NS	a0.nic.redumbrella.redumbrella.		3599	IN	NS	a2.nic.redumbrella.a2.nic.redumbrella.	600	IN	A	65.22.203.1a2.nic.redumbrella.	600	IN	AAAA	2a01:8840:c5::1

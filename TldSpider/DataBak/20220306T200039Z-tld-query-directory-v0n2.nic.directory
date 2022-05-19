@@ -1,7 +1,0 @@
-; timestamp: 20220306T200039Z
-; source id: tld-query-directory.-v0n2.nic.directory.
-; source locator: v0n2.nic.directory.
-; source IP address: 65.22.30.11
-; backup point IP address: 111.42.148.76
-; status: success
-directory.		489	IN	NS	v0n1.nic.directory.directory.		489	IN	NS	v0n2.nic.directory.directory.		489	IN	NS	v0n0.nic.directory.directory.		489	IN	NS	v2n1.nic.directory.directory.		489	IN	NS	v0n3.nic.directory.directory.		489	IN	NS	v2n0.nic.directory.v0n2.nic.directory.	3600	IN	A	65.22.30.11v0n2.nic.directory.	3600	IN	AAAA	2a01:8840:20::11

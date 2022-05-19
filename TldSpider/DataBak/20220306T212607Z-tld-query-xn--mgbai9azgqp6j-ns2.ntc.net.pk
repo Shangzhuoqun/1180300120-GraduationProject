@@ -1,27 +1,0 @@
-; timestamp: 20220306T212607Z
-; source id: tld-query-xn--mgbai9azgqp6j.-ns2.ntc.net.pk.
-; source locator: ns2.ntc.net.pk.
-; source IP address: 175.107.198.150
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbai9azgqp6j.	3576	IN	NS	ns1.ntc.net.pk.xn--mgbai9azgqp6j.	3576	IN	NS	ns.ntc.net.pk.xn--mgbai9azgqp6j.	3576	IN	NS	ns2.ntc.net.pk.ns2.ntc.net.pk.		600	IN	A	175.107.198.150dig @175.107.198.150 ns2.ntc.net.pk. AAAA
-
-; <<>> DiG 9.16.23 <<>> @175.107.198.150 ns2.ntc.net.pk. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51419
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.ntc.net.pk.			IN	AAAA
-
-;; AUTHORITY SECTION:
-ntc.net.pk.		600	IN	SOA	ns3.rapidcompute.com. dns-services\@cyber.net.pk. 2019030785 600 60 604800 600
-
-;; Query time: 128 msec
-;; SERVER: 175.107.198.150#53(175.107.198.150)
-;; WHEN: Sun Mar 06 21:26:43 ;; MSG SIZE  rcvd: 118
-

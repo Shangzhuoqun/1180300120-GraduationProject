@@ -1,7 +1,0 @@
-; timestamp: 20220306T194831Z
-; source id: tld-query-bond.-a.nic.bond.
-; source locator: a.nic.bond.
-; source IP address: 194.169.218.85
-; backup point IP address: 111.42.148.76
-; status: success
-bond.			1332	IN	NS	b.nic.bond.bond.			1332	IN	NS	d.nic.bond.bond.			1332	IN	NS	a.nic.bond.bond.			1332	IN	NS	c.nic.bond.a.nic.bond.		3600	IN	A	194.169.218.85a.nic.bond.		3600	IN	AAAA	2001:67c:13cc::1:85

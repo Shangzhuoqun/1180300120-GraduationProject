@@ -1,27 +1,0 @@
-; timestamp: 20220306T204735Z
-; source id: tld-query-pf.-ns2.mana.pf.
-; source locator: ns2.mana.pf.
-; source IP address: 202.3.225.20
-; backup point IP address: 111.42.148.76
-; status: success
-pf.			86400	IN	NS	ns2.mana.pf.pf.			86400	IN	NS	ns1.mana.pf.ns2.mana.pf.		3600	IN	A	202.3.225.20dig @202.3.225.20 ns2.mana.pf. AAAA
-
-; <<>> DiG 9.16.23 <<>> @202.3.225.20 ns2.mana.pf. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54341
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.mana.pf.			IN	AAAA
-
-;; AUTHORITY SECTION:
-mana.pf.		1800	IN	SOA	ns1.mana.pf. system.mana.pf. 2021122701 10800 3600 604800 3600
-
-;; Query time: 317 msec
-;; SERVER: 202.3.225.20#53(202.3.225.20)
-;; WHEN: Sun Mar 06 20:47:39 ;; MSG SIZE  rcvd: 87
-

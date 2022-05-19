@@ -1,7 +1,0 @@
-; timestamp: 20220306T194324Z
-; source id: tld-query-attorney.-v0n2.nic.attorney.
-; source locator: v0n2.nic.attorney.
-; source IP address: 65.22.22.20
-; backup point IP address: 111.42.148.76
-; status: success
-attorney.		1562	IN	NS	v2n1.nic.attorney.attorney.		1562	IN	NS	v0n2.nic.attorney.attorney.		1562	IN	NS	v0n1.nic.attorney.attorney.		1562	IN	NS	v2n0.nic.attorney.attorney.		1562	IN	NS	v0n0.nic.attorney.attorney.		1562	IN	NS	v0n3.nic.attorney.v0n2.nic.attorney.	3599	IN	A	65.22.22.20v0n2.nic.attorney.	3599	IN	AAAA	2a01:8840:18::20

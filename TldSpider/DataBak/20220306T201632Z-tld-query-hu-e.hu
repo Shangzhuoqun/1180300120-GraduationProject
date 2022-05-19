@@ -1,7 +1,0 @@
-; timestamp: 20220306T201632Z
-; source id: tld-query-hu.-e.hu.
-; source locator: e.hu.
-; source IP address: 194.0.25.11
-; backup point IP address: 111.42.148.76
-; status: success
-hu.			86400	IN	NS	a.hu.hu.			86400	IN	NS	b.hu.hu.			86400	IN	NS	c.hu.hu.			86400	IN	NS	d.hu.hu.			86400	IN	NS	e.hu.hu.			86400	IN	NS	ns2.nic.fr.hu.			86400	IN	NS	ns-com.nic.hu.e.hu.			3598	IN	A	194.0.25.11e.hu.			3600	IN	AAAA	2001:678:20::11

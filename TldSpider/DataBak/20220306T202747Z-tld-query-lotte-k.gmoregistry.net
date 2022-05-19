@@ -1,27 +1,0 @@
-; timestamp: 20220306T202747Z
-; source id: tld-query-lotte.-k.gmoregistry.net.
-; source locator: k.gmoregistry.net.
-; source IP address: 37.209.196.4
-; backup point IP address: 111.42.148.76
-; status: success
-lotte.			3600	IN	NS	b.gmoregistry.net.lotte.			3600	IN	NS	l.gmoregistry.net.lotte.			3600	IN	NS	a.gmoregistry.net.lotte.			3600	IN	NS	k.gmoregistry.net.k.gmoregistry.net.	2281	IN	A	37.209.196.4dig @37.209.196.4 k.gmoregistry.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @37.209.196.4 k.gmoregistry.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36278
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;k.gmoregistry.net.		IN	AAAA
-
-;; AUTHORITY SECTION:
-gmoregistry.net.	481	IN	SOA	ns1.gmoregistry.net. noc.gmoregistry.net. 47468 3600 900 604800 3600
-
-;; Query time: 100 msec
-;; SERVER: 37.209.196.4#53(37.209.196.4)
-;; WHEN: Sun Mar 06 20:27:48 ;; MSG SIZE  rcvd: 90
-

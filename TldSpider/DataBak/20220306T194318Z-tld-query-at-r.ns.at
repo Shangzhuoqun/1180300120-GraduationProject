@@ -1,7 +1,0 @@
-; timestamp: 20220306T194318Z
-; source id: tld-query-at.-r.ns.at.
-; source locator: r.ns.at.
-; source IP address: 194.0.25.10
-; backup point IP address: 111.42.148.76
-; status: success
-at.			1564	IN	NS	d.ns.at.at.			1564	IN	NS	ns9.univie.ac.at.at.			1564	IN	NS	n.ns.at.at.			1564	IN	NS	j.ns.at.at.			1564	IN	NS	ns1.univie.ac.at.at.			1564	IN	NS	r.ns.at.at.			1564	IN	NS	ns2.univie.ac.at.at.			1564	IN	NS	u.ns.at.r.ns.at.		1814	IN	A	194.0.25.10r.ns.at.		1814	IN	AAAA	2001:678:20::10

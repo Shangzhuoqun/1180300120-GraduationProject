@@ -1,7 +1,0 @@
-; timestamp: 20220306T194156Z
-; source id: tld-query-amex.-ns1.dns.nic.amex.
-; source locator: ns1.dns.nic.amex.
-; source IP address: 156.154.144.10
-; backup point IP address: 111.42.148.76
-; status: success
-amex.			1622	IN	NS	ns1.dns.nic.amex.amex.			1622	IN	NS	c.nic.amex.amex.			1622	IN	NS	b.nic.amex.amex.			1622	IN	NS	ns3.dns.nic.amex.amex.			1622	IN	NS	ns2.dns.nic.amex.amex.			1622	IN	NS	a.nic.amex.ns1.dns.nic.amex.	3599	IN	A	156.154.144.10ns1.dns.nic.amex.	3599	IN	AAAA	2610:a1:1071::a

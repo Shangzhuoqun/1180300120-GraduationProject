@@ -1,7 +1,0 @@
-; timestamp: 20220306T194702Z
-; source id: tld-query-bike.-v0n2.nic.bike.
-; source locator: v0n2.nic.bike.
-; source IP address: 65.22.26.44
-; backup point IP address: 111.42.148.76
-; status: success
-bike.			1399	IN	NS	v0n2.nic.bike.bike.			1399	IN	NS	v2n0.nic.bike.bike.			1399	IN	NS	v0n1.nic.bike.bike.			1399	IN	NS	v2n1.nic.bike.bike.			1399	IN	NS	v0n0.nic.bike.bike.			1399	IN	NS	v0n3.nic.bike.v0n2.nic.bike.		2646	IN	A	65.22.26.44v0n2.nic.bike.		2646	IN	AAAA	2a01:8840:1c::44

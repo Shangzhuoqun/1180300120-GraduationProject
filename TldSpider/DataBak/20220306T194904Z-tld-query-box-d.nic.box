@@ -1,7 +1,0 @@
-; timestamp: 20220306T194904Z
-; source id: tld-query-box.-d.nic.box.
-; source locator: d.nic.box.
-; source IP address: 212.18.249.139
-; backup point IP address: 111.42.148.76
-; status: success
-box.			172800	IN	NS	a.nic.box.box.			172800	IN	NS	b.nic.box.box.			172800	IN	NS	c.nic.box.box.			172800	IN	NS	d.nic.box.d.nic.box.		3592	IN	A	212.18.249.139d.nic.box.		3592	IN	AAAA	2a04:2b00:13ff::139

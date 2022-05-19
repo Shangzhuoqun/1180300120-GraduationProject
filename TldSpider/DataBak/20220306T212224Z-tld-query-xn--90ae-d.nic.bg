@@ -1,7 +1,0 @@
-; timestamp: 20220306T212224Z
-; source id: tld-query-xn--90ae.-d.nic.bg.
-; source locator: d.nic.bg.
-; source IP address: 194.0.32.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--90ae.		3598	IN	NS	a.nic.bg.xn--90ae.		3598	IN	NS	e.nic.bg.xn--90ae.		3598	IN	NS	c.nic.bg.xn--90ae.		3598	IN	NS	p.nic.bg.xn--90ae.		3598	IN	NS	b.nic.bg.xn--90ae.		3598	IN	NS	d.nic.bg.d.nic.bg.		3600	IN	A	194.0.32.1d.nic.bg.		3600	IN	AAAA	2001:678:3c::1

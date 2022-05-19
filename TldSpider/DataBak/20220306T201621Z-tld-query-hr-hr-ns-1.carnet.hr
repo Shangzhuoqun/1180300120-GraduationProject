@@ -1,7 +1,0 @@
-; timestamp: 20220306T201621Z
-; source id: tld-query-hr.-hr-ns-1.carnet.hr.
-; source locator: hr-ns-1.carnet.hr.
-; source IP address: 161.53.160.100
-; backup point IP address: 111.42.148.76
-; status: success
-hr.			14400	IN	NS	pch.carnet.hr.hr.			14400	IN	NS	n.dns.hr.hr.			14400	IN	NS	hr-ns-1.carnet.hr.hr-ns-1.carnet.hr.	3599	IN	A	161.53.160.100hr-ns-1.carnet.hr.	3597	IN	AAAA	2001:b68:ff:1::100

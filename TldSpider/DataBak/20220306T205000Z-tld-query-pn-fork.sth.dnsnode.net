@@ -1,7 +1,0 @@
-; timestamp: 20220306T205000Z
-; source id: tld-query-pn.-fork.sth.dnsnode.net.
-; source locator: fork.sth.dnsnode.net.
-; source IP address: 77.72.229.254
-; backup point IP address: 111.42.148.76
-; status: success
-pn.			3599	IN	NS	fork.sth.dnsnode.net.pn.			3599	IN	NS	dns4.nominetdns.uk.pn.			3599	IN	NS	ns1.pitcairn.net.pn.pn.			3599	IN	NS	ns0.pitcairn.net.pn.pn.			3599	IN	NS	dns1.nominetdns.uk.fork.sth.dnsnode.net.	24	IN	A	77.72.229.254fork.sth.dnsnode.net.	1257	IN	AAAA	2a01:3f0:0:306::53

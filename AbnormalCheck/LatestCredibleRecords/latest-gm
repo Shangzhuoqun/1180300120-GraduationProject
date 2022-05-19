@@ -1,7 +1,0 @@
-gm.	172800	in	ns	ns1.nic.gm.
-gm.	172800	in	ns	ns2.nic.gm.
-gm.	172800	in	ns	ns-gm.afrinic.net.
-ns1.nic.gm.	172800	in	a	194.63.250.217
-ns2.nic.gm.	172800	in	a	196.49.1.87
-ns-gm.afrinic.net.	172800	in	a	196.216.168.29
-ns-gm.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:29

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194110Z
-; source id: tld-query-agency.-v0n2.nic.agency.
-; source locator: v0n2.nic.agency.
-; source IP address: 65.22.26.2
-; backup point IP address: 111.42.148.76
-; status: success
-agency.			1646	IN	NS	v0n0.nic.agency.agency.			1646	IN	NS	v0n3.nic.agency.agency.			1646	IN	NS	v2n1.nic.agency.agency.			1646	IN	NS	v0n2.nic.agency.agency.			1646	IN	NS	v2n0.nic.agency.agency.			1646	IN	NS	v0n1.nic.agency.v0n2.nic.agency.	3599	IN	A	65.22.26.2v0n2.nic.agency.	3599	IN	AAAA	2a01:8840:1c::2

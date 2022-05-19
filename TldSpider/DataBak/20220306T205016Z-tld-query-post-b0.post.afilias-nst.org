@@ -1,7 +1,0 @@
-; timestamp: 20220306T205016Z
-; source id: tld-query-post.-b0.post.afilias-nst.org.
-; source locator: b0.post.afilias-nst.org.
-; source IP address: 65.22.1.1
-; backup point IP address: 111.42.148.76
-; status: success
-post.			3599	IN	NS	c0.post.afilias-nst.info.post.			3599	IN	NS	b2.post.afilias-nst.org.post.			3599	IN	NS	a0.post.afilias-nst.info.post.			3599	IN	NS	a2.post.afilias-nst.info.post.			3599	IN	NS	b0.post.afilias-nst.org.post.			3599	IN	NS	d0.post.afilias-nst.org.b0.post.afilias-nst.org. 3600	IN	A	65.22.1.1b0.post.afilias-nst.org. 3599	IN	AAAA	2a01:8840:1::1

@@ -1,7 +1,0 @@
-; timestamp: 20220306T203825Z
-; source id: tld-query-monash.-c.nic.monash.
-; source locator: c.nic.monash.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-monash.			3598	IN	NS	b.nic.monash.monash.			3598	IN	NS	d.nic.monash.monash.			3598	IN	NS	a.nic.monash.monash.			3598	IN	NS	c.nic.monash.c.nic.monash.		3598	IN	A	37.209.196.9c.nic.monash.		3599	IN	AAAA	2001:dcd:3::9

@@ -1,7 +1,0 @@
-; timestamp: 20220306T200830Z
-; source id: tld-query-gallup.-a0.nic.gallup.
-; source locator: a0.nic.gallup.
-; source IP address: 65.22.168.17
-; backup point IP address: 111.42.148.76
-; status: success
-gallup.			3600	IN	NS	a0.nic.gallup.gallup.			3600	IN	NS	a2.nic.gallup.gallup.			3600	IN	NS	c0.nic.gallup.gallup.			3600	IN	NS	b0.nic.gallup.a0.nic.gallup.		600	IN	A	65.22.168.17a0.nic.gallup.		600	IN	AAAA	2a01:8840:a2::17

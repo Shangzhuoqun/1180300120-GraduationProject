@@ -1,7 +1,0 @@
-; timestamp: 20220306T205654Z
-; source id: tld-query-safety.-ns1.dns.nic.safety.
-; source locator: ns1.dns.nic.safety.
-; source IP address: 156.154.144.148
-; backup point IP address: 111.42.148.76
-; status: success
-safety.			3599	IN	NS	ns2.dns.nic.safety.safety.			3599	IN	NS	ns1.dns.nic.safety.safety.			3599	IN	NS	c.nic.safety.safety.			3599	IN	NS	ns3.dns.nic.safety.safety.			3599	IN	NS	b.nic.safety.safety.			3599	IN	NS	a.nic.safety.ns1.dns.nic.safety.	3599	IN	A	156.154.144.148ns1.dns.nic.safety.	3599	IN	AAAA	2610:a1:1071::94

@@ -1,7 +1,0 @@
-; timestamp: 20220306T201822Z
-; source id: tld-query-industries.-v0n3.nic.industries.
-; source locator: v0n3.nic.industries.
-; source IP address: 161.232.10.55
-; backup point IP address: 111.42.148.76
-; status: success
-industries.		3598	IN	NS	v2n0.nic.industries.industries.		3598	IN	NS	v0n2.nic.industries.industries.		3598	IN	NS	v0n3.nic.industries.industries.		3598	IN	NS	v0n0.nic.industries.industries.		3598	IN	NS	v2n1.nic.industries.industries.		3598	IN	NS	v0n1.nic.industries.v0n3.nic.industries.	3600	IN	A	161.232.10.55v0n3.nic.industries.	3598	IN	AAAA	2a01:8840:f4::55

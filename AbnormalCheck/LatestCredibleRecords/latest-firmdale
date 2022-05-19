@@ -1,6 +1,0 @@
-firmdale.	172800	in	ns	ns1.nic.firmdale.
-firmdale.	172800	in	ns	ns2.nic.firmdale.
-ns1.nic.firmdale.	172800	in	a	72.0.51.1
-ns1.nic.firmdale.	172800	in	aaaa	2620:171:a03:ad:0:0:0:1
-ns2.nic.firmdale.	172800	in	a	72.42.115.1
-ns2.nic.firmdale.	172800	in	aaaa	2620:171:d03:dc:0:0:0:1

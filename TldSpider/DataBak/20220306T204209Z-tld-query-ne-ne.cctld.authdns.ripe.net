@@ -1,7 +1,0 @@
-; timestamp: 20220306T204209Z
-; source id: tld-query-ne.-ne.cctld.authdns.ripe.net.
-; source locator: ne.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.101
-; backup point IP address: 111.42.148.76
-; status: success
-ne.			86400	IN	NS	ne.cctld.authdns.ripe.net.ne.			86400	IN	NS	ns.intnet.ne.ne.			86400	IN	NS	bow.rain.fr.ne.			86400	IN	NS	ns-ne.afrinic.net.ne.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.101ne.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::101

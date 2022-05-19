@@ -1,7 +1,0 @@
-; timestamp: 20220306T200924Z
-; source id: tld-query-gdn.-ns1.nic.gdn.
-; source locator: ns1.nic.gdn.
-; source IP address: 194.0.25.18
-; backup point IP address: 111.42.148.76
-; status: success
-gdn.			3600	IN	NS	ns1.nic.gdn.gdn.			3600	IN	NS	ns3.nic.gdn.gdn.			3600	IN	NS	ns4.nic.gdn.ns1.nic.gdn.		3600	IN	A	194.0.25.18ns1.nic.gdn.		3600	IN	AAAA	2001:678:20::18

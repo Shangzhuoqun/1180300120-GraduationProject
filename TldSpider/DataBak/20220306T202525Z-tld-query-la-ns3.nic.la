@@ -1,7 +1,0 @@
-; timestamp: 20220306T202525Z
-; source id: tld-query-la.-ns3.nic.la.
-; source locator: ns3.nic.la.
-; source IP address: 185.24.64.14
-; backup point IP address: 111.42.148.76
-; status: success
-la.			3599	IN	NS	ns1.nic.la.la.			3599	IN	NS	ns4.nic.la.la.			3599	IN	NS	ns3.nic.la.la.			3599	IN	NS	ns2.nic.la.ns3.nic.la.		3234	IN	A	185.24.64.14ns3.nic.la.		3234	IN	AAAA	2a04:2b00:13cc::1:14

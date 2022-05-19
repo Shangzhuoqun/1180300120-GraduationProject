@@ -1,7 +1,0 @@
-; timestamp: 20220306T195325Z
-; source id: tld-query-ceo.-a.nic.ceo.
-; source locator: a.nic.ceo.
-; source IP address: 194.169.218.78
-; backup point IP address: 111.42.148.76
-; status: success
-ceo.			172800	IN	NS	b.nic.ceo.ceo.			172800	IN	NS	c.nic.ceo.ceo.			172800	IN	NS	a.nic.ceo.ceo.			172800	IN	NS	d.nic.ceo.a.nic.ceo.		3600	IN	A	194.169.218.78a.nic.ceo.		3600	IN	AAAA	2001:67c:13cc::1:78

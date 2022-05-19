@@ -1,7 +1,0 @@
-; timestamp: 20220306T202835Z
-; source id: tld-query-ltd.-v2n1.nic.ltd.
-; source locator: v2n1.nic.ltd.
-; source IP address: 161.232.15.2
-; backup point IP address: 111.42.148.76
-; status: success
-ltd.			3600	IN	NS	v0n0.nic.ltd.ltd.			3600	IN	NS	v0n1.nic.ltd.ltd.			3600	IN	NS	v0n2.nic.ltd.ltd.			3600	IN	NS	v0n3.nic.ltd.ltd.			3600	IN	NS	v2n0.nic.ltd.ltd.			3600	IN	NS	v2n1.nic.ltd.v2n1.nic.ltd.		3600	IN	A	161.232.15.2v2n1.nic.ltd.		3600	IN	AAAA	2a01:8840:f9::2

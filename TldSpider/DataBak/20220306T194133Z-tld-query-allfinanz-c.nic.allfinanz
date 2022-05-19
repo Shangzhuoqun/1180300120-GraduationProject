@@ -1,7 +1,0 @@
-; timestamp: 20220306T194133Z
-; source id: tld-query-allfinanz.-c.nic.allfinanz.
-; source locator: c.nic.allfinanz.
-; source IP address: 212.18.248.75
-; backup point IP address: 111.42.148.76
-; status: success
-allfinanz.		1633	IN	NS	c.nic.allfinanz.allfinanz.		1633	IN	NS	a.nic.allfinanz.allfinanz.		1633	IN	NS	b.nic.allfinanz.allfinanz.		1633	IN	NS	d.nic.allfinanz.c.nic.allfinanz.	3599	IN	A	212.18.248.75c.nic.allfinanz.	3599	IN	AAAA	2a04:2b00:13ee::75

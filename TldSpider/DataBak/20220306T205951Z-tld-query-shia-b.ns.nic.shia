@@ -1,7 +1,0 @@
-; timestamp: 20220306T205951Z
-; source id: tld-query-shia.-b.ns.nic.shia.
-; source locator: b.ns.nic.shia.
-; source IP address: 72.42.113.7
-; backup point IP address: 111.42.148.76
-; status: success
-shia.			3599	IN	NS	ns1.anycastdns.cz.shia.			3599	IN	NS	a.ns.nic.shia.shia.			3599	IN	NS	b.ns.nic.shia.shia.			3599	IN	NS	ns2.anycastdns.cz.b.ns.nic.shia.		600	IN	A	72.42.113.7b.ns.nic.shia.		600	IN	AAAA	2620:171:d01:dc::7

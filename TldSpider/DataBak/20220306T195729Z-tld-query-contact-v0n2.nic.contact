@@ -1,7 +1,0 @@
-; timestamp: 20220306T195729Z
-; source id: tld-query-contact.-v0n2.nic.contact.
-; source locator: v0n2.nic.contact.
-; source IP address: 65.22.26.34
-; backup point IP address: 111.42.148.76
-; status: success
-contact.		934	IN	NS	v2n0.nic.contact.contact.		934	IN	NS	v0n2.nic.contact.contact.		934	IN	NS	v0n3.nic.contact.contact.		934	IN	NS	v0n1.nic.contact.contact.		934	IN	NS	v0n0.nic.contact.contact.		934	IN	NS	v2n1.nic.contact.v0n2.nic.contact.	3600	IN	A	65.22.26.34v0n2.nic.contact.	3599	IN	AAAA	2a01:8840:1c::34

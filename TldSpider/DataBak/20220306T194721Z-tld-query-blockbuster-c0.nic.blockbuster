@@ -1,7 +1,0 @@
-; timestamp: 20220306T194721Z
-; source id: tld-query-blockbuster.-c0.nic.blockbuster.
-; source locator: c0.nic.blockbuster.
-; source IP address: 65.22.94.25
-; backup point IP address: 111.42.148.76
-; status: success
-blockbuster.		1386	IN	NS	c0.nic.blockbuster.blockbuster.		1386	IN	NS	a2.nic.blockbuster.blockbuster.		1386	IN	NS	a0.nic.blockbuster.blockbuster.		1386	IN	NS	b0.nic.blockbuster.c0.nic.blockbuster.	598	IN	A	65.22.94.25c0.nic.blockbuster.	598	IN	AAAA	2a01:8840:5c::25

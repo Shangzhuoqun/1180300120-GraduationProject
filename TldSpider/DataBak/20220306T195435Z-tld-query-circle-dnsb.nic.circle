@@ -1,7 +1,0 @@
-; timestamp: 20220306T195435Z
-; source id: tld-query-circle.-dnsb.nic.circle.
-; source locator: dnsb.nic.circle.
-; source IP address: 156.154.101.3
-; backup point IP address: 111.42.148.76
-; status: success
-circle.			1065	IN	NS	dns4.nic.circle.circle.			1065	IN	NS	dns1.nic.circle.circle.			1065	IN	NS	dnsb.nic.circle.circle.			1065	IN	NS	dnsc.nic.circle.circle.			1065	IN	NS	dns2.nic.circle.circle.			1065	IN	NS	dnsd.nic.circle.circle.			1065	IN	NS	dnsa.nic.circle.circle.			1065	IN	NS	dns3.nic.circle.dnsb.nic.circle.	3599	IN	A	156.154.101.3dnsb.nic.circle.	3599	IN	AAAA	2001:502:2eda::3

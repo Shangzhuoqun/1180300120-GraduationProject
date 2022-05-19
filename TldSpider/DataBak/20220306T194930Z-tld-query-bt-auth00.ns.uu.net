@@ -1,27 +1,0 @@
-; timestamp: 20220306T194930Z
-; source id: tld-query-bt.-auth00.ns.uu.net.
-; source locator: auth00.ns.uu.net.
-; source IP address: 198.6.1.65
-; backup point IP address: 111.42.148.76
-; status: success
-bt.			833	IN	NS	ns2.druknet.bt.bt.			833	IN	NS	auth61.ns.uu.net.bt.			833	IN	NS	phloem.uoregon.edu.bt.			833	IN	NS	ns1.druknet.bt.bt.			833	IN	NS	ns.itu.ch.bt.			833	IN	NS	ns3.druknet.bt.bt.			833	IN	NS	auth00.ns.uu.net.auth00.ns.uu.net.	599	IN	A	198.6.1.65dig @198.6.1.65 auth00.ns.uu.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @198.6.1.65 auth00.ns.uu.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19394
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;auth00.ns.uu.net.		IN	AAAA
-
-;; AUTHORITY SECTION:
-ns.uu.net.		299	IN	SOA	auth00.ns.uu.net. hostmaster.uu.net. 121 3600 900 604800 300
-
-;; Query time: 4 msec
-;; SERVER: 198.6.1.65#53(198.6.1.65)
-;; WHEN: Sun Mar 06 19:49:33 ;; MSG SIZE  rcvd: 92
-

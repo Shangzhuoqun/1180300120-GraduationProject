@@ -1,7 +1,0 @@
-; timestamp: 20220306T204125Z
-; source id: tld-query-na.-etld-1.anycast.net.
-; source locator: etld-1.anycast.net.
-; source IP address: 45.54.45.54
-; backup point IP address: 111.42.148.76
-; status: success
-na.			3596	IN	NS	na-ns.anycast.pch.net.na.			3596	IN	NS	etld-1.anycast.net.na.			3596	IN	NS	anyc2.irondns.net.na.			3596	IN	NS	na.anycastdns.cz.etld-1.anycast.net.	3600	IN	A	45.54.45.54etld-1.anycast.net.	3600	IN	AAAA	2607:f740:45::54

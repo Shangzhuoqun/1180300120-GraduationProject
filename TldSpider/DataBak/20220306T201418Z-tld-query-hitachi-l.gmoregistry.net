@@ -1,7 +1,0 @@
-; timestamp: 20220306T201418Z
-; source id: tld-query-hitachi.-l.gmoregistry.net.
-; source locator: l.gmoregistry.net.
-; source IP address: 37.209.198.4
-; backup point IP address: 111.42.148.76
-; status: success
-hitachi.		3599	IN	NS	k.gmoregistry.net.hitachi.		3599	IN	NS	l.gmoregistry.net.hitachi.		3599	IN	NS	a.gmoregistry.net.hitachi.		3599	IN	NS	b.gmoregistry.net.l.gmoregistry.net.	3091	IN	A	37.209.198.4l.gmoregistry.net.	3091	IN	AAAA	2001:dcd:4::4

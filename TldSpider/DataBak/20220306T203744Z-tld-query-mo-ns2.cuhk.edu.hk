@@ -1,7 +1,0 @@
-; timestamp: 20220306T203744Z
-; source id: tld-query-mo.-ns2.cuhk.edu.hk.
-; source locator: ns2.cuhk.edu.hk.
-; source IP address: 137.189.6.21
-; backup point IP address: 111.42.148.76
-; status: success
-mo.			3600	IN	NS	ns2.cuhk.edu.hk.mo.			3600	IN	NS	ns17.cdns.net.mo.			3600	IN	NS	c.monic.mo.mo.			3600	IN	NS	a.monic.mo.mo.			3600	IN	NS	b.monic.mo.mo.			3600	IN	NS	e.monic.mo.mo.			3600	IN	NS	d.monic.mo.ns2.cuhk.edu.hk.	1832	IN	A	137.189.6.21ns2.cuhk.edu.hk.	1832	IN	AAAA	2405:3000:3:6::15

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212927Z
-; source id: tld-query-xn--xhq521b.-ta.ngtld.cn.
-; source locator: ta.ngtld.cn.
-; source IP address: 42.83.130.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--xhq521b.		3600	IN	NS	te.ngtld.cn.xn--xhq521b.		3600	IN	NS	tc.ngtld.cn.xn--xhq521b.		3600	IN	NS	tb.ngtld.cn.xn--xhq521b.		3600	IN	NS	td.ngtld.cn.xn--xhq521b.		3600	IN	NS	ta.ngtld.cn.ta.ngtld.cn.		1284	IN	A	42.83.130.1ta.ngtld.cn.		1221	IN	AAAA	2001:dc7:ffd1::1

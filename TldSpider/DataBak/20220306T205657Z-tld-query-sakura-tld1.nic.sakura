@@ -1,7 +1,0 @@
-; timestamp: 20220306T205657Z
-; source id: tld-query-sakura.-tld1.nic.sakura.
-; source locator: tld1.nic.sakura.
-; source IP address: 103.47.2.3
-; backup point IP address: 111.42.148.76
-; status: success
-sakura.			3600	IN	NS	tld5.nic.sakura.sakura.			3600	IN	NS	tld2.nic.sakura.sakura.			3600	IN	NS	tld1.nic.sakura.sakura.			3600	IN	NS	tld3.nic.sakura.tld1.nic.sakura.	3600	IN	A	103.47.2.3tld1.nic.sakura.	3600	IN	AAAA	2001:dda::3

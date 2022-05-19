@@ -1,7 +1,0 @@
-; timestamp: 20220306T195926Z
-; source id: tld-query-dds.-b.nic.dds.
-; source locator: b.nic.dds.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-dds.			537	IN	NS	b.nic.dds.dds.			537	IN	NS	a.nic.dds.dds.			537	IN	NS	d.nic.dds.dds.			537	IN	NS	c.nic.dds.b.nic.dds.		3600	IN	A	37.209.194.10b.nic.dds.		3600	IN	AAAA	2001:dcd:2::10

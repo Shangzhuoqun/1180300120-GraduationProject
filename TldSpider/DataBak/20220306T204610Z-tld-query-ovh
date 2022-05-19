@@ -1,9 +1,0 @@
-; timestamp: 20220306T204610Z
-; source id: tld-query-ovh.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-d.nic.fr.:../TldSpider/DataBak/20220306T204610Z-tld-query-ovh-d.nic.fr
-f.ext.nic.fr.:../TldSpider/DataBak/20220306T204610Z-tld-query-ovh-f.ext.nic.fr
-g.ext.nic.fr.:../TldSpider/DataBak/20220306T204610Z-tld-query-ovh-g.ext.nic.fr

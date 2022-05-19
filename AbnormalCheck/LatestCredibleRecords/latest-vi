@@ -1,9 +1,0 @@
-auth100.ns.uu.net.	172800	in	a	198.6.1.202
-auth110.ns.uu.net.	172800	in	a	198.6.1.114
-vi.	172800	in	ns	ns3.nic.vi.
-vi.	172800	in	ns	pch.nic.vi.
-vi.	172800	in	ns	auth100.ns.uu.net.
-vi.	172800	in	ns	auth110.ns.uu.net.
-ns3.nic.vi.	172800	in	a	185.17.236.230
-pch.nic.vi.	172800	in	a	204.61.216.133
-pch.nic.vi.	172800	in	aaaa	2001:500:14:6133:ad:0:0:1

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210740Z
-; source id: tld-query-tci.-b.ns.nic.tci.
-; source locator: b.ns.nic.tci.
-; source IP address: 72.42.113.8
-; backup point IP address: 111.42.148.76
-; status: success
-tci.			86400	IN	NS	ns1.anycastdns.cz.tci.			86400	IN	NS	a.ns.nic.tci.tci.			86400	IN	NS	b.ns.nic.tci.tci.			86400	IN	NS	ns2.anycastdns.cz.b.ns.nic.tci.		596	IN	A	72.42.113.8b.ns.nic.tci.		594	IN	AAAA	2620:171:d01:dc::8

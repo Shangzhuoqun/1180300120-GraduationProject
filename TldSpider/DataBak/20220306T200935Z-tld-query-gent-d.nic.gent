@@ -1,7 +1,0 @@
-; timestamp: 20220306T200935Z
-; source id: tld-query-gent.-d.nic.gent.
-; source locator: d.nic.gent.
-; source IP address: 212.18.249.89
-; backup point IP address: 111.42.148.76
-; status: success
-gent.			3598	IN	NS	d.nic.gent.gent.			3598	IN	NS	a.nic.gent.gent.			3598	IN	NS	b.nic.gent.gent.			3598	IN	NS	c.nic.gent.d.nic.gent.		3599	IN	A	212.18.249.89d.nic.gent.		3599	IN	AAAA	2a04:2b00:13ff::89

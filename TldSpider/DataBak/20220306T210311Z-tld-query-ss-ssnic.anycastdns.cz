@@ -1,27 +1,0 @@
-; timestamp: 20220306T210311Z
-; source id: tld-query-ss.-ssnic.anycastdns.cz.
-; source locator: ssnic.anycastdns.cz.
-; source IP address: 185.28.194.194
-; backup point IP address: 111.42.148.76
-; status: success
-ss.			600	IN	NS	ns-ss.afrinic.net.ss.			600	IN	NS	b.ns.tznic.or.tz.ss.			600	IN	NS	ssnic.anycastdns.cz.ss.			600	IN	NS	pch.nic.ss.ssnic.anycastdns.cz.	900	IN	A	185.28.194.194ssnic.anycastdns.cz.	900	IN	A	185.38.108.108dig @185.38.108.108 ssnic.anycastdns.cz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @185.38.108.108 ssnic.anycastdns.cz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65237
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ssnic.anycastdns.cz.		IN	AAAA
-
-;; AUTHORITY SECTION:
-anycastdns.cz.		1800	IN	SOA	ns1.anycastdns.cz. root.gransy.com. 2631870100 86400 900 1209600 1800
-
-;; Query time: 285 msec
-;; SERVER: 185.38.108.108#53(185.38.108.108)
-;; WHEN: Sun Mar 06 21:03:53 ;; MSG SIZE  rcvd: 103
-

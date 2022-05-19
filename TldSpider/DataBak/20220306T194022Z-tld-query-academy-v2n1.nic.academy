@@ -1,7 +1,0 @@
-; timestamp: 20220306T194022Z
-; source id: tld-query-academy.-v2n1.nic.academy.
-; source locator: v2n1.nic.academy.
-; source IP address: 161.232.13.37
-; backup point IP address: 111.42.148.76
-; status: success
-academy.		1672	IN	NS	v2n1.nic.academy.academy.		1672	IN	NS	v0n2.nic.academy.academy.		1672	IN	NS	v0n1.nic.academy.academy.		1672	IN	NS	v0n0.nic.academy.academy.		1672	IN	NS	v0n3.nic.academy.academy.		1672	IN	NS	v2n0.nic.academy.v2n1.nic.academy.	3599	IN	A	161.232.13.37v2n1.nic.academy.	3598	IN	AAAA	2a01:8840:f7::37

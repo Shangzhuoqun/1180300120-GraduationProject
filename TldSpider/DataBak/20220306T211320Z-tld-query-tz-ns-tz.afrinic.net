@@ -1,7 +1,0 @@
-; timestamp: 20220306T211320Z
-; source id: tld-query-tz.-ns-tz.afrinic.net.
-; source locator: ns-tz.afrinic.net.
-; source IP address: 196.216.168.20
-; backup point IP address: 111.42.148.76
-; status: success
-tz.			18000	IN	NS	ns.anycast.co.tz.tz.			18000	IN	NS	ns2.tznic.or.tz.tz.			18000	IN	NS	rip.psg.com.tz.			18000	IN	NS	fork.sth.dnsnode.net.tz.			18000	IN	NS	ns-tz.afrinic.net.tz.			18000	IN	NS	d.ext.nic.cz.ns-tz.afrinic.net.	3600	IN	A	196.216.168.20ns-tz.afrinic.net.	3600	IN	AAAA	2001:43f8:120::20

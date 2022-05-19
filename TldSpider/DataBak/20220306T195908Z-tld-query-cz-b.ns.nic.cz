@@ -1,7 +1,0 @@
-; timestamp: 20220306T195908Z
-; source id: tld-query-cz.-b.ns.nic.cz.
-; source locator: b.ns.nic.cz.
-; source IP address: 194.0.13.1
-; backup point IP address: 111.42.148.76
-; status: success
-cz.			547	IN	NS	a.ns.nic.cz.cz.			547	IN	NS	b.ns.nic.cz.cz.			547	IN	NS	c.ns.nic.cz.cz.			547	IN	NS	d.ns.nic.cz.b.ns.nic.cz.		1147	IN	A	194.0.13.1b.ns.nic.cz.		1408	IN	AAAA	2001:678:10::1

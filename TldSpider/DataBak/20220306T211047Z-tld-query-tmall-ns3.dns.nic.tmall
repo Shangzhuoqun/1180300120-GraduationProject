@@ -1,7 +1,0 @@
-; timestamp: 20220306T211047Z
-; source id: tld-query-tmall.-ns3.dns.nic.tmall.
-; source locator: ns3.dns.nic.tmall.
-; source IP address: 156.154.159.164
-; backup point IP address: 111.42.148.76
-; status: success
-tmall.			3598	IN	NS	a.nic.tmall.tmall.			3598	IN	NS	c.nic.tmall.tmall.			3598	IN	NS	ns1.dns.nic.tmall.tmall.			3598	IN	NS	b.nic.tmall.tmall.			3598	IN	NS	ns2.dns.nic.tmall.tmall.			3598	IN	NS	ns3.dns.nic.tmall.ns3.dns.nic.tmall.	3600	IN	A	156.154.159.164ns3.dns.nic.tmall.	3600	IN	AAAA	2610:a1:1073::a4

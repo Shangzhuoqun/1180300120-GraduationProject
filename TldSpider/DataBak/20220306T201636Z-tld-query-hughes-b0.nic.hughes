@@ -1,7 +1,0 @@
-; timestamp: 20220306T201636Z
-; source id: tld-query-hughes.-b0.nic.hughes.
-; source locator: b0.nic.hughes.
-; source IP address: 65.22.109.1
-; backup point IP address: 111.42.148.76
-; status: success
-hughes.			3599	IN	NS	c0.nic.hughes.hughes.			3599	IN	NS	a2.nic.hughes.hughes.			3599	IN	NS	b0.nic.hughes.hughes.			3599	IN	NS	a0.nic.hughes.b0.nic.hughes.		599	IN	A	65.22.109.1b0.nic.hughes.		598	IN	AAAA	2a01:8840:6b::1

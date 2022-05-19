@@ -1,7 +1,0 @@
-; timestamp: 20220306T203732Z
-; source id: tld-query-mls.-a.ns.nic.mls.
-; source locator: a.ns.nic.mls.
-; source IP address: 185.159.197.8
-; backup point IP address: 111.42.148.76
-; status: success
-mls.			86400	IN	NS	a.ns.nic.mls.mls.			86400	IN	NS	b.ns.nic.mls.a.ns.nic.mls.		3600	IN	A	185.159.197.8a.ns.nic.mls.		3600	IN	AAAA	2620:10a:80aa::8

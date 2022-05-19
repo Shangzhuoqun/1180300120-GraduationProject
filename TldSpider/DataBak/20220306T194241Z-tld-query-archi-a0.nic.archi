@@ -1,7 +1,0 @@
-; timestamp: 20220306T194241Z
-; source id: tld-query-archi.-a0.nic.archi.
-; source locator: a0.nic.archi.
-; source IP address: 65.22.84.1
-; backup point IP address: 111.42.148.76
-; status: success
-archi.			1597	IN	NS	a2.nic.archi.archi.			1597	IN	NS	c0.nic.archi.archi.			1597	IN	NS	a0.nic.archi.archi.			1597	IN	NS	b0.nic.archi.a0.nic.archi.		600	IN	A	65.22.84.1a0.nic.archi.		296	IN	AAAA	2a01:8840:52::1

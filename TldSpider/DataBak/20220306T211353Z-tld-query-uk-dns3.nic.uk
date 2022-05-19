@@ -1,7 +1,0 @@
-; timestamp: 20220306T211353Z
-; source id: tld-query-uk.-dns3.nic.uk.
-; source locator: dns3.nic.uk.
-; source IP address: 213.248.220.1
-; backup point IP address: 111.42.148.76
-; status: success
-uk.			3598	IN	NS	nsd.nic.uk.uk.			3598	IN	NS	nsb.nic.uk.uk.			3598	IN	NS	nsc.nic.uk.uk.			3598	IN	NS	nsa.nic.uk.uk.			3598	IN	NS	dns2.nic.uk.uk.			3598	IN	NS	dns3.nic.uk.uk.			3598	IN	NS	dns1.nic.uk.uk.			3598	IN	NS	dns4.nic.uk.dns3.nic.uk.		2546	IN	A	213.248.220.1dns3.nic.uk.		3053	IN	AAAA	2a01:618:404::1

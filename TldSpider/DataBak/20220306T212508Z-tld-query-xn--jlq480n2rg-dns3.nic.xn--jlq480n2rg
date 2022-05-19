@@ -1,7 +1,0 @@
-; timestamp: 20220306T212508Z
-; source id: tld-query-xn--jlq480n2rg.-dns3.nic.xn--jlq480n2rg.
-; source locator: dns3.nic.xn--jlq480n2rg.
-; source IP address: 213.248.222.91
-; backup point IP address: 111.42.148.76
-; status: success
-xn--jlq480n2rg.		3599	IN	NS	dnsa.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dnsb.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dns3.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dns2.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dns4.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dnsd.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dns1.nic.xn--jlq480n2rg.xn--jlq480n2rg.		3599	IN	NS	dnsc.nic.xn--jlq480n2rg.dns3.nic.xn--jlq480n2rg. 3600	IN	A	213.248.222.91dns3.nic.xn--jlq480n2rg. 3600	IN	AAAA	2a01:618:406::91

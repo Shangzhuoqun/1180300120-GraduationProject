@@ -1,7 +1,0 @@
-; timestamp: 20220306T204344Z
-; source id: tld-query-no.-not.norid.no.
-; source locator: not.norid.no.
-; source IP address: 156.154.100.12
-; backup point IP address: 111.42.148.76
-; status: success
-no.			7200	IN	NS	x.nic.no.no.			7200	IN	NS	z.nic.no.no.			7200	IN	NS	njet.norid.no.no.			7200	IN	NS	not.norid.no.no.			7200	IN	NS	y.nic.no.no.			7200	IN	NS	i.nic.no.not.norid.no.		2827	IN	A	156.154.100.12not.norid.no.		2826	IN	AAAA	2001:502:ad09::12

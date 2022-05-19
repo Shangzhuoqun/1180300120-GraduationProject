@@ -1,7 +1,0 @@
-; timestamp: 20220306T204422Z
-; source id: tld-query-np.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-np.			3600	IN	NS	ns4.apnic.net.np.			3600	IN	NS	pch.nnic.np.np.			3600	IN	NS	shikhar.mos.com.np.np.			3600	IN	NS	np-ns.npix.net.np.np.			3600	IN	NS	np.cctld.authdns.ripe.net.ns4.apnic.net.		1669	IN	A	202.12.31.53ns4.apnic.net.		375	IN	AAAA	2001:dd8:12::53

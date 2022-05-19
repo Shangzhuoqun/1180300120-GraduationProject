@@ -1,7 +1,0 @@
-; timestamp: 20220306T195216Z
-; source id: tld-query-cards.-v0n1.nic.cards.
-; source locator: v0n1.nic.cards.
-; source IP address: 65.22.33.50
-; backup point IP address: 111.42.148.76
-; status: success
-cards.			1149	IN	NS	v0n1.nic.cards.cards.			1149	IN	NS	v2n1.nic.cards.cards.			1149	IN	NS	v0n3.nic.cards.cards.			1149	IN	NS	v0n2.nic.cards.cards.			1149	IN	NS	v0n0.nic.cards.cards.			1149	IN	NS	v2n0.nic.cards.v0n1.nic.cards.		3600	IN	A	65.22.33.50v0n1.nic.cards.		3599	IN	AAAA	2a01:8840:23::50

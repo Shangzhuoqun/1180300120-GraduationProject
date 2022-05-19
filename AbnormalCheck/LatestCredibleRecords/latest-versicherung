@@ -1,9 +1,0 @@
-versicherung.	172800	in	ns	a.dns.nic.versicherung.
-versicherung.	172800	in	ns	m.dns.nic.versicherung.
-versicherung.	172800	in	ns	n.dns.nic.versicherung.
-a.dns.nic.versicherung.	172800	in	a	194.0.25.13
-a.dns.nic.versicherung.	172800	in	aaaa	2001:678:20:0:0:0:0:13
-m.dns.nic.versicherung.	172800	in	a	194.0.26.2
-m.dns.nic.versicherung.	172800	in	aaaa	2001:67c:10e0:0:0:0:0:2
-n.dns.nic.versicherung.	172800	in	a	194.0.24.2
-n.dns.nic.versicherung.	172800	in	aaaa	2001:678:24:0:0:0:0:2

@@ -1,7 +1,0 @@
-; timestamp: 20220306T200416Z
-; source id: tld-query-express.-v2n1.nic.express.
-; source locator: v2n1.nic.express.
-; source IP address: 161.232.17.16
-; backup point IP address: 111.42.148.76
-; status: success
-express.		3597	IN	NS	v0n0.nic.express.express.		3597	IN	NS	v2n0.nic.express.express.		3597	IN	NS	v2n1.nic.express.express.		3597	IN	NS	v0n3.nic.express.express.		3597	IN	NS	v0n2.nic.express.express.		3597	IN	NS	v0n1.nic.express.v2n1.nic.express.	3598	IN	A	161.232.17.16v2n1.nic.express.	3598	IN	AAAA	2a01:8840:fb::16

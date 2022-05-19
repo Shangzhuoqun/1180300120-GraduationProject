@@ -1,7 +1,0 @@
-; timestamp: 20220306T212936Z
-; source id: tld-query-xn--yfro4i67o.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-xn--yfro4i67o.		3600	IN	NS	DSANY3.SGNIC.SG.xn--yfro4i67o.		3600	IN	NS	NS4.APNIC.NET.xn--yfro4i67o.		3600	IN	NS	PCH.SGZONES.SG.xn--yfro4i67o.		3600	IN	NS	DSANY2.SGNIC.SG.xn--yfro4i67o.		3600	IN	NS	DSANY.SGNIC.SG.ns4.apnic.net.		2840	IN	A	202.12.31.53ns4.apnic.net.		1021	IN	AAAA	2001:dd8:12::53

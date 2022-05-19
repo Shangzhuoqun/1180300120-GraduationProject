@@ -1,7 +1,0 @@
-; timestamp: 20220306T203004Z
-; source id: tld-query-market.-v0n3.nic.market.
-; source locator: v0n3.nic.market.
-; source IP address: 161.232.10.8
-; backup point IP address: 111.42.148.76
-; status: success
-market.			1330	IN	NS	v0n1.nic.market.market.			1330	IN	NS	v0n2.nic.market.market.			1330	IN	NS	v0n3.nic.market.market.			1330	IN	NS	v2n1.nic.market.market.			1330	IN	NS	v2n0.nic.market.market.			1330	IN	NS	v0n0.nic.market.v0n3.nic.market.	3598	IN	A	161.232.10.8v0n3.nic.market.	3598	IN	AAAA	2a01:8840:f4::8

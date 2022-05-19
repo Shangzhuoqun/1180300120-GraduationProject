@@ -1,7 +1,0 @@
-; timestamp: 20220306T201852Z
-; source id: tld-query-int.-ns0.ja.net.
-; source locator: ns0.ja.net.
-; source IP address: 128.86.1.20
-; backup point IP address: 111.42.148.76
-; status: success
-int.			3596	IN	NS	z.iana-servers.net.int.			3596	IN	NS	ns0.ja.net.int.			3596	IN	NS	y.iana-servers.net.int.			3596	IN	NS	x.iana-servers.net.int.			3596	IN	NS	ns.uu.net.int.			3596	IN	NS	sec2.authdns.ripe.net.ns0.ja.net.		3192	IN	A	128.86.1.20ns0.ja.net.		3192	IN	A	193.63.94.20ns0.ja.net.		1196	IN	AAAA	2001:630:0:9::14ns0.ja.net.		1196	IN	AAAA	2001:630:0:8::14

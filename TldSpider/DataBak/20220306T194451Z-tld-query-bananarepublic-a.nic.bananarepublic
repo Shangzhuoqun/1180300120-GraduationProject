@@ -1,7 +1,0 @@
-; timestamp: 20220306T194451Z
-; source id: tld-query-bananarepublic.-a.nic.bananarepublic.
-; source locator: a.nic.bananarepublic.
-; source IP address: 37.209.192.9
-; backup point IP address: 111.42.148.76
-; status: success
-bananarepublic.		1499	IN	NS	b.nic.bananarepublic.bananarepublic.		1499	IN	NS	ns3.dns.nic.bananarepublic.bananarepublic.		1499	IN	NS	ns1.dns.nic.bananarepublic.bananarepublic.		1499	IN	NS	c.nic.bananarepublic.bananarepublic.		1499	IN	NS	ns2.dns.nic.bananarepublic.bananarepublic.		1499	IN	NS	a.nic.bananarepublic.a.nic.bananarepublic.	3600	IN	A	37.209.192.9a.nic.bananarepublic.	3599	IN	AAAA	2001:dcd:1::9

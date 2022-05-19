@@ -1,7 +1,0 @@
-; timestamp: 20220306T194100Z
-; source id: tld-query-africa.-ns2us.dns.business.
-; source locator: ns2us.dns.business.
-; source IP address: 147.135.106.236
-; backup point IP address: 111.42.148.76
-; status: success
-africa.			1648	IN	NS	coza1.dnsnode.net.africa.			1648	IN	NS	ns2us.dns.business.africa.			1648	IN	NS	ns.coza.net.za.ns2us.dns.business.	3333	IN	A	147.135.106.236ns2us.dns.business.	3332	IN	AAAA	2604:2dc0:200:2eb::2

@@ -1,7 +1,0 @@
-; timestamp: 20220306T200834Z
-; source id: tld-query-games.-v0n3.nic.games.
-; source locator: v0n3.nic.games.
-; source IP address: 161.232.10.39
-; backup point IP address: 111.42.148.76
-; status: success
-games.			597	IN	NS	v0n3.nic.games.games.			597	IN	NS	v0n0.nic.games.games.			597	IN	NS	v0n1.nic.games.games.			597	IN	NS	v2n0.nic.games.games.			597	IN	NS	v2n1.nic.games.games.			597	IN	NS	v0n2.nic.games.v0n3.nic.games.		3599	IN	A	161.232.10.39v0n3.nic.games.		3597	IN	AAAA	2a01:8840:f4::39

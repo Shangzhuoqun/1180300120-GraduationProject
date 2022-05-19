@@ -1,9 +1,0 @@
-; timestamp: 20220306T204246Z
-; source id: tld-query-nf.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-ns.anycast.nic.nf.:../TldSpider/DataBak/20220306T204246Z-tld-query-nf-ns.anycast.nic.nf
-ns1.anycastdns.cz.:../TldSpider/DataBak/20220306T204246Z-tld-query-nf-ns1.anycastdns.cz
-ns2.anycastdns.cz.:../TldSpider/DataBak/20220306T204246Z-tld-query-nf-ns2.anycastdns.cz

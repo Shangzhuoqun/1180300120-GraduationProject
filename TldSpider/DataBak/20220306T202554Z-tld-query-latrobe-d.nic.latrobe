@@ -1,7 +1,0 @@
-; timestamp: 20220306T202554Z
-; source id: tld-query-latrobe.-d.nic.latrobe.
-; source locator: d.nic.latrobe.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-latrobe.		3599	IN	NS	d.nic.latrobe.latrobe.		3599	IN	NS	c.nic.latrobe.latrobe.		3599	IN	NS	a.nic.latrobe.latrobe.		3599	IN	NS	b.nic.latrobe.d.nic.latrobe.		3599	IN	A	37.209.198.9d.nic.latrobe.		3599	IN	AAAA	2001:dcd:4::9

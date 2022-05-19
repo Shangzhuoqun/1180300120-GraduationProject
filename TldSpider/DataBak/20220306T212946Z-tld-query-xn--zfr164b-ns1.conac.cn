@@ -1,7 +1,0 @@
-; timestamp: 20220306T212946Z
-; source id: tld-query-xn--zfr164b.-ns1.conac.cn.
-; source locator: ns1.conac.cn.
-; source IP address: 111.235.161.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--zfr164b.		3600	IN	NS	ns3.conac.cn.xn--zfr164b.		3600	IN	NS	ns4.conac.cn.xn--zfr164b.		3600	IN	NS	ns1.conac.cn.xn--zfr164b.		3600	IN	NS	ns5.conac.cn.xn--zfr164b.		3600	IN	NS	ns2.conac.cn.ns1.conac.cn.		447	IN	A	111.235.161.1ns1.conac.cn.		2734	IN	AAAA	2401:b400:1::1

@@ -1,9 +1,0 @@
-; timestamp: 20220306T201328Z
-; source id: tld-query-hamburg.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-a.dns.nic.hamburg.:../TldSpider/DataBak/20220306T201328Z-tld-query-hamburg-a.dns.nic.hamburg
-m.dns.nic.hamburg.:../TldSpider/DataBak/20220306T201328Z-tld-query-hamburg-m.dns.nic.hamburg
-n.dns.nic.hamburg.:../TldSpider/DataBak/20220306T201328Z-tld-query-hamburg-n.dns.nic.hamburg

@@ -1,27 +1,0 @@
-; timestamp: 20220306T195638Z
-; source id: tld-query-cn.-f.dns.cn.
-; source locator: f.dns.cn.
-; source IP address: 195.219.8.90
-; backup point IP address: 111.42.148.76
-; status: success
-cn.			497	IN	NS	ns.cernet.net.cn.			497	IN	NS	g.dns.cn.cn.			497	IN	NS	f.dns.cn.cn.			497	IN	NS	b.dns.cn.cn.			497	IN	NS	a.dns.cn.cn.			497	IN	NS	e.dns.cn.cn.			497	IN	NS	d.dns.cn.cn.			497	IN	NS	c.dns.cn.f.dns.cn.		3600	IN	A	195.219.8.90dig @195.219.8.90 f.dns.cn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @195.219.8.90 f.dns.cn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55693
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;f.dns.cn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-dns.cn.			1550	IN	SOA	a.dns.cn. root.cnnic.cn. 2017080901 3600 600 1209600 43200
-
-;; Query time: 17 msec
-;; SERVER: 195.219.8.90#53(195.219.8.90)
-;; WHEN: Sun Mar 06 19:56:40 ;; MSG SIZE  rcvd: 86
-

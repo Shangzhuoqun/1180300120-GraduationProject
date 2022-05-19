@@ -1,7 +1,0 @@
-; timestamp: 20220306T200540Z
-; source id: tld-query-financial.-v0n3.nic.financial.
-; source locator: v0n3.nic.financial.
-; source IP address: 161.232.10.54
-; backup point IP address: 111.42.148.76
-; status: success
-financial.		3598	IN	NS	v0n3.nic.financial.financial.		3598	IN	NS	v0n0.nic.financial.financial.		3598	IN	NS	v0n1.nic.financial.financial.		3598	IN	NS	v2n0.nic.financial.financial.		3598	IN	NS	v2n1.nic.financial.financial.		3598	IN	NS	v0n2.nic.financial.v0n3.nic.financial.	3599	IN	A	161.232.10.54v0n3.nic.financial.	3599	IN	AAAA	2a01:8840:f4::54

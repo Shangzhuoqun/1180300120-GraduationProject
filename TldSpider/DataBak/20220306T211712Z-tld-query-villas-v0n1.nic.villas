@@ -1,7 +1,0 @@
-; timestamp: 20220306T211712Z
-; source id: tld-query-villas.-v0n1.nic.villas.
-; source locator: v0n1.nic.villas.
-; source IP address: 65.22.29.62
-; backup point IP address: 111.42.148.76
-; status: success
-villas.			3598	IN	NS	v0n3.nic.villas.villas.			3598	IN	NS	v0n0.nic.villas.villas.			3598	IN	NS	v0n2.nic.villas.villas.			3598	IN	NS	v2n0.nic.villas.villas.			3598	IN	NS	v0n1.nic.villas.villas.			3598	IN	NS	v2n1.nic.villas.v0n1.nic.villas.	3600	IN	A	65.22.29.62v0n1.nic.villas.	86400	IN	AAAA	2a01:8840:1f::62

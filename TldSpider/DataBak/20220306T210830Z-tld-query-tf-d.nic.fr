@@ -1,7 +1,0 @@
-; timestamp: 20220306T210830Z
-; source id: tld-query-tf.-d.nic.fr.
-; source locator: d.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-tf.			600	IN	NS	d.nic.fr.tf.			600	IN	NS	e.ext.nic.fr.tf.			600	IN	NS	g.ext.nic.fr.tf.			600	IN	NS	f.ext.nic.fr.d.nic.fr.		3186	IN	A	194.0.9.1d.nic.fr.		3600	IN	AAAA	2001:678:c::1

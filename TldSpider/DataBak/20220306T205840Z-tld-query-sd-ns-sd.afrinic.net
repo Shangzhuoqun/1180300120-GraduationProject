@@ -1,7 +1,0 @@
-; timestamp: 20220306T205840Z
-; source id: tld-query-sd.-ns-sd.afrinic.net.
-; source locator: ns-sd.afrinic.net.
-; source IP address: 196.216.168.26
-; backup point IP address: 111.42.148.76
-; status: success
-sd.			14400	IN	NS	ans2.sis.sd.sd.			14400	IN	NS	ans2.canar.sd.sd.			14400	IN	NS	ns-sd.afrinic.net.sd.			14400	IN	NS	sd.cctld.authdns.ripe.net.sd.			14400	IN	NS	pch.sis.sd.sd.			14400	IN	NS	ans1.sis.sd.sd.			14400	IN	NS	ans1.canar.sd.ns-sd.afrinic.net.	3600	IN	A	196.216.168.26ns-sd.afrinic.net.	3600	IN	AAAA	2001:43f8:120::26

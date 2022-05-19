@@ -1,7 +1,0 @@
-; timestamp: 20220306T200351Z
-; source id: tld-query-eu.-be.dns.eu.
-; source locator: be.dns.eu.
-; source IP address: 149.38.1.26
-; backup point IP address: 111.42.148.76
-; status: success
-eu.			3599	IN	NS	y.dns.eu.eu.			3599	IN	NS	be.dns.eu.eu.			3599	IN	NS	x.dns.eu.eu.			3599	IN	NS	si.dns.eu.eu.			3599	IN	NS	w.dns.eu.be.dns.eu.		3214	IN	A	149.38.1.26be.dns.eu.		3598	IN	AAAA	2001:978:2:1::93:2

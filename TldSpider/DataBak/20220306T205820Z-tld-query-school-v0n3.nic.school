@@ -1,7 +1,0 @@
-; timestamp: 20220306T205820Z
-; source id: tld-query-school.-v0n3.nic.school.
-; source locator: v0n3.nic.school.
-; source IP address: 161.232.10.43
-; backup point IP address: 111.42.148.76
-; status: success
-school.			3599	IN	NS	v2n0.nic.school.school.			3599	IN	NS	v0n1.nic.school.school.			3599	IN	NS	v0n2.nic.school.school.			3599	IN	NS	v2n1.nic.school.school.			3599	IN	NS	v0n0.nic.school.school.			3599	IN	NS	v0n3.nic.school.v0n3.nic.school.	3599	IN	A	161.232.10.43v0n3.nic.school.	3599	IN	AAAA	2a01:8840:f4::43

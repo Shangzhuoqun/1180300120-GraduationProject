@@ -1,27 +1,0 @@
-; timestamp: 20220306T201632Z
-; source id: tld-query-hu.-c.hu.
-; source locator: c.hu.
-; source IP address: 193.6.16.1
-; backup point IP address: 111.42.148.76
-; status: success
-hu.			86400	IN	NS	ns-com.nic.hu.hu.			86400	IN	NS	ns2.nic.fr.hu.			86400	IN	NS	b.hu.hu.			86400	IN	NS	e.hu.hu.			86400	IN	NS	d.hu.hu.			86400	IN	NS	a.hu.hu.			86400	IN	NS	c.hu.c.hu.			3599	IN	A	193.6.16.1dig @193.6.16.1 c.hu. AAAA
-
-; <<>> DiG 9.16.23 <<>> @193.6.16.1 c.hu. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23539
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;c.hu.				IN	AAAA
-
-;; AUTHORITY SECTION:
-hu.			1799	IN	SOA	a.hu. hostmaster.nic.hu. 1646568633 3600 900 259200 3600
-
-;; Query time: 6 msec
-;; SERVER: 193.6.16.1#53(193.6.16.1)
-;; WHEN: Sun Mar 06 20:16:34 ;; MSG SIZE  rcvd: 86
-

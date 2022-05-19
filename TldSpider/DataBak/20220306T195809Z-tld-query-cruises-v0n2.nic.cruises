@@ -1,7 +1,0 @@
-; timestamp: 20220306T195809Z
-; source id: tld-query-cruises.-v0n2.nic.cruises.
-; source locator: v0n2.nic.cruises.
-; source IP address: 65.22.26.30
-; backup point IP address: 111.42.148.76
-; status: success
-cruises.		596	IN	NS	v2n0.nic.cruises.cruises.		596	IN	NS	v0n0.nic.cruises.cruises.		596	IN	NS	v2n1.nic.cruises.cruises.		596	IN	NS	v0n1.nic.cruises.cruises.		596	IN	NS	v0n2.nic.cruises.cruises.		596	IN	NS	v0n3.nic.cruises.v0n2.nic.cruises.	3600	IN	A	65.22.26.30v0n2.nic.cruises.	3600	IN	AAAA	2a01:8840:1c::30

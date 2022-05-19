@@ -1,27 +1,0 @@
-; timestamp: 20220306T212540Z
-; source id: tld-query-xn--lgbbat1ad8j.-idn2.nic.dz.
-; source locator: idn2.nic.dz.
-; source IP address: 213.179.160.68
-; backup point IP address: 111.42.148.76
-; status: success
-xn--lgbbat1ad8j.	3597	IN	NS	idn2.nic.dz.xn--lgbbat1ad8j.	3597	IN	NS	idn1.nic.dz.xn--lgbbat1ad8j.	3597	IN	NS	idn4.nic.dz.idn2.nic.dz.		86400	IN	A	213.179.160.68dig @213.179.160.68 idn2.nic.dz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @213.179.160.68 idn2.nic.dz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62283
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;idn2.nic.dz.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.dz.			1800	IN	SOA	ns1.nic.dz. dnsmaster.nic.dz. 2021102101 86400 1800 2592000 36000
-
-;; Query time: 437 msec
-;; SERVER: 213.179.160.68#53(213.179.160.68)
-;; WHEN: Sun Mar 06 21:25:46 ;; MSG SIZE  rcvd: 90
-

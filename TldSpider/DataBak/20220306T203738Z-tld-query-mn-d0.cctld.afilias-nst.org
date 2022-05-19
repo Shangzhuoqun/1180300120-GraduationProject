@@ -1,7 +1,0 @@
-; timestamp: 20220306T203738Z
-; source id: tld-query-mn.-d0.cctld.afilias-nst.org.
-; source locator: d0.cctld.afilias-nst.org.
-; source IP address: 199.254.62.1
-; backup point IP address: 111.42.148.76
-; status: success
-mn.			3597	IN	NS	ns4.magic.mn.mn.			3597	IN	NS	d0.cctld.afilias-nst.org.mn.			3597	IN	NS	ns2.magic.mn.mn.			3597	IN	NS	c0.cctld.afilias-nst.info.mn.			3597	IN	NS	ns3.magic.mn.mn.			3597	IN	NS	b2.cctld.afilias-nst.org.mn.			3597	IN	NS	b0.cctld.afilias-nst.org.mn.			3597	IN	NS	a0.cctld.afilias-nst.info.mn.			3597	IN	NS	a2.cctld.afilias-nst.info.mn.			3597	IN	NS	ns1.magic.mn.d0.cctld.afilias-nst.org. 204	IN	A	199.254.62.1d0.cctld.afilias-nst.org. 1076	IN	AAAA	2001:500:28::1

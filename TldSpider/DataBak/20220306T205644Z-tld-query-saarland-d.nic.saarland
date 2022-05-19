@@ -1,7 +1,0 @@
-; timestamp: 20220306T205644Z
-; source id: tld-query-saarland.-d.nic.saarland.
-; source locator: d.nic.saarland.
-; source IP address: 212.18.249.97
-; backup point IP address: 111.42.148.76
-; status: success
-saarland.		3597	IN	NS	b.nic.saarland.saarland.		3597	IN	NS	a.nic.saarland.saarland.		3597	IN	NS	c.nic.saarland.saarland.		3597	IN	NS	d.nic.saarland.d.nic.saarland.		3600	IN	A	212.18.249.97d.nic.saarland.		3600	IN	AAAA	2a04:2b00:13ff::97

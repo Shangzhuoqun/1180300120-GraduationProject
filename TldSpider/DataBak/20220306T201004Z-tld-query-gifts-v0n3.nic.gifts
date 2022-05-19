@@ -1,7 +1,0 @@
-; timestamp: 20220306T201004Z
-; source id: tld-query-gifts.-v0n3.nic.gifts.
-; source locator: v0n3.nic.gifts.
-; source IP address: 161.232.16.23
-; backup point IP address: 111.42.148.76
-; status: success
-gifts.			3598	IN	NS	v2n0.nic.gifts.gifts.			3598	IN	NS	v0n1.nic.gifts.gifts.			3598	IN	NS	v2n1.nic.gifts.gifts.			3598	IN	NS	v0n0.nic.gifts.gifts.			3598	IN	NS	v0n2.nic.gifts.gifts.			3598	IN	NS	v0n3.nic.gifts.v0n3.nic.gifts.		3598	IN	A	161.232.16.23v0n3.nic.gifts.		3598	IN	AAAA	2a01:8840:fa::23

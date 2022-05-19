@@ -1,7 +1,0 @@
-; timestamp: 20220306T204910Z
-; source id: tld-query-pin.-dnsc.nic.pin.
-; source locator: dnsc.nic.pin.
-; source IP address: 156.154.102.3
-; backup point IP address: 111.42.148.76
-; status: success
-pin.			3599	IN	NS	dnsc.nic.pin.pin.			3599	IN	NS	dns3.nic.pin.pin.			3599	IN	NS	dns1.nic.pin.pin.			3599	IN	NS	dns2.nic.pin.pin.			3599	IN	NS	dns4.nic.pin.pin.			3599	IN	NS	dnsd.nic.pin.pin.			3599	IN	NS	dnsa.nic.pin.pin.			3599	IN	NS	dnsb.nic.pin.dnsc.nic.pin.		3600	IN	A	156.154.102.3dnsc.nic.pin.		151200	IN	AAAA	2610:a1:1009::3

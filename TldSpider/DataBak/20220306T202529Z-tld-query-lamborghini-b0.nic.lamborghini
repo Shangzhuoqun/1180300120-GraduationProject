@@ -1,7 +1,0 @@
-; timestamp: 20220306T202529Z
-; source id: tld-query-lamborghini.-b0.nic.lamborghini.
-; source locator: b0.nic.lamborghini.
-; source IP address: 65.22.209.33
-; backup point IP address: 111.42.148.76
-; status: success
-lamborghini.		3598	IN	NS	a2.nic.lamborghini.lamborghini.		3598	IN	NS	a0.nic.lamborghini.lamborghini.		3598	IN	NS	c0.nic.lamborghini.lamborghini.		3598	IN	NS	b0.nic.lamborghini.b0.nic.lamborghini.	599	IN	A	65.22.209.33b0.nic.lamborghini.	598	IN	AAAA	2a01:8840:cb::33

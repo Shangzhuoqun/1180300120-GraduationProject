@@ -1,7 +1,0 @@
-; timestamp: 20220306T194603Z
-; source id: tld-query-bd.-dns.bd.
-; source locator: dns.bd.
-; source IP address: 123.49.12.112
-; backup point IP address: 111.42.148.76
-; status: success
-bd.			86400	IN	NS	dns.bd.bd.			86400	IN	NS	jamuna.btcl.net.bd.bd.			86400	IN	NS	bd-ns.anycast.pch.net.bd.			86400	IN	NS	surma.btcl.net.bd.dns.bd.			3599	IN	A	123.49.12.112dns.bd.			3599	IN	AAAA	2407:5000:88:5::3

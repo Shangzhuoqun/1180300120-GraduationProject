@@ -1,7 +1,0 @@
-; timestamp: 20220306T201326Z
-; source id: tld-query-hair.-c.nic.hair.
-; source locator: c.nic.hair.
-; source IP address: 212.18.248.117
-; backup point IP address: 111.42.148.76
-; status: success
-hair.			3599	IN	NS	b.nic.hair.hair.			3599	IN	NS	a.nic.hair.hair.			3599	IN	NS	d.nic.hair.hair.			3599	IN	NS	c.nic.hair.c.nic.hair.		3600	IN	A	212.18.248.117c.nic.hair.		3600	IN	AAAA	2a04:2b00:13ee::117

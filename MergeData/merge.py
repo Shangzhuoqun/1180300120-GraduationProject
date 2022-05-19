@@ -2,9 +2,8 @@ import functools
 import json
 import os
 import logging
-from posixpath import split
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 waitingmergedatapath = None
 waitingmergefilespathlist = None
 timeoutTLDPath = None

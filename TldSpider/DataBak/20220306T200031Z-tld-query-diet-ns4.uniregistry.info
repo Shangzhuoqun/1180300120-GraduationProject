@@ -1,7 +1,0 @@
-; timestamp: 20220306T200031Z
-; source id: tld-query-diet.-ns4.uniregistry.info.
-; source locator: ns4.uniregistry.info.
-; source IP address: 185.159.198.3
-; backup point IP address: 111.42.148.76
-; status: success
-diet.			494	IN	NS	ns4.uniregistry.info.diet.			494	IN	NS	ns1.uniregistry.net.diet.			494	IN	NS	ns3.uniregistry.net.diet.			494	IN	NS	ns2.uniregistry.info.ns4.uniregistry.info.	2596	IN	A	185.159.198.3ns4.uniregistry.info.	2595	IN	AAAA	2620:10a:80ab::3

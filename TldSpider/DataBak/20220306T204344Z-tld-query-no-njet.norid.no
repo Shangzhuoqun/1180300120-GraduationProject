@@ -1,27 +1,0 @@
-; timestamp: 20220306T204344Z
-; source id: tld-query-no.-njet.norid.no.
-; source locator: njet.norid.no.
-; source IP address: 156.154.101.12
-; backup point IP address: 111.42.148.76
-; status: success
-no.			1764	IN	NS	y.nic.no.no.			1764	IN	NS	z.nic.no.no.			1764	IN	NS	x.nic.no.no.			1764	IN	NS	i.nic.no.no.			1764	IN	NS	not.norid.no.no.			1764	IN	NS	njet.norid.no.njet.norid.no.		2826	IN	A	156.154.101.12dig @156.154.101.12 njet.norid.no. AAAA
-
-; <<>> DiG 9.16.23 <<>> @156.154.101.12 njet.norid.no. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48922
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;njet.norid.no.			IN	AAAA
-
-;; AUTHORITY SECTION:
-norid.no.		1027	IN	SOA	pri01.tekno.ns.norid.no. hostmaster.norid.no. 2022021745 3600 1800 1814400 3600
-
-;; Query time: 3 msec
-;; SERVER: 156.154.101.12#53(156.154.101.12)
-;; WHEN: Sun Mar 06 20:43:47 ;; MSG SIZE  rcvd: 104
-

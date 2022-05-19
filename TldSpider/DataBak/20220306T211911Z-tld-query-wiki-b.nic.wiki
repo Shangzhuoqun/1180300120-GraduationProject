@@ -1,7 +1,0 @@
-; timestamp: 20220306T211911Z
-; source id: tld-query-wiki.-b.nic.wiki.
-; source locator: b.nic.wiki.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-wiki.			3600	IN	NS	b.nic.wiki.wiki.			3600	IN	NS	c.nic.wiki.wiki.			3600	IN	NS	d.nic.wiki.wiki.			3600	IN	NS	a.nic.wiki.b.nic.wiki.		3600	IN	A	37.209.194.10b.nic.wiki.		3600	IN	AAAA	2001:dcd:2::10

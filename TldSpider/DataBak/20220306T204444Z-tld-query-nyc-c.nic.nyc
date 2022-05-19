@@ -1,7 +1,0 @@
-; timestamp: 20220306T204444Z
-; source id: tld-query-nyc.-c.nic.nyc.
-; source locator: c.nic.nyc.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-nyc.			3598	IN	NS	ns2.dns.nic.nyc.nyc.			3598	IN	NS	a.nic.nyc.nyc.			3598	IN	NS	b.nic.nyc.nyc.			3598	IN	NS	ns3.dns.nic.nyc.nyc.			3598	IN	NS	ns1.dns.nic.nyc.nyc.			3598	IN	NS	c.nic.nyc.c.nic.nyc.		3600	IN	A	37.209.196.10c.nic.nyc.		3600	IN	AAAA	2001:dcd:3::10

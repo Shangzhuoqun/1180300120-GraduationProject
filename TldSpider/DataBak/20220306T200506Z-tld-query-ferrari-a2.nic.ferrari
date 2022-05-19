@@ -1,7 +1,0 @@
-; timestamp: 20220306T200506Z
-; source id: tld-query-ferrari.-a2.nic.ferrari.
-; source locator: a2.nic.ferrari.
-; source IP address: 65.22.127.25
-; backup point IP address: 111.42.148.76
-; status: success
-ferrari.		3600	IN	NS	b0.nic.ferrari.ferrari.		3600	IN	NS	a2.nic.ferrari.ferrari.		3600	IN	NS	a0.nic.ferrari.ferrari.		3600	IN	NS	c0.nic.ferrari.a2.nic.ferrari.		600	IN	A	65.22.127.25a2.nic.ferrari.		599	IN	AAAA	2a01:8840:7d::25

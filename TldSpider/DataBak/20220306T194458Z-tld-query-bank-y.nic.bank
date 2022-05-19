@@ -1,7 +1,0 @@
-; timestamp: 20220306T194458Z
-; source id: tld-query-bank.-y.nic.bank.
-; source locator: y.nic.bank.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-bank.			1493	IN	NS	x.nic.bank.bank.			1493	IN	NS	d.nic.bank.bank.			1493	IN	NS	e.nic.bank.bank.			1493	IN	NS	y.nic.bank.bank.			1493	IN	NS	w.nic.bank.bank.			1493	IN	NS	f.nic.bank.y.nic.bank.		3600	IN	A	37.209.196.10y.nic.bank.		3600	IN	AAAA	2001:dcd:3::10

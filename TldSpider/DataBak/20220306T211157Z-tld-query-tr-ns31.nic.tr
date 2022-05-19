@@ -1,27 +1,0 @@
-; timestamp: 20220306T211157Z
-; source id: tld-query-tr.-ns31.nic.tr.
-; source locator: ns31.nic.tr.
-; source IP address: 31.210.155.2
-; backup point IP address: 111.42.148.76
-; status: success
-tr.			8640	IN	NS	ns42.nic.tr.tr.			8640	IN	NS	ns61.nic.tr.tr.			8640	IN	NS	ns71.nic.tr.tr.			8640	IN	NS	ns31.nic.tr.tr.			8640	IN	NS	ns34.nic.tr.tr.			8640	IN	NS	ns35.nic.tr.tr.			8640	IN	NS	ns41.nic.tr.ns31.nic.tr.		3600	IN	A	31.210.155.2dig @31.210.155.2 ns31.nic.tr. AAAA
-
-; <<>> DiG 9.16.23 <<>> @31.210.155.2 ns31.nic.tr. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49401
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns31.nic.tr.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.tr.			1800	IN	SOA	lns42.nic.tr. hostmaster.nic.tr. 2021112201 43200 3600 604800 10800
-
-;; Query time: 122 msec
-;; SERVER: 31.210.155.2#53(31.210.155.2)
-;; WHEN: Sun Mar 06 21:11:57 ;; MSG SIZE  rcvd: 93
-

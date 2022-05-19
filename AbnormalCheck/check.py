@@ -5,7 +5,7 @@ import os
 import sched
 import time
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 waitingCheckDataPath = None
 mergedDataPath = None
 logpath = None
@@ -199,7 +199,7 @@ def check():
     logging.info('normal tlds is :\n{}'.format(normaltld))
     logging.error('abnormal tld is :\n{}'.format(abnormaltld))
     outputAbnormalTLD(abnormaltld)
-    subprocess.Popen('sudo python ./kill.py', shell = True, stdout = subprocess.PIPE)
+    subprocess.Popen('sudo python3 ./kill.py', shell = True, stdout = subprocess.PIPE)
     cmd = ''
     if(response_method == 'RPZ'):
         cmd = 'sudo python ../RPZ/response.py'

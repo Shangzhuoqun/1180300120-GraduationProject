@@ -1,8 +1,0 @@
-; timestamp: 20220306T201459Z
-; source id: tld-query-hn.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-a.lactld.org.:../TldSpider/DataBak/20220306T201459Z-tld-query-hn-a.lactld.org
-pch-anycast.rds.org.hn.:../TldSpider/DataBak/20220306T201459Z-tld-query-hn-pch-anycast.rds.org.hn

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194353Z
-; source id: tld-query-auto.-b.nic.auto.
-; source locator: b.nic.auto.
-; source IP address: 185.24.64.131
-; backup point IP address: 111.42.148.76
-; status: success
-auto.			1541	IN	NS	d.nic.auto.auto.			1541	IN	NS	a.nic.auto.auto.			1541	IN	NS	b.nic.auto.auto.			1541	IN	NS	c.nic.auto.b.nic.auto.		2422	IN	A	185.24.64.131b.nic.auto.		2422	IN	AAAA	2a04:2b00:13cc::1:131

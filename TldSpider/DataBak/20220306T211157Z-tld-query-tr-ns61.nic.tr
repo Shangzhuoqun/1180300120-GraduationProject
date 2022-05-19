@@ -1,7 +1,0 @@
-; timestamp: 20220306T211157Z
-; source id: tld-query-tr.-ns61.nic.tr.
-; source locator: ns61.nic.tr.
-; source IP address: 206.51.254.1
-; backup point IP address: 111.42.148.76
-; status: success
-tr.			3598	IN	NS	ns35.nic.tr.tr.			3598	IN	NS	ns71.nic.tr.tr.			3598	IN	NS	ns34.nic.tr.tr.			3598	IN	NS	ns41.nic.tr.tr.			3598	IN	NS	ns42.nic.tr.tr.			3598	IN	NS	ns61.nic.tr.tr.			3598	IN	NS	ns31.nic.tr.ns61.nic.tr.		3600	IN	A	206.51.254.1ns61.nic.tr.		3600	IN	AAAA	2620:171:804:ad2::1

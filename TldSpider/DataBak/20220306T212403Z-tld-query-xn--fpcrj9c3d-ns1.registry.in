@@ -1,7 +1,0 @@
-; timestamp: 20220306T212403Z
-; source id: tld-query-xn--fpcrj9c3d.-ns1.registry.in.
-; source locator: ns1.registry.in.
-; source IP address: 37.209.192.12
-; backup point IP address: 111.42.148.76
-; status: success
-xn--fpcrj9c3d.		3600	IN	NS	ns6.registry.in.xn--fpcrj9c3d.		3600	IN	NS	ns4.registry.in.xn--fpcrj9c3d.		3600	IN	NS	ns1.registry.in.xn--fpcrj9c3d.		3600	IN	NS	ns5.registry.in.xn--fpcrj9c3d.		3600	IN	NS	ns3.registry.in.xn--fpcrj9c3d.		3600	IN	NS	ns2.registry.in.ns1.registry.in.	2839	IN	A	37.209.192.12ns1.registry.in.	2839	IN	AAAA	2001:dcd:1::12

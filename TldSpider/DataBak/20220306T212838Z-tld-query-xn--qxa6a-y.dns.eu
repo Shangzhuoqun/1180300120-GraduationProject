@@ -1,7 +1,0 @@
-; timestamp: 20220306T212838Z
-; source id: tld-query-xn--qxa6a.-y.dns.eu.
-; source locator: y.dns.eu.
-; source IP address: 194.146.106.90
-; backup point IP address: 111.42.148.76
-; status: success
-xn--qxa6a.		3600	IN	NS	y.dns.eu.xn--qxa6a.		3600	IN	NS	be.dns.eu.xn--qxa6a.		3600	IN	NS	si.dns.eu.xn--qxa6a.		3600	IN	NS	x.dns.eu.xn--qxa6a.		3600	IN	NS	w.dns.eu.y.dns.eu.		3287	IN	A	194.146.106.90y.dns.eu.		3287	IN	AAAA	2001:67c:1010:23::53

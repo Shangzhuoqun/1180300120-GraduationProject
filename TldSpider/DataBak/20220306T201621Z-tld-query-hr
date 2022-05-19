@@ -1,9 +1,0 @@
-; timestamp: 20220306T201621Z
-; source id: tld-query-hr.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-n.dns.hr.:../TldSpider/DataBak/20220306T201621Z-tld-query-hr-n.dns.hr
-pch.carnet.hr.:../TldSpider/DataBak/20220306T201621Z-tld-query-hr-pch.carnet.hr
-hr-ns-1.carnet.hr.:../TldSpider/DataBak/20220306T201621Z-tld-query-hr-hr-ns-1.carnet.hr

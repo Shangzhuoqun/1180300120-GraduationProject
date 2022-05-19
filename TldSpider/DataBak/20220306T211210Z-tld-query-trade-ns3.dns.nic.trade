@@ -1,7 +1,0 @@
-; timestamp: 20220306T211210Z
-; source id: tld-query-trade.-ns3.dns.nic.trade.
-; source locator: ns3.dns.nic.trade.
-; source IP address: 156.154.159.165
-; backup point IP address: 111.42.148.76
-; status: success
-trade.			3598	IN	NS	ns2.dns.nic.trade.trade.			3598	IN	NS	ns3.dns.nic.trade.trade.			3598	IN	NS	b.nic.trade.trade.			3598	IN	NS	c.nic.trade.trade.			3598	IN	NS	a.nic.trade.trade.			3598	IN	NS	ns1.dns.nic.trade.ns3.dns.nic.trade.	1433	IN	A	156.154.159.165ns3.dns.nic.trade.	1432	IN	AAAA	2610:a1:1073::a5

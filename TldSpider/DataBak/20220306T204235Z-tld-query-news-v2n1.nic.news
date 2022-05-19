@@ -1,7 +1,0 @@
-; timestamp: 20220306T204235Z
-; source id: tld-query-news.-v2n1.nic.news.
-; source locator: v2n1.nic.news.
-; source IP address: 161.232.17.3
-; backup point IP address: 111.42.148.76
-; status: success
-news.			1825	IN	NS	v0n1.nic.news.news.			1825	IN	NS	v2n1.nic.news.news.			1825	IN	NS	v0n3.nic.news.news.			1825	IN	NS	v0n0.nic.news.news.			1825	IN	NS	v2n0.nic.news.news.			1825	IN	NS	v0n2.nic.news.v2n1.nic.news.		86400	IN	A	161.232.17.3v2n1.nic.news.		3600	IN	AAAA	2a01:8840:fb::3

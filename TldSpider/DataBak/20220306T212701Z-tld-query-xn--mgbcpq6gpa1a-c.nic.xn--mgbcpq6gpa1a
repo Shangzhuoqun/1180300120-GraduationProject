@@ -1,7 +1,0 @@
-; timestamp: 20220306T212701Z
-; source id: tld-query-xn--mgbcpq6gpa1a.-c.nic.xn--mgbcpq6gpa1a.
-; source locator: c.nic.xn--mgbcpq6gpa1a.
-; source IP address: 212.18.248.115
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbcpq6gpa1a.	3599	IN	NS	a.nic.xn--mgbcpq6gpa1a.xn--mgbcpq6gpa1a.	3599	IN	NS	b.nic.xn--mgbcpq6gpa1a.xn--mgbcpq6gpa1a.	3599	IN	NS	c.nic.xn--mgbcpq6gpa1a.xn--mgbcpq6gpa1a.	3599	IN	NS	d.nic.xn--mgbcpq6gpa1a.c.nic.xn--mgbcpq6gpa1a.	3599	IN	A	212.18.248.115c.nic.xn--mgbcpq6gpa1a.	3599	IN	AAAA	2a04:2b00:13ee::115

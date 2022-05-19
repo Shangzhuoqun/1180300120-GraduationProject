@@ -1,7 +1,0 @@
-; timestamp: 20220306T200321Z
-; source id: tld-query-er.-er.cctld.authdns.ripe.net.
-; source locator: er.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.72
-; backup point IP address: 111.42.148.76
-; status: success
-er.			86400	IN	NS	er.cctld.authdns.ripe.net.er.			86400	IN	NS	sawanew.noc.net.er.er.			86400	IN	NS	zaranew.noc.net.er.er.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.72er.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::72

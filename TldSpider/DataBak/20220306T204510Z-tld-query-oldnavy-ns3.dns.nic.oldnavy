@@ -1,7 +1,0 @@
-; timestamp: 20220306T204510Z
-; source id: tld-query-oldnavy.-ns3.dns.nic.oldnavy.
-; source locator: ns3.dns.nic.oldnavy.
-; source IP address: 156.154.159.127
-; backup point IP address: 111.42.148.76
-; status: success
-oldnavy.		3597	IN	NS	a.nic.oldnavy.oldnavy.		3597	IN	NS	ns1.dns.nic.oldnavy.oldnavy.		3597	IN	NS	b.nic.oldnavy.oldnavy.		3597	IN	NS	ns2.dns.nic.oldnavy.oldnavy.		3597	IN	NS	c.nic.oldnavy.oldnavy.		3597	IN	NS	ns3.dns.nic.oldnavy.ns3.dns.nic.oldnavy.	3598	IN	A	156.154.159.127ns3.dns.nic.oldnavy.	3598	IN	AAAA	2610:a1:1073::7f

@@ -1,7 +1,0 @@
-; timestamp: 20220306T201844Z
-; source id: tld-query-insure.-v0n3.nic.insure.
-; source locator: v0n3.nic.insure.
-; source IP address: 161.232.12.53
-; backup point IP address: 111.42.148.76
-; status: success
-insure.			3594	IN	NS	v0n1.nic.insure.insure.			3594	IN	NS	v2n1.nic.insure.insure.			3594	IN	NS	v0n2.nic.insure.insure.			3594	IN	NS	v0n3.nic.insure.insure.			3594	IN	NS	v0n0.nic.insure.insure.			3594	IN	NS	v2n0.nic.insure.v0n3.nic.insure.	3594	IN	A	161.232.12.53v0n3.nic.insure.	3594	IN	AAAA	2a01:8840:f6::53

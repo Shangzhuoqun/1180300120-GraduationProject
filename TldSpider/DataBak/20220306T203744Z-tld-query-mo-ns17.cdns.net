@@ -1,7 +1,0 @@
-; timestamp: 20220306T203744Z
-; source id: tld-query-mo.-ns17.cdns.net.
-; source locator: ns17.cdns.net.
-; source IP address: 194.0.1.17
-; backup point IP address: 111.42.148.76
-; status: success
-mo.			3600	IN	NS	a.monic.mo.mo.			3600	IN	NS	b.monic.mo.mo.			3600	IN	NS	c.monic.mo.mo.			3600	IN	NS	d.monic.mo.mo.			3600	IN	NS	e.monic.mo.mo.			3600	IN	NS	ns17.cdns.net.mo.			3600	IN	NS	ns2.cuhk.edu.hk.ns17.cdns.net.		3596	IN	A	194.0.1.17ns17.cdns.net.		3596	IN	AAAA	2001:678:4::11

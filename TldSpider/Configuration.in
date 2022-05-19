@@ -4,6 +4,7 @@
         "DataBakPath":"DataBak",
         "CurFilePath":"/",
         "LogPath":"Log",
-        "Period":"43200"
+        "Period":"43200",
+        "NumofThread":"1000"
     }
 }

@@ -1,27 +1,0 @@
-; timestamp: 20220306T200950Z
-; source id: tld-query-gh.-ns1.nic.gh.
-; source locator: ns1.nic.gh.
-; source IP address: 197.253.95.251
-; backup point IP address: 111.42.148.76
-; status: success
-gh.			3599	IN	NS	ns2.nic.gh.gh.			3599	IN	NS	ns1.nic.gh.gh.			3599	IN	NS	ns.dns.br.ns1.nic.gh.		3600	IN	A	197.253.95.251dig @197.253.95.251 ns1.nic.gh. AAAA
-
-; <<>> DiG 9.16.23 <<>> @197.253.95.251 ns1.nic.gh. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20054
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.nic.gh.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.gh.			1800	IN	SOA	ns1.cp-49.webhostbox.net. cpanel.webhostbox.net. 2022011801 86400 7200 3600000 86400
-
-;; Query time: 454 msec
-;; SERVER: 197.253.95.251#53(197.253.95.251)
-;; WHEN: Sun Mar 06 20:09:56 ;; MSG SIZE  rcvd: 106
-

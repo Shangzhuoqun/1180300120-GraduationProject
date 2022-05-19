@@ -1,7 +1,0 @@
-; timestamp: 20220306T200010Z
-; source id: tld-query-dentist.-v2n0.nic.dentist.
-; source locator: v2n0.nic.dentist.
-; source IP address: 65.22.27.27
-; backup point IP address: 111.42.148.76
-; status: success
-dentist.		508	IN	NS	v0n0.nic.dentist.dentist.		508	IN	NS	v0n1.nic.dentist.dentist.		508	IN	NS	v0n2.nic.dentist.dentist.		508	IN	NS	v2n1.nic.dentist.dentist.		508	IN	NS	v2n0.nic.dentist.dentist.		508	IN	NS	v0n3.nic.dentist.v2n0.nic.dentist.	3597	IN	A	65.22.27.27v2n0.nic.dentist.	3597	IN	AAAA	2a01:8840:1d::27

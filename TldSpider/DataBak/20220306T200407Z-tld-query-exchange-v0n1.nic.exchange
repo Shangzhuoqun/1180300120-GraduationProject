@@ -1,7 +1,0 @@
-; timestamp: 20220306T200407Z
-; source id: tld-query-exchange.-v0n1.nic.exchange.
-; source locator: v0n1.nic.exchange.
-; source IP address: 65.22.29.14
-; backup point IP address: 111.42.148.76
-; status: success
-exchange.		982	IN	NS	v2n0.nic.exchange.exchange.		982	IN	NS	v2n1.nic.exchange.exchange.		982	IN	NS	v0n0.nic.exchange.exchange.		982	IN	NS	v0n1.nic.exchange.exchange.		982	IN	NS	v0n2.nic.exchange.exchange.		982	IN	NS	v0n3.nic.exchange.v0n1.nic.exchange.	3599	IN	A	65.22.29.14v0n1.nic.exchange.	3600	IN	AAAA	2a01:8840:1f::14

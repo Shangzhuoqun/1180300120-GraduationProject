@@ -1,7 +1,0 @@
-; timestamp: 20220306T195334Z
-; source id: tld-query-cf.-b.ns.cf.
-; source locator: b.ns.cf.
-; source IP address: 185.21.169.17
-; backup point IP address: 111.42.148.76
-; status: success
-cf.			769	IN	NS	d.ns.cf.cf.			769	IN	NS	a.ns.cf.cf.			769	IN	NS	c.ns.cf.cf.			769	IN	NS	b.ns.cf.b.ns.cf.		625	IN	A	185.21.169.17b.ns.cf.		625	IN	AAAA	2a04:1b00:5::1

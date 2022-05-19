@@ -1,7 +1,0 @@
-; timestamp: 20220306T211316Z
-; source id: tld-query-tw.-anytld.apnic.net.
-; source locator: anytld.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-tw.			3596	IN	NS	f.dns.tw.tw.			3596	IN	NS	g.dns.tw.tw.			3596	IN	NS	c.dns.tw.tw.			3596	IN	NS	anytld.apnic.net.tw.			3596	IN	NS	h.dns.tw.tw.			3596	IN	NS	a.dns.tw.tw.			3596	IN	NS	b.dns.tw.tw.			3596	IN	NS	d.dns.tw.tw.			3596	IN	NS	e.dns.tw.tw.			3596	IN	NS	ns.twnic.net.anytld.apnic.net.	3600	IN	A	202.12.31.53anytld.apnic.net.	3600	IN	AAAA	2001:dd8:12::53

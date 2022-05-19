@@ -1,27 +1,0 @@
-; timestamp: 20220306T202307Z
-; source id: tld-query-jp.-g.dns.jp.
-; source locator: g.dns.jp.
-; source IP address: 203.119.40.1
-; backup point IP address: 111.42.148.76
-; status: success
-jp.			3598	IN	NS	f.dns.jp.jp.			3598	IN	NS	e.dns.jp.jp.			3598	IN	NS	b.dns.jp.jp.			3598	IN	NS	d.dns.jp.jp.			3598	IN	NS	c.dns.jp.jp.			3598	IN	NS	g.dns.jp.jp.			3598	IN	NS	h.dns.jp.jp.			3598	IN	NS	a.dns.jp.g.dns.jp.		2581	IN	A	203.119.40.1dig @203.119.40.1 g.dns.jp. AAAA
-
-; <<>> DiG 9.16.23 <<>> @203.119.40.1 g.dns.jp. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2108
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;g.dns.jp.			IN	AAAA
-
-;; AUTHORITY SECTION:
-dns.jp.			1668	IN	SOA	z.dns.jp. root.dns.jp. 2021071901 3600 900 1814400 86400
-
-;; Query time: 8 msec
-;; SERVER: 203.119.40.1#53(203.119.40.1)
-;; WHEN: Sun Mar 06 20:23:09 ;; MSG SIZE  rcvd: 80
-

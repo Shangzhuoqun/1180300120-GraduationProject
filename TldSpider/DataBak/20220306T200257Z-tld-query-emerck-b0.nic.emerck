@@ -1,7 +1,0 @@
-; timestamp: 20220306T200257Z
-; source id: tld-query-emerck.-b0.nic.emerck.
-; source locator: b0.nic.emerck.
-; source IP address: 65.22.157.1
-; backup point IP address: 111.42.148.76
-; status: success
-emerck.			385	IN	NS	c0.nic.emerck.emerck.			385	IN	NS	a2.nic.emerck.emerck.			385	IN	NS	a0.nic.emerck.emerck.			385	IN	NS	b0.nic.emerck.b0.nic.emerck.		599	IN	A	65.22.157.1b0.nic.emerck.		599	IN	AAAA	2a01:8840:9b::1

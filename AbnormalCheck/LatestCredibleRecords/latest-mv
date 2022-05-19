@@ -1,6 +1,0 @@
-mv.	172800	in	ns	ns.dhivehinet.net.mv.
-mv.	172800	in	ns	ns2.dhivehinet.net.mv.
-mv.	172800	in	ns	mv-ns.anycast.pch.net.
-ns.dhivehinet.net.mv.	172800	in	a	202.1.192.196
-ns2.dhivehinet.net.mv.	172800	in	a	202.1.201.201
-mv-ns.anycast.pch.net.	172800	in	a	204.61.216.24

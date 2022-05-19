@@ -1,7 +1,0 @@
-; timestamp: 20220306T205714Z
-; source id: tld-query-sandvikcoromant.-d.nic.sandvikcoromant.
-; source locator: d.nic.sandvikcoromant.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-sandvikcoromant.	3598	IN	NS	c.nic.sandvikcoromant.sandvikcoromant.	3598	IN	NS	a.nic.sandvikcoromant.sandvikcoromant.	3598	IN	NS	d.nic.sandvikcoromant.sandvikcoromant.	3598	IN	NS	b.nic.sandvikcoromant.d.nic.sandvikcoromant.	3597	IN	A	37.209.198.9d.nic.sandvikcoromant.	3597	IN	AAAA	2001:dcd:4::9

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195401Z
-; source id: tld-query-cheap.-v2n1.nic.cheap.
-; source locator: v2n1.nic.cheap.
-; source IP address: 161.232.11.26
-; backup point IP address: 111.42.148.76
-; status: success
-cheap.			1077	IN	NS	v0n2.nic.cheap.cheap.			1077	IN	NS	v2n1.nic.cheap.cheap.			1077	IN	NS	v0n3.nic.cheap.cheap.			1077	IN	NS	v0n1.nic.cheap.cheap.			1077	IN	NS	v2n0.nic.cheap.cheap.			1077	IN	NS	v0n0.nic.cheap.v2n1.nic.cheap.		3598	IN	A	161.232.11.26v2n1.nic.cheap.		3598	IN	AAAA	2a01:8840:f5::26

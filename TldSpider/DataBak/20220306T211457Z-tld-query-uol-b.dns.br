@@ -1,7 +1,0 @@
-; timestamp: 20220306T211457Z
-; source id: tld-query-uol.-b.dns.br.
-; source locator: b.dns.br.
-; source IP address: 200.189.41.10
-; backup point IP address: 111.42.148.76
-; status: success
-uol.			3600	IN	NS	e.dns.br.uol.			3600	IN	NS	c.dns.br.uol.			3600	IN	NS	b.dns.br.uol.			3600	IN	NS	a.dns.br.uol.			3600	IN	NS	d.dns.br.uol.			3600	IN	NS	f.dns.br.b.dns.br.		3059	IN	A	200.189.41.10b.dns.br.		3059	IN	AAAA	2001:12f8:8::10

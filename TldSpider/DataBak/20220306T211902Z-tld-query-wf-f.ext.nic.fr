@@ -1,7 +1,0 @@
-; timestamp: 20220306T211902Z
-; source id: tld-query-wf.-f.ext.nic.fr.
-; source locator: f.ext.nic.fr.
-; source IP address: 194.146.106.46
-; backup point IP address: 111.42.148.76
-; status: success
-wf.			3600	IN	NS	d.nic.fr.wf.			3600	IN	NS	f.ext.nic.fr.wf.			3600	IN	NS	e.ext.nic.fr.wf.			3600	IN	NS	g.ext.nic.fr.f.ext.nic.fr.		2968	IN	A	194.146.106.46f.ext.nic.fr.		2967	IN	AAAA	2001:67c:1010:11::53

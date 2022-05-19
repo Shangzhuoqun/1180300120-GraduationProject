@@ -1,27 +1,0 @@
-; timestamp: 20220306T212918Z
-; source id: tld-query-xn--wgbh1c.-ns3.dotmasr.eg.
-; source locator: ns3.dotmasr.eg.
-; source IP address: 81.10.38.11
-; backup point IP address: 111.42.148.76
-; status: success
-xn--wgbh1c.		3597	IN	NS	ns2.dotmasr.eg.xn--wgbh1c.		3597	IN	NS	ns1.dotmasr.eg.xn--wgbh1c.		3597	IN	NS	ns4.dotmasr.eg.xn--wgbh1c.		3597	IN	NS	ns3.dotmasr.eg.ns3.dotmasr.eg.		3600	IN	A	81.10.38.11dig @81.10.38.11 ns3.dotmasr.eg. AAAA
-
-; <<>> DiG 9.16.23 <<>> @81.10.38.11 ns3.dotmasr.eg. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19603
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns3.dotmasr.eg.			IN	AAAA
-
-;; AUTHORITY SECTION:
-dotmasr.eg.		900	IN	SOA	ns1.dotmasr.eg. admin.dotmasr.eg. 2017050805 21600 1800 2419200 900
-
-;; Query time: 181 msec
-;; SERVER: 81.10.38.11#53(81.10.38.11)
-;; WHEN: Sun Mar 06 21:29:22 ;; MSG SIZE  rcvd: 89
-

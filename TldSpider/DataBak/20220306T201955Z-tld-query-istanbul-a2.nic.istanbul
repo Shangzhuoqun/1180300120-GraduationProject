@@ -1,7 +1,0 @@
-; timestamp: 20220306T201955Z
-; source id: tld-query-istanbul.-a2.nic.istanbul.
-; source locator: a2.nic.istanbul.
-; source IP address: 65.22.147.9
-; backup point IP address: 111.42.148.76
-; status: success
-istanbul.		3599	IN	NS	c0.nic.istanbul.istanbul.		3599	IN	NS	a2.nic.istanbul.istanbul.		3599	IN	NS	a0.nic.istanbul.istanbul.		3599	IN	NS	b0.nic.istanbul.a2.nic.istanbul.	600	IN	A	65.22.147.9a2.nic.istanbul.	600	IN	AAAA	2a01:8840:91::9

@@ -1,27 +1,0 @@
-; timestamp: 20220306T210115Z
-; source id: tld-query-sn.-ns.ucad.sn.
-; source locator: ns.ucad.sn.
-; source IP address: 196.1.95.1
-; backup point IP address: 111.42.148.76
-; status: success
-sn.			43200	IN	NS	ns-sn.nic.fr.sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.sn.			43200	IN	NS	ns1.sonatel.sn.sn.			43200	IN	NS	censvrns0001.ird.fr.sn.			43200	IN	NS	ns.ucad.sn.ns.ucad.sn.		3600	IN	A	196.1.95.1dig @196.1.95.1 ns.ucad.sn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @196.1.95.1 ns.ucad.sn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56917
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.ucad.sn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-ucad.sn.		1573	IN	SOA	dns.ucad.sn. admin.ucad.sn. 2022030202 21600 3600 640800 86400
-
-;; Query time: 4411 msec
-;; SERVER: 196.1.95.1#53(196.1.95.1)
-;; WHEN: Sun Mar 06 21:01:25 ;; MSG SIZE  rcvd: 85
-

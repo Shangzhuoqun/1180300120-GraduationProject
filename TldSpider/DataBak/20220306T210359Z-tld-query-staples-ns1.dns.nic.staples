@@ -1,7 +1,0 @@
-; timestamp: 20220306T210359Z
-; source id: tld-query-staples.-ns1.dns.nic.staples.
-; source locator: ns1.dns.nic.staples.
-; source IP address: 156.154.169.79
-; backup point IP address: 111.42.148.76
-; status: success
-staples.		3599	IN	NS	b.nic.staples.staples.		3599	IN	NS	ns3.dns.nic.staples.staples.		3599	IN	NS	c.nic.staples.staples.		3599	IN	NS	a.nic.staples.staples.		3599	IN	NS	ns2.dns.nic.staples.staples.		3599	IN	NS	ns1.dns.nic.staples.ns1.dns.nic.staples.	3599	IN	A	156.154.169.79ns1.dns.nic.staples.	3600	IN	AAAA	2610:a1:1071::1:4f

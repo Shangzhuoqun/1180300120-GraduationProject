@@ -1,7 +1,0 @@
-; timestamp: 20220306T201736Z
-; source id: tld-query-immobilien.-v2n1.nic.immobilien.
-; source locator: v2n1.nic.immobilien.
-; source IP address: 161.232.13.19
-; backup point IP address: 111.42.148.76
-; status: success
-immobilien.		3597	IN	NS	v0n2.nic.immobilien.immobilien.		3597	IN	NS	v2n0.nic.immobilien.immobilien.		3597	IN	NS	v2n1.nic.immobilien.immobilien.		3597	IN	NS	v0n3.nic.immobilien.immobilien.		3597	IN	NS	v0n1.nic.immobilien.immobilien.		3597	IN	NS	v0n0.nic.immobilien.v2n1.nic.immobilien.	86400	IN	A	161.232.13.19v2n1.nic.immobilien.	3598	IN	AAAA	2a01:8840:f7::19

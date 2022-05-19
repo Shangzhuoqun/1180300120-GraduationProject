@@ -1,7 +1,0 @@
-; timestamp: 20220306T205837Z
-; source id: tld-query-scot.-anycast10.irondns.net.
-; source locator: anycast10.irondns.net.
-; source IP address: 195.253.64.12
-; backup point IP address: 111.42.148.76
-; status: success
-scot.			3600	IN	NS	anycast23.irondns.net.scot.			3600	IN	NS	anycast10.irondns.net.scot.			3600	IN	NS	anycast9.irondns.net.scot.			3600	IN	NS	anycast24.irondns.net.anycast10.irondns.net.	1866	IN	A	195.253.64.12anycast10.irondns.net.	317	IN	AAAA	2a01:5b0:4::c

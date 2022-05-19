@@ -1,7 +1,0 @@
-; timestamp: 20220306T213039Z
-; source id: tld-query-yun.-ns1.teleinfo.cn.
-; source locator: ns1.teleinfo.cn.
-; source IP address: 103.61.60.1
-; backup point IP address: 111.42.148.76
-; status: success
-yun.			3600	IN	NS	ns4.teleinfoo.com.yun.			3600	IN	NS	ns3.teleinfo.cn.yun.			3600	IN	NS	ns2.teleinfoo.com.yun.			3600	IN	NS	ns1.teleinfo.cn.ns1.teleinfo.cn.	1766	IN	A	103.61.60.1ns1.teleinfo.cn.	1766	IN	AAAA	2402:7d80::1

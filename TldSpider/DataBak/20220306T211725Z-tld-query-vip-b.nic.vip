@@ -1,7 +1,0 @@
-; timestamp: 20220306T211725Z
-; source id: tld-query-vip.-b.nic.vip.
-; source locator: b.nic.vip.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-vip.			3600	IN	NS	b.nic.vip.vip.			3600	IN	NS	d.nic.vip.vip.			3600	IN	NS	a.nic.vip.vip.			3600	IN	NS	c.nic.vip.b.nic.vip.		3242	IN	A	37.209.194.10b.nic.vip.		2834	IN	AAAA	2001:dcd:2::10

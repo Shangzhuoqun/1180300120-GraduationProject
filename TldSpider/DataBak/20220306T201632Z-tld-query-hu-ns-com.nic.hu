@@ -1,7 +1,0 @@
-; timestamp: 20220306T201632Z
-; source id: tld-query-hu.-ns-com.nic.hu.
-; source locator: ns-com.nic.hu.
-; source IP address: 194.0.1.12
-; backup point IP address: 111.42.148.76
-; status: success
-hu.			86400	IN	NS	a.hu.hu.			86400	IN	NS	b.hu.hu.			86400	IN	NS	c.hu.hu.			86400	IN	NS	d.hu.hu.			86400	IN	NS	e.hu.hu.			86400	IN	NS	ns2.nic.fr.hu.			86400	IN	NS	ns-com.nic.hu.ns-com.nic.hu.		3597	IN	A	194.0.1.12ns-com.nic.hu.		3598	IN	AAAA	2001:678:4::c

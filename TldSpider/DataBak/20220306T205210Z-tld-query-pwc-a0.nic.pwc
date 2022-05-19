@@ -1,7 +1,0 @@
-; timestamp: 20220306T205210Z
-; source id: tld-query-pwc.-a0.nic.pwc.
-; source locator: a0.nic.pwc.
-; source IP address: 65.22.80.9
-; backup point IP address: 111.42.148.76
-; status: success
-pwc.			86400	IN	NS	a2.nic.pwc.pwc.			86400	IN	NS	a0.nic.pwc.pwc.			86400	IN	NS	c0.nic.pwc.pwc.			86400	IN	NS	b0.nic.pwc.a0.nic.pwc.		600	IN	A	65.22.80.9a0.nic.pwc.		600	IN	AAAA	2a01:8840:4e::9

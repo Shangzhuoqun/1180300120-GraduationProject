@@ -1,7 +1,0 @@
-; timestamp: 20220306T195250Z
-; source id: tld-query-cat.-anyc1.irondns.net.
-; source locator: anyc1.irondns.net.
-; source IP address: 195.253.64.4
-; backup point IP address: 111.42.148.76
-; status: success
-cat.			86400	IN	NS	anyc1.irondns.net.cat.			86400	IN	NS	nsc.nic.de.cat.			86400	IN	NS	cat.pch.net.cat.			86400	IN	NS	ns1.nic.es.cat.			86400	IN	NS	switch.nic.cat.cat.			86400	IN	NS	ns.nic.cat.anyc1.irondns.net.	3189	IN	A	195.253.64.4anyc1.irondns.net.	3189	IN	AAAA	2a01:5b0:4::4

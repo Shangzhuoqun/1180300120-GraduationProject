@@ -1,7 +1,0 @@
-; timestamp: 20220306T200944Z
-; source id: tld-query-gg.-dns2.nominetdns.uk.
-; source locator: dns2.nominetdns.uk.
-; source IP address: 103.49.83.254
-; backup point IP address: 111.42.148.76
-; status: success
-gg.			3597	IN	NS	dns3.nominetdns.uk.gg.			3597	IN	NS	dns2.nominetdns.uk.gg.			3597	IN	NS	c.ci-servers.org.gg.			3597	IN	NS	e.ci-servers.net.gg.			3597	IN	NS	dns1.nominetdns.uk.gg.			3597	IN	NS	dns4.nominetdns.uk.dns2.nominetdns.uk.	3600	IN	A	103.49.83.254dns2.nominetdns.uk.	3600	IN	AAAA	2401:fd80:403::254

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194635Z
-; source id: tld-query-bg.-a.nic.bg.
-; source locator: a.nic.bg.
-; source IP address: 192.92.129.99
-; backup point IP address: 111.42.148.76
-; status: success
-bg.			1421	IN	NS	d.nic.bg.bg.			1421	IN	NS	p.nic.bg.bg.			1421	IN	NS	a.nic.bg.bg.			1421	IN	NS	c.nic.bg.bg.			1421	IN	NS	e.nic.bg.bg.			1421	IN	NS	b.nic.bg.a.nic.bg.		1648	IN	A	192.92.129.99a.nic.bg.		1324	IN	AAAA	2a02:6a80::192:92:129:99

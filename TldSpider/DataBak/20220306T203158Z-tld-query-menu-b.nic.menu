@@ -1,7 +1,0 @@
-; timestamp: 20220306T203158Z
-; source id: tld-query-menu.-b.nic.menu.
-; source locator: b.nic.menu.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-menu.			3600	IN	NS	d.nic.menu.menu.			3600	IN	NS	b.nic.menu.menu.			3600	IN	NS	a.nic.menu.menu.			3600	IN	NS	c.nic.menu.b.nic.menu.		3600	IN	A	37.209.194.10b.nic.menu.		3600	IN	AAAA	2001:dcd:2::10

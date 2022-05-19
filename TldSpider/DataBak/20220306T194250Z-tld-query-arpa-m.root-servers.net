@@ -1,7 +1,0 @@
-; timestamp: 20220306T194250Z
-; source id: tld-query-arpa.-m.root-servers.net.
-; source locator: m.root-servers.net.
-; source IP address: 202.12.27.33
-; backup point IP address: 111.42.148.76
-; status: success
-arpa.			1057	IN	NS	d.root-servers.net.arpa.			1057	IN	NS	c.root-servers.net.arpa.			1057	IN	NS	h.root-servers.net.arpa.			1057	IN	NS	b.root-servers.net.arpa.			1057	IN	NS	e.root-servers.net.arpa.			1057	IN	NS	i.root-servers.net.arpa.			1057	IN	NS	k.root-servers.net.arpa.			1057	IN	NS	a.root-servers.net.arpa.			1057	IN	NS	f.root-servers.net.arpa.			1057	IN	NS	m.root-servers.net.arpa.			1057	IN	NS	g.root-servers.net.arpa.			1057	IN	NS	l.root-servers.net.m.root-servers.net.	968	IN	A	202.12.27.33m.root-servers.net.	1554	IN	AAAA	2001:dc3::35

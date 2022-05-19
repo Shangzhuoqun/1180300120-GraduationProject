@@ -1,7 +1,0 @@
-; timestamp: 20220306T203115Z
-; source id: tld-query-med.-dns4.nic.med.
-; source locator: dns4.nic.med.
-; source IP address: 43.230.51.124
-; backup point IP address: 111.42.148.76
-; status: success
-med.			172800	IN	NS	dns1.nic.med.med.			172800	IN	NS	dns2.nic.med.med.			172800	IN	NS	dns3.nic.med.med.			172800	IN	NS	dns4.nic.med.med.			172800	IN	NS	dnsa.nic.med.med.			172800	IN	NS	dnsb.nic.med.med.			172800	IN	NS	dnsc.nic.med.med.			172800	IN	NS	dnsd.nic.med.dns4.nic.med.		3584	IN	A	43.230.51.124dns4.nic.med.		3583	IN	AAAA	2401:fd80:407::124

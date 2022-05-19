@@ -1,16 +1,19 @@
+import functools
 import os
 import subprocess
+import threading
 import time
 import sched
 import json
 import logging
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 DataPath = None
 DataBakPath = None
 CurFilePath = None
 LogPath = None
 Period = None
+NumofThread = None
 localIP = '127.0.0.1'
 
 def toLowerCase(records):
@@ -24,6 +27,7 @@ def readConf():
     global CurFilePath
     global LogPath
     global Period
+    global NumofThread
     tld_spider = json.load(open('./Configuration.in', 'r'))['tld-spider']
     if(tld_spider == None):
         print('Please check Configuration.in')
@@ -33,6 +37,7 @@ def readConf():
     CurFilePath = str(tld_spider['CurFilePath'])
     LogPath = str(tld_spider['LogPath'])
     Period = float(str(tld_spider['Period']))
+    NumofThread = int(str(tld_spider['NumofThread']))
     getlocalIP()
     # init logging mode
     logging.basicConfig(level=logging.DEBUG,
@@ -80,80 +85,109 @@ def spider():
             name_ip[line.strip().split()[0].lower()] = line.strip().split()[4]
 
     print('total tld is {}'.format(len(TldNameMap.keys())))
-    cnt = 0
-    startTime = time.strftime("%FT%TZ").replace('-', '').replace(':', '')
-    for tld in TldNameMap.keys():
-        print('current is {} : {}'.format(cnt, tld))
-        cnt += 1
-        curTime = time.strftime("%FT%TZ").replace('-', '').replace(':', '')
-        contentFileName = PREFIX + '/' + DataBakPath + '/' + curTime + '-tld-query-' + tld.strip('.')
-        contentFilelines = []
-        ns_records = set()
-        ip_records = set()
-        is_dnssec = True
-        for i in TldNameMap[tld]:
-            curIP = 'unKnown'
-            fileName = contentFileName + '-' + i.strip('.')
-            filelines = []
-            ip_or_name = i
-            if(i.lower() in name_ip.keys()):
-                ip_or_name = name_ip[i.lower()]
-            res1 = fetch(ip_or_name, tld, 'NS')
-            if(res1 != 'NoAnswer'):
-                filelines.extend(res1[1:])
-                for record_temp in res1[1:-1]:
-                    ns_records.add(record_temp)
-                if(';0' in res1[-1]):
-                    is_dnssec = False
-            res2 = fetch(ip_or_name, i, 'A')
-            if(res2 != 'NoAnswer'):
-                filelines.extend(res2[1:])
-                curIP = res2[1].strip().split()[-1]
-                for record_temp in res2[1:-1]:
-                    ip_records.add(record_temp)
-                if(';0' in res2[-1]):
-                    is_dnssec = False
-            res3 = fetch(ip_or_name, i, 'AAAA')
-            if(res3 != 'NoAnswer'):
-                filelines.extend(res3[1:])
-                for record_temp in res3[1:-1]:
-                    ip_records.add(record_temp)
-                if(';0' in res3[-1]):
-                    is_dnssec = False
-            source_id = 'tld-query-{}-{}'.format(tld, i)
-            source_locator = i
-            source_ip = curIP
-            server = {'source_id': source_id, 'source_locator': source_locator, 'source_ip': source_ip}
-            head = ''
-            if(len(filelines) != 0 and curIP != 'unKnown'):
-                head = outputFileHead(curTime, server, 'success')
-            else:
-                head = outputFileHead(curTime, server, 'fail')
-            f = open(fileName, 'w')
-            f.write(head)
-            f.writelines(filelines)
-            f.close()
-            contentFilelines.append('{}:{}\n'.format(i, fileName))
+    def query(thdnum, thread_tld_list, startcnt, thread_merged_data):
+        cnt = 0
+        for tld in thread_tld_list:
+            print('thread num is {}, current is {} : {}'.format(thdnum, cnt + startcnt, tld))
+            cnt += 1
+            curTime = time.strftime("%FT%TZ").replace('-', '').replace(':', '')
+            contentFileName = PREFIX + '/' + DataBakPath + '/' + curTime + '-tld-query-' + tld.strip('.')
+            contentFilelines = []
+            ns_records = set()
+            ip_records = set()
+            is_dnssec = True
+            for i in TldNameMap[tld]:
+                curIP = 'unKnown'
+                fileName = contentFileName + '-' + i.strip('.')
+                filelines = []
+                ip_or_name = i
+                if(i.lower() in name_ip.keys()):
+                    ip_or_name = name_ip[i.lower()]
+                res1 = fetch(ip_or_name, tld, 'NS')
+                if(res1 != 'NoAnswer'):
+                    filelines.extend(res1[1:])
+                    for record_temp in res1[1:-1]:
+                        ns_records.add(record_temp)
+                    if(';0' in res1[-1]):
+                        is_dnssec = False
+                res2 = fetch(ip_or_name, i, 'A')
+                if(res2 != 'NoAnswer'):
+                    filelines.extend(res2[1:])
+                    curIP = res2[1].strip().split()[-1]
+                    for record_temp in res2[1:-1]:
+                        ip_records.add(record_temp)
+                    if(';0' in res2[-1]):
+                        is_dnssec = False
+                res3 = fetch(ip_or_name, i, 'AAAA')
+                if(res3 != 'NoAnswer'):
+                    filelines.extend(res3[1:])
+                    for record_temp in res3[1:-1]:
+                        ip_records.add(record_temp)
+                    if(';0' in res3[-1]):
+                        is_dnssec = False
+                source_id = 'tld-query-{}-{}'.format(tld, i)
+                source_locator = i
+                source_ip = curIP
+                server = {'source_id': source_id, 'source_locator': source_locator, 'source_ip': source_ip}
+                head = ''
+                if(len(filelines) != 0 and curIP != 'unKnown'):
+                    head = outputFileHead(curTime, server, 'success')
+                else:
+                    head = outputFileHead(curTime, server, 'fail')
+                f = open(fileName, 'w')
+                f.write(head)
+                f.writelines(filelines)
+                f.close()
+                contentFilelines.append('{}:{}\n'.format(i, fileName))
 
-        for record_temp in ns_records:
-            merged_data.append(record_temp)
-        for record_temp in ip_records:
-            merged_data.append(record_temp)
-        if(is_dnssec):
-            merged_data.append(';1\n')
+            for record_temp in ns_records:
+                thread_merged_data.append(record_temp)
+            for record_temp in ip_records:
+                thread_merged_data.append(record_temp)
+            if(is_dnssec):
+                thread_merged_data.append(';1\n')
+            else:
+                thread_merged_data.append(';0\n')
+            content_source_id = 'tld-query-{}'.format(tld)
+            content_source_locator = 'none'
+            content_source_ip = 'none'
+            content_server = {'source_id': content_source_id, 'source_locator': content_source_locator, 'source_ip': content_source_ip}
+            content_head = outputFileHead(curTime, content_server, 'success')
+            f = open(contentFileName, 'w')
+            f.write(content_head)
+            f.writelines(contentFilelines)
+            f.close()
+    
+    startTime = time.strftime("%FT%TZ").replace('-', '').replace(':', '')
+
+    tld_list = []
+    for i in TldNameMap.keys():
+        tld_list.append(i)
+    
+    onetot = int((len(tld_list) + NumofThread - 1) / NumofThread)
+    thdList = []
+    merge_data_list = []
+    for i in range(NumofThread):
+        t_list = []
+        t_merge_data = []
+        if(i == NumofThread - 1):
+            t_list = tld_list[onetot*i:]
         else:
-            merged_data.append(';0\n')
-        content_source_id = 'tld-query-{}'.format(tld)
-        content_source_locator = 'none'
-        content_source_ip = 'none'
-        content_server = {'source_id': content_source_id, 'source_locator': content_source_locator, 'source_ip': content_source_ip}
-        content_head = outputFileHead(curTime, content_server, 'success')
-        f = open(contentFileName, 'w')
-        f.write(content_head)
-        f.writelines(contentFilelines)
-        f.close()
+            t_list = tld_list[onetot*i:(onetot)*(i+1)]
+        t_thd = threading.Thread(target=query, args=(i, t_list, onetot*i, t_merge_data, ))
+        thdList.append(t_thd)
+        merge_data_list.append(t_merge_data)
+    
+    for i in range(NumofThread):
+        thdList[i].start()
+    for i in range(NumofThread):
+        thdList[i].join()
+    
+    for i in range(NumofThread):
+        merged_data.extend(merge_data_list[i])
+
     merge_data_server = {'source_id': 'tld-spider', 'source_locator': 'none', 'source_ip': 'none'}
-    merge_data_filename = curTime + '-tld-spider-merged'
+    merge_data_filename = startTime + '-tld-spider-merged'
     merge_data_head = ''
     if(len(merged_data) > 0):
         merge_data_head = outputFileHead(startTime, merge_data_server, 'success')		
@@ -165,20 +199,40 @@ def spider():
     f.close()
 
     format(PREFIX + '/' + DataBakPath + '/' + merge_data_filename)
+    print("one time tldspider has finished")
 
 def format(filename):
+    def cmp(x, y):
+        t = x.strip('\n').lower().split()
+        t1 = [t[0], t[2], t[3], t[4]]
+        t = y.strip('\n').lower().split()
+        t2 = [t[0], t[2], t[3], t[4]]
+        for i in range(len(t1)):
+            if(t1[i] == t2[i]):
+                continue
+            else:
+                return -1 if(t1[i] < t2[i]) else 1
+        return 0
     f = open(filename, 'r')
     lines = f.readlines()
     f.close()
     lines = lines[6:]
-    outputfilename = PREFIX + '/' + DataPath + '/' + 'tld-spider-merged'
-    f = open(outputfilename, 'w')
+    t_lines = []
     for i in range(len(lines)):
         try:
             if(lines[i].split()[3].lower() in ['ns', 'a', 'aaaa']):
-                f.write(lines[i].lower())
+                t_lines.append(lines[i])
         except:
             pass
+    outputfilename = PREFIX + '/' + DataPath + '/' + 'tld-spider-merged'
+    t_lines.sort(key = functools.cmp_to_key(lambda x, y : cmp(x, y)))
+    unique_lines = []
+    for i in range(len(t_lines)):
+        if(i == 0 or cmp(t_lines[i], t_lines[i - 1]) != 0):
+            unique_lines.append(t_lines[i])
+    f = open(outputfilename, 'w')
+    for i in range(len(unique_lines)):
+        f.write(unique_lines[i].lower())
     f.close()
 
 def fetch(queryserver, tldstring, qtype):

@@ -1,8 +1,0 @@
-mp.	172800	in	ns	ns1.nic.mp.
-mp.	172800	in	ns	ns2.nic.mp.
-mp.	172800	in	ns	ns3.nic.mp.
-mp.	172800	in	ns	ns4.nic.mp.
-ns1.nic.mp.	172800	in	a	16.162.31.128
-ns2.nic.mp.	172800	in	a	16.163.54.122
-ns3.nic.mp.	172800	in	a	75.101.129.89
-ns4.nic.mp.	172800	in	a	75.101.133.101

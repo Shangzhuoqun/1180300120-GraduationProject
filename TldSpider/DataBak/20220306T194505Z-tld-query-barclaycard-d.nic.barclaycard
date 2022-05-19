@@ -1,7 +1,0 @@
-; timestamp: 20220306T194505Z
-; source id: tld-query-barclaycard.-d.nic.barclaycard.
-; source locator: d.nic.barclaycard.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-barclaycard.		1489	IN	NS	c.nic.barclaycard.barclaycard.		1489	IN	NS	b.nic.barclaycard.barclaycard.		1489	IN	NS	a.nic.barclaycard.barclaycard.		1489	IN	NS	d.nic.barclaycard.d.nic.barclaycard.	3599	IN	A	37.209.198.9d.nic.barclaycard.	3599	IN	AAAA	2001:dcd:4::9

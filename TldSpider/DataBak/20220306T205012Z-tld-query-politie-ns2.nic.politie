@@ -1,7 +1,0 @@
-; timestamp: 20220306T205012Z
-; source id: tld-query-politie.-ns2.nic.politie.
-; source locator: ns2.nic.politie.
-; source IP address: 194.146.106.42
-; backup point IP address: 111.42.148.76
-; status: success
-politie.		3599	IN	NS	ns3.nic.politie.politie.		3599	IN	NS	ns2.nic.politie.politie.		3599	IN	NS	ns1.nic.politie.ns2.nic.politie.	3600	IN	A	194.146.106.42ns2.nic.politie.	3600	IN	AAAA	2001:67c:1010:10::53

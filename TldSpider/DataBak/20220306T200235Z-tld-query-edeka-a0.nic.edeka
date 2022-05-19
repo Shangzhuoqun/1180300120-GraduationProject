@@ -1,7 +1,0 @@
-; timestamp: 20220306T200235Z
-; source id: tld-query-edeka.-a0.nic.edeka.
-; source locator: a0.nic.edeka.
-; source IP address: 65.22.16.25
-; backup point IP address: 111.42.148.76
-; status: success
-edeka.			407	IN	NS	c0.nic.edeka.edeka.			407	IN	NS	a2.nic.edeka.edeka.			407	IN	NS	b0.nic.edeka.edeka.			407	IN	NS	a0.nic.edeka.a0.nic.edeka.		600	IN	A	65.22.16.25a0.nic.edeka.		600	IN	AAAA	2a01:8840:12::25

@@ -1,7 +1,0 @@
-; timestamp: 20220306T211726Z
-; source id: tld-query-virgin.-dnsd.nic.virgin.
-; source locator: dnsd.nic.virgin.
-; source IP address: 156.154.103.3
-; backup point IP address: 111.42.148.76
-; status: success
-virgin.			3597	IN	NS	dnsd.nic.virgin.virgin.			3597	IN	NS	dns3.nic.virgin.virgin.			3597	IN	NS	dnsb.nic.virgin.virgin.			3597	IN	NS	dnsa.nic.virgin.virgin.			3597	IN	NS	dns1.nic.virgin.virgin.			3597	IN	NS	dns2.nic.virgin.virgin.			3597	IN	NS	dnsc.nic.virgin.virgin.			3597	IN	NS	dns4.nic.virgin.dnsd.nic.virgin.	3599	IN	A	156.154.103.3dnsd.nic.virgin.	3600	IN	AAAA	2610:a1:1010::3

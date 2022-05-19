@@ -1,14 +1,0 @@
-; timestamp: 20220306T202753Z
-; source id: tld-query-lpl.-b.nic.lpl.
-; source locator: b.nic.lpl.
-; source IP address: 185.24.64.92
-; backup point IP address: 111.42.148.76
-; status: success
-dig @185.24.64.92 lpl. NS
-
-; <<>> DiG 9.16.23 <<>> @185.24.64.92 lpl. NS
-; (1 server found)
-;; global options: +cmd
-;; connection timed out; no servers could be reached
-
-b.nic.lpl.		3585	IN	A	185.24.64.92b.nic.lpl.		3585	IN	AAAA	2a04:2b00:13cc::1:92

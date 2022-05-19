@@ -1,27 +1,0 @@
-; timestamp: 20220306T210641Z
-; source id: tld-query-tc.-root2.zone.tc.
-; source locator: root2.zone.tc.
-; source IP address: 77.79.104.226
-; backup point IP address: 111.42.148.76
-; status: success
-tc.			86400	IN	NS	root2.zone.tc.tc.			86400	IN	NS	root8.zone.tc.tc.			86400	IN	NS	root3.zone.tc.tc.			86400	IN	NS	root4.zone.tc.tc.			86400	IN	NS	root5.zone.tc.tc.			86400	IN	NS	root6.zone.tc.tc.			86400	IN	NS	root1.zone.tc.tc.			86400	IN	NS	root7.zone.tc.root2.zone.tc.		3600	IN	A	77.79.104.226dig @77.79.104.226 root2.zone.tc. AAAA
-
-; <<>> DiG 9.16.23 <<>> @77.79.104.226 root2.zone.tc. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20194
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;root2.zone.tc.			IN	AAAA
-
-;; AUTHORITY SECTION:
-zone.tc.		1800	IN	SOA	ns1.nic.tc. ali.nic.tc. 2021101907 3600 1800 1209600 86400
-
-;; Query time: 886 msec
-;; SERVER: 77.79.104.226#53(77.79.104.226)
-;; WHEN: Sun Mar 06 21:06:56 ;; MSG SIZE  rcvd: 90
-

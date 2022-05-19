@@ -1,7 +1,0 @@
-; timestamp: 20220306T194557Z
-; source id: tld-query-bcg.-b0.nic.bcg.
-; source locator: b0.nic.bcg.
-; source IP address: 65.22.217.25
-; backup point IP address: 111.42.148.76
-; status: success
-bcg.			86400	IN	NS	a0.nic.bcg.bcg.			86400	IN	NS	b0.nic.bcg.bcg.			86400	IN	NS	a2.nic.bcg.bcg.			86400	IN	NS	c0.nic.bcg.b0.nic.bcg.		600	IN	A	65.22.217.25b0.nic.bcg.		600	IN	AAAA	2a01:8840:d3::25

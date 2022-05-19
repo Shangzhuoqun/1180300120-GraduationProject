@@ -1,7 +1,0 @@
-; timestamp: 20220306T195824Z
-; source id: tld-query-cw.-ns0.ja.net.
-; source locator: ns0.ja.net.
-; source IP address: 193.63.94.20
-; backup point IP address: 111.42.148.76
-; status: success
-cw.			587	IN	NS	ns3.uoc.cw.cw.			587	IN	NS	ns1.uoc.cw.cw.			587	IN	NS	ns0.ja.net.cw.			587	IN	NS	kadushi.curinfo.cw.cw.			587	IN	NS	ns2.uoc.cw.cw.			587	IN	NS	ns01-server.curinfo.cw.cw.			587	IN	NS	cw.cctld.authdns.ripe.net.ns0.ja.net.		606	IN	A	193.63.94.20ns0.ja.net.		606	IN	A	128.86.1.20ns0.ja.net.		607	IN	AAAA	2001:630:0:9::14ns0.ja.net.		607	IN	AAAA	2001:630:0:8::14

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194142Z
-; source id: tld-query-amazon.-dns4.nic.amazon.
-; source locator: dns4.nic.amazon.
-; source IP address: 43.230.50.90
-; backup point IP address: 111.42.148.76
-; status: success
-amazon.			1631	IN	NS	dns1.nic.amazon.amazon.			1631	IN	NS	dns2.nic.amazon.amazon.			1631	IN	NS	dnsb.nic.amazon.amazon.			1631	IN	NS	dnsd.nic.amazon.amazon.			1631	IN	NS	dns4.nic.amazon.amazon.			1631	IN	NS	dnsc.nic.amazon.amazon.			1631	IN	NS	dns3.nic.amazon.amazon.			1631	IN	NS	dnsa.nic.amazon.dns4.nic.amazon.	3600	IN	A	43.230.50.90dns4.nic.amazon.	3600	IN	AAAA	2401:fd80:406::90

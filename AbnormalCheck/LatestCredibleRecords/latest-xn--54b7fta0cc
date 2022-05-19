@@ -1,9 +1,0 @@
-bayanno.btcl.net.bd.	172800	in	a	180.211.212.213
-bayanno.btcl.net.bd.	172800	in	aaaa	2407:5000:88:2:0:0:0:3
-ekushey.btcl.net.bd.	172800	in	a	123.49.50.51
-ekushey.btcl.net.bd.	172800	in	aaaa	2407:5000:88:1:0:0:0:2
-bd-ns.anycast.pch.net.	172800	in	a	204.61.216.108
-bd-ns.anycast.pch.net.	172800	in	aaaa	2001:500:14:6108:ad:0:0:1
-xn--54b7fta0cc.	172800	in	ns	bd-ns.anycast.pch.net.
-xn--54b7fta0cc.	172800	in	ns	bayanno.btcl.net.bd.
-xn--54b7fta0cc.	172800	in	ns	ekushey.btcl.net.bd.

@@ -1,27 +1,0 @@
-; timestamp: 20220306T195416Z
-; source id: tld-query-ci.-censvrns0001.ird.fr.
-; source locator: censvrns0001.ird.fr.
-; source IP address: 91.203.32.147
-; backup point IP address: 111.42.148.76
-; status: success
-ci.			1061	IN	NS	phloem.uoregon.edu.ci.			1061	IN	NS	ns.nic.ci.ci.			1061	IN	NS	ns-ci.afrinic.net.ci.			1061	IN	NS	ns1.nic.ci.ci.			1061	IN	NS	any.nic.ci.ci.			1061	IN	NS	ci.hosting.nic.fr.censvrns0001.ird.fr.	1910	IN	A	91.203.32.147dig @91.203.32.147 censvrns0001.ird.fr. AAAA
-
-; <<>> DiG 9.16.23 <<>> @91.203.32.147 censvrns0001.ird.fr. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10899
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;censvrns0001.ird.fr.		IN	AAAA
-
-;; AUTHORITY SECTION:
-ird.fr.			110	IN	SOA	censvrns0005.intranet.ird.fr. hostmaster.ird.fr. 2014034800 14400 3600 604800 3600
-
-;; Query time: 3 msec
-;; SERVER: 91.203.32.147#53(91.203.32.147)
-;; WHEN: Sun Mar 06 19:54:33 ;; MSG SIZE  rcvd: 117
-

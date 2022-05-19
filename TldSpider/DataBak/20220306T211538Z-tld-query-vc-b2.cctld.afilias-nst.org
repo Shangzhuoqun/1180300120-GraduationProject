@@ -1,7 +1,0 @@
-; timestamp: 20220306T211538Z
-; source id: tld-query-vc.-b2.cctld.afilias-nst.org.
-; source locator: b2.cctld.afilias-nst.org.
-; source IP address: 199.249.124.1
-; backup point IP address: 111.42.148.76
-; status: success
-vc.			3599	IN	NS	d0.cctld.afilias-nst.org.vc.			3599	IN	NS	b2.cctld.afilias-nst.org.vc.			3599	IN	NS	c0.cctld.afilias-nst.info.vc.			3599	IN	NS	a2.cctld.afilias-nst.info.vc.			3599	IN	NS	b0.cctld.afilias-nst.org.vc.			3599	IN	NS	a0.cctld.afilias-nst.info.b2.cctld.afilias-nst.org. 1604	IN	A	199.249.124.1b2.cctld.afilias-nst.org. 1807	IN	AAAA	2001:500:4c::1

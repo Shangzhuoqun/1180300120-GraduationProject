@@ -1,7 +1,0 @@
-; timestamp: 20220306T201510Z
-; source id: tld-query-holiday.-v0n3.nic.holiday.
-; source locator: v0n3.nic.holiday.
-; source IP address: 161.232.12.24
-; backup point IP address: 111.42.148.76
-; status: success
-holiday.		3598	IN	NS	v2n0.nic.holiday.holiday.		3598	IN	NS	v0n0.nic.holiday.holiday.		3598	IN	NS	v0n1.nic.holiday.holiday.		3598	IN	NS	v0n3.nic.holiday.holiday.		3598	IN	NS	v2n1.nic.holiday.holiday.		3598	IN	NS	v0n2.nic.holiday.v0n3.nic.holiday.	3598	IN	A	161.232.12.24v0n3.nic.holiday.	3598	IN	AAAA	2a01:8840:f6::24

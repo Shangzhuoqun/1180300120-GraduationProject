@@ -1,7 +1,0 @@
-; timestamp: 20220306T205255Z
-; source id: tld-query-read.-dns4.nic.read.
-; source locator: dns4.nic.read.
-; source IP address: 43.230.50.76
-; backup point IP address: 111.42.148.76
-; status: success
-read.			599	IN	NS	dnsd.nic.read.read.			599	IN	NS	dnsc.nic.read.read.			599	IN	NS	dns2.nic.read.read.			599	IN	NS	dnsa.nic.read.read.			599	IN	NS	dns4.nic.read.read.			599	IN	NS	dns3.nic.read.read.			599	IN	NS	dnsb.nic.read.read.			599	IN	NS	dns1.nic.read.dns4.nic.read.		3599	IN	A	43.230.50.76dns4.nic.read.		3599	IN	AAAA	2401:fd80:406::76

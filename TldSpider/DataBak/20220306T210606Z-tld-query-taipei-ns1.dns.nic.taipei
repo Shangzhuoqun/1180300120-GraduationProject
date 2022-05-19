@@ -1,7 +1,0 @@
-; timestamp: 20220306T210606Z
-; source id: tld-query-taipei.-ns1.dns.nic.taipei.
-; source locator: ns1.dns.nic.taipei.
-; source IP address: 156.154.144.156
-; backup point IP address: 111.42.148.76
-; status: success
-taipei.			3599	IN	NS	ns2.dns.nic.taipei.taipei.			3599	IN	NS	ns1.dns.nic.taipei.taipei.			3599	IN	NS	b.nic.taipei.taipei.			3599	IN	NS	c.nic.taipei.taipei.			3599	IN	NS	ns3.dns.nic.taipei.taipei.			3599	IN	NS	a.nic.taipei.ns1.dns.nic.taipei.	3599	IN	A	156.154.144.156ns1.dns.nic.taipei.	3598	IN	AAAA	2610:a1:1071::9c

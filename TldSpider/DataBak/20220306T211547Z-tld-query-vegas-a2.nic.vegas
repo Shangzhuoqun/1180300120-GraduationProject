@@ -1,7 +1,0 @@
-; timestamp: 20220306T211547Z
-; source id: tld-query-vegas.-a2.nic.vegas.
-; source locator: a2.nic.vegas.
-; source IP address: 65.22.71.17
-; backup point IP address: 111.42.148.76
-; status: success
-vegas.			3599	IN	NS	a2.nic.vegas.vegas.			3599	IN	NS	a0.nic.vegas.vegas.			3599	IN	NS	b0.nic.vegas.vegas.			3599	IN	NS	c0.nic.vegas.a2.nic.vegas.		600	IN	A	65.22.71.17a2.nic.vegas.		600	IN	AAAA	2a01:8840:45::17

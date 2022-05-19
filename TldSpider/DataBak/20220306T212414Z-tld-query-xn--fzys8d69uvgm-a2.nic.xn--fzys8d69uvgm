@@ -1,7 +1,0 @@
-; timestamp: 20220306T212414Z
-; source id: tld-query-xn--fzys8d69uvgm.-a2.nic.xn--fzys8d69uvgm.
-; source locator: a2.nic.xn--fzys8d69uvgm.
-; source IP address: 65.22.175.33
-; backup point IP address: 111.42.148.76
-; status: success
-xn--fzys8d69uvgm.	3599	IN	NS	a2.nic.xn--fzys8d69uvgm.xn--fzys8d69uvgm.	3599	IN	NS	b0.nic.xn--fzys8d69uvgm.xn--fzys8d69uvgm.	3599	IN	NS	a0.nic.xn--fzys8d69uvgm.xn--fzys8d69uvgm.	3599	IN	NS	c0.nic.xn--fzys8d69uvgm.a2.nic.xn--fzys8d69uvgm. 599	IN	A	65.22.175.33a2.nic.xn--fzys8d69uvgm. 600	IN	AAAA	2a01:8840:a9::33

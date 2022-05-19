@@ -1,7 +1,0 @@
-; timestamp: 20220306T204558Z
-; source id: tld-query-origins.-b0.nic.origins.
-; source locator: b0.nic.origins.
-; source IP address: 65.22.53.33
-; backup point IP address: 111.42.148.76
-; status: success
-origins.		3597	IN	NS	c0.nic.origins.origins.		3597	IN	NS	a0.nic.origins.origins.		3597	IN	NS	b0.nic.origins.origins.		3597	IN	NS	a2.nic.origins.b0.nic.origins.		598	IN	A	65.22.53.33b0.nic.origins.		598	IN	AAAA	2a01:8840:33::33

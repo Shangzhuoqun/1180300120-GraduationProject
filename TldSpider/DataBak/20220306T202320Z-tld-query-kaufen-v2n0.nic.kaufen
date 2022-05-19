@@ -1,7 +1,0 @@
-; timestamp: 20220306T202320Z
-; source id: tld-query-kaufen.-v2n0.nic.kaufen.
-; source locator: v2n0.nic.kaufen.
-; source IP address: 65.22.35.20
-; backup point IP address: 111.42.148.76
-; status: success
-kaufen.			3597	IN	NS	v0n1.nic.kaufen.kaufen.			3597	IN	NS	v0n2.nic.kaufen.kaufen.			3597	IN	NS	v2n1.nic.kaufen.kaufen.			3597	IN	NS	v0n3.nic.kaufen.kaufen.			3597	IN	NS	v2n0.nic.kaufen.kaufen.			3597	IN	NS	v0n0.nic.kaufen.v2n0.nic.kaufen.	3599	IN	A	65.22.35.20v2n0.nic.kaufen.	3598	IN	AAAA	2a01:8840:25::20

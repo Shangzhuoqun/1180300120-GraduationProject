@@ -1,7 +1,0 @@
-; timestamp: 20220306T210937Z
-; source id: tld-query-theatre.-c.nic.theatre.
-; source locator: c.nic.theatre.
-; source IP address: 212.18.248.69
-; backup point IP address: 111.42.148.76
-; status: success
-theatre.		3598	IN	NS	c.nic.theatre.theatre.		3598	IN	NS	a.nic.theatre.theatre.		3598	IN	NS	b.nic.theatre.theatre.		3598	IN	NS	d.nic.theatre.c.nic.theatre.		3599	IN	A	212.18.248.69c.nic.theatre.		3599	IN	AAAA	2a04:2b00:13ee::69

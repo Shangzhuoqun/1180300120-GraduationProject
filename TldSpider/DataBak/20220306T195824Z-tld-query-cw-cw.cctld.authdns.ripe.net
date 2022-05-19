@@ -1,7 +1,0 @@
-; timestamp: 20220306T195824Z
-; source id: tld-query-cw.-cw.cctld.authdns.ripe.net.
-; source locator: cw.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.86
-; backup point IP address: 111.42.148.76
-; status: success
-cw.			3600	IN	NS	cw.cctld.authdns.ripe.net.cw.			3600	IN	NS	ns0.ja.net.cw.			3600	IN	NS	ns1.uoc.cw.cw.			3600	IN	NS	ns2.uoc.cw.cw.			3600	IN	NS	ns3.uoc.cw.cw.			3600	IN	NS	kadushi.curinfo.cw.cw.			3600	IN	NS	ns01-server.curinfo.cw.cw.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.86cw.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::86

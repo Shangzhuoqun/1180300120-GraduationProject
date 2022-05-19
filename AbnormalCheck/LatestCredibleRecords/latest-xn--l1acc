@@ -1,6 +1,0 @@
-ns1.idn.mn.	172800	in	a	218.100.84.27
-ns2.idn.mn.	172800	in	a	202.170.80.40
-ns3.idn.mn.	172800	in	a	180.149.98.78
-xn--l1acc.	172800	in	ns	ns1.idn.mn.
-xn--l1acc.	172800	in	ns	ns2.idn.mn.
-xn--l1acc.	172800	in	ns	ns3.idn.mn.

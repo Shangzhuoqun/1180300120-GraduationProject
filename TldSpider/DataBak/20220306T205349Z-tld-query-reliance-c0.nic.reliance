@@ -1,7 +1,0 @@
-; timestamp: 20220306T205349Z
-; source id: tld-query-reliance.-c0.nic.reliance.
-; source locator: c0.nic.reliance.
-; source IP address: 65.22.110.25
-; backup point IP address: 111.42.148.76
-; status: success
-reliance.		3597	IN	NS	b0.nic.reliance.reliance.		3597	IN	NS	a2.nic.reliance.reliance.		3597	IN	NS	a0.nic.reliance.reliance.		3597	IN	NS	c0.nic.reliance.c0.nic.reliance.	598	IN	A	65.22.110.25c0.nic.reliance.	597	IN	AAAA	2a01:8840:6c::25

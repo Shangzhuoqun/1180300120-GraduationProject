@@ -1,7 +1,0 @@
-; timestamp: 20220306T212321Z
-; source id: tld-query-xn--d1acj3b.-b.dns.ripn.net.
-; source locator: b.dns.ripn.net.
-; source IP address: 194.85.252.62
-; backup point IP address: 111.42.148.76
-; status: success
-xn--d1acj3b.		3600	IN	NS	e.dns.ripn.net.xn--d1acj3b.		3600	IN	NS	a.dns.ripn.net.xn--d1acj3b.		3600	IN	NS	d.dns.ripn.net.xn--d1acj3b.		3600	IN	NS	b.dns.ripn.net.xn--d1acj3b.		3600	IN	NS	f.dns.ripn.net.b.dns.ripn.net.		1719	IN	A	194.85.252.62b.dns.ripn.net.		1719	IN	AAAA	2001:678:16:0:194:85:252:62

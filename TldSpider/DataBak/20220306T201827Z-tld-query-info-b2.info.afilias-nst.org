@@ -1,7 +1,0 @@
-; timestamp: 20220306T201827Z
-; source id: tld-query-info.-b2.info.afilias-nst.org.
-; source locator: b2.info.afilias-nst.org.
-; source IP address: 199.249.121.1
-; backup point IP address: 111.42.148.76
-; status: success
-info.			3598	IN	NS	d0.info.afilias-nst.org.info.			3598	IN	NS	a0.info.afilias-nst.info.info.			3598	IN	NS	c0.info.afilias-nst.info.info.			3598	IN	NS	b0.info.afilias-nst.org.info.			3598	IN	NS	b2.info.afilias-nst.org.info.			3598	IN	NS	a2.info.afilias-nst.info.b2.info.afilias-nst.org. 954	IN	A	199.249.121.1b2.info.afilias-nst.org. 973	IN	AAAA	2001:500:49::1

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195454Z
-; source id: tld-query-city.-v2n1.nic.city.
-; source locator: v2n1.nic.city.
-; source IP address: 161.232.13.4
-; backup point IP address: 111.42.148.76
-; status: success
-city.			1054	IN	NS	v2n0.nic.city.city.			1054	IN	NS	v0n0.nic.city.city.			1054	IN	NS	v0n2.nic.city.city.			1054	IN	NS	v0n3.nic.city.city.			1054	IN	NS	v0n1.nic.city.city.			1054	IN	NS	v2n1.nic.city.v2n1.nic.city.		3598	IN	A	161.232.13.4v2n1.nic.city.		3598	IN	AAAA	2a01:8840:f7::4

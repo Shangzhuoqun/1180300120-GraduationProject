@@ -1,7 +1,0 @@
-; timestamp: 20220306T195642Z
-; source id: tld-query-coach.-v2n1.nic.coach.
-; source locator: v2n1.nic.coach.
-; source IP address: 161.232.17.41
-; backup point IP address: 111.42.148.76
-; status: success
-coach.			956	IN	NS	v0n2.nic.coach.coach.			956	IN	NS	v2n1.nic.coach.coach.			956	IN	NS	v0n1.nic.coach.coach.			956	IN	NS	v0n0.nic.coach.coach.			956	IN	NS	v0n3.nic.coach.coach.			956	IN	NS	v2n0.nic.coach.v2n1.nic.coach.		3600	IN	A	161.232.17.41v2n1.nic.coach.		3600	IN	AAAA	2a01:8840:fb::41

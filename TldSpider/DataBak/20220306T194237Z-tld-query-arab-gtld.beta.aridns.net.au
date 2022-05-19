@@ -1,7 +1,0 @@
-; timestamp: 20220306T194237Z
-; source id: tld-query-arab.-gtld.beta.aridns.net.au.
-; source locator: gtld.beta.aridns.net.au.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-arab.			1598	IN	NS	gtld.delta.aridns.net.au.arab.			1598	IN	NS	gtld.beta.aridns.net.au.arab.			1598	IN	NS	gtld.gamma.aridns.net.au.arab.			1598	IN	NS	gtld.alpha.aridns.net.au.gtld.beta.aridns.net.au. 3459	IN	A	37.209.194.10gtld.beta.aridns.net.au. 3460	IN	AAAA	2001:dcd:2::10

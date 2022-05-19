@@ -1,7 +1,0 @@
-; timestamp: 20220306T194213Z
-; source id: tld-query-ao.-h.dns.pt.
-; source locator: h.dns.pt.
-; source IP address: 194.146.106.138
-; backup point IP address: 111.42.148.76
-; status: success
-ao.			3600	IN	NS	h.dns.pt.ao.			3600	IN	NS	ao03.dns.pt.ao.			3600	IN	NS	ao01.dns.pt.h.dns.pt.		900	IN	A	194.146.106.138h.dns.pt.		600	IN	AAAA	2001:67c:1010:35::53

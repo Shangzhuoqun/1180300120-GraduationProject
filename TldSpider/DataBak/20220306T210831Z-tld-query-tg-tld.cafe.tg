@@ -1,27 +1,0 @@
-; timestamp: 20220306T210831Z
-; source id: tld-query-tg.-tld.cafe.tg.
-; source locator: tld.cafe.tg.
-; source IP address: 80.248.64.20
-; backup point IP address: 111.42.148.76
-; status: success
-tg.			86400	IN	NS	ns2.nic.tg.tg.			86400	IN	NS	ns1.nic.tg.tg.			86400	IN	NS	ns1.admin.net.tg.			86400	IN	NS	ns4.admin.net.tg.			86400	IN	NS	ns3.admin.net.tg.			86400	IN	NS	tld.cafe.tg.tld.cafe.tg.		400	IN	A	80.248.64.20dig @80.248.64.20 tld.cafe.tg. AAAA
-
-; <<>> DiG 9.16.23 <<>> @80.248.64.20 tld.cafe.tg. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6850
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;tld.cafe.tg.			IN	AAAA
-
-;; AUTHORITY SECTION:
-cafe.tg.		1800	IN	SOA	ns1.cafe.tg. root.cafe.tg. 2022030606 3600 1800 1209600 86400
-
-;; Query time: 1156 msec
-;; SERVER: 80.248.64.20#53(80.248.64.20)
-;; WHEN: Sun Mar 06 21:09:28 ;; MSG SIZE  rcvd: 85
-

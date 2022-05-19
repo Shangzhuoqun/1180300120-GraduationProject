@@ -1,7 +1,0 @@
-; timestamp: 20220306T195250Z
-; source id: tld-query-cat.-switch.nic.cat.
-; source locator: switch.nic.cat.
-; source IP address: 130.59.31.29
-; backup point IP address: 111.42.148.76
-; status: success
-cat.			86400	IN	NS	cat.pch.net.cat.			86400	IN	NS	ns1.nic.es.cat.			86400	IN	NS	switch.nic.cat.cat.			86400	IN	NS	anyc1.irondns.net.cat.			86400	IN	NS	ns.nic.cat.cat.			86400	IN	NS	nsc.nic.de.switch.nic.cat.		600	IN	A	130.59.31.29switch.nic.cat.		600	IN	AAAA	2001:620:0:ff::2f

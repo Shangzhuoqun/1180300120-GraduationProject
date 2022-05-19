@@ -1,27 +1,0 @@
-; timestamp: 20220306T200940Z
-; source id: tld-query-gf.-ns1-gp.mediaserv.net.
-; source locator: ns1-gp.mediaserv.net.
-; source IP address: 213.188.172.1
-; backup point IP address: 111.42.148.76
-; status: success
-gf.			86400	IN	NS	ns1-fr.mediaserv.net.gf.			86400	IN	NS	ns1-mq.mediaserv.net.gf.			86400	IN	NS	ns1-gp.mediaserv.net.ns1-gp.mediaserv.net.	3598	IN	A	213.188.172.1dig @213.188.172.1 ns1-gp.mediaserv.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @213.188.172.1 ns1-gp.mediaserv.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49646
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1-gp.mediaserv.net.		IN	AAAA
-
-;; AUTHORITY SECTION:
-mediaserv.net.		1799	IN	SOA	ns1-gp.mediaserv.net. hostmaster.mediaserv.net. 2021120612 7200 3600 1728000 3600
-
-;; Query time: 242 msec
-;; SERVER: 213.188.172.1#53(213.188.172.1)
-;; WHEN: Sun Mar 06 20:09:43 ;; MSG SIZE  rcvd: 96
-

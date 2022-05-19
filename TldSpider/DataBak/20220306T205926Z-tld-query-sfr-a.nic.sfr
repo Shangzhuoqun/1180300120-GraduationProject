@@ -1,7 +1,0 @@
-; timestamp: 20220306T205926Z
-; source id: tld-query-sfr.-a.nic.sfr.
-; source locator: a.nic.sfr.
-; source IP address: 194.169.218.100
-; backup point IP address: 111.42.148.76
-; status: success
-sfr.			172800	IN	NS	a.nic.sfr.sfr.			172800	IN	NS	d.nic.sfr.sfr.			172800	IN	NS	b.nic.sfr.sfr.			172800	IN	NS	c.nic.sfr.a.nic.sfr.		3600	IN	A	194.169.218.100a.nic.sfr.		3600	IN	AAAA	2001:67c:13cc::1:100

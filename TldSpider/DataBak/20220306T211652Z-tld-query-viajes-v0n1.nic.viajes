@@ -1,7 +1,0 @@
-; timestamp: 20220306T211652Z
-; source id: tld-query-viajes.-v0n1.nic.viajes.
-; source locator: v0n1.nic.viajes.
-; source IP address: 65.22.25.32
-; backup point IP address: 111.42.148.76
-; status: success
-viajes.			3598	IN	NS	v0n3.nic.viajes.viajes.			3598	IN	NS	v2n1.nic.viajes.viajes.			3598	IN	NS	v0n1.nic.viajes.viajes.			3598	IN	NS	v2n0.nic.viajes.viajes.			3598	IN	NS	v0n0.nic.viajes.viajes.			3598	IN	NS	v0n2.nic.viajes.v0n1.nic.viajes.	3599	IN	A	65.22.25.32v0n1.nic.viajes.	3599	IN	AAAA	2a01:8840:1b::32

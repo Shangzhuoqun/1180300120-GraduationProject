@@ -1,7 +1,0 @@
-; timestamp: 20220306T204231Z
-; source id: tld-query-neustar.-ns6.dns.nic.neustar.
-; source locator: ns6.dns.nic.neustar.
-; source IP address: 198.133.199.250
-; backup point IP address: 111.42.148.76
-; status: success
-neustar.		3599	IN	NS	b.nic.neustar.neustar.		3599	IN	NS	ns5.dns.nic.neustar.neustar.		3599	IN	NS	ns6.dns.nic.neustar.neustar.		3599	IN	NS	c.nic.neustar.neustar.		3599	IN	NS	a.nic.neustar.neustar.		3599	IN	NS	ns4.dns.nic.neustar.ns6.dns.nic.neustar.	600	IN	A	198.133.199.250ns6.dns.nic.neustar.	600	IN	AAAA	2610:a1:1021::250

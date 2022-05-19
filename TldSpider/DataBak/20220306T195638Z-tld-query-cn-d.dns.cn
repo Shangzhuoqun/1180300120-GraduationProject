@@ -1,7 +1,0 @@
-; timestamp: 20220306T195638Z
-; source id: tld-query-cn.-d.dns.cn.
-; source locator: d.dns.cn.
-; source IP address: 203.119.28.1
-; backup point IP address: 111.42.148.76
-; status: success
-cn.			497	IN	NS	c.dns.cn.cn.			497	IN	NS	d.dns.cn.cn.			497	IN	NS	g.dns.cn.cn.			497	IN	NS	ns.cernet.net.cn.			497	IN	NS	a.dns.cn.cn.			497	IN	NS	b.dns.cn.cn.			497	IN	NS	e.dns.cn.cn.			497	IN	NS	f.dns.cn.d.dns.cn.		3596	IN	A	203.119.28.1d.dns.cn.		600	IN	AAAA	2001:dc7:1000::1

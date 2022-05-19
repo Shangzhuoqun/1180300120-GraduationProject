@@ -1,7 +1,0 @@
-; timestamp: 20220306T212826Z
-; source id: tld-query-xn--pgbs0dh.-ns-tn.afrinic.net.
-; source locator: ns-tn.afrinic.net.
-; source IP address: 196.216.168.25
-; backup point IP address: 111.42.148.76
-; status: success
-xn--pgbs0dh.		3599	IN	NS	ns1.ati.tn.xn--pgbs0dh.		3599	IN	NS	ns-tn.afrinic.net.xn--pgbs0dh.		3599	IN	NS	ns2.ati.tn.xn--pgbs0dh.		3599	IN	NS	ns2.nic.fr.xn--pgbs0dh.		3599	IN	NS	rip.psg.com.xn--pgbs0dh.		3599	IN	NS	pch.ati.tn.ns-tn.afrinic.net.	2556	IN	A	196.216.168.25ns-tn.afrinic.net.	3600	IN	AAAA	2001:43f8:120::25

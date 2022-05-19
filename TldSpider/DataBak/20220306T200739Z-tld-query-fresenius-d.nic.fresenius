@@ -1,7 +1,0 @@
-; timestamp: 20220306T200739Z
-; source id: tld-query-fresenius.-d.nic.fresenius.
-; source locator: d.nic.fresenius.
-; source IP address: 212.18.249.86
-; backup point IP address: 111.42.148.76
-; status: success
-fresenius.		3597	IN	NS	c.nic.fresenius.fresenius.		3597	IN	NS	b.nic.fresenius.fresenius.		3597	IN	NS	d.nic.fresenius.fresenius.		3597	IN	NS	a.nic.fresenius.d.nic.fresenius.	3598	IN	A	212.18.249.86d.nic.fresenius.	3598	IN	AAAA	2a04:2b00:13ff::86

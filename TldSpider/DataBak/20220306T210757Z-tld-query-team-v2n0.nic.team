@@ -1,7 +1,0 @@
-; timestamp: 20220306T210757Z
-; source id: tld-query-team.-v2n0.nic.team.
-; source locator: v2n0.nic.team.
-; source IP address: 65.22.35.37
-; backup point IP address: 111.42.148.76
-; status: success
-team.			3597	IN	NS	v0n2.nic.team.team.			3597	IN	NS	v0n0.nic.team.team.			3597	IN	NS	v2n1.nic.team.team.			3597	IN	NS	v2n0.nic.team.team.			3597	IN	NS	v0n3.nic.team.team.			3597	IN	NS	v0n1.nic.team.v2n0.nic.team.		86400	IN	A	65.22.35.37v2n0.nic.team.		3600	IN	AAAA	2a01:8840:25::37

@@ -1,7 +1,0 @@
-; timestamp: 20220306T204419Z
-; source id: tld-query-nowtv.-b0.nic.nowtv.
-; source locator: b0.nic.nowtv.
-; source IP address: 65.22.173.1
-; backup point IP address: 111.42.148.76
-; status: success
-nowtv.			3599	IN	NS	b0.nic.nowtv.nowtv.			3599	IN	NS	c0.nic.nowtv.nowtv.			3599	IN	NS	a0.nic.nowtv.nowtv.			3599	IN	NS	a2.nic.nowtv.b0.nic.nowtv.		600	IN	A	65.22.173.1b0.nic.nowtv.		599	IN	AAAA	2a01:8840:a7::1

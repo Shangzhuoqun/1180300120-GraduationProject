@@ -1,7 +1,0 @@
-; timestamp: 20220306T211539Z
-; source id: tld-query-ve.-a.lactld.org.
-; source locator: a.lactld.org.
-; source IP address: 200.0.68.10
-; backup point IP address: 111.42.148.76
-; status: success
-ve.			3600	IN	NS	ns6.nic.ve.ve.			3600	IN	NS	ns3.nic.ve.ve.			3600	IN	NS	a.lactld.org.ve.			3600	IN	NS	ssdns-tld.nic.cl.ve.			3600	IN	NS	ns4.nic.ve.ve.			3600	IN	NS	ns5.nic.ve.a.lactld.org.		1990	IN	A	200.0.68.10a.lactld.org.		1990	IN	AAAA	2801:14:a000::10

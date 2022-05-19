@@ -1,7 +1,0 @@
-; timestamp: 20220306T211856Z
-; source id: tld-query-wedding.-d.nic.wedding.
-; source locator: d.nic.wedding.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-wedding.		3599	IN	NS	d.nic.wedding.wedding.		3599	IN	NS	c.nic.wedding.wedding.		3599	IN	NS	a.nic.wedding.wedding.		3599	IN	NS	b.nic.wedding.d.nic.wedding.		3599	IN	A	37.209.198.10d.nic.wedding.		3599	IN	AAAA	2001:dcd:4::10

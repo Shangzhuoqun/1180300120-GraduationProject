@@ -1,7 +1,0 @@
-; timestamp: 20220306T204021Z
-; source id: tld-query-mtr.-ns1.nic.mtr.
-; source locator: ns1.nic.mtr.
-; source IP address: 203.119.2.164
-; backup point IP address: 111.42.148.76
-; status: success
-mtr.			172800	IN	NS	ns4.nic.mtr.mtr.			172800	IN	NS	ns1.nic.mtr.mtr.			172800	IN	NS	ns3.nic.mtr.mtr.			172800	IN	NS	ns2.nic.mtr.ns1.nic.mtr.		3600	IN	A	203.119.2.164ns1.nic.mtr.		3600	IN	AAAA	2001:dca:4000::cb77:2a4

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195131Z
-; source id: tld-query-calvinklein.-ns2.dns.nic.calvinklein.
-; source locator: ns2.dns.nic.calvinklein.
-; source IP address: 156.154.145.31
-; backup point IP address: 111.42.148.76
-; status: success
-calvinklein.		1182	IN	NS	ns2.dns.nic.calvinklein.calvinklein.		1182	IN	NS	c.nic.calvinklein.calvinklein.		1182	IN	NS	ns1.dns.nic.calvinklein.calvinklein.		1182	IN	NS	ns3.dns.nic.calvinklein.calvinklein.		1182	IN	NS	b.nic.calvinklein.calvinklein.		1182	IN	NS	a.nic.calvinklein.ns2.dns.nic.calvinklein. 3600	IN	A	156.154.145.31ns2.dns.nic.calvinklein. 3600	IN	AAAA	2610:a1:1072::1f

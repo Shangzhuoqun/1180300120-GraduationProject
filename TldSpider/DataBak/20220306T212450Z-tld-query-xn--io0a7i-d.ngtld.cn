@@ -1,27 +1,0 @@
-; timestamp: 20220306T212450Z
-; source id: tld-query-xn--io0a7i.-d.ngtld.cn.
-; source locator: d.ngtld.cn.
-; source IP address: 125.208.43.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--io0a7i.		3600	IN	NS	c.ngtld.cn.xn--io0a7i.		3600	IN	NS	b.ngtld.cn.xn--io0a7i.		3600	IN	NS	a.ngtld.cn.xn--io0a7i.		3600	IN	NS	d.ngtld.cn.xn--io0a7i.		3600	IN	NS	e.ngtld.cn.d.ngtld.cn.		714	IN	A	125.208.43.1dig @125.208.43.1 d.ngtld.cn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @125.208.43.1 d.ngtld.cn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7530
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;d.ngtld.cn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-ngtld.cn.		1561	IN	SOA	a.ngtld.cn. sysmgr.cnnic.cn. 2019082002 14400 600 1209600 43200
-
-;; Query time: 10 msec
-;; SERVER: 125.208.43.1#53(125.208.43.1)
-;; WHEN: Sun Mar 06 21:24:51 ;; MSG SIZE  rcvd: 90
-

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205812Z
-; source id: tld-query-scholarships.-a2.nic.scholarships.
-; source locator: a2.nic.scholarships.
-; source IP address: 65.22.143.17
-; backup point IP address: 111.42.148.76
-; status: success
-scholarships.		3599	IN	NS	a0.nic.scholarships.scholarships.		3599	IN	NS	c0.nic.scholarships.scholarships.		3599	IN	NS	b0.nic.scholarships.scholarships.		3599	IN	NS	a2.nic.scholarships.a2.nic.scholarships.	599	IN	A	65.22.143.17a2.nic.scholarships.	595	IN	AAAA	2a01:8840:8d::17

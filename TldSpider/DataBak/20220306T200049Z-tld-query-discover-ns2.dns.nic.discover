@@ -1,7 +1,0 @@
-; timestamp: 20220306T200049Z
-; source id: tld-query-discover.-ns2.dns.nic.discover.
-; source locator: ns2.dns.nic.discover.
-; source IP address: 156.154.145.48
-; backup point IP address: 111.42.148.76
-; status: success
-discover.		481	IN	NS	b.nic.discover.discover.		481	IN	NS	a.nic.discover.discover.		481	IN	NS	c.nic.discover.discover.		481	IN	NS	ns3.dns.nic.discover.discover.		481	IN	NS	ns1.dns.nic.discover.discover.		481	IN	NS	ns2.dns.nic.discover.ns2.dns.nic.discover.	3599	IN	A	156.154.145.48ns2.dns.nic.discover.	3599	IN	AAAA	2610:a1:1072::30

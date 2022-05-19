@@ -1,7 +1,0 @@
-; timestamp: 20220306T204946Z
-; source id: tld-query-place.-v2n1.nic.place.
-; source locator: v2n1.nic.place.
-; source IP address: 161.232.15.22
-; backup point IP address: 111.42.148.76
-; status: success
-place.			3598	IN	NS	v0n0.nic.place.place.			3598	IN	NS	v2n0.nic.place.place.			3598	IN	NS	v0n2.nic.place.place.			3598	IN	NS	v0n1.nic.place.place.			3598	IN	NS	v2n1.nic.place.place.			3598	IN	NS	v0n3.nic.place.v2n1.nic.place.		3600	IN	A	161.232.15.22v2n1.nic.place.		3599	IN	AAAA	2a01:8840:f9::22

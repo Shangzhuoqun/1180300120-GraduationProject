@@ -1,7 +1,0 @@
-; timestamp: 20220306T200226Z
-; source id: tld-query-ec.-a.lactld.org.
-; source locator: a.lactld.org.
-; source IP address: 200.0.68.10
-; backup point IP address: 111.42.148.76
-; status: success
-ec.			413	IN	NS	a.lactld.org.ec.			413	IN	NS	n2.nic.ec.ec.			413	IN	NS	n3.dns.ec.a.lactld.org.		2327	IN	A	200.0.68.10a.lactld.org.		2327	IN	AAAA	2801:14:a000::10

@@ -1,27 +1,0 @@
-; timestamp: 20220306T203936Z
-; source id: tld-query-ms.-ns2.anycastdns.cz.
-; source locator: ns2.anycastdns.cz.
-; source IP address: 185.28.194.194
-; backup point IP address: 111.42.148.76
-; status: success
-ms.			3600	IN	NS	ms-ns.anycast.pch.net.ms.			3600	IN	NS	ns2.anycastdns.cz.ms.			3600	IN	NS	ns1.anycastdns.cz.ns2.anycastdns.cz.	69	IN	A	185.28.194.194dig @185.28.194.194 ns2.anycastdns.cz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @185.28.194.194 ns2.anycastdns.cz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21441
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.anycastdns.cz.		IN	AAAA
-
-;; AUTHORITY SECTION:
-anycastdns.cz.		720	IN	SOA	ns1.anycastdns.cz. root.gransy.com. 2631870100 86400 900 1209600 1800
-
-;; Query time: 10 msec
-;; SERVER: 185.28.194.194#53(185.28.194.194)
-;; WHEN: Sun Mar 06 20:39:37 ;; MSG SIZE  rcvd: 101
-

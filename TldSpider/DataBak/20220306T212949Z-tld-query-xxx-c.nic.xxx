@@ -1,7 +1,0 @@
-; timestamp: 20220306T212949Z
-; source id: tld-query-xxx.-c.nic.xxx.
-; source locator: c.nic.xxx.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-xxx.			1367	IN	NS	d.nic.xxx.xxx.			1367	IN	NS	b.nic.xxx.xxx.			1367	IN	NS	a.nic.xxx.xxx.			1367	IN	NS	c.nic.xxx.c.nic.xxx.		3600	IN	A	37.209.196.10c.nic.xxx.		3600	IN	AAAA	2001:dcd:3::10

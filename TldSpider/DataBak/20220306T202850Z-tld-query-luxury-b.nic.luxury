@@ -1,7 +1,0 @@
-; timestamp: 20220306T202850Z
-; source id: tld-query-luxury.-b.nic.luxury.
-; source locator: b.nic.luxury.
-; source IP address: 185.24.64.98
-; backup point IP address: 111.42.148.76
-; status: success
-luxury.			3599	IN	NS	a.nic.luxury.luxury.			3599	IN	NS	c.nic.luxury.luxury.			3599	IN	NS	d.nic.luxury.luxury.			3599	IN	NS	b.nic.luxury.b.nic.luxury.		3599	IN	A	185.24.64.98b.nic.luxury.		3599	IN	AAAA	2a04:2b00:13cc::1:98

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210108Z
-; source id: tld-query-smart.-c.nic.smart.
-; source locator: c.nic.smart.
-; source IP address: 212.18.248.70
-; backup point IP address: 111.42.148.76
-; status: success
-smart.			3599	IN	NS	b.nic.smart.smart.			3599	IN	NS	d.nic.smart.smart.			3599	IN	NS	a.nic.smart.smart.			3599	IN	NS	c.nic.smart.c.nic.smart.		3600	IN	A	212.18.248.70c.nic.smart.		3600	IN	AAAA	2a04:2b00:13ee::70

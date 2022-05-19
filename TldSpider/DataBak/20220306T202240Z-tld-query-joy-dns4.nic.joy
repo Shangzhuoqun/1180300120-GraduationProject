@@ -1,7 +1,0 @@
-; timestamp: 20220306T202240Z
-; source id: tld-query-joy.-dns4.nic.joy.
-; source locator: dns4.nic.joy.
-; source IP address: 43.230.50.71
-; backup point IP address: 111.42.148.76
-; status: success
-joy.			172800	IN	NS	dns2.nic.joy.joy.			172800	IN	NS	dns3.nic.joy.joy.			172800	IN	NS	dns4.nic.joy.joy.			172800	IN	NS	dns1.nic.joy.joy.			172800	IN	NS	dnsa.nic.joy.joy.			172800	IN	NS	dnsb.nic.joy.joy.			172800	IN	NS	dnsc.nic.joy.joy.			172800	IN	NS	dnsd.nic.joy.dns4.nic.joy.		3583	IN	A	43.230.50.71dns4.nic.joy.		3583	IN	AAAA	2401:fd80:406::71

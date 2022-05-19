@@ -1,7 +1,0 @@
-; timestamp: 20220306T195712Z
-; source id: tld-query-commbank.-c.nic.commbank.
-; source locator: c.nic.commbank.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-commbank.		938	IN	NS	b.nic.commbank.commbank.		938	IN	NS	d.nic.commbank.commbank.		938	IN	NS	a.nic.commbank.commbank.		938	IN	NS	c.nic.commbank.c.nic.commbank.		3600	IN	A	37.209.196.9c.nic.commbank.		3599	IN	AAAA	2001:dcd:3::9

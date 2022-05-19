@@ -1,7 +1,0 @@
-; timestamp: 20220306T202642Z
-; source id: tld-query-lifeinsurance.-c.nic.lifeinsurance.
-; source locator: c.nic.lifeinsurance.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-lifeinsurance.		3599	IN	NS	ns3.dns.nic.lifeinsurance.lifeinsurance.		3599	IN	NS	b.nic.lifeinsurance.lifeinsurance.		3599	IN	NS	c.nic.lifeinsurance.lifeinsurance.		3599	IN	NS	ns2.dns.nic.lifeinsurance.lifeinsurance.		3599	IN	NS	a.nic.lifeinsurance.lifeinsurance.		3599	IN	NS	ns1.dns.nic.lifeinsurance.c.nic.lifeinsurance.	3600	IN	A	37.209.196.9c.nic.lifeinsurance.	3599	IN	AAAA	2001:dcd:3::9

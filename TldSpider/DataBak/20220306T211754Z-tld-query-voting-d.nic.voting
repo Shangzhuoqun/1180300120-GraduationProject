@@ -1,7 +1,0 @@
-; timestamp: 20220306T211754Z
-; source id: tld-query-voting.-d.nic.voting.
-; source locator: d.nic.voting.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-voting.			3598	IN	NS	d.nic.voting.voting.			3598	IN	NS	c.nic.voting.voting.			3598	IN	NS	b.nic.voting.voting.			3598	IN	NS	a.nic.voting.d.nic.voting.		3599	IN	A	37.209.198.10d.nic.voting.		3600	IN	AAAA	2001:dcd:4::10

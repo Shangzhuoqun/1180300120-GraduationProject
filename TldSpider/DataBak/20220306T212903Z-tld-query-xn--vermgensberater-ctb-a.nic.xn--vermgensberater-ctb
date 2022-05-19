@@ -1,7 +1,0 @@
-; timestamp: 20220306T212903Z
-; source id: tld-query-xn--vermgensberater-ctb.-a.nic.xn--vermgensberater-ctb.
-; source locator: a.nic.xn--vermgensberater-ctb.
-; source IP address: 194.169.218.105
-; backup point IP address: 111.42.148.76
-; status: success
-xn--vermgensberater-ctb. 3600	IN	NS	b.nic.xn--vermgensberater-ctb.xn--vermgensberater-ctb. 3600	IN	NS	c.nic.xn--vermgensberater-ctb.xn--vermgensberater-ctb. 3600	IN	NS	a.nic.xn--vermgensberater-ctb.xn--vermgensberater-ctb. 3600	IN	NS	d.nic.xn--vermgensberater-ctb.a.nic.xn--vermgensberater-ctb. 3600 IN	A	194.169.218.105a.nic.xn--vermgensberater-ctb. 3600 IN	AAAA	2001:67c:13cc::1:105

@@ -9,5 +9,5 @@ for line in res:
     pids.append(line.split()[1])
 
 for pid in pids:
-    cmd = 'kill -9 {}'.format(pid)
+    cmd = 'sudo kill -9 {}'.format(pid)
     subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)

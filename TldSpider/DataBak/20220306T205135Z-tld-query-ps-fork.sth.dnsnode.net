@@ -1,7 +1,0 @@
-; timestamp: 20220306T205135Z
-; source id: tld-query-ps.-fork.sth.dnsnode.net.
-; source locator: fork.sth.dnsnode.net.
-; source IP address: 77.72.229.254
-; backup point IP address: 111.42.148.76
-; status: success
-ps.			3584	IN	NS	ps-ns.anycast.pch.net.ps.			3584	IN	NS	ps.cctld.authdns.ripe.net.ps.			3584	IN	NS	ns1.pnina.ps.ps.			3584	IN	NS	dns1.gov.ps.ps.			3584	IN	NS	ote.pnina.ps.ps.			3584	IN	NS	rip.psg.com.ps.			3584	IN	NS	fork.sth.dnsnode.net.fork.sth.dnsnode.net.	2913	IN	A	77.72.229.254fork.sth.dnsnode.net.	1146	IN	AAAA	2a01:3f0:0:306::53

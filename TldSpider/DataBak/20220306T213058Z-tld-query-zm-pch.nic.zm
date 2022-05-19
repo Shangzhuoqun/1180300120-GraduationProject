@@ -1,7 +1,0 @@
-; timestamp: 20220306T213058Z
-; source id: tld-query-zm.-pch.nic.zm.
-; source locator: pch.nic.zm.
-; source IP address: 204.61.216.73
-; backup point IP address: 111.42.148.76
-; status: success
-zm.			86400	IN	NS	cocca.nic.zm.zm.			86400	IN	NS	gransy.nic.zm.zm.			86400	IN	NS	pch.nic.zm.pch.nic.zm.		3600	IN	A	204.61.216.73pch.nic.zm.		3600	IN	AAAA	2001:500:14:6073:ad::1

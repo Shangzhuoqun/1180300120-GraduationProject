@@ -1,7 +1,0 @@
-; timestamp: 20220306T201012Z
-; source id: tld-query-gl.-ns1.anycastdns.cz.
-; source locator: ns1.anycastdns.cz.
-; source IP address: 185.38.108.108
-; backup point IP address: 111.42.148.76
-; status: success
-gl.			3600	IN	NS	d.nic.gl.gl.			3600	IN	NS	ns1.anycastdns.cz.gl.			3600	IN	NS	a.nuuk.nic.gl.gl.			3600	IN	NS	ns2.anycastdns.cz.ns1.anycastdns.cz.	744	IN	A	185.38.108.108ns1.anycastdns.cz.	742	IN	AAAA	2a00:fea0:dead::beef

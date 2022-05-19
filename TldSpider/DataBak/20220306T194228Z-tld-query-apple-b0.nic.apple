@@ -1,7 +1,0 @@
-; timestamp: 20220306T194228Z
-; source id: tld-query-apple.-b0.nic.apple.
-; source locator: b0.nic.apple.
-; source IP address: 65.22.61.1
-; backup point IP address: 111.42.148.76
-; status: success
-apple.			909	IN	NS	a2.nic.apple.apple.			909	IN	NS	c0.nic.apple.apple.			909	IN	NS	a0.nic.apple.apple.			909	IN	NS	b0.nic.apple.b0.nic.apple.		300	IN	A	65.22.61.1b0.nic.apple.		600	IN	AAAA	2a01:8840:3b::1

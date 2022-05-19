@@ -1,7 +1,0 @@
-; timestamp: 20220306T194233Z
-; source id: tld-query-aquarelle.-g.ext.nic.fr.
-; source locator: g.ext.nic.fr.
-; source IP address: 194.0.36.1
-; backup point IP address: 111.42.148.76
-; status: success
-aquarelle.		1598	IN	NS	f.ext.nic.fr.aquarelle.		1598	IN	NS	d.nic.fr.aquarelle.		1598	IN	NS	g.ext.nic.fr.g.ext.nic.fr.		544	IN	A	194.0.36.1g.ext.nic.fr.		544	IN	AAAA	2001:678:4c::1

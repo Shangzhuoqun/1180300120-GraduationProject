@@ -1,7 +1,0 @@
-; timestamp: 20220306T205730Z
-; source id: tld-query-saxo.-c.nic.saxo.
-; source locator: c.nic.saxo.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-saxo.			3600	IN	NS	a.nic.saxo.saxo.			3600	IN	NS	b.nic.saxo.saxo.			3600	IN	NS	d.nic.saxo.saxo.			3600	IN	NS	c.nic.saxo.c.nic.saxo.		3600	IN	A	37.209.196.9c.nic.saxo.		3599	IN	AAAA	2001:dcd:3::9

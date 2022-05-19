@@ -1,7 +1,0 @@
-; timestamp: 20220306T195746Z
-; source id: tld-query-courses.-c.nic.courses.
-; source locator: c.nic.courses.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-courses.		922	IN	NS	a.nic.courses.courses.		922	IN	NS	c.nic.courses.courses.		922	IN	NS	d.nic.courses.courses.		922	IN	NS	b.nic.courses.c.nic.courses.		3600	IN	A	37.209.196.9c.nic.courses.		3599	IN	AAAA	2001:dcd:3::9

@@ -1,27 +1,0 @@
-; timestamp: 20220306T194817Z
-; source id: tld-query-bn.-ns2.bnnic.bn.
-; source locator: ns2.bnnic.bn.
-; source IP address: 202.93.214.163
-; backup point IP address: 111.42.148.76
-; status: success
-bn.			3600	IN	NS	NS4.APNIC.NET.bn.			3600	IN	NS	BN-NS.ANYCAST.PCH.NET.bn.			3600	IN	NS	NS2.BNNIC.bn.bn.			3600	IN	NS	NS1.BNNIC.bn.ns2.bnnic.bn.		3600	IN	A	202.93.214.163dig @202.93.214.163 ns2.bnnic.bn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @202.93.214.163 ns2.bnnic.bn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12672
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.bnnic.bn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-bnnic.bn.		1800	IN	SOA	ns104.brunet.bn. dcit-cloudops.unn.com.bn. 2021092300 3600 1800 1209600 86400
-
-;; Query time: 238 msec
-;; SERVER: 202.93.214.163#53(202.93.214.163)
-;; WHEN: Sun Mar 06 19:48:19 ;; MSG SIZE  rcvd: 112
-

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202839Z
-; source id: tld-query-ltda.-b0.nic.ltda.
-; source locator: b0.nic.ltda.
-; source IP address: 65.22.117.17
-; backup point IP address: 111.42.148.76
-; status: success
-ltda.			3599	IN	NS	a0.nic.ltda.ltda.			3599	IN	NS	c0.nic.ltda.ltda.			3599	IN	NS	a2.nic.ltda.ltda.			3599	IN	NS	b0.nic.ltda.b0.nic.ltda.		599	IN	A	65.22.117.17b0.nic.ltda.		599	IN	AAAA	2a01:8840:73::17

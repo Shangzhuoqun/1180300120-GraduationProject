@@ -1,7 +1,0 @@
-; timestamp: 20220306T210620Z
-; source id: tld-query-tatar.-e.dns.ripn.net.
-; source locator: e.dns.ripn.net.
-; source IP address: 193.232.142.17
-; backup point IP address: 111.42.148.76
-; status: success
-tatar.			3599	IN	NS	e.dns.ripn.net.tatar.			3599	IN	NS	a.dns.ripn.net.tatar.			3599	IN	NS	b.dns.ripn.net.tatar.			3599	IN	NS	f.dns.ripn.net.tatar.			3599	IN	NS	d.dns.ripn.net.e.dns.ripn.net.		560	IN	A	193.232.142.17e.dns.ripn.net.		561	IN	AAAA	2001:678:15:0:193:232:142:17

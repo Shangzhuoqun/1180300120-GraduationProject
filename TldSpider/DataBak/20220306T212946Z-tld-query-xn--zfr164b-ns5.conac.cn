@@ -1,27 +1,0 @@
-; timestamp: 20220306T212946Z
-; source id: tld-query-xn--zfr164b.-ns5.conac.cn.
-; source locator: ns5.conac.cn.
-; source IP address: 111.235.165.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--zfr164b.		3599	IN	NS	ns1.conac.cn.xn--zfr164b.		3599	IN	NS	ns4.conac.cn.xn--zfr164b.		3599	IN	NS	ns5.conac.cn.xn--zfr164b.		3599	IN	NS	ns2.conac.cn.xn--zfr164b.		3599	IN	NS	ns3.conac.cn.ns5.conac.cn.		445	IN	A	111.235.165.1dig @111.235.165.1 ns5.conac.cn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @111.235.165.1 ns5.conac.cn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23992
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns5.conac.cn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-conac.cn.		119	IN	SOA	ns1.sdc.org.cn. root.conac.cn. 2022012901 1800 900 2419200 600
-
-;; Query time: 10 msec
-;; SERVER: 111.235.165.1#53(111.235.165.1)
-;; WHEN: Sun Mar 06 21:29:49 ;; MSG SIZE  rcvd: 94
-

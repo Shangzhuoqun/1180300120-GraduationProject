@@ -1,7 +1,0 @@
-; timestamp: 20220306T210831Z
-; source id: tld-query-tg.-ns3.admin.net.
-; source locator: ns3.admin.net.
-; source IP address: 87.98.180.44
-; backup point IP address: 111.42.148.76
-; status: success
-tg.			86400	IN	NS	ns4.admin.net.tg.			86400	IN	NS	ns3.admin.net.tg.			86400	IN	NS	ns1.admin.net.tg.			86400	IN	NS	ns1.nic.tg.tg.			86400	IN	NS	ns2.nic.tg.tg.			86400	IN	NS	tld.cafe.tg.ns3.admin.net.		86400	IN	A	87.98.180.44ns3.admin.net.		86400	IN	AAAA	2001:41d0:2:8adf::2

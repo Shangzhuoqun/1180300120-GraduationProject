@@ -1,7 +1,0 @@
-; timestamp: 20220306T204523Z
-; source id: tld-query-ong.-d0.nic.ong.
-; source locator: d0.nic.ong.
-; source IP address: 199.19.57.1
-; backup point IP address: 111.42.148.76
-; status: success
-ong.			3597	IN	NS	b0.nic.ong.ong.			3597	IN	NS	b2.nic.ong.ong.			3597	IN	NS	c0.nic.ong.ong.			3597	IN	NS	a2.nic.ong.ong.			3597	IN	NS	a0.nic.ong.ong.			3597	IN	NS	d0.nic.ong.d0.nic.ong.		600	IN	A	199.19.57.1d0.nic.ong.		600	IN	AAAA	2001:500:f::1

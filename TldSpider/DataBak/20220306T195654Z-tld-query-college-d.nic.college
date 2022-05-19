@@ -1,7 +1,0 @@
-; timestamp: 20220306T195654Z
-; source id: tld-query-college.-d.nic.college.
-; source locator: d.nic.college.
-; source IP address: 212.18.249.44
-; backup point IP address: 111.42.148.76
-; status: success
-college.		951	IN	NS	a.nic.college.college.		951	IN	NS	d.nic.college.college.		951	IN	NS	b.nic.college.college.		951	IN	NS	c.nic.college.d.nic.college.		3600	IN	A	212.18.249.44d.nic.college.		3600	IN	AAAA	2a04:2b00:13ff::44

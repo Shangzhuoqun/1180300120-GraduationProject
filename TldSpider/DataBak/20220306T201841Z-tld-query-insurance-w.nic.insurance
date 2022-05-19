@@ -1,7 +1,0 @@
-; timestamp: 20220306T201841Z
-; source id: tld-query-insurance.-w.nic.insurance.
-; source locator: w.nic.insurance.
-; source IP address: 37.209.192.10
-; backup point IP address: 111.42.148.76
-; status: success
-insurance.		3599	IN	NS	x.nic.insurance.insurance.		3599	IN	NS	d.nic.insurance.insurance.		3599	IN	NS	f.nic.insurance.insurance.		3599	IN	NS	y.nic.insurance.insurance.		3599	IN	NS	w.nic.insurance.insurance.		3599	IN	NS	e.nic.insurance.w.nic.insurance.	3599	IN	A	37.209.192.10w.nic.insurance.	3599	IN	AAAA	2001:dcd:1::10

@@ -1,7 +1,0 @@
-; timestamp: 20220306T201639Z
-; source id: tld-query-hyatt.-ns3.dns.nic.hyatt.
-; source locator: ns3.dns.nic.hyatt.
-; source IP address: 156.154.159.78
-; backup point IP address: 111.42.148.76
-; status: success
-hyatt.			3596	IN	NS	ns3.dns.nic.hyatt.hyatt.			3596	IN	NS	ns1.dns.nic.hyatt.hyatt.			3596	IN	NS	a.nic.hyatt.hyatt.			3596	IN	NS	b.nic.hyatt.hyatt.			3596	IN	NS	c.nic.hyatt.hyatt.			3596	IN	NS	ns2.dns.nic.hyatt.ns3.dns.nic.hyatt.	3598	IN	A	156.154.159.78ns3.dns.nic.hyatt.	3598	IN	AAAA	2610:a1:1073::4e

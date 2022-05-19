@@ -1,7 +1,0 @@
-; timestamp: 20220306T201728Z
-; source id: tld-query-immo.-v0n2.nic.immo.
-; source locator: v0n2.nic.immo.
-; source IP address: 65.22.30.42
-; backup point IP address: 111.42.148.76
-; status: success
-immo.			3599	IN	NS	v0n1.nic.immo.immo.			3599	IN	NS	v2n1.nic.immo.immo.			3599	IN	NS	v0n0.nic.immo.immo.			3599	IN	NS	v2n0.nic.immo.immo.			3599	IN	NS	v0n2.nic.immo.immo.			3599	IN	NS	v0n3.nic.immo.v0n2.nic.immo.		3600	IN	A	65.22.30.42v0n2.nic.immo.		3600	IN	AAAA	2a01:8840:20::42

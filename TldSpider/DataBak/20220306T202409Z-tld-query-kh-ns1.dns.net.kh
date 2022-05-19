@@ -1,27 +1,0 @@
-; timestamp: 20220306T202409Z
-; source id: tld-query-kh.-ns1.dns.net.kh.
-; source locator: ns1.dns.net.kh.
-; source IP address: 203.223.32.21
-; backup point IP address: 111.42.148.76
-; status: success
-kh.			10800	IN	NS	ns4.apnic.net.kh.			10800	IN	NS	ns1.dns.net.kh.kh.			10800	IN	NS	ns.camnet.com.kh.kh.			10800	IN	NS	dns1.online.com.kh.ns1.dns.net.kh.		3594	IN	A	203.223.32.21dig @203.223.32.21 ns1.dns.net.kh. AAAA
-
-; <<>> DiG 9.16.23 <<>> @203.223.32.21 ns1.dns.net.kh. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60229
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.dns.net.kh.			IN	AAAA
-
-;; AUTHORITY SECTION:
-dns.net.kh.		1794	IN	SOA	ns.camnet.com.kh. ict_camservice\@camnet.com.kh. 2021021113 28800 7200 1209600 86400
-
-;; Query time: 5 msec
-;; SERVER: 203.223.32.21#53(203.223.32.21)
-;; WHEN: Sun Mar 06 20:24:17 ;; MSG SIZE  rcvd: 115
-

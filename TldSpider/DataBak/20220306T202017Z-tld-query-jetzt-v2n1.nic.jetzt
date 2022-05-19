@@ -1,7 +1,0 @@
-; timestamp: 20220306T202017Z
-; source id: tld-query-jetzt.-v2n1.nic.jetzt.
-; source locator: v2n1.nic.jetzt.
-; source IP address: 161.232.11.49
-; backup point IP address: 111.42.148.76
-; status: success
-jetzt.			3597	IN	NS	v2n0.nic.jetzt.jetzt.			3597	IN	NS	v2n1.nic.jetzt.jetzt.			3597	IN	NS	v0n2.nic.jetzt.jetzt.			3597	IN	NS	v0n1.nic.jetzt.jetzt.			3597	IN	NS	v0n0.nic.jetzt.jetzt.			3597	IN	NS	v0n3.nic.jetzt.v2n1.nic.jetzt.		3598	IN	A	161.232.11.49v2n1.nic.jetzt.		3598	IN	AAAA	2a01:8840:f5::49

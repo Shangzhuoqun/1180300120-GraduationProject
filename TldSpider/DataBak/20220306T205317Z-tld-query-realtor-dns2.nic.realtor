@@ -1,7 +1,0 @@
-; timestamp: 20220306T205317Z
-; source id: tld-query-realtor.-dns2.nic.realtor.
-; source locator: dns2.nic.realtor.
-; source IP address: 103.49.83.122
-; backup point IP address: 111.42.148.76
-; status: success
-realtor.		3599	IN	NS	dnsd.nic.realtor.realtor.		3599	IN	NS	dnsb.nic.realtor.realtor.		3599	IN	NS	dns3.nic.realtor.realtor.		3599	IN	NS	dnsa.nic.realtor.realtor.		3599	IN	NS	dns4.nic.realtor.realtor.		3599	IN	NS	dns1.nic.realtor.realtor.		3599	IN	NS	dnsc.nic.realtor.realtor.		3599	IN	NS	dns2.nic.realtor.dns2.nic.realtor.	3600	IN	A	103.49.83.122dns2.nic.realtor.	3600	IN	AAAA	2401:fd80:403::122

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195743Z
-; source id: tld-query-coupons.-v0n3.nic.coupons.
-; source locator: v0n3.nic.coupons.
-; source IP address: 161.232.12.29
-; backup point IP address: 111.42.148.76
-; status: success
-coupons.		924	IN	NS	v2n1.nic.coupons.coupons.		924	IN	NS	v0n3.nic.coupons.coupons.		924	IN	NS	v0n2.nic.coupons.coupons.		924	IN	NS	v0n1.nic.coupons.coupons.		924	IN	NS	v2n0.nic.coupons.coupons.		924	IN	NS	v0n0.nic.coupons.v0n3.nic.coupons.	3600	IN	A	161.232.12.29v0n3.nic.coupons.	3599	IN	AAAA	2a01:8840:f6::29

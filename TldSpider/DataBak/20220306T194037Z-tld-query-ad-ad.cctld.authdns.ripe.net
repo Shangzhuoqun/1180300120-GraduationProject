@@ -1,7 +1,0 @@
-; timestamp: 20220306T194037Z
-; source id: tld-query-ad.-ad.cctld.authdns.ripe.net.
-; source locator: ad.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.53
-; backup point IP address: 111.42.148.76
-; status: success
-ad.			900	IN	NS	ad.ns.nic.es.ad.			900	IN	NS	ad.cctld.authdns.ripe.net.ad.			900	IN	NS	ns3.nic.fr.ad.			900	IN	NS	dnsc.ad.ad.			900	IN	NS	dnsm.ad.ad.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.53ad.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::53

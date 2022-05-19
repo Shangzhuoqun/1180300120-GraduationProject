@@ -1,7 +1,0 @@
-; timestamp: 20220306T212128Z
-; source id: tld-query-xn--4gbrim.-d.nic.xn--4gbrim.
-; source locator: d.nic.xn--4gbrim.
-; source IP address: 212.18.249.144
-; backup point IP address: 111.42.148.76
-; status: success
-xn--4gbrim.		3598	IN	NS	c.nic.xn--4gbrim.xn--4gbrim.		3598	IN	NS	b.nic.xn--4gbrim.xn--4gbrim.		3598	IN	NS	d.nic.xn--4gbrim.xn--4gbrim.		3598	IN	NS	a.nic.xn--4gbrim.d.nic.xn--4gbrim.	3599	IN	A	212.18.249.144d.nic.xn--4gbrim.	3599	IN	AAAA	2a04:2b00:13ff::144

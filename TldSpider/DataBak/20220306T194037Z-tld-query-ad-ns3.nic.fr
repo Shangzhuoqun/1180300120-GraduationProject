@@ -1,7 +1,0 @@
-; timestamp: 20220306T194037Z
-; source id: tld-query-ad.-ns3.nic.fr.
-; source locator: ns3.nic.fr.
-; source IP address: 192.134.0.49
-; backup point IP address: 111.42.148.76
-; status: success
-ad.			900	IN	NS	dnsm.ad.ad.			900	IN	NS	ns3.nic.fr.ad.			900	IN	NS	ad.cctld.authdns.ripe.net.ad.			900	IN	NS	ad.ns.nic.es.ad.			900	IN	NS	dnsc.ad.ns3.nic.fr.		1590	IN	A	192.134.0.49ns3.nic.fr.		3533	IN	AAAA	2001:660:3006:1::1:1

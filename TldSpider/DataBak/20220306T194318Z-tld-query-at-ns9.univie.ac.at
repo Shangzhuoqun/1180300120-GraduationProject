@@ -1,7 +1,0 @@
-; timestamp: 20220306T194318Z
-; source id: tld-query-at.-ns9.univie.ac.at.
-; source locator: ns9.univie.ac.at.
-; source IP address: 194.0.10.100
-; backup point IP address: 111.42.148.76
-; status: success
-at.			172800	IN	NS	d.ns.at.at.			172800	IN	NS	j.ns.at.at.			172800	IN	NS	n.ns.at.at.			172800	IN	NS	r.ns.at.at.			172800	IN	NS	u.ns.at.at.			172800	IN	NS	ns1.univie.ac.at.at.			172800	IN	NS	ns2.univie.ac.at.at.			172800	IN	NS	ns9.univie.ac.at.ns9.univie.ac.at.	600	IN	A	194.0.10.100ns9.univie.ac.at.	600	IN	AAAA	2001:678:d::cafe

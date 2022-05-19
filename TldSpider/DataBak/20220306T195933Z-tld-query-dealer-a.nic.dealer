@@ -1,7 +1,0 @@
-; timestamp: 20220306T195933Z
-; source id: tld-query-dealer.-a.nic.dealer.
-; source locator: a.nic.dealer.
-; source IP address: 194.169.218.138
-; backup point IP address: 111.42.148.76
-; status: success
-dealer.			532	IN	NS	a.nic.dealer.dealer.			532	IN	NS	d.nic.dealer.dealer.			532	IN	NS	b.nic.dealer.dealer.			532	IN	NS	c.nic.dealer.a.nic.dealer.		3600	IN	A	194.169.218.138a.nic.dealer.		3600	IN	AAAA	2001:67c:13cc::1:138

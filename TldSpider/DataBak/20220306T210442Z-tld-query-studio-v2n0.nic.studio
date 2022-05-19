@@ -1,7 +1,0 @@
-; timestamp: 20220306T210442Z
-; source id: tld-query-studio.-v2n0.nic.studio.
-; source locator: v2n0.nic.studio.
-; source IP address: 65.22.31.3
-; backup point IP address: 111.42.148.76
-; status: success
-studio.			3597	IN	NS	v2n0.nic.studio.studio.			3597	IN	NS	v0n0.nic.studio.studio.			3597	IN	NS	v0n3.nic.studio.studio.			3597	IN	NS	v0n1.nic.studio.studio.			3597	IN	NS	v2n1.nic.studio.studio.			3597	IN	NS	v0n2.nic.studio.v2n0.nic.studio.	3600	IN	A	65.22.31.3v2n0.nic.studio.	3600	IN	AAAA	2a01:8840:21::3

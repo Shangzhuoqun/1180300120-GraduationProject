@@ -1,7 +1,0 @@
-; timestamp: 20220306T204645Z
-; source id: tld-query-party.-ns3.dns.nic.party.
-; source locator: ns3.dns.nic.party.
-; source IP address: 156.154.171.24
-; backup point IP address: 111.42.148.76
-; status: success
-party.			3596	IN	NS	ns3.dns.nic.party.party.			3596	IN	NS	c.nic.party.party.			3596	IN	NS	ns1.dns.nic.party.party.			3596	IN	NS	b.nic.party.party.			3596	IN	NS	ns2.dns.nic.party.party.			3596	IN	NS	a.nic.party.ns3.dns.nic.party.	3597	IN	A	156.154.171.24ns3.dns.nic.party.	3597	IN	AAAA	2610:a1:1073::1:18

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195916Z
-; source id: tld-query-data.-c0.nic.data.
-; source locator: c0.nic.data.
-; source IP address: 65.22.98.25
-; backup point IP address: 111.42.148.76
-; status: success
-data.			487	IN	NS	c0.nic.data.data.			487	IN	NS	a0.nic.data.data.			487	IN	NS	a2.nic.data.data.			487	IN	NS	b0.nic.data.c0.nic.data.		599	IN	A	65.22.98.25c0.nic.data.		600	IN	AAAA	2a01:8840:60::25

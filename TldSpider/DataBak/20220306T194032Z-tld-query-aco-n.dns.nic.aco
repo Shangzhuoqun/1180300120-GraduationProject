@@ -1,7 +1,0 @@
-; timestamp: 20220306T194032Z
-; source id: tld-query-aco.-n.dns.nic.aco.
-; source locator: n.dns.nic.aco.
-; source IP address: 194.0.24.12
-; backup point IP address: 111.42.148.76
-; status: success
-aco.			86400	IN	NS	n.dns.nic.aco.aco.			86400	IN	NS	m.dns.nic.aco.aco.			86400	IN	NS	a.dns.nic.aco.n.dns.nic.aco.		3599	IN	A	194.0.24.12n.dns.nic.aco.		3599	IN	AAAA	2001:678:24::12

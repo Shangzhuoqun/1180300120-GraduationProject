@@ -1,7 +1,0 @@
-; timestamp: 20220306T200102Z
-; source id: tld-query-dk.-c.nic.dk.
-; source locator: c.nic.dk.
-; source IP address: 194.0.46.53
-; backup point IP address: 111.42.148.76
-; status: success
-dk.			473	IN	NS	l.nic.dk.dk.			473	IN	NS	a.nic.dk.dk.			473	IN	NS	d.nic.dk.dk.			473	IN	NS	b.nic.dk.dk.			473	IN	NS	c.nic.dk.dk.			473	IN	NS	s.nic.dk.dk.			473	IN	NS	p.nic.dk.c.nic.dk.		3600	IN	A	194.0.46.53c.nic.dk.		86400	IN	AAAA	2001:678:74::53

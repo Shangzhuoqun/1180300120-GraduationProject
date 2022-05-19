@@ -1,7 +1,0 @@
-; timestamp: 20220306T203751Z
-; source id: tld-query-mobile.-a0.nic.mobile.
-; source locator: a0.nic.mobile.
-; source IP address: 65.22.96.9
-; backup point IP address: 111.42.148.76
-; status: success
-mobile.			2048	IN	NS	b0.nic.mobile.mobile.			2048	IN	NS	a2.nic.mobile.mobile.			2048	IN	NS	c0.nic.mobile.mobile.			2048	IN	NS	a0.nic.mobile.a0.nic.mobile.		600	IN	A	65.22.96.9a0.nic.mobile.		600	IN	AAAA	2a01:8840:5e::9

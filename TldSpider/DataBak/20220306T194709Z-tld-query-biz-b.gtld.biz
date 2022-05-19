@@ -1,27 +1,0 @@
-; timestamp: 20220306T194709Z
-; source id: tld-query-biz.-b.gtld.biz.
-; source locator: b.gtld.biz.
-; source IP address: 156.154.125.65
-; backup point IP address: 111.42.148.76
-; status: success
-biz.			1397	IN	NS	c.gtld.biz.biz.			1397	IN	NS	b.gtld.biz.biz.			1397	IN	NS	a.gtld.biz.biz.			1397	IN	NS	x.gtld.biz.biz.			1397	IN	NS	w.gtld.biz.biz.			1397	IN	NS	y.gtld.biz.b.gtld.biz.		229	IN	A	156.154.125.65dig @156.154.125.65 b.gtld.biz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @156.154.125.65 b.gtld.biz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63313
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;b.gtld.biz.			IN	AAAA
-
-;; AUTHORITY SECTION:
-biz.			900	IN	SOA	a.gtld.biz. admin.tldns.godaddy. 1646565744 1800 300 604800 1800
-
-;; Query time: 7 msec
-;; SERVER: 156.154.125.65#53(156.154.125.65)
-;; WHEN: Sun Mar 06 19:47:10 ;; MSG SIZE  rcvd: 96
-

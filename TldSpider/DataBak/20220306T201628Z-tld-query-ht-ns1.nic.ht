@@ -1,27 +1,0 @@
-; timestamp: 20220306T201628Z
-; source id: tld-query-ht.-ns1.nic.ht.
-; source locator: ns1.nic.ht.
-; source IP address: 200.115.182.11
-; backup point IP address: 111.42.148.76
-; status: success
-ht.			86400	IN	NS	ns3.nic.fr.ht.			86400	IN	NS	ns1.polymtl.ca.ht.			86400	IN	NS	ns1.nic.ht.ht.			86400	IN	NS	pch.nic.ht.ns1.nic.ht.		2707	IN	A	200.115.182.11dig @200.115.182.11 ns1.nic.ht. AAAA
-
-; <<>> DiG 9.16.23 <<>> @200.115.182.11 ns1.nic.ht. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49655
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.nic.ht.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.ht.			1800	IN	SOA	ns1.web.ht. alerte.web.ht. 2021061802 3600 1800 1209600 86400
-
-;; Query time: 15 msec
-;; SERVER: 200.115.182.11#53(200.115.182.11)
-;; WHEN: Sun Mar 06 20:16:30 ;; MSG SIZE  rcvd: 90
-

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202753Z
-; source id: tld-query-lpl.-c.nic.lpl.
-; source locator: c.nic.lpl.
-; source IP address: 212.18.248.92
-; backup point IP address: 111.42.148.76
-; status: success
-lpl.			172800	IN	NS	b.nic.lpl.lpl.			172800	IN	NS	d.nic.lpl.lpl.			172800	IN	NS	a.nic.lpl.lpl.			172800	IN	NS	c.nic.lpl.c.nic.lpl.		3584	IN	A	212.18.248.92c.nic.lpl.		3583	IN	AAAA	2a04:2b00:13ee::92

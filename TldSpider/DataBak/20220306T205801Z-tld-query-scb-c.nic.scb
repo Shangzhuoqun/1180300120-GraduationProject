@@ -1,7 +1,0 @@
-; timestamp: 20220306T205801Z
-; source id: tld-query-scb.-c.nic.scb.
-; source locator: c.nic.scb.
-; source IP address: 194.0.1.35
-; backup point IP address: 111.42.148.76
-; status: success
-scb.			10800	IN	NS	a.nic.scb.scb.			10800	IN	NS	b.nic.scb.scb.			10800	IN	NS	c.nic.scb.scb.			10800	IN	NS	d.nic.scb.c.nic.scb.		1200	IN	A	194.0.1.35c.nic.scb.		1200	IN	AAAA	2001:678:4::23

@@ -1,7 +1,0 @@
-; timestamp: 20220306T204028Z
-; source id: tld-query-museum.-d.nic.fr.
-; source locator: d.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-museum.			3600	IN	NS	d.nic.fr.museum.			3600	IN	NS	g.ext.nic.fr.museum.			3600	IN	NS	f.ext.nic.fr.d.nic.fr.		1114	IN	A	194.0.9.1d.nic.fr.		1622	IN	AAAA	2001:678:c::1

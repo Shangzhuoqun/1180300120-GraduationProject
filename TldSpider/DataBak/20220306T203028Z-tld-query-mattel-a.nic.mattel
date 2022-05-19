@@ -1,7 +1,0 @@
-; timestamp: 20220306T203028Z
-; source id: tld-query-mattel.-a.nic.mattel.
-; source locator: a.nic.mattel.
-; source IP address: 37.209.192.9
-; backup point IP address: 111.42.148.76
-; status: success
-mattel.			3600	IN	NS	b.nic.mattel.mattel.			3600	IN	NS	c.nic.mattel.mattel.			3600	IN	NS	a.nic.mattel.mattel.			3600	IN	NS	ns2.dns.nic.mattel.mattel.			3600	IN	NS	ns1.dns.nic.mattel.mattel.			3600	IN	NS	ns3.dns.nic.mattel.a.nic.mattel.		3600	IN	A	37.209.192.9a.nic.mattel.		3600	IN	AAAA	2001:dcd:1::9

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205154Z
-; source id: tld-query-pt.-c.dns.pt.
-; source locator: c.dns.pt.
-; source IP address: 204.61.216.105
-; backup point IP address: 111.42.148.76
-; status: success
-pt.			3600	IN	NS	c.dns.pt.pt.			3600	IN	NS	b.dns.pt.pt.			3600	IN	NS	ns.dns.br.pt.			3600	IN	NS	e.dns.pt.pt.			3600	IN	NS	h.dns.pt.pt.			3600	IN	NS	a.dns.pt.pt.			3600	IN	NS	ns2.nic.fr.pt.			3600	IN	NS	g.dns.pt.pt.			3600	IN	NS	d.dns.pt.c.dns.pt.		899	IN	A	204.61.216.105c.dns.pt.		599	IN	AAAA	2001:500:14:6105:ad::1

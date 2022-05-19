@@ -1,7 +1,0 @@
-; timestamp: 20220306T194928Z
-; source id: tld-query-bs.-ns36.cdns.net.
-; source locator: ns36.cdns.net.
-; source IP address: 194.0.1.36
-; backup point IP address: 111.42.148.76
-; status: success
-bs.			86400	IN	NS	anyns.dns.bs.bs.			86400	IN	NS	ns36.cdns.net.bs.			86400	IN	NS	anyns.pch.net.ns36.cdns.net.		3600	IN	A	194.0.1.36ns36.cdns.net.		3600	IN	AAAA	2001:678:4::24

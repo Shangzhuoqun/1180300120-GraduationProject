@@ -1,7 +1,0 @@
-; timestamp: 20220306T194658Z
-; source id: tld-query-bible.-ns2.dns.nic.bible.
-; source locator: ns2.dns.nic.bible.
-; source IP address: 156.154.170.100
-; backup point IP address: 111.42.148.76
-; status: success
-bible.			1402	IN	NS	ns3.dns.nic.bible.bible.			1402	IN	NS	b.nic.bible.bible.			1402	IN	NS	c.nic.bible.bible.			1402	IN	NS	ns2.dns.nic.bible.bible.			1402	IN	NS	a.nic.bible.bible.			1402	IN	NS	ns1.dns.nic.bible.ns2.dns.nic.bible.	3598	IN	A	156.154.170.100ns2.dns.nic.bible.	3598	IN	AAAA	2610:a1:1072::1:64

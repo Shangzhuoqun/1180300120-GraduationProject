@@ -1,9 +1,0 @@
-; timestamp: 20220306T200226Z
-; source id: tld-query-ec.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-a.lactld.org.:../TldSpider/DataBak/20220306T200226Z-tld-query-ec-a.lactld.org
-n2.nic.ec.:../TldSpider/DataBak/20220306T200226Z-tld-query-ec-n2.nic.ec
-n3.dns.ec.:../TldSpider/DataBak/20220306T200226Z-tld-query-ec-n3.dns.ec

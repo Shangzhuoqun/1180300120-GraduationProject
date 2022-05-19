@@ -1,7 +1,0 @@
-; timestamp: 20220306T202324Z
-; source id: tld-query-kddi.-a.gmoregistry.net.
-; source locator: a.gmoregistry.net.
-; source IP address: 37.209.192.4
-; backup point IP address: 111.42.148.76
-; status: success
-kddi.			3600	IN	NS	k.gmoregistry.net.kddi.			3600	IN	NS	b.gmoregistry.net.kddi.			3600	IN	NS	l.gmoregistry.net.kddi.			3600	IN	NS	a.gmoregistry.net.a.gmoregistry.net.	2544	IN	A	37.209.192.4a.gmoregistry.net.	2544	IN	AAAA	2001:dcd:1::4

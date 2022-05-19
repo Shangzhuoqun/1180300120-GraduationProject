@@ -1,7 +1,0 @@
-; timestamp: 20220306T201946Z
-; source id: tld-query-is.-sab.isnic.is.
-; source locator: sab.isnic.is.
-; source IP address: 194.146.106.58
-; backup point IP address: 111.42.148.76
-; status: success
-is.			259200	IN	NS	sunic.sunet.se.is.			259200	IN	NS	durinn.rhnet.is.is.			259200	IN	NS	bes.isnic.is.is.			259200	IN	NS	tg-tldsecondary01.isnic.is.is.			259200	IN	NS	ht-tldsecondary01.isnic.is.is.			259200	IN	NS	sab.isnic.is.sab.isnic.is.		3600	IN	A	194.146.106.58sab.isnic.is.		3600	IN	AAAA	2001:67c:1010:14::53

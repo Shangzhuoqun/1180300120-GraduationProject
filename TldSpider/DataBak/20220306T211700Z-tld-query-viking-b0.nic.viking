@@ -1,7 +1,0 @@
-; timestamp: 20220306T211700Z
-; source id: tld-query-viking.-b0.nic.viking.
-; source locator: b0.nic.viking.
-; source IP address: 65.22.193.17
-; backup point IP address: 111.42.148.76
-; status: success
-viking.			3596	IN	NS	a2.nic.viking.viking.			3596	IN	NS	c0.nic.viking.viking.			3596	IN	NS	b0.nic.viking.viking.			3596	IN	NS	a0.nic.viking.b0.nic.viking.		595	IN	A	65.22.193.17b0.nic.viking.		600	IN	AAAA	2a01:8840:bb::17

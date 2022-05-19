@@ -1,7 +1,0 @@
-; timestamp: 20220306T210802Z
-; source id: tld-query-tech.-b.nic.tech.
-; source locator: b.nic.tech.
-; source IP address: 185.24.64.60
-; backup point IP address: 111.42.148.76
-; status: success
-tech.			3600	IN	NS	e.nic.tech.tech.			3600	IN	NS	a.nic.tech.tech.			3600	IN	NS	f.nic.tech.tech.			3600	IN	NS	b.nic.tech.b.nic.tech.		3600	IN	A	185.24.64.60b.nic.tech.		3600	IN	AAAA	2a04:2b00:13cc::1:60

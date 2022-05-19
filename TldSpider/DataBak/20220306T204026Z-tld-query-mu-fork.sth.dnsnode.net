@@ -1,7 +1,0 @@
-; timestamp: 20220306T204026Z
-; source id: tld-query-mu.-fork.sth.dnsnode.net.
-; source locator: fork.sth.dnsnode.net.
-; source IP address: 77.72.229.254
-; backup point IP address: 111.42.148.76
-; status: success
-mu.			3600	IN	NS	anycast1.irondns.net.mu.			3600	IN	NS	udns2.tld.mu.mu.			3600	IN	NS	udns1.tld.mu.mu.			3600	IN	NS	fork.sth.dnsnode.net.fork.sth.dnsnode.net.	600	IN	A	77.72.229.254fork.sth.dnsnode.net.	1833	IN	AAAA	2a01:3f0:0:306::53

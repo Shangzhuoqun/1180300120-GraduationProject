@@ -1,6 +1,0 @@
-eco.	172800	in	ns	a.ns.nic.eco.
-eco.	172800	in	ns	b.ns.nic.eco.
-a.ns.nic.eco.	172800	in	a	185.159.197.4
-a.ns.nic.eco.	172800	in	aaaa	2620:10a:80aa:0:0:0:0:4
-b.ns.nic.eco.	172800	in	a	185.159.198.4
-b.ns.nic.eco.	172800	in	aaaa	2620:10a:80ab:0:0:0:0:4

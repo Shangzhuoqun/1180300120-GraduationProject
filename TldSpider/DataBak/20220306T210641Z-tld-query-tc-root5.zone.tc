@@ -1,7 +1,0 @@
-; timestamp: 20220306T210641Z
-; source id: tld-query-tc.-root5.zone.tc.
-; source locator: root5.zone.tc.
-; source IP address: 95.173.188.6
-; backup point IP address: 111.42.148.76
-; status: success
-tc.			86400	IN	NS	root8.zone.tc.tc.			86400	IN	NS	root3.zone.tc.tc.			86400	IN	NS	root2.zone.tc.tc.			86400	IN	NS	root6.zone.tc.tc.			86400	IN	NS	root5.zone.tc.tc.			86400	IN	NS	root4.zone.tc.tc.			86400	IN	NS	root7.zone.tc.tc.			86400	IN	NS	root1.zone.tc.root5.zone.tc.		14400	IN	A	95.173.188.6root5.zone.tc.		3600	IN	AAAA	2a03:2100:0:100::5

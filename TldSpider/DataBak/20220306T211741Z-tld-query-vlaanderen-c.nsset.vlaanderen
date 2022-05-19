@@ -1,7 +1,0 @@
-; timestamp: 20220306T211741Z
-; source id: tld-query-vlaanderen.-c.nsset.vlaanderen.
-; source locator: c.nsset.vlaanderen.
-; source IP address: 194.0.43.1
-; backup point IP address: 111.42.148.76
-; status: success
-vlaanderen.		3599	IN	NS	c.nsset.vlaanderen.vlaanderen.		3599	IN	NS	b.nsset.vlaanderen.vlaanderen.		3599	IN	NS	a.nsset.vlaanderen.vlaanderen.		3599	IN	NS	y.nsset.vlaanderen.vlaanderen.		3599	IN	NS	z.nsset.vlaanderen.vlaanderen.		3599	IN	NS	d.nsset.vlaanderen.c.nsset.vlaanderen.	3599	IN	A	194.0.43.1c.nsset.vlaanderen.	3599	IN	AAAA	2001:678:68::1

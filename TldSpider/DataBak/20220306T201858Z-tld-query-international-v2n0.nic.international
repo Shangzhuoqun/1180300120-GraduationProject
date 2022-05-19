@@ -1,7 +1,0 @@
-; timestamp: 20220306T201858Z
-; source id: tld-query-international.-v2n0.nic.international.
-; source locator: v2n0.nic.international.
-; source IP address: 65.22.31.6
-; backup point IP address: 111.42.148.76
-; status: success
-international.		3513	IN	NS	v0n0.nic.international.international.		3513	IN	NS	v0n3.nic.international.international.		3513	IN	NS	v0n1.nic.international.international.		3513	IN	NS	v0n2.nic.international.international.		3513	IN	NS	v2n1.nic.international.international.		3513	IN	NS	v2n0.nic.international.v2n0.nic.international.	3598	IN	A	65.22.31.6v2n0.nic.international.	3598	IN	AAAA	2a01:8840:21::6

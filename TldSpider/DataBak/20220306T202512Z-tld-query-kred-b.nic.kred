@@ -1,7 +1,0 @@
-; timestamp: 20220306T202512Z
-; source id: tld-query-kred.-b.nic.kred.
-; source locator: b.nic.kred.
-; source IP address: 185.24.64.79
-; backup point IP address: 111.42.148.76
-; status: success
-kred.			3599	IN	NS	a.nic.kred.kred.			3599	IN	NS	c.nic.kred.kred.			3599	IN	NS	b.nic.kred.kred.			3599	IN	NS	d.nic.kred.b.nic.kred.		3600	IN	A	185.24.64.79b.nic.kred.		3600	IN	AAAA	2a04:2b00:13cc::1:79

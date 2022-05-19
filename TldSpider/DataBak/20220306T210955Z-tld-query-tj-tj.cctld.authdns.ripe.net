@@ -1,7 +1,0 @@
-; timestamp: 20220306T210955Z
-; source id: tld-query-tj.-tj.cctld.authdns.ripe.net.
-; source locator: tj.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.117
-; backup point IP address: 111.42.148.76
-; status: success
-tj.			7200	IN	NS	phloem.uoregon.edu.tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.tj.			7200	IN	NS	ns1.nic.tj.tj.			7200	IN	NS	ns2.tojikiston.com.tj.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.117tj.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::117

@@ -1,27 +1,0 @@
-; timestamp: 20220306T210831Z
-; source id: tld-query-tg.-ns1.nic.tg.
-; source locator: ns1.nic.tg.
-; source IP address: 41.207.188.36
-; backup point IP address: 111.42.148.76
-; status: success
-tg.			86400	IN	NS	ns1.admin.net.tg.			86400	IN	NS	ns1.nic.tg.tg.			86400	IN	NS	ns2.nic.tg.tg.			86400	IN	NS	tld.cafe.tg.tg.			86400	IN	NS	ns3.admin.net.tg.			86400	IN	NS	ns4.admin.net.ns1.nic.tg.		3600	IN	A	41.207.188.36dig @41.207.188.36 ns1.nic.tg. AAAA
-
-; <<>> DiG 9.16.23 <<>> @41.207.188.36 ns1.nic.tg. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22889
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.nic.tg.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.tg.			1800	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2018112701 21600 3600 604800 86400
-
-;; Query time: 400 msec
-;; SERVER: 41.207.188.36#53(41.207.188.36)
-;; WHEN: Sun Mar 06 21:08:35 ;; MSG SIZE  rcvd: 86
-

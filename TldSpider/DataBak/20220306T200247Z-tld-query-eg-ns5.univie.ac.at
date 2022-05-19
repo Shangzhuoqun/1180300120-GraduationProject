@@ -1,7 +1,0 @@
-; timestamp: 20220306T200247Z
-; source id: tld-query-eg.-ns5.univie.ac.at.
-; source locator: ns5.univie.ac.at.
-; source IP address: 193.171.255.77
-; backup point IP address: 111.42.148.76
-; status: success
-eg.			395	IN	NS	RIP.PSG.COM.eg.			395	IN	NS	FRCU.EUN.eg.eg.			395	IN	NS	NS5.UNIVIE.AC.AT.ns5.univie.ac.at.	600	IN	A	193.171.255.77ns5.univie.ac.at.	600	IN	AAAA	2001:628:453:4305::53

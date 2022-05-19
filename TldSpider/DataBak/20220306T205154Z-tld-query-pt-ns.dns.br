@@ -1,7 +1,0 @@
-; timestamp: 20220306T205154Z
-; source id: tld-query-pt.-ns.dns.br.
-; source locator: ns.dns.br.
-; source IP address: 200.160.0.5
-; backup point IP address: 111.42.148.76
-; status: success
-pt.			3597	IN	NS	b.dns.pt.pt.			3597	IN	NS	a.dns.pt.pt.			3597	IN	NS	c.dns.pt.pt.			3597	IN	NS	ns2.nic.fr.pt.			3597	IN	NS	d.dns.pt.pt.			3597	IN	NS	e.dns.pt.pt.			3597	IN	NS	g.dns.pt.pt.			3597	IN	NS	h.dns.pt.pt.			3597	IN	NS	ns.dns.br.ns.dns.br.		3600	IN	A	200.160.0.5ns.dns.br.		1073	IN	AAAA	2001:12ff:0:a20::5

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210536Z
-; source id: tld-query-sx.-ns1.ns.sx.
-; source locator: ns1.ns.sx.
-; source IP address: 185.159.197.10
-; backup point IP address: 111.42.148.76
-; status: success
-sx.			86400	IN	NS	ns2.ns.sx.sx.			86400	IN	NS	ns1.ns.sx.ns1.ns.sx.		3600	IN	A	185.159.197.10ns1.ns.sx.		3600	IN	AAAA	2620:10a:80aa::10

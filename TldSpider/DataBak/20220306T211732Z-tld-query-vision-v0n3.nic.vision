@@ -1,7 +1,0 @@
-; timestamp: 20220306T211732Z
-; source id: tld-query-vision.-v0n3.nic.vision.
-; source locator: v0n3.nic.vision.
-; source IP address: 161.232.12.15
-; backup point IP address: 111.42.148.76
-; status: success
-vision.			3598	IN	NS	v0n2.nic.vision.vision.			3598	IN	NS	v0n3.nic.vision.vision.			3598	IN	NS	v0n0.nic.vision.vision.			3598	IN	NS	v0n1.nic.vision.vision.			3598	IN	NS	v2n0.nic.vision.vision.			3598	IN	NS	v2n1.nic.vision.v0n3.nic.vision.	3600	IN	A	161.232.12.15v0n3.nic.vision.	3599	IN	AAAA	2a01:8840:f6::15

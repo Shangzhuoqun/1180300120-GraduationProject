@@ -1,7 +1,0 @@
-; timestamp: 20220306T200109Z
-; source id: tld-query-dm.-ns34.cdns.net.
-; source locator: ns34.cdns.net.
-; source IP address: 194.0.1.34
-; backup point IP address: 111.42.148.76
-; status: success
-dm.			172800	IN	NS	ns.blacknightsolutions.com.dm.			172800	IN	NS	ns1.uniregistry.net.dm.			172800	IN	NS	ns2.nic.dm.dm.			172800	IN	NS	ns2.uniregistry.info.dm.			172800	IN	NS	ns2.blacknightsolutions.com.dm.			172800	IN	NS	ns3.uniregistry.net.dm.			172800	IN	NS	ns4.uniregistry.info.dm.			172800	IN	NS	ns34.cdns.net.ns34.cdns.net.		3598	IN	A	194.0.1.34ns34.cdns.net.		3597	IN	AAAA	2001:678:4::22

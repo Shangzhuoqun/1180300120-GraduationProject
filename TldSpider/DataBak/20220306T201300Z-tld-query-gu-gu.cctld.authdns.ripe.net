@@ -1,7 +1,0 @@
-; timestamp: 20220306T201300Z
-; source id: tld-query-gu.-gu.cctld.authdns.ripe.net.
-; source locator: gu.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.78
-; backup point IP address: 111.42.148.76
-; status: success
-gu.			3600	IN	NS	gu.cctld.authdns.ripe.net.gu.			3600	IN	NS	gold.uog.edu.gu.			3600	IN	NS	green.uog.edu.gu.			3600	IN	NS	phloem.uoregon.edu.gu.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.78gu.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::78

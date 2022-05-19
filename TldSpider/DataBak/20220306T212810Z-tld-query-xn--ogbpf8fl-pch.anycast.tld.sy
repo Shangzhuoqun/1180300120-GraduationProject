@@ -1,7 +1,0 @@
-; timestamp: 20220306T212810Z
-; source id: tld-query-xn--ogbpf8fl.-pch.anycast.tld.sy.
-; source locator: pch.anycast.tld.sy.
-; source IP address: 204.61.216.71
-; backup point IP address: 111.42.148.76
-; status: success
-xn--ogbpf8fl.		3598	IN	NS	pch.anycast.tld.sy.xn--ogbpf8fl.		3598	IN	NS	sy.cctld.authdns.ripe.net.xn--ogbpf8fl.		3598	IN	NS	ns1.tld.sy.pch.anycast.tld.sy.	600	IN	A	204.61.216.71pch.anycast.tld.sy.	600	IN	AAAA	2001:500:14:6071:ad::1

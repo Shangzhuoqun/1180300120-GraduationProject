@@ -1,7 +1,0 @@
-; timestamp: 20220306T204143Z
-; source id: tld-query-nba.-ns1.dns.nic.nba.
-; source locator: ns1.dns.nic.nba.
-; source IP address: 156.154.144.119
-; backup point IP address: 111.42.148.76
-; status: success
-nba.			86400	IN	NS	a.nic.nba.nba.			86400	IN	NS	b.nic.nba.nba.			86400	IN	NS	c.nic.nba.nba.			86400	IN	NS	ns1.dns.nic.nba.nba.			86400	IN	NS	ns2.dns.nic.nba.nba.			86400	IN	NS	ns3.dns.nic.nba.ns1.dns.nic.nba.	3599	IN	A	156.154.144.119ns1.dns.nic.nba.	3599	IN	AAAA	2610:a1:1071::77

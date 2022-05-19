@@ -1,7 +1,0 @@
-; timestamp: 20220306T212325Z
-; source id: tld-query-xn--e1a4c.-w.dns.eu.
-; source locator: w.dns.eu.
-; source IP address: 194.0.25.28
-; backup point IP address: 111.42.148.76
-; status: success
-xn--e1a4c.		3600	IN	NS	be.dns.eu.xn--e1a4c.		3600	IN	NS	y.dns.eu.xn--e1a4c.		3600	IN	NS	si.dns.eu.xn--e1a4c.		3600	IN	NS	w.dns.eu.xn--e1a4c.		3600	IN	NS	x.dns.eu.w.dns.eu.		3600	IN	A	194.0.25.28w.dns.eu.		3600	IN	AAAA	2001:678:20::28

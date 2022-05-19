@@ -1,7 +1,0 @@
-; timestamp: 20220306T194822Z
-; source id: tld-query-bo.-ns.dns.br.
-; source locator: ns.dns.br.
-; source IP address: 200.160.0.5
-; backup point IP address: 111.42.148.76
-; status: success
-bo.			17600	IN	NS	ns.dns.br.bo.			17600	IN	NS	ns.nic.bo.bo.			17600	IN	NS	ns2.nic.fr.bo.			17600	IN	NS	anycast.ns.nic.bo.ns.dns.br.		3600	IN	A	200.160.0.5ns.dns.br.		3600	IN	AAAA	2001:12ff:0:a20::5

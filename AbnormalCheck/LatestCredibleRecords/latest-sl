@@ -1,4 +1,0 @@
-ns1.neoip.com.	172800	in	a	51.195.14.249
-ns2.neoip.com.	172800	in	a	45.83.41.38
-sl.	172800	in	ns	ns1.neoip.com.
-sl.	172800	in	ns	ns2.neoip.com.

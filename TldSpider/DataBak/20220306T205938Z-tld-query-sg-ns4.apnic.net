@@ -1,7 +1,0 @@
-; timestamp: 20220306T205938Z
-; source id: tld-query-sg.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-sg.			3600	IN	NS	DSANY3.SGNIC.sg.sg.			3600	IN	NS	DSANY2.SGNIC.sg.sg.			3600	IN	NS	PCH.SGZONES.sg.sg.			3600	IN	NS	NS4.APNIC.NET.sg.			3600	IN	NS	DSANY.SGNIC.sg.ns4.apnic.net.		753	IN	A	202.12.31.53ns4.apnic.net.		1451	IN	AAAA	2001:dd8:12::53

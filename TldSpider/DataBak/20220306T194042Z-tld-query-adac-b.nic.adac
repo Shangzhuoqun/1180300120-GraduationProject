@@ -1,7 +1,0 @@
-; timestamp: 20220306T194042Z
-; source id: tld-query-adac.-b.nic.adac.
-; source locator: b.nic.adac.
-; source IP address: 185.24.64.74
-; backup point IP address: 111.42.148.76
-; status: success
-adac.			1658	IN	NS	d.nic.adac.adac.			1658	IN	NS	a.nic.adac.adac.			1658	IN	NS	c.nic.adac.adac.			1658	IN	NS	b.nic.adac.b.nic.adac.		3600	IN	A	185.24.64.74b.nic.adac.		3600	IN	AAAA	2a04:2b00:13cc::1:74

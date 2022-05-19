@@ -1,27 +1,0 @@
-; timestamp: 20220306T210955Z
-; source id: tld-query-tj.-ns1.nic.tj.
-; source locator: ns1.nic.tj.
-; source IP address: 91.218.160.197
-; backup point IP address: 111.42.148.76
-; status: success
-tj.			7200	IN	NS	ns1.nic.tj.tj.			7200	IN	NS	phloem.uoregon.edu.tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.tj.			7200	IN	NS	ns2.tojikiston.com.ns1.nic.tj.		3600	IN	A	91.218.160.197dig @91.218.160.197 ns1.nic.tj. AAAA
-
-; <<>> DiG 9.16.23 <<>> @91.218.160.197 ns1.nic.tj. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42499
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.nic.tj.			IN	AAAA
-
-;; AUTHORITY SECTION:
-tj.			1800	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022030405 7200 3600 2678400 7200
-
-;; Query time: 300 msec
-;; SERVER: 91.218.160.197#53(91.218.160.197)
-;; WHEN: Sun Mar 06 21:09:57 ;; MSG SIZE  rcvd: 89
-

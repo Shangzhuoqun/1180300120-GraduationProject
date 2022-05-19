@@ -1,7 +1,0 @@
-; timestamp: 20220306T201336Z
-; source id: tld-query-hbo.-c.nic.hbo.
-; source locator: c.nic.hbo.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-hbo.			3598	IN	NS	ns2.dns.nic.hbo.hbo.			3598	IN	NS	a.nic.hbo.hbo.			3598	IN	NS	ns3.dns.nic.hbo.hbo.			3598	IN	NS	c.nic.hbo.hbo.			3598	IN	NS	b.nic.hbo.hbo.			3598	IN	NS	ns1.dns.nic.hbo.c.nic.hbo.		3599	IN	A	37.209.196.9c.nic.hbo.		3599	IN	AAAA	2001:dcd:3::9

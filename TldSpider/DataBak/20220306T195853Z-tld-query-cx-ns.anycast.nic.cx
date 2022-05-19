@@ -1,7 +1,0 @@
-; timestamp: 20220306T195853Z
-; source id: tld-query-cx.-ns.anycast.nic.cx.
-; source locator: ns.anycast.nic.cx.
-; source IP address: 204.61.216.16
-; backup point IP address: 111.42.148.76
-; status: success
-cx.			86400	IN	NS	ns2.anycastdns.cz.cx.			86400	IN	NS	ns1.anycastdns.cz.cx.			86400	IN	NS	ns.anycast.nic.cx.ns.anycast.nic.cx.	124	IN	A	204.61.216.16ns.anycast.nic.cx.	985	IN	AAAA	2001:500:14:6016:ad::1

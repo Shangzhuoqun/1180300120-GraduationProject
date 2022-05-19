@@ -1,7 +1,0 @@
-; timestamp: 20220306T212840Z
-; source id: tld-query-xn--qxam.-gr-d.ics.forth.gr.
-; source locator: gr-d.ics.forth.gr.
-; source IP address: 194.0.11.102
-; backup point IP address: 111.42.148.76
-; status: success
-xn--qxam.		3600	IN	NS	gr-d.ics.forth.gr.xn--qxam.		3600	IN	NS	grdns.ics.forth.gr.xn--qxam.		3600	IN	NS	estia.ics.forth.gr.xn--qxam.		3600	IN	NS	gr-c.ics.forth.gr.xn--qxam.		3600	IN	NS	gr-at.ics.forth.gr.gr-d.ics.forth.gr.	3600	IN	A	194.0.11.102gr-d.ics.forth.gr.	3599	IN	AAAA	2001:678:e:102::53

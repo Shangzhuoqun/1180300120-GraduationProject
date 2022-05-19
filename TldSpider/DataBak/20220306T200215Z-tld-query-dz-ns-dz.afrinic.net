@@ -1,7 +1,0 @@
-; timestamp: 20220306T200215Z
-; source id: tld-query-dz.-ns-dz.afrinic.net.
-; source locator: ns-dz.afrinic.net.
-; source IP address: 196.216.168.36
-; backup point IP address: 111.42.148.76
-; status: success
-dz.			10800	IN	NS	ns4.nic.dz.dz.			10800	IN	NS	ns5.nic.dz.dz.			10800	IN	NS	ns-dz.afrinic.net.dz.			10800	IN	NS	ns1.nic.dz.dz.			10800	IN	NS	ns2.nic.dz.dz.			10800	IN	NS	ns3.nic.fr.ns-dz.afrinic.net.	3594	IN	A	196.216.168.36ns-dz.afrinic.net.	3593	IN	AAAA	2001:43f8:120::36

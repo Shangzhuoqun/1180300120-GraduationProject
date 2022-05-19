@@ -1,7 +1,0 @@
-; timestamp: 20220306T201834Z
-; source id: tld-query-institute.-v2n1.nic.institute.
-; source locator: v2n1.nic.institute.
-; source IP address: 161.232.17.13
-; backup point IP address: 111.42.148.76
-; status: success
-institute.		3594	IN	NS	v0n3.nic.institute.institute.		3594	IN	NS	v0n1.nic.institute.institute.		3594	IN	NS	v2n1.nic.institute.institute.		3594	IN	NS	v0n0.nic.institute.institute.		3594	IN	NS	v2n0.nic.institute.institute.		3594	IN	NS	v0n2.nic.institute.v2n1.nic.institute.	3593	IN	A	161.232.17.13v2n1.nic.institute.	3593	IN	AAAA	2a01:8840:fb::13

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202637Z
-; source id: tld-query-lidl.-b.nic.lidl.
-; source locator: b.nic.lidl.
-; source IP address: 185.24.64.91
-; backup point IP address: 111.42.148.76
-; status: success
-lidl.			3599	IN	NS	b.nic.lidl.lidl.			3599	IN	NS	d.nic.lidl.lidl.			3599	IN	NS	a.nic.lidl.lidl.			3599	IN	NS	c.nic.lidl.b.nic.lidl.		3599	IN	A	185.24.64.91b.nic.lidl.		3599	IN	AAAA	2a04:2b00:13cc::1:91

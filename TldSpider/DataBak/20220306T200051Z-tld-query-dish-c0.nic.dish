@@ -1,7 +1,0 @@
-; timestamp: 20220306T200051Z
-; source id: tld-query-dish.-c0.nic.dish.
-; source locator: c0.nic.dish.
-; source IP address: 65.22.90.33
-; backup point IP address: 111.42.148.76
-; status: success
-dish.			478	IN	NS	b0.nic.dish.dish.			478	IN	NS	a0.nic.dish.dish.			478	IN	NS	c0.nic.dish.dish.			478	IN	NS	a2.nic.dish.c0.nic.dish.		598	IN	A	65.22.90.33c0.nic.dish.		599	IN	AAAA	2a01:8840:58::33

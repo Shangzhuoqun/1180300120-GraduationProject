@@ -1,7 +1,0 @@
-; timestamp: 20220306T205122Z
-; source id: tld-query-protection.-f.nic.protection.
-; source locator: f.nic.protection.
-; source IP address: 212.18.249.67
-; backup point IP address: 111.42.148.76
-; status: success
-protection.		3594	IN	NS	e.nic.protection.protection.		3594	IN	NS	b.nic.protection.protection.		3594	IN	NS	a.nic.protection.protection.		3594	IN	NS	f.nic.protection.f.nic.protection.	3599	IN	A	212.18.249.67f.nic.protection.	3599	IN	AAAA	2a04:2b00:13ff::67

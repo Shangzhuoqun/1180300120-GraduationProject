@@ -1,7 +1,0 @@
-; timestamp: 20220306T210435Z
-; source id: tld-query-store.-b.nic.store.
-; source locator: b.nic.store.
-; source IP address: 185.24.64.45
-; backup point IP address: 111.42.148.76
-; status: success
-store.			3600	IN	NS	e.nic.store.store.			3600	IN	NS	f.nic.store.store.			3600	IN	NS	b.nic.store.store.			3600	IN	NS	a.nic.store.b.nic.store.		3600	IN	A	185.24.64.45b.nic.store.		3600	IN	AAAA	2a04:2b00:13cc::1:45

@@ -1,7 +1,0 @@
-; timestamp: 20220306T201220Z
-; source id: tld-query-gp.-ns-gp.nic.fr.
-; source locator: ns-gp.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-gp.			3596	IN	NS	ns1.nic.gp.gp.			3596	IN	NS	ns-gp.nic.fr.gp.			3596	IN	NS	gp.cctld.authdns.ripe.net.gp.			3596	IN	NS	ns2.nic.gp.gp.			3596	IN	NS	a.lactld.org.ns-gp.nic.fr.		3599	IN	A	194.0.9.1ns-gp.nic.fr.		3599	IN	AAAA	2001:678:c::1

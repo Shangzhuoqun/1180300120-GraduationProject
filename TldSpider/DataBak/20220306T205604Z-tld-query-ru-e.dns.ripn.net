@@ -1,7 +1,0 @@
-; timestamp: 20220306T205604Z
-; source id: tld-query-ru.-e.dns.ripn.net.
-; source locator: e.dns.ripn.net.
-; source IP address: 193.232.142.17
-; backup point IP address: 111.42.148.76
-; status: success
-ru.			3599	IN	NS	f.dns.ripn.net.ru.			3599	IN	NS	e.dns.ripn.net.ru.			3599	IN	NS	b.dns.ripn.net.ru.			3599	IN	NS	a.dns.ripn.net.ru.			3599	IN	NS	d.dns.ripn.net.e.dns.ripn.net.		1177	IN	A	193.232.142.17e.dns.ripn.net.		1177	IN	AAAA	2001:678:15:0:193:232:142:17

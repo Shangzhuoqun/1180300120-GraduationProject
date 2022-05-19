@@ -1,7 +1,0 @@
-; timestamp: 20220306T194925Z
-; source id: tld-query-brussels.-c.nsset.brussels.
-; source locator: c.nsset.brussels.
-; source IP address: 194.0.43.1
-; backup point IP address: 111.42.148.76
-; status: success
-brussels.		1288	IN	NS	b.nsset.brussels.brussels.		1288	IN	NS	z.nsset.brussels.brussels.		1288	IN	NS	d.nsset.brussels.brussels.		1288	IN	NS	a.nsset.brussels.brussels.		1288	IN	NS	y.nsset.brussels.brussels.		1288	IN	NS	c.nsset.brussels.c.nsset.brussels.	3599	IN	A	194.0.43.1c.nsset.brussels.	3599	IN	AAAA	2001:678:68::1

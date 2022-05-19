@@ -1,7 +1,0 @@
-; timestamp: 20220306T201107Z
-; source id: tld-query-goldpoint.-l.gmoregistry.net.
-; source locator: l.gmoregistry.net.
-; source IP address: 37.209.198.4
-; backup point IP address: 111.42.148.76
-; status: success
-goldpoint.		3599	IN	NS	k.gmoregistry.net.goldpoint.		3599	IN	NS	a.gmoregistry.net.goldpoint.		3599	IN	NS	l.gmoregistry.net.goldpoint.		3599	IN	NS	b.gmoregistry.net.l.gmoregistry.net.	3282	IN	A	37.209.198.4l.gmoregistry.net.	3282	IN	AAAA	2001:dcd:4::4

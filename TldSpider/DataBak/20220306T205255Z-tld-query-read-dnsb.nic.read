@@ -1,7 +1,0 @@
-; timestamp: 20220306T205255Z
-; source id: tld-query-read.-dnsb.nic.read.
-; source locator: dnsb.nic.read.
-; source IP address: 156.154.101.3
-; backup point IP address: 111.42.148.76
-; status: success
-read.			598	IN	NS	dns1.nic.read.read.			598	IN	NS	dns3.nic.read.read.			598	IN	NS	dnsd.nic.read.read.			598	IN	NS	dnsa.nic.read.read.			598	IN	NS	dns4.nic.read.read.			598	IN	NS	dnsb.nic.read.read.			598	IN	NS	dnsc.nic.read.read.			598	IN	NS	dns2.nic.read.dnsb.nic.read.		3600	IN	A	156.154.101.3dnsb.nic.read.		3600	IN	AAAA	2001:502:2eda::3

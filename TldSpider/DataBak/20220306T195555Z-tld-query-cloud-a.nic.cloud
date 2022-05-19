@@ -1,7 +1,0 @@
-; timestamp: 20220306T195555Z
-; source id: tld-query-cloud.-a.nic.cloud.
-; source locator: a.nic.cloud.
-; source IP address: 37.209.192.10
-; backup point IP address: 111.42.148.76
-; status: success
-cloud.			1002	IN	NS	b.nic.cloud.cloud.			1002	IN	NS	c.nic.cloud.cloud.			1002	IN	NS	d.nic.cloud.cloud.			1002	IN	NS	a.nic.cloud.a.nic.cloud.		184	IN	A	37.209.192.10a.nic.cloud.		184	IN	AAAA	2001:dcd:1::10

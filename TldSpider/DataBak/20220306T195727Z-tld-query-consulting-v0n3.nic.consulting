@@ -1,7 +1,0 @@
-; timestamp: 20220306T195727Z
-; source id: tld-query-consulting.-v0n3.nic.consulting.
-; source locator: v0n3.nic.consulting.
-; source IP address: 161.232.12.65
-; backup point IP address: 111.42.148.76
-; status: success
-consulting.		934	IN	NS	v2n1.nic.consulting.consulting.		934	IN	NS	v0n2.nic.consulting.consulting.		934	IN	NS	v2n0.nic.consulting.consulting.		934	IN	NS	v0n1.nic.consulting.consulting.		934	IN	NS	v0n3.nic.consulting.consulting.		934	IN	NS	v0n0.nic.consulting.v0n3.nic.consulting.	3599	IN	A	161.232.12.65v0n3.nic.consulting.	3599	IN	AAAA	2a01:8840:f6::65

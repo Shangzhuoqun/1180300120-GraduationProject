@@ -1,7 +1,0 @@
-; timestamp: 20220306T205552Z
-; source id: tld-query-rogers.-b0.nic.rogers.
-; source locator: b0.nic.rogers.
-; source IP address: 65.22.109.33
-; backup point IP address: 111.42.148.76
-; status: success
-rogers.			3599	IN	NS	b0.nic.rogers.rogers.			3599	IN	NS	a0.nic.rogers.rogers.			3599	IN	NS	c0.nic.rogers.rogers.			3599	IN	NS	a2.nic.rogers.b0.nic.rogers.		600	IN	A	65.22.109.33b0.nic.rogers.		599	IN	AAAA	2a01:8840:6b::33

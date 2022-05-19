@@ -1,27 +1,0 @@
-; timestamp: 20220306T204729Z
-; source id: tld-query-pe.-quipu.rcp.net.pe.
-; source locator: quipu.rcp.net.pe.
-; source IP address: 200.1.176.4
-; backup point IP address: 111.42.148.76
-; status: success
-pe.			3600	IN	NS	PE1.DNSNODE.NET.pe.			3600	IN	NS	QUIPU.RCP.NET.PE.pe.			3600	IN	NS	A.LACTLD.ORG.pe.			3600	IN	NS	PCH.RCP.PE.quipu.rcp.net.pe.	3597	IN	A	200.1.176.4dig @200.1.176.4 quipu.rcp.net.pe. AAAA
-
-; <<>> DiG 9.16.23 <<>> @200.1.176.4 quipu.rcp.net.pe. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43704
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;quipu.rcp.net.pe.		IN	AAAA
-
-;; AUTHORITY SECTION:
-rcp.net.pe.		1797	IN	SOA	NS.RCP.NET.PE.net. operador.rcp.pe. 2022030400 3600 1800 604800 3600
-
-;; Query time: 4 msec
-;; SERVER: 200.1.176.4#53(200.1.176.4)
-;; WHEN: Sun Mar 06 20:47:32 ;; MSG SIZE  rcvd: 111
-

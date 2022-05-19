@@ -1,7 +1,0 @@
-; timestamp: 20220306T204602Z
-; source id: tld-query-osaka.-ns3.dns.nic.osaka.
-; source locator: ns3.dns.nic.osaka.
-; source IP address: 156.154.159.130
-; backup point IP address: 111.42.148.76
-; status: success
-osaka.			3597	IN	NS	b.nic.osaka.osaka.			3597	IN	NS	ns3.dns.nic.osaka.osaka.			3597	IN	NS	ns2.dns.nic.osaka.osaka.			3597	IN	NS	c.nic.osaka.osaka.			3597	IN	NS	ns1.dns.nic.osaka.osaka.			3597	IN	NS	a.nic.osaka.ns3.dns.nic.osaka.	3600	IN	A	156.154.159.130ns3.dns.nic.osaka.	3600	IN	AAAA	2610:a1:1073::82

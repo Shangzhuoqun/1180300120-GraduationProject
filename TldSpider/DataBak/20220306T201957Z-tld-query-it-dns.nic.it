@@ -1,7 +1,0 @@
-; timestamp: 20220306T201957Z
-; source id: tld-query-it.-dns.nic.it.
-; source locator: dns.nic.it.
-; source IP address: 192.12.192.5
-; backup point IP address: 111.42.148.76
-; status: success
-it.			3599	IN	NS	r.dns.it.it.			3599	IN	NS	s.dns.it.it.			3599	IN	NS	m.dns.it.it.			3599	IN	NS	a.dns.it.it.			3599	IN	NS	dns.nic.it.it.			3599	IN	NS	nameserver.cnr.it.dns.nic.it.		600	IN	A	192.12.192.5dns.nic.it.		2974	IN	AAAA	2a00:d40:1:1::5

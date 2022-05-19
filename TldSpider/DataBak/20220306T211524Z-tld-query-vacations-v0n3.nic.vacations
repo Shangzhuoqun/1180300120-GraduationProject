@@ -1,7 +1,0 @@
-; timestamp: 20220306T211524Z
-; source id: tld-query-vacations.-v0n3.nic.vacations.
-; source locator: v0n3.nic.vacations.
-; source IP address: 161.232.10.58
-; backup point IP address: 111.42.148.76
-; status: success
-vacations.		3593	IN	NS	v2n0.nic.vacations.vacations.		3593	IN	NS	v0n0.nic.vacations.vacations.		3593	IN	NS	v0n1.nic.vacations.vacations.		3593	IN	NS	v0n2.nic.vacations.vacations.		3593	IN	NS	v2n1.nic.vacations.vacations.		3593	IN	NS	v0n3.nic.vacations.v0n3.nic.vacations.	3600	IN	A	161.232.10.58v0n3.nic.vacations.	3600	IN	AAAA	2a01:8840:f4::58

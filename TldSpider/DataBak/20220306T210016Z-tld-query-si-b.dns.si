@@ -1,7 +1,0 @@
-; timestamp: 20220306T210016Z
-; source id: tld-query-si.-b.dns.si.
-; source locator: b.dns.si.
-; source IP address: 194.249.4.44
-; backup point IP address: 111.42.148.76
-; status: success
-si.			3600	IN	NS	l.dns.si.si.			3600	IN	NS	k.dns.si.si.			3600	IN	NS	b.dns.si.si.			3600	IN	NS	g.dns.si.si.			3600	IN	NS	i.dns.si.si.			3600	IN	NS	h.dns.si.si.			3600	IN	NS	f.dns.si.b.dns.si.		3600	IN	A	194.249.4.44b.dns.si.		3600	IN	AAAA	2001:1470:8000:53::44

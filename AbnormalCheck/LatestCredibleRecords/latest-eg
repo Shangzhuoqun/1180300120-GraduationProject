@@ -1,8 +1,0 @@
-ns5.univie.ac.at.	172800	in	a	193.171.255.77
-ns5.univie.ac.at.	172800	in	aaaa	2001:628:453:4305:0:0:0:53
-rip.psg.com.	172800	in	a	147.28.0.39
-rip.psg.com.	172800	in	aaaa	2001:418:1:0:0:0:0:39
-eg.	172800	in	ns	ns5.univie.ac.at.
-eg.	172800	in	ns	rip.psg.com.
-eg.	172800	in	ns	frcu.eun.eg.
-frcu.eun.eg.	172800	in	a	193.227.1.1

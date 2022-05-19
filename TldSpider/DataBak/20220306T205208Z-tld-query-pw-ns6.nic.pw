@@ -1,7 +1,0 @@
-; timestamp: 20220306T205208Z
-; source id: tld-query-pw.-ns6.nic.pw.
-; source locator: ns6.nic.pw.
-; source IP address: 212.18.249.12
-; backup point IP address: 111.42.148.76
-; status: success
-pw.			3599	IN	NS	ns1.nic.pw.pw.			3599	IN	NS	ns2.nic.pw.pw.			3599	IN	NS	ns6.nic.pw.pw.			3599	IN	NS	ns5.nic.pw.ns6.nic.pw.		1327	IN	A	212.18.249.12ns6.nic.pw.		688	IN	AAAA	2a04:2b00:13ff::12

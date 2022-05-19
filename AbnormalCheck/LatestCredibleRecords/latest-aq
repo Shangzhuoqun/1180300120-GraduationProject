@@ -1,9 +1,0 @@
-aq.	172800	in	ns	ns1.anycast.dns.aq.
-aq.	172800	in	ns	fork.sth.dnsnode.net.
-aq.	172800	in	ns	ns99.dns.net.nz.
-ns1.anycast.dns.aq.	172800	in	a	204.61.216.132
-ns1.anycast.dns.aq.	172800	in	aaaa	2001:500:14:6132:ad:0:0:1
-fork.sth.dnsnode.net.	172800	in	a	77.72.229.254
-fork.sth.dnsnode.net.	172800	in	aaaa	2a01:3f0:0:306:0:0:0:53
-ns99.dns.net.nz.	172800	in	a	202.46.190.131
-ns99.dns.net.nz.	172800	in	aaaa	2001:dce:2000:2:0:0:0:131

@@ -1,27 +1,0 @@
-; timestamp: 20220306T205120Z
-; source id: tld-query-property.-ns2.uniregistry.info.
-; source locator: ns2.uniregistry.info.
-; source IP address: 64.96.2.1
-; backup point IP address: 111.42.148.76
-; status: success
-property.		3599	IN	NS	ns1.uniregistry.net.property.		3599	IN	NS	ns4.uniregistry.info.property.		3599	IN	NS	ns3.uniregistry.net.property.		3599	IN	NS	ns2.uniregistry.info.ns2.uniregistry.info.	590	IN	A	64.96.2.1dig @64.96.2.1 ns2.uniregistry.info. AAAA
-
-; <<>> DiG 9.16.23 <<>> @64.96.2.1 ns2.uniregistry.info. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10821
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns2.uniregistry.info.		IN	AAAA
-
-;; AUTHORITY SECTION:
-uniregistry.info.	125	IN	SOA	ns.uniregistry.net. ops.uniregistry.net. 2020072107 3600 60 24796800 300
-
-;; Query time: 6 msec
-;; SERVER: 64.96.2.1#53(64.96.2.1)
-;; WHEN: Sun Mar 06 20:51:21 ;; MSG SIZE  rcvd: 107
-

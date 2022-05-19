@@ -1,27 +1,0 @@
-; timestamp: 20220306T200321Z
-; source id: tld-query-er.-zaranew.noc.net.er.
-; source locator: zaranew.noc.net.er.
-; source IP address: 196.200.96.2
-; backup point IP address: 111.42.148.76
-; status: success
-er.			86400	IN	NS	zaranew.noc.net.er.er.			86400	IN	NS	er.cctld.authdns.ripe.net.er.			86400	IN	NS	sawanew.noc.net.er.zaranew.noc.net.er.	3595	IN	A	196.200.96.2dig @196.200.96.2 zaranew.noc.net.er. AAAA
-
-; <<>> DiG 9.16.23 <<>> @196.200.96.2 zaranew.noc.net.er. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20333
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;zaranew.noc.net.er.		IN	AAAA
-
-;; AUTHORITY SECTION:
-noc.net.er.		1795	IN	SOA	sawanew.noc.net.er. hostmaster.noc.net.er. 2011042000 7200 3600 1814400 172800
-
-;; Query time: 6 msec
-;; SERVER: 196.200.96.2#53(196.200.96.2)
-;; WHEN: Sun Mar 06 20:03:29 ;; MSG SIZE  rcvd: 102
-

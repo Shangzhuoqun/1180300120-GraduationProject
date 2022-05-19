@@ -1,7 +1,0 @@
-; timestamp: 20220306T194627Z
-; source id: tld-query-best.-a.nic.best.
-; source locator: a.nic.best.
-; source IP address: 194.169.218.109
-; backup point IP address: 111.42.148.76
-; status: success
-best.			1427	IN	NS	c.nic.best.best.			1427	IN	NS	a.nic.best.best.			1427	IN	NS	b.nic.best.best.			1427	IN	NS	d.nic.best.a.nic.best.		3600	IN	A	194.169.218.109a.nic.best.		3600	IN	AAAA	2001:67c:13cc::1:109

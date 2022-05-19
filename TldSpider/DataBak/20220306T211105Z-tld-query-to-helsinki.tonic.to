@@ -1,27 +1,0 @@
-; timestamp: 20220306T211105Z
-; source id: tld-query-to.-helsinki.tonic.to.
-; source locator: helsinki.tonic.to.
-; source IP address: 95.216.159.42
-; backup point IP address: 111.42.148.76
-; status: success
-to.			3578	IN	NS	newyork.tonic.to.to.			3578	IN	NS	frankfurt.tonic.to.to.			3578	IN	NS	helsinki.tonic.to.to.			3578	IN	NS	colo.tonic.to.to.			3578	IN	NS	singapore.tonic.to.to.			3578	IN	NS	sydney.tonic.to.to.			3578	IN	NS	tonic.to.helsinki.tonic.to.	3600	IN	A	95.216.159.42dig @95.216.159.42 helsinki.tonic.to. AAAA
-
-; <<>> DiG 9.16.23 <<>> @95.216.159.42 helsinki.tonic.to. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40075
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;helsinki.tonic.to.		IN	AAAA
-
-;; AUTHORITY SECTION:
-tonic.to.		1446	IN	SOA	tonic.to. hostmaster.colo.to. 2020121901 43200 7200 2592000 3600
-
-;; Query time: 15 msec
-;; SERVER: 95.216.159.42#53(95.216.159.42)
-;; WHEN: Sun Mar 06 21:11:27 ;; MSG SIZE  rcvd: 98
-

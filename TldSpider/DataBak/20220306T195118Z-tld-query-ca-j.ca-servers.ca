@@ -1,7 +1,0 @@
-; timestamp: 20220306T195118Z
-; source id: tld-query-ca.-j.ca-servers.ca.
-; source locator: j.ca-servers.ca.
-; source IP address: 198.182.167.1
-; backup point IP address: 111.42.148.76
-; status: success
-ca.			83988	IN	NS	j.ca-servers.ca.ca.			83988	IN	NS	x.ca-servers.ca.ca.			83988	IN	NS	c.ca-servers.ca.ca.			83988	IN	NS	any.ca-servers.ca.j.ca-servers.ca.	3600	IN	A	198.182.167.1j.ca-servers.ca.	3600	IN	AAAA	2001:500:83::1

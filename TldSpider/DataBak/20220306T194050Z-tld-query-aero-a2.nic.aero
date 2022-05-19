@@ -1,7 +1,0 @@
-; timestamp: 20220306T194050Z
-; source id: tld-query-aero.-a2.nic.aero.
-; source locator: a2.nic.aero.
-; source IP address: 199.249.115.1
-; backup point IP address: 111.42.148.76
-; status: success
-aero.			1652	IN	NS	b2.nic.aero.aero.			1652	IN	NS	a0.nic.aero.aero.			1652	IN	NS	a2.nic.aero.aero.			1652	IN	NS	c0.nic.aero.aero.			1652	IN	NS	b0.nic.aero.a2.nic.aero.		598	IN	A	199.249.115.1a2.nic.aero.		599	IN	AAAA	2001:500:43::1

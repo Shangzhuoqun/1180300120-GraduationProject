@@ -1,7 +1,0 @@
-; timestamp: 20220306T202908Z
-; source id: tld-query-ly.-ns-ly.afrinic.net.
-; source locator: ns-ly.afrinic.net.
-; source IP address: 196.216.168.24
-; backup point IP address: 111.42.148.76
-; status: success
-ly.			3600	IN	NS	dns1.lttnet.net.ly.			3600	IN	NS	ns-ly.afrinic.net.ly.			3600	IN	NS	phloem.uoregon.edu.ly.			3600	IN	NS	dns.lttnet.net.ly.			3600	IN	NS	pch.ltt.ly.ns-ly.afrinic.net.	3310	IN	A	196.216.168.24ns-ly.afrinic.net.	593	IN	AAAA	2001:43f8:120::24

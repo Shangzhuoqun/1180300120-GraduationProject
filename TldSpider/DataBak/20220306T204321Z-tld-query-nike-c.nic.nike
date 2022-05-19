@@ -1,7 +1,0 @@
-; timestamp: 20220306T204321Z
-; source id: tld-query-nike.-c.nic.nike.
-; source locator: c.nic.nike.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-nike.			3599	IN	NS	a.nic.nike.nike.			3599	IN	NS	ns3.dns.nic.nike.nike.			3599	IN	NS	ns2.dns.nic.nike.nike.			3599	IN	NS	b.nic.nike.nike.			3599	IN	NS	c.nic.nike.nike.			3599	IN	NS	ns1.dns.nic.nike.c.nic.nike.		3599	IN	A	37.209.196.9c.nic.nike.		3600	IN	AAAA	2001:dcd:3::9

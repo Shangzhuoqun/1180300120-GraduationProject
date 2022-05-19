@@ -1,7 +1,0 @@
-; timestamp: 20220306T210933Z
-; source id: tld-query-theater.-v0n2.nic.theater.
-; source locator: v0n2.nic.theater.
-; source IP address: 65.22.22.64
-; backup point IP address: 111.42.148.76
-; status: success
-theater.		3598	IN	NS	v0n0.nic.theater.theater.		3598	IN	NS	v0n3.nic.theater.theater.		3598	IN	NS	v2n1.nic.theater.theater.		3598	IN	NS	v0n2.nic.theater.theater.		3598	IN	NS	v0n1.nic.theater.theater.		3598	IN	NS	v2n0.nic.theater.v0n2.nic.theater.	3599	IN	A	65.22.22.64v0n2.nic.theater.	3598	IN	AAAA	2a01:8840:18::64

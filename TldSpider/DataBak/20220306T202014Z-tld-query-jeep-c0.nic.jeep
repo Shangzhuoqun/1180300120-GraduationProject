@@ -1,7 +1,0 @@
-; timestamp: 20220306T202014Z
-; source id: tld-query-jeep.-c0.nic.jeep.
-; source locator: c0.nic.jeep.
-; source IP address: 65.22.78.41
-; backup point IP address: 111.42.148.76
-; status: success
-jeep.			3598	IN	NS	a0.nic.jeep.jeep.			3598	IN	NS	a2.nic.jeep.jeep.			3598	IN	NS	b0.nic.jeep.jeep.			3598	IN	NS	c0.nic.jeep.c0.nic.jeep.		598	IN	A	65.22.78.41c0.nic.jeep.		597	IN	AAAA	2a01:8840:4c::41

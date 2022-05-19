@@ -1,7 +1,0 @@
-; timestamp: 20220306T203846Z
-; source id: tld-query-moscow.-b.dns.flexireg.net.
-; source locator: b.dns.flexireg.net.
-; source IP address: 195.253.64.6
-; backup point IP address: 111.42.148.76
-; status: success
-moscow.			3594	IN	NS	c.dns.flexireg.org.moscow.			3594	IN	NS	a.dns.flexireg.ru.moscow.			3594	IN	NS	b.dns.flexireg.net.moscow.			3594	IN	NS	d.dns.flexireg.domains.b.dns.flexireg.net.	3600	IN	A	195.253.64.6b.dns.flexireg.net.	3600	IN	AAAA	2a01:5b0:4::6

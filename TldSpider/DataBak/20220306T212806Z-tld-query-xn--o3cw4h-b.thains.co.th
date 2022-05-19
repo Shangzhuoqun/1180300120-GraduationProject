@@ -1,7 +1,0 @@
-; timestamp: 20220306T212806Z
-; source id: tld-query-xn--o3cw4h.-b.thains.co.th.
-; source locator: b.thains.co.th.
-; source IP address: 203.159.64.64
-; backup point IP address: 111.42.148.76
-; status: success
-xn--o3cw4h.		3598	IN	NS	ns.thnic.net.xn--o3cw4h.		3598	IN	NS	b.thains.co.th.xn--o3cw4h.		3598	IN	NS	a.thains.co.th.xn--o3cw4h.		3598	IN	NS	p.thains.co.th.b.thains.co.th.		945	IN	A	203.159.64.64b.thains.co.th.		1799	IN	AAAA	2405:3340:e011:3000::30

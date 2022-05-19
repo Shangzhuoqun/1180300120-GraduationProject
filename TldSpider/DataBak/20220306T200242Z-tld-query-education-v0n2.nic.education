@@ -1,7 +1,0 @@
-; timestamp: 20220306T200242Z
-; source id: tld-query-education.-v0n2.nic.education.
-; source locator: v0n2.nic.education.
-; source IP address: 65.22.30.38
-; backup point IP address: 111.42.148.76
-; status: success
-education.		399	IN	NS	v0n1.nic.education.education.		399	IN	NS	v0n2.nic.education.education.		399	IN	NS	v0n3.nic.education.education.		399	IN	NS	v2n1.nic.education.education.		399	IN	NS	v0n0.nic.education.education.		399	IN	NS	v2n0.nic.education.v0n2.nic.education.	3471	IN	A	65.22.30.38v0n2.nic.education.	3471	IN	AAAA	2a01:8840:20::38

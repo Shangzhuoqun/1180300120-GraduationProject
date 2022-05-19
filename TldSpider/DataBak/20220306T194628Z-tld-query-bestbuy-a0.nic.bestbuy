@@ -1,7 +1,0 @@
-; timestamp: 20220306T194628Z
-; source id: tld-query-bestbuy.-a0.nic.bestbuy.
-; source locator: a0.nic.bestbuy.
-; source IP address: 65.22.216.9
-; backup point IP address: 111.42.148.76
-; status: success
-bestbuy.		1426	IN	NS	b0.nic.bestbuy.bestbuy.		1426	IN	NS	c0.nic.bestbuy.bestbuy.		1426	IN	NS	a0.nic.bestbuy.bestbuy.		1426	IN	NS	a2.nic.bestbuy.a0.nic.bestbuy.		600	IN	A	65.22.216.9a0.nic.bestbuy.		600	IN	AAAA	2a01:8840:d2::9

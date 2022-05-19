@@ -1,7 +1,0 @@
-; timestamp: 20220306T212130Z
-; source id: tld-query-xn--54b7fta0cc.-bayanno.btcl.net.bd.
-; source locator: bayanno.btcl.net.bd.
-; source IP address: 180.211.212.213
-; backup point IP address: 111.42.148.76
-; status: success
-xn--54b7fta0cc.		10799	IN	NS	bayanno.btcl.net.bd.xn--54b7fta0cc.		10799	IN	NS	bd-ns.anycast.pch.net.xn--54b7fta0cc.		10799	IN	NS	ekushey.btcl.net.bd.bayanno.btcl.net.bd.	1800	IN	A	180.211.212.213bayanno.btcl.net.bd.	1800	IN	AAAA	2407:5000:88:2::3

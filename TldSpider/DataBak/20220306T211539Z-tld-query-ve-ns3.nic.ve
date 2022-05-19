@@ -1,27 +1,0 @@
-; timestamp: 20220306T211539Z
-; source id: tld-query-ve.-ns3.nic.ve.
-; source locator: ns3.nic.ve.
-; source IP address: 190.9.129.56
-; backup point IP address: 111.42.148.76
-; status: success
-ve.			18000	IN	NS	ssdns-tld.nic.cl.ve.			18000	IN	NS	ns3.nic.ve.ve.			18000	IN	NS	ns4.nic.ve.ve.			18000	IN	NS	ns6.nic.ve.ve.			18000	IN	NS	ns5.nic.ve.ve.			18000	IN	NS	a.lactld.org.ns3.nic.ve.		18000	IN	A	190.9.129.56dig @190.9.129.56 ns3.nic.ve. AAAA
-
-; <<>> DiG 9.16.23 <<>> @190.9.129.56 ns3.nic.ve. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40730
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns3.nic.ve.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.ve.			3600	IN	SOA	ns4.nic.ve. nicve.conatel.gob.ve. 2021050496 1200 300 1296000 3600
-
-;; Query time: 1532 msec
-;; SERVER: 190.9.129.56#53(190.9.129.56)
-;; WHEN: Sun Mar 06 21:15:44 ;; MSG SIZE  rcvd: 97
-

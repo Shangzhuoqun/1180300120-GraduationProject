@@ -1,7 +1,0 @@
-; timestamp: 20220306T212900Z
-; source id: tld-query-xn--unup4y.-v0n3.nic.xn--unup4y.
-; source locator: v0n3.nic.xn--unup4y.
-; source IP address: 161.232.10.34
-; backup point IP address: 111.42.148.76
-; status: success
-xn--unup4y.		3598	IN	NS	v2n1.nic.xn--unup4y.xn--unup4y.		3598	IN	NS	v0n0.nic.xn--unup4y.xn--unup4y.		3598	IN	NS	v2n0.nic.xn--unup4y.xn--unup4y.		3598	IN	NS	v0n2.nic.xn--unup4y.xn--unup4y.		3598	IN	NS	v0n1.nic.xn--unup4y.xn--unup4y.		3598	IN	NS	v0n3.nic.xn--unup4y.v0n3.nic.xn--unup4y.	3599	IN	A	161.232.10.34v0n3.nic.xn--unup4y.	3599	IN	AAAA	2a01:8840:f4::34

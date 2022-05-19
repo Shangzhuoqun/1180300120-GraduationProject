@@ -1,7 +1,0 @@
-; timestamp: 20220306T201654Z
-; source id: tld-query-id.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-id.			3372	IN	NS	e.dns.id.id.			3372	IN	NS	ns4.apnic.net.id.			3372	IN	NS	d.dns.id.id.			3372	IN	NS	b.dns.id.id.			3372	IN	NS	c.dns.id.ns4.apnic.net.		3316	IN	A	202.12.31.53ns4.apnic.net.		771	IN	AAAA	2001:dd8:12::53

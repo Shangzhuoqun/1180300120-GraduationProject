@@ -1,7 +1,0 @@
-; timestamp: 20220306T211249Z
-; source id: tld-query-tui.-a.nic.tui.
-; source locator: a.nic.tui.
-; source IP address: 194.169.218.103
-; backup point IP address: 111.42.148.76
-; status: success
-tui.			172800	IN	NS	b.nic.tui.tui.			172800	IN	NS	d.nic.tui.tui.			172800	IN	NS	a.nic.tui.tui.			172800	IN	NS	c.nic.tui.a.nic.tui.		3600	IN	A	194.169.218.103a.nic.tui.		3600	IN	AAAA	2001:67c:13cc::1:103

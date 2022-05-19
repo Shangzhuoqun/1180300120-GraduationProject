@@ -1,27 +1,0 @@
-; timestamp: 20220306T194632Z
-; source id: tld-query-bf.-censvrns0001.ird.fr.
-; source locator: censvrns0001.ird.fr.
-; source IP address: 91.203.32.147
-; backup point IP address: 111.42.148.76
-; status: success
-bf.			1421	IN	NS	pch.ns.registre.bf.bf.			1421	IN	NS	a.registre.bf.bf.			1421	IN	NS	censvrns0001.ird.fr.bf.			1421	IN	NS	ns-bf.nic.fr.censvrns0001.ird.fr.	2388	IN	A	91.203.32.147dig @91.203.32.147 censvrns0001.ird.fr. AAAA
-
-; <<>> DiG 9.16.23 <<>> @91.203.32.147 censvrns0001.ird.fr. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9442
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;censvrns0001.ird.fr.		IN	AAAA
-
-;; AUTHORITY SECTION:
-ird.fr.			588	IN	SOA	censvrns0005.intranet.ird.fr. hostmaster.ird.fr. 2014034800 14400 3600 604800 3600
-
-;; Query time: 62 msec
-;; SERVER: 91.203.32.147#53(91.203.32.147)
-;; WHEN: Sun Mar 06 19:46:35 ;; MSG SIZE  rcvd: 117
-

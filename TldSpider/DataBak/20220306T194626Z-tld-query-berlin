@@ -1,9 +1,0 @@
-; timestamp: 20220306T194626Z
-; source id: tld-query-berlin.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-a.dns.nic.berlin.:../TldSpider/DataBak/20220306T194626Z-tld-query-berlin-a.dns.nic.berlin
-m.dns.nic.berlin.:../TldSpider/DataBak/20220306T194626Z-tld-query-berlin-m.dns.nic.berlin
-n.dns.nic.berlin.:../TldSpider/DataBak/20220306T194626Z-tld-query-berlin-n.dns.nic.berlin

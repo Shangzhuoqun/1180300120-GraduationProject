@@ -1,7 +1,0 @@
-; timestamp: 20220306T205019Z
-; source id: tld-query-pr.-pr-dns.denic.de.
-; source locator: pr-dns.denic.de.
-; source IP address: 194.0.11.111
-; backup point IP address: 111.42.148.76
-; status: success
-pr.			86400	IN	NS	b2.pr.afilias-nst.org.pr.			86400	IN	NS	a0.pr.afilias-nst.info.pr.			86400	IN	NS	d0.pr.afilias-nst.org.pr.			86400	IN	NS	c0.pr.afilias-nst.info.pr.			86400	IN	NS	a.lactld.org.pr.			86400	IN	NS	a2.pr.afilias-nst.info.pr.			86400	IN	NS	b0.pr.afilias-nst.org.pr.			86400	IN	NS	pr-dns.denic.de.pr-dns.denic.de.	3600	IN	A	194.0.11.111pr-dns.denic.de.	909	IN	AAAA	2001:678:e:111::53

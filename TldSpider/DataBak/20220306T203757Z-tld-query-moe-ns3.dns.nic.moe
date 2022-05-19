@@ -1,7 +1,0 @@
-; timestamp: 20220306T203757Z
-; source id: tld-query-moe.-ns3.dns.nic.moe.
-; source locator: ns3.dns.nic.moe.
-; source IP address: 156.154.159.114
-; backup point IP address: 111.42.148.76
-; status: success
-moe.			86400	IN	NS	a.nic.moe.moe.			86400	IN	NS	b.nic.moe.moe.			86400	IN	NS	c.nic.moe.moe.			86400	IN	NS	ns1.dns.nic.moe.moe.			86400	IN	NS	ns2.dns.nic.moe.moe.			86400	IN	NS	ns3.dns.nic.moe.ns3.dns.nic.moe.	600	IN	A	156.154.159.114ns3.dns.nic.moe.	600	IN	AAAA	2610:a1:1073::72

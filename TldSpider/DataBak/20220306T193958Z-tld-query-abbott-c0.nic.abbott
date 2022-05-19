@@ -1,7 +1,0 @@
-; timestamp: 20220306T193958Z
-; source id: tld-query-abbott.-c0.nic.abbott.
-; source locator: c0.nic.abbott.
-; source IP address: 65.22.158.41
-; backup point IP address: 111.42.148.76
-; status: success
-abbott.			1687	IN	NS	a2.nic.abbott.abbott.			1687	IN	NS	c0.nic.abbott.abbott.			1687	IN	NS	b0.nic.abbott.abbott.			1687	IN	NS	a0.nic.abbott.c0.nic.abbott.		599	IN	A	65.22.158.41c0.nic.abbott.		599	IN	AAAA	2a01:8840:9c::41

@@ -1,7 +1,0 @@
-; timestamp: 20220306T211502Z
-; source id: tld-query-us.-b.cctld.us.
-; source locator: b.cctld.us.
-; source IP address: 156.154.125.70
-; backup point IP address: 111.42.148.76
-; status: success
-us.			3600	IN	NS	x.cctld.us.us.			3600	IN	NS	w.cctld.us.us.			3600	IN	NS	y.cctld.us.us.			3600	IN	NS	f.cctld.us.us.			3600	IN	NS	k.cctld.us.us.			3600	IN	NS	b.cctld.us.b.cctld.us.		2504	IN	A	156.154.125.70b.cctld.us.		1409	IN	AAAA	2001:502:ad09::29

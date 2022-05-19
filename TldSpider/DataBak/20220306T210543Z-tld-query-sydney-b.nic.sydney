@@ -1,7 +1,0 @@
-; timestamp: 20220306T210543Z
-; source id: tld-query-sydney.-b.nic.sydney.
-; source locator: b.nic.sydney.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-sydney.			3600	IN	NS	b.nic.sydney.sydney.			3600	IN	NS	a.nic.sydney.sydney.			3600	IN	NS	c.nic.sydney.sydney.			3600	IN	NS	d.nic.sydney.b.nic.sydney.		3600	IN	A	37.209.194.10b.nic.sydney.		3600	IN	AAAA	2001:dcd:2::10

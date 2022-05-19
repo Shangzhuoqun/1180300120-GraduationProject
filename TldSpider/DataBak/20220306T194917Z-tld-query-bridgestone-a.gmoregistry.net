@@ -1,7 +1,0 @@
-; timestamp: 20220306T194917Z
-; source id: tld-query-bridgestone.-a.gmoregistry.net.
-; source locator: a.gmoregistry.net.
-; source IP address: 37.209.192.4
-; backup point IP address: 111.42.148.76
-; status: success
-bridgestone.		1294	IN	NS	a.gmoregistry.net.bridgestone.		1294	IN	NS	k.gmoregistry.net.bridgestone.		1294	IN	NS	b.gmoregistry.net.bridgestone.		1294	IN	NS	l.gmoregistry.net.a.gmoregistry.net.	3600	IN	A	37.209.192.4a.gmoregistry.net.	3600	IN	AAAA	2001:dcd:1::4

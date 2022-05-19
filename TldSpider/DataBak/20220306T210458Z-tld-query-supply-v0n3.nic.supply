@@ -1,7 +1,0 @@
-; timestamp: 20220306T210458Z
-; source id: tld-query-supply.-v0n3.nic.supply.
-; source locator: v0n3.nic.supply.
-; source IP address: 161.232.12.52
-; backup point IP address: 111.42.148.76
-; status: success
-supply.			3597	IN	NS	v2n1.nic.supply.supply.			3597	IN	NS	v0n2.nic.supply.supply.			3597	IN	NS	v2n0.nic.supply.supply.			3597	IN	NS	v0n3.nic.supply.supply.			3597	IN	NS	v0n0.nic.supply.supply.			3597	IN	NS	v0n1.nic.supply.v0n3.nic.supply.	3599	IN	A	161.232.12.52v0n3.nic.supply.	3598	IN	AAAA	2a01:8840:f6::52

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210827Z
-; source id: tld-query-teva.-ns3.dns.nic.teva.
-; source locator: ns3.dns.nic.teva.
-; source IP address: 156.154.159.160
-; backup point IP address: 111.42.148.76
-; status: success
-teva.			3597	IN	NS	c.nic.teva.teva.			3597	IN	NS	ns1.dns.nic.teva.teva.			3597	IN	NS	ns2.dns.nic.teva.teva.			3597	IN	NS	ns3.dns.nic.teva.teva.			3597	IN	NS	a.nic.teva.teva.			3597	IN	NS	b.nic.teva.ns3.dns.nic.teva.	3599	IN	A	156.154.159.160ns3.dns.nic.teva.	3599	IN	AAAA	2610:a1:1073::a0

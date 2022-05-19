@@ -1,7 +1,0 @@
-; timestamp: 20220306T205650Z
-; source id: tld-query-safe.-dnsc.nic.safe.
-; source locator: dnsc.nic.safe.
-; source IP address: 156.154.102.3
-; backup point IP address: 111.42.148.76
-; status: success
-safe.			3597	IN	NS	dnsa.nic.safe.safe.			3597	IN	NS	dns3.nic.safe.safe.			3597	IN	NS	dns1.nic.safe.safe.			3597	IN	NS	dns4.nic.safe.safe.			3597	IN	NS	dnsc.nic.safe.safe.			3597	IN	NS	dnsd.nic.safe.safe.			3597	IN	NS	dnsb.nic.safe.safe.			3597	IN	NS	dns2.nic.safe.dnsc.nic.safe.		3600	IN	A	156.154.102.3dnsc.nic.safe.		3600	IN	AAAA	2610:a1:1009::3

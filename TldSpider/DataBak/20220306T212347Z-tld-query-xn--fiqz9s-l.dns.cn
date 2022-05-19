@@ -1,27 +1,0 @@
-; timestamp: 20220306T212347Z
-; source id: tld-query-xn--fiqz9s.-l.dns.cn.
-; source locator: l.dns.cn.
-; source IP address: 125.208.36.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--fiqz9s.		3598	IN	NS	k.dns.cn.xn--fiqz9s.		3598	IN	NS	h.dns.cn.xn--fiqz9s.		3598	IN	NS	l.dns.cn.xn--fiqz9s.		3598	IN	NS	i.dns.cn.xn--fiqz9s.		3598	IN	NS	m.dns.cn.xn--fiqz9s.		3598	IN	NS	j.dns.cn.xn--fiqz9s.		3598	IN	NS	n.dns.cn.l.dns.cn.		3327	IN	A	125.208.36.1dig @125.208.36.1 l.dns.cn. AAAA
-
-; <<>> DiG 9.16.23 <<>> @125.208.36.1 l.dns.cn. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28046
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;l.dns.cn.			IN	AAAA
-
-;; AUTHORITY SECTION:
-dns.cn.			1797	IN	SOA	a.dns.cn. root.cnnic.cn. 2017080901 3600 600 1209600 43200
-
-;; Query time: 0 msec
-;; SERVER: 125.208.36.1#53(125.208.36.1)
-;; WHEN: Sun Mar 06 21:23:49 ;; MSG SIZE  rcvd: 86
-

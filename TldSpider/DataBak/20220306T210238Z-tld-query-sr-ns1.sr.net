@@ -1,7 +1,0 @@
-; timestamp: 20220306T210238Z
-; source id: tld-query-sr.-ns1.sr.net.
-; source locator: ns1.sr.net.
-; source IP address: 200.1.159.148
-; backup point IP address: 111.42.148.76
-; status: success
-sr.			28800	IN	NS	ns1.sr.net.sr.			28800	IN	NS	ns2.sr.net.ns1.sr.net.		3600	IN	A	200.1.159.148ns1.sr.net.		3600	IN	AAAA	2803:a200:15:1001::2

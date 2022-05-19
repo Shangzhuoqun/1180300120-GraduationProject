@@ -1,7 +1,0 @@
-; timestamp: 20220306T212253Z
-; source id: tld-query-xn--cckwcxetd.-dns1.nic.xn--cckwcxetd.
-; source locator: dns1.nic.xn--cckwcxetd.
-; source IP address: 213.248.218.92
-; backup point IP address: 111.42.148.76
-; status: success
-xn--cckwcxetd.		3600	IN	NS	dnsa.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dns4.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dns1.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dns2.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dns3.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dnsb.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dnsc.nic.xn--cckwcxetd.xn--cckwcxetd.		3600	IN	NS	dnsd.nic.xn--cckwcxetd.dns1.nic.xn--cckwcxetd.	3599	IN	A	213.248.218.92dns1.nic.xn--cckwcxetd.	3599	IN	AAAA	2a01:618:402::92

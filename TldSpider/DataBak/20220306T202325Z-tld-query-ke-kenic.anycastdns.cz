@@ -1,27 +1,0 @@
-; timestamp: 20220306T202325Z
-; source id: tld-query-ke.-kenic.anycastdns.cz.
-; source locator: kenic.anycastdns.cz.
-; source IP address: 185.28.194.194
-; backup point IP address: 111.42.148.76
-; status: success
-ke.			3600	IN	NS	MZIZI.KENIC.OR.ke.ke.			3600	IN	NS	NS.ANYCAST.KENIC.OR.ke.ke.			3600	IN	NS	KENIC.ANYCASTDNS.CZ.ke.			3600	IN	NS	NS2KE.DNS.BUSINESS.ke.			3600	IN	NS	NS-KE.AFRINIC.NET.kenic.anycastdns.cz.	750	IN	A	185.28.194.194kenic.anycastdns.cz.	750	IN	A	185.38.108.108dig @185.38.108.108 kenic.anycastdns.cz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @185.38.108.108 kenic.anycastdns.cz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39518
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;kenic.anycastdns.cz.		IN	AAAA
-
-;; AUTHORITY SECTION:
-anycastdns.cz.		1800	IN	SOA	ns1.anycastdns.cz. root.gransy.com. 2631870100 86400 900 1209600 1800
-
-;; Query time: 997 msec
-;; SERVER: 185.38.108.108#53(185.38.108.108)
-;; WHEN: Sun Mar 06 20:23:28 ;; MSG SIZE  rcvd: 103
-

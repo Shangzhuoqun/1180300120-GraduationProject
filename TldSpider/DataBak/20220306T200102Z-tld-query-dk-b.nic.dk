@@ -1,7 +1,0 @@
-; timestamp: 20220306T200102Z
-; source id: tld-query-dk.-b.nic.dk.
-; source locator: b.nic.dk.
-; source IP address: 193.163.102.222
-; backup point IP address: 111.42.148.76
-; status: success
-dk.			473	IN	NS	b.nic.dk.dk.			473	IN	NS	p.nic.dk.dk.			473	IN	NS	d.nic.dk.dk.			473	IN	NS	c.nic.dk.dk.			473	IN	NS	l.nic.dk.dk.			473	IN	NS	s.nic.dk.dk.			473	IN	NS	a.nic.dk.b.nic.dk.		3600	IN	A	193.163.102.222b.nic.dk.		3600	IN	AAAA	2a01:630:0:80::53

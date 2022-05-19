@@ -1,7 +1,0 @@
-; timestamp: 20220306T205922Z
-; source id: tld-query-sex.-a.nic.sex.
-; source locator: a.nic.sex.
-; source IP address: 37.209.192.10
-; backup point IP address: 111.42.148.76
-; status: success
-sex.			3600	IN	NS	d.nic.sex.sex.			3600	IN	NS	c.nic.sex.sex.			3600	IN	NS	a.nic.sex.sex.			3600	IN	NS	b.nic.sex.a.nic.sex.		3600	IN	A	37.209.192.10a.nic.sex.		3599	IN	AAAA	2001:dcd:1::10

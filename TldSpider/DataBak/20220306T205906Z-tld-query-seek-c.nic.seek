@@ -1,7 +1,0 @@
-; timestamp: 20220306T205906Z
-; source id: tld-query-seek.-c.nic.seek.
-; source locator: c.nic.seek.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-seek.			3599	IN	NS	d.nic.seek.seek.			3599	IN	NS	c.nic.seek.seek.			3599	IN	NS	b.nic.seek.seek.			3599	IN	NS	a.nic.seek.c.nic.seek.		3599	IN	A	37.209.196.9c.nic.seek.		3599	IN	AAAA	2001:dcd:3::9

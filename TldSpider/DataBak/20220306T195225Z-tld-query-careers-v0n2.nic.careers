@@ -1,7 +1,0 @@
-; timestamp: 20220306T195225Z
-; source id: tld-query-careers.-v0n2.nic.careers.
-; source locator: v0n2.nic.careers.
-; source IP address: 65.22.26.48
-; backup point IP address: 111.42.148.76
-; status: success
-careers.		1142	IN	NS	v0n3.nic.careers.careers.		1142	IN	NS	v0n2.nic.careers.careers.		1142	IN	NS	v0n1.nic.careers.careers.		1142	IN	NS	v2n1.nic.careers.careers.		1142	IN	NS	v2n0.nic.careers.careers.		1142	IN	NS	v0n0.nic.careers.v0n2.nic.careers.	3600	IN	A	65.22.26.48v0n2.nic.careers.	3600	IN	AAAA	2a01:8840:1c::48

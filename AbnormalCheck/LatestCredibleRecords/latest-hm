@@ -1,6 +1,0 @@
-hm.	172800	in	ns	ns1.registry.hm.
-hm.	172800	in	ns	ns2.registry.hm.
-hm.	172800	in	ns	ns3.registry.hm.
-ns1.registry.hm.	172800	in	a	208.70.79.25
-ns2.registry.hm.	172800	in	a	208.70.79.24
-ns3.registry.hm.	172800	in	a	128.199.180.188

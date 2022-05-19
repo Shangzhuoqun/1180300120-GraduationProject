@@ -1,7 +1,0 @@
-; timestamp: 20220306T201724Z
-; source id: tld-query-imdb.-dnsa.nic.imdb.
-; source locator: dnsa.nic.imdb.
-; source IP address: 156.154.100.3
-; backup point IP address: 111.42.148.76
-; status: success
-imdb.			3599	IN	NS	dns2.nic.imdb.imdb.			3599	IN	NS	dns4.nic.imdb.imdb.			3599	IN	NS	dnsd.nic.imdb.imdb.			3599	IN	NS	dnsc.nic.imdb.imdb.			3599	IN	NS	dns3.nic.imdb.imdb.			3599	IN	NS	dnsa.nic.imdb.imdb.			3599	IN	NS	dns1.nic.imdb.imdb.			3599	IN	NS	dnsb.nic.imdb.dnsa.nic.imdb.		3599	IN	A	156.154.100.3dnsa.nic.imdb.		3598	IN	AAAA	2001:502:ad09::3

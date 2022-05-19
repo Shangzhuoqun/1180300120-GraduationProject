@@ -1,7 +1,0 @@
-; timestamp: 20220306T213007Z
-; source id: tld-query-yoga.-a.nic.yoga.
-; source locator: a.nic.yoga.
-; source IP address: 37.209.192.10
-; backup point IP address: 111.42.148.76
-; status: success
-yoga.			3600	IN	NS	d.nic.yoga.yoga.			3600	IN	NS	a.nic.yoga.yoga.			3600	IN	NS	b.nic.yoga.yoga.			3600	IN	NS	c.nic.yoga.a.nic.yoga.		3600	IN	A	37.209.192.10a.nic.yoga.		3600	IN	AAAA	2001:dcd:1::10

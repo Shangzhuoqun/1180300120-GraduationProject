@@ -1,7 +1,0 @@
-; timestamp: 20220306T211915Z
-; source id: tld-query-win.-ns2.dns.nic.win.
-; source locator: ns2.dns.nic.win.
-; source IP address: 156.154.145.182
-; backup point IP address: 111.42.148.76
-; status: success
-win.			3599	IN	NS	ns2.dns.nic.win.win.			3599	IN	NS	ns3.dns.nic.win.win.			3599	IN	NS	a.nic.win.win.			3599	IN	NS	b.nic.win.win.			3599	IN	NS	ns1.dns.nic.win.win.			3599	IN	NS	c.nic.win.ns2.dns.nic.win.	3600	IN	A	156.154.145.182ns2.dns.nic.win.	3600	IN	AAAA	2610:a1:1072::b6

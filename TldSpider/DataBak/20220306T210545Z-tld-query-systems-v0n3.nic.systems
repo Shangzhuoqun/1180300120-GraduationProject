@@ -1,7 +1,0 @@
-; timestamp: 20220306T210545Z
-; source id: tld-query-systems.-v0n3.nic.systems.
-; source locator: v0n3.nic.systems.
-; source IP address: 161.232.10.38
-; backup point IP address: 111.42.148.76
-; status: success
-systems.		3598	IN	NS	v2n0.nic.systems.systems.		3598	IN	NS	v0n0.nic.systems.systems.		3598	IN	NS	v2n1.nic.systems.systems.		3598	IN	NS	v0n1.nic.systems.systems.		3598	IN	NS	v0n2.nic.systems.systems.		3598	IN	NS	v0n3.nic.systems.v0n3.nic.systems.	3600	IN	A	161.232.10.38v0n3.nic.systems.	3600	IN	AAAA	2a01:8840:f4::38

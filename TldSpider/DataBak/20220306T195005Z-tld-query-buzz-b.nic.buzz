@@ -1,7 +1,0 @@
-; timestamp: 20220306T195005Z
-; source id: tld-query-buzz.-b.nic.buzz.
-; source locator: b.nic.buzz.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-buzz.			1251	IN	NS	ns1.dns.nic.buzz.buzz.			1251	IN	NS	ns2.dns.nic.buzz.buzz.			1251	IN	NS	ns3.dns.nic.buzz.buzz.			1251	IN	NS	a.nic.buzz.buzz.			1251	IN	NS	c.nic.buzz.buzz.			1251	IN	NS	b.nic.buzz.b.nic.buzz.		3600	IN	A	37.209.194.10b.nic.buzz.		3600	IN	AAAA	2001:dcd:2::10

@@ -1,27 +1,0 @@
-; timestamp: 20220306T211513Z
-; source id: tld-query-uz.-ns6.uz.
-; source locator: ns6.uz.
-; source IP address: 83.69.129.33
-; backup point IP address: 111.42.148.76
-; status: success
-uz.			3600	IN	NS	ns6.uz.uz.			3600	IN	NS	ns4.uz.uz.			3600	IN	NS	ns1.uz.uz.			3600	IN	NS	ns3.uz.uz.			3600	IN	NS	ns5.uz.uz.			3600	IN	NS	ns7.uz.uz.			3600	IN	NS	ns2.uz.ns6.uz.			3595	IN	A	83.69.129.33dig @83.69.129.33 ns6.uz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @83.69.129.33 ns6.uz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51888
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns6.uz.				IN	AAAA
-
-;; AUTHORITY SECTION:
-uz.			1797	IN	SOA	ns.uz. hostmaster.cctld.uz. 2022046596 3600 900 5184000 14400
-
-;; Query time: 0 msec
-;; SERVER: 83.69.129.33#53(83.69.129.33)
-;; WHEN: Sun Mar 06 21:15:18 ;; MSG SIZE  rcvd: 91
-

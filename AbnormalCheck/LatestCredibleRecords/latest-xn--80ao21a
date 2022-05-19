@@ -1,6 +1,0 @@
-ns.nic.kz.	172800	in	a	194.0.21.5
-ns.nic.kz.	172800	in	aaaa	2001:678:98:1:0:0:0:5
-ns1.nic.kz.	172800	in	a	185.79.212.7
-ns1.nic.kz.	172800	in	aaaa	2a01:7640:9000:0:0:0:0:7
-xn--80ao21a.	172800	in	ns	ns.nic.kz.
-xn--80ao21a.	172800	in	ns	ns1.nic.kz.

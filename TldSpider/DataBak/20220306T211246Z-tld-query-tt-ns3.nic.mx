@@ -1,27 +1,0 @@
-; timestamp: 20220306T211246Z
-; source id: tld-query-tt.-ns3.nic.mx.
-; source locator: ns3.nic.mx.
-; source IP address: 200.33.111.1
-; backup point IP address: 111.42.148.76
-; status: success
-tt.			3172	IN	NS	a.lactld.org.tt.			3172	IN	NS	pch.nic.tt.tt.			3172	IN	NS	ripe.nic.tt.tt.			3172	IN	NS	ns3.nic.mx.ns3.nic.mx.		600	IN	A	200.33.111.1dig @200.33.111.1 ns3.nic.mx. AAAA
-
-; <<>> DiG 9.16.23 <<>> @200.33.111.1 ns3.nic.mx. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13398
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns3.nic.mx.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.mx.			300	IN	SOA	m.mx-ns.mx. hostmaster.nic.mx. 2022012502 3600 900 604800 1800
-
-;; Query time: 192 msec
-;; SERVER: 200.33.111.1#53(200.33.111.1)
-;; WHEN: Sun Mar 06 21:12:46 ;; MSG SIZE  rcvd: 94
-

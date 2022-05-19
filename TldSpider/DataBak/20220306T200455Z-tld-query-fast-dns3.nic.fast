@@ -1,7 +1,0 @@
-; timestamp: 20220306T200455Z
-; source id: tld-query-fast.-dns3.nic.fast.
-; source locator: dns3.nic.fast.
-; source IP address: 213.248.222.66
-; backup point IP address: 111.42.148.76
-; status: success
-fast.			3599	IN	NS	dns2.nic.fast.fast.			3599	IN	NS	dns3.nic.fast.fast.			3599	IN	NS	dnsb.nic.fast.fast.			3599	IN	NS	dns1.nic.fast.fast.			3599	IN	NS	dns4.nic.fast.fast.			3599	IN	NS	dnsa.nic.fast.fast.			3599	IN	NS	dnsc.nic.fast.fast.			3599	IN	NS	dnsd.nic.fast.dns3.nic.fast.		3599	IN	A	213.248.222.66dns3.nic.fast.		3598	IN	AAAA	2a01:618:406::66

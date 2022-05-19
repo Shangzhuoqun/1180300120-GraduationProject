@@ -1,6 +1,0 @@
-so.	172800	in	ns	d.nic.so.
-so.	172800	in	ns	e.nic.so.
-d.nic.so.	172800	in	a	196.216.168.54
-d.nic.so.	172800	in	aaaa	2001:43f8:120:0:0:0:0:54
-e.nic.so.	172800	in	a	204.61.216.101
-e.nic.so.	172800	in	aaaa	2001:500:14:6101:ad:0:0:1

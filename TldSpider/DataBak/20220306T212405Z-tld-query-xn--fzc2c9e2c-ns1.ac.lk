@@ -1,7 +1,0 @@
-; timestamp: 20220306T212405Z
-; source id: tld-query-xn--fzc2c9e2c.-ns1.ac.lk.
-; source locator: ns1.ac.lk.
-; source IP address: 192.248.1.162
-; backup point IP address: 111.42.148.76
-; status: success
-xn--fzc2c9e2c.		3598	IN	NS	ns-l.nic.lk.xn--fzc2c9e2c.		3598	IN	NS	ns-c.nic.lk.xn--fzc2c9e2c.		3598	IN	NS	ns-t.nic.lk.xn--fzc2c9e2c.		3598	IN	NS	ns1.ac.lk.xn--fzc2c9e2c.		3598	IN	NS	ns-d.nic.lk.xn--fzc2c9e2c.		3598	IN	NS	nic.lk-anycast.pch.net.xn--fzc2c9e2c.		3598	IN	NS	lk.communitydns.net.ns1.ac.lk.		3600	IN	A	192.248.1.162ns1.ac.lk.		3600	IN	AAAA	2401:dd00:1::162

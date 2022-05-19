@@ -1,7 +1,0 @@
-; timestamp: 20220306T194842Z
-; source id: tld-query-bot.-dnsa.nic.bot.
-; source locator: dnsa.nic.bot.
-; source IP address: 156.154.100.3
-; backup point IP address: 111.42.148.76
-; status: success
-bot.			1308	IN	NS	dnsb.nic.bot.bot.			1308	IN	NS	dnsa.nic.bot.bot.			1308	IN	NS	dns3.nic.bot.bot.			1308	IN	NS	dns2.nic.bot.bot.			1308	IN	NS	dns1.nic.bot.bot.			1308	IN	NS	dnsc.nic.bot.bot.			1308	IN	NS	dnsd.nic.bot.bot.			1308	IN	NS	dns4.nic.bot.dnsa.nic.bot.		3584	IN	A	156.154.100.3dnsa.nic.bot.		3583	IN	AAAA	2001:502:ad09::3

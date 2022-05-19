@@ -1,7 +1,0 @@
-; timestamp: 20220306T210054Z
-; source id: tld-query-skin.-b.nic.skin.
-; source locator: b.nic.skin.
-; source IP address: 185.24.64.118
-; backup point IP address: 111.42.148.76
-; status: success
-skin.			599	IN	NS	d.nic.skin.skin.			599	IN	NS	c.nic.skin.skin.			599	IN	NS	b.nic.skin.skin.			599	IN	NS	a.nic.skin.b.nic.skin.		3599	IN	A	185.24.64.118b.nic.skin.		3599	IN	AAAA	2a04:2b00:13cc::1:118

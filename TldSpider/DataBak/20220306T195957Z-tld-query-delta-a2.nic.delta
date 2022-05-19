@@ -1,7 +1,0 @@
-; timestamp: 20220306T195957Z
-; source id: tld-query-delta.-a2.nic.delta.
-; source locator: a2.nic.delta.
-; source IP address: 65.22.227.25
-; backup point IP address: 111.42.148.76
-; status: success
-delta.			521	IN	NS	a2.nic.delta.delta.			521	IN	NS	a0.nic.delta.delta.			521	IN	NS	b0.nic.delta.delta.			521	IN	NS	c0.nic.delta.a2.nic.delta.		599	IN	A	65.22.227.25a2.nic.delta.		599	IN	AAAA	2a01:8840:dd::25

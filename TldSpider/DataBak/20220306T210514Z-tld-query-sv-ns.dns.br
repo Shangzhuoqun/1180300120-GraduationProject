@@ -1,7 +1,0 @@
-; timestamp: 20220306T210514Z
-; source id: tld-query-sv.-ns.dns.br.
-; source locator: ns.dns.br.
-; source IP address: 200.160.0.5
-; backup point IP address: 111.42.148.76
-; status: success
-sv.			3600	IN	NS	a.lactld.org.sv.			3600	IN	NS	cir.red.sv.sv.			3600	IN	NS	sv.cctld.authdns.ripe.net.sv.			3600	IN	NS	ns.uu.net.sv.			3600	IN	NS	auth02.ns.uu.net.sv.			3600	IN	NS	ns.dns.br.sv.			3600	IN	NS	sir.red.sv.sv.			3600	IN	NS	dns-ext.nic.cr.ns.dns.br.		2804	IN	A	200.160.0.5ns.dns.br.		277	IN	AAAA	2001:12ff:0:a20::5

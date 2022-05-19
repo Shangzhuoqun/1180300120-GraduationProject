@@ -1,7 +1,0 @@
-; timestamp: 20220306T205916Z
-; source id: tld-query-seven.-d.nic.seven.
-; source locator: d.nic.seven.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-seven.			3598	IN	NS	b.nic.seven.seven.			3598	IN	NS	d.nic.seven.seven.			3598	IN	NS	c.nic.seven.seven.			3598	IN	NS	a.nic.seven.d.nic.seven.		3599	IN	A	37.209.198.9d.nic.seven.		3600	IN	AAAA	2001:dcd:4::9

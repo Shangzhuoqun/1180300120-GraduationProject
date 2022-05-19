@@ -1,27 +1,0 @@
-; timestamp: 20220306T202037Z
-; source id: tld-query-jm.-ns.jm.
-; source locator: ns.jm.
-; source IP address: 196.2.1.6
-; backup point IP address: 111.42.148.76
-; status: success
-jm.			1800	IN	NS	phloem.uoregon.edu.jm.			1800	IN	NS	jm.cctld.authdns.ripe.net.jm.			1800	IN	NS	ns.jm.jm.			1800	IN	NS	ns.utechjamaica.edu.jm.jm.			1800	IN	NS	ns-jm.ripe.net.jm.			1800	IN	NS	ns3-jm.fsl.org.jm.ns.jm.			1090	IN	A	196.2.1.6dig @196.2.1.6 ns.jm. AAAA
-
-; <<>> DiG 9.16.23 <<>> @196.2.1.6 ns.jm. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51737
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.jm.				IN	AAAA
-
-;; AUTHORITY SECTION:
-jm.			414	IN	SOA	ns.jm. dmaster.ns.jm. 302202222 3600 1800 604800 3600
-
-;; Query time: 13 msec
-;; SERVER: 196.2.1.6#53(196.2.1.6)
-;; WHEN: Sun Mar 06 20:20:39 ;; MSG SIZE  rcvd: 78
-

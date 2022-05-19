@@ -1,7 +1,0 @@
-; timestamp: 20220306T202558Z
-; source id: tld-query-lawyer.-v0n0.nic.lawyer.
-; source locator: v0n0.nic.lawyer.
-; source IP address: 65.22.24.14
-; backup point IP address: 111.42.148.76
-; status: success
-lawyer.			3600	IN	NS	v0n0.nic.lawyer.lawyer.			3600	IN	NS	v0n1.nic.lawyer.lawyer.			3600	IN	NS	v2n0.nic.lawyer.lawyer.			3600	IN	NS	v0n2.nic.lawyer.lawyer.			3600	IN	NS	v2n1.nic.lawyer.lawyer.			3600	IN	NS	v0n3.nic.lawyer.v0n0.nic.lawyer.	3600	IN	A	65.22.24.14v0n0.nic.lawyer.	3600	IN	AAAA	2a01:8840:1a::14

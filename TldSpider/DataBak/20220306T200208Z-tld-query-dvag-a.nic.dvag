@@ -1,7 +1,0 @@
-; timestamp: 20220306T200208Z
-; source id: tld-query-dvag.-a.nic.dvag.
-; source locator: a.nic.dvag.
-; source IP address: 194.169.218.84
-; backup point IP address: 111.42.148.76
-; status: success
-dvag.			424	IN	NS	b.nic.dvag.dvag.			424	IN	NS	c.nic.dvag.dvag.			424	IN	NS	d.nic.dvag.dvag.			424	IN	NS	a.nic.dvag.a.nic.dvag.		3600	IN	A	194.169.218.84a.nic.dvag.		3600	IN	AAAA	2001:67c:13cc::1:84

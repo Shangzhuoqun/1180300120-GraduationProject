@@ -1,7 +1,0 @@
-; timestamp: 20220306T210433Z
-; source id: tld-query-storage.-a.nic.storage.
-; source locator: a.nic.storage.
-; source IP address: 194.169.218.55
-; backup point IP address: 111.42.148.76
-; status: success
-storage.		600	IN	NS	d.nic.storage.storage.		600	IN	NS	b.nic.storage.storage.		600	IN	NS	a.nic.storage.storage.		600	IN	NS	c.nic.storage.a.nic.storage.		3600	IN	A	194.169.218.55a.nic.storage.		3599	IN	AAAA	2001:67c:13cc::1:55

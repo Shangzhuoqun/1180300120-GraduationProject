@@ -1,7 +1,0 @@
-; timestamp: 20220306T204425Z
-; source id: tld-query-nr.-phloem.uoregon.edu.
-; source locator: phloem.uoregon.edu.
-; source IP address: 128.223.32.35
-; backup point IP address: 111.42.148.76
-; status: success
-nr.			86400	IN	NS	ns1.cenpac.net.nr.nr.			86400	IN	NS	ns0.cenpac.net.nr.nr.			86400	IN	NS	phloem.uoregon.edu.nr.			86400	IN	NS	ns2.cenpac.net.nr.phloem.uoregon.edu.	1713	IN	A	128.223.32.35phloem.uoregon.edu.	1651	IN	AAAA	2001:468:d01:20::80df:2023

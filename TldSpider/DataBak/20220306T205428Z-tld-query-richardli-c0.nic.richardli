@@ -1,7 +1,0 @@
-; timestamp: 20220306T205428Z
-; source id: tld-query-richardli.-c0.nic.richardli.
-; source locator: c0.nic.richardli.
-; source IP address: 65.22.138.33
-; backup point IP address: 111.42.148.76
-; status: success
-richardli.		3593	IN	NS	b0.nic.richardli.richardli.		3593	IN	NS	c0.nic.richardli.richardli.		3593	IN	NS	a2.nic.richardli.richardli.		3593	IN	NS	a0.nic.richardli.c0.nic.richardli.	594	IN	A	65.22.138.33c0.nic.richardli.	594	IN	AAAA	2a01:8840:88::33

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205410Z
-; source id: tld-query-rest.-a.nic.rest.
-; source locator: a.nic.rest.
-; source IP address: 194.169.218.35
-; backup point IP address: 111.42.148.76
-; status: success
-rest.			3600	IN	NS	a.nic.rest.rest.			3600	IN	NS	d.nic.rest.rest.			3600	IN	NS	b.nic.rest.rest.			3600	IN	NS	c.nic.rest.a.nic.rest.		3600	IN	A	194.169.218.35a.nic.rest.		3600	IN	AAAA	2001:67c:13cc::1:35

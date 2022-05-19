@@ -1,7 +1,0 @@
-; timestamp: 20220306T211915Z
-; source id: tld-query-win.-a.nic.win.
-; source locator: a.nic.win.
-; source IP address: 37.209.192.10
-; backup point IP address: 111.42.148.76
-; status: success
-win.			3600	IN	NS	c.nic.win.win.			3600	IN	NS	ns2.dns.nic.win.win.			3600	IN	NS	ns1.dns.nic.win.win.			3600	IN	NS	ns3.dns.nic.win.win.			3600	IN	NS	b.nic.win.win.			3600	IN	NS	a.nic.win.a.nic.win.		3600	IN	A	37.209.192.10a.nic.win.		3600	IN	AAAA	2001:dcd:1::10

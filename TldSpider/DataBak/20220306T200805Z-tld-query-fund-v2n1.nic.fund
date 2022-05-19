@@ -1,7 +1,0 @@
-; timestamp: 20220306T200805Z
-; source id: tld-query-fund.-v2n1.nic.fund.
-; source locator: v2n1.nic.fund.
-; source IP address: 161.232.11.45
-; backup point IP address: 111.42.148.76
-; status: success
-fund.			3598	IN	NS	v0n0.nic.fund.fund.			3598	IN	NS	v0n1.nic.fund.fund.			3598	IN	NS	v0n2.nic.fund.fund.			3598	IN	NS	v2n1.nic.fund.fund.			3598	IN	NS	v0n3.nic.fund.fund.			3598	IN	NS	v2n0.nic.fund.v2n1.nic.fund.		3600	IN	A	161.232.11.45v2n1.nic.fund.		3600	IN	AAAA	2a01:8840:f5::45

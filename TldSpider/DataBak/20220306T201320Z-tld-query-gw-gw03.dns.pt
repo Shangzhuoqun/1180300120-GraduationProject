@@ -1,7 +1,0 @@
-; timestamp: 20220306T201320Z
-; source id: tld-query-gw.-gw03.dns.pt.
-; source locator: gw03.dns.pt.
-; source IP address: 204.61.216.114
-; backup point IP address: 111.42.148.76
-; status: success
-gw.			14400	IN	NS	gw03.dns.pt.gw.			14400	IN	NS	h.dns.pt.gw.			14400	IN	NS	gw01.dns.pt.gw03.dns.pt.		900	IN	A	204.61.216.114gw03.dns.pt.		900	IN	AAAA	2001:500:14:6114:ad::1

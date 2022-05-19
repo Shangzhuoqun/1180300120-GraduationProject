@@ -1,7 +1,0 @@
-; timestamp: 20220306T212742Z
-; source id: tld-query-xn--ngbc5azd.-d.nic.xn--ngbc5azd.
-; source locator: d.nic.xn--ngbc5azd.
-; source IP address: 37.209.198.3
-; backup point IP address: 111.42.148.76
-; status: success
-xn--ngbc5azd.		3599	IN	NS	a.nic.xn--ngbc5azd.xn--ngbc5azd.		3599	IN	NS	b.nic.xn--ngbc5azd.xn--ngbc5azd.		3599	IN	NS	d.nic.xn--ngbc5azd.xn--ngbc5azd.		3599	IN	NS	c.nic.xn--ngbc5azd.d.nic.xn--ngbc5azd.	3598	IN	A	37.209.198.3d.nic.xn--ngbc5azd.	3598	IN	AAAA	2001:dcd:4::3

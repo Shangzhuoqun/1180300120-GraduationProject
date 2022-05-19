@@ -1,7 +1,0 @@
-; timestamp: 20220306T200935Z
-; source id: tld-query-gent.-b.nic.gent.
-; source locator: b.nic.gent.
-; source IP address: 185.24.64.89
-; backup point IP address: 111.42.148.76
-; status: success
-gent.			3599	IN	NS	d.nic.gent.gent.			3599	IN	NS	b.nic.gent.gent.			3599	IN	NS	c.nic.gent.gent.			3599	IN	NS	a.nic.gent.b.nic.gent.		3600	IN	A	185.24.64.89b.nic.gent.		3600	IN	AAAA	2a04:2b00:13cc::1:89

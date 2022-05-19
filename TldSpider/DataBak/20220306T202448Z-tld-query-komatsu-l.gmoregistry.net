@@ -1,7 +1,0 @@
-; timestamp: 20220306T202448Z
-; source id: tld-query-komatsu.-l.gmoregistry.net.
-; source locator: l.gmoregistry.net.
-; source IP address: 37.209.198.4
-; backup point IP address: 111.42.148.76
-; status: success
-komatsu.		3599	IN	NS	b.gmoregistry.net.komatsu.		3599	IN	NS	k.gmoregistry.net.komatsu.		3599	IN	NS	l.gmoregistry.net.komatsu.		3599	IN	NS	a.gmoregistry.net.l.gmoregistry.net.	2460	IN	A	37.209.198.4l.gmoregistry.net.	2460	IN	AAAA	2001:dcd:4::4

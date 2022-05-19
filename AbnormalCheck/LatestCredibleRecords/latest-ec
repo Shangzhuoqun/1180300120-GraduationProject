@@ -1,9 +1,0 @@
-ec.	172800	in	ns	a.lactld.org.
-ec.	172800	in	ns	n2.nic.ec.
-ec.	172800	in	ns	n3.dns.ec.
-n3.dns.ec.	172800	in	a	204.61.216.39
-n3.dns.ec.	172800	in	aaaa	2001:500:14:6039:ad:0:0:1
-n2.nic.ec.	172800	in	a	200.12.199.1
-n2.nic.ec.	172800	in	aaaa	2801:0:60:0:0:0:0:1
-a.lactld.org.	172800	in	a	200.0.68.10
-a.lactld.org.	172800	in	aaaa	2801:14:a000:0:0:0:0:10

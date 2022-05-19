@@ -1,7 +1,0 @@
-; timestamp: 20220306T194933Z
-; source id: tld-query-bugatti.-a2.nic.bugatti.
-; source locator: a2.nic.bugatti.
-; source IP address: 65.22.211.9
-; backup point IP address: 111.42.148.76
-; status: success
-bugatti.		1281	IN	NS	a0.nic.bugatti.bugatti.		1281	IN	NS	c0.nic.bugatti.bugatti.		1281	IN	NS	a2.nic.bugatti.bugatti.		1281	IN	NS	b0.nic.bugatti.a2.nic.bugatti.		600	IN	A	65.22.211.9a2.nic.bugatti.		600	IN	AAAA	2a01:8840:cd::9

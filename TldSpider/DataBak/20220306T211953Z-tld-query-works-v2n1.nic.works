@@ -1,7 +1,0 @@
-; timestamp: 20220306T211953Z
-; source id: tld-query-works.-v2n1.nic.works.
-; source locator: v2n1.nic.works.
-; source IP address: 161.232.13.6
-; backup point IP address: 111.42.148.76
-; status: success
-works.			3598	IN	NS	v0n2.nic.works.works.			3598	IN	NS	v0n1.nic.works.works.			3598	IN	NS	v2n1.nic.works.works.			3598	IN	NS	v0n3.nic.works.works.			3598	IN	NS	v0n0.nic.works.works.			3598	IN	NS	v2n0.nic.works.v2n1.nic.works.		2606	IN	A	161.232.13.6v2n1.nic.works.		3289	IN	AAAA	2a01:8840:f7::6

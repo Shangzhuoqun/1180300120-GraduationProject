@@ -1,7 +1,0 @@
-; timestamp: 20220306T204059Z
-; source id: tld-query-my.-a.nic.my.
-; source locator: a.nic.my.
-; source IP address: 103.44.108.53
-; backup point IP address: 111.42.148.76
-; status: success
-my.			86400	IN	NS	a1.nic.my.my.			86400	IN	NS	d.mynic.centralnic-dns.com.my.			86400	IN	NS	a.mynic.centralnic-dns.com.my.			86400	IN	NS	c.mynic.centralnic-dns.com.my.			86400	IN	NS	b.mynic.centralnic-dns.com.my.			86400	IN	NS	a.nic.my.a.nic.my.		1367	IN	A	103.44.108.53a.nic.my.		600	IN	AAAA	2001:ddc:0:53::53

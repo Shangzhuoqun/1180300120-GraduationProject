@@ -1,7 +1,0 @@
-ns.dns.br.	172800	in	a	200.160.0.5
-ns.dns.br.	172800	in	aaaa	2001:12ff:0:a20:0:0:0:5
-gh.	172800	in	ns	ns.dns.br.
-gh.	172800	in	ns	ns1.nic.gh.
-gh.	172800	in	ns	ns2.nic.gh.
-ns1.nic.gh.	172800	in	a	197.253.95.251
-ns2.nic.gh.	172800	in	a	197.253.127.251

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194938Z
-; source id: tld-query-builders.-v2n1.nic.builders.
-; source locator: v2n1.nic.builders.
-; source IP address: 161.232.15.24
-; backup point IP address: 111.42.148.76
-; status: success
-builders.		1277	IN	NS	v2n0.nic.builders.builders.		1277	IN	NS	v0n1.nic.builders.builders.		1277	IN	NS	v0n3.nic.builders.builders.		1277	IN	NS	v0n2.nic.builders.builders.		1277	IN	NS	v2n1.nic.builders.builders.		1277	IN	NS	v0n0.nic.builders.v2n1.nic.builders.	3599	IN	A	161.232.15.24v2n1.nic.builders.	3599	IN	AAAA	2a01:8840:f9::24

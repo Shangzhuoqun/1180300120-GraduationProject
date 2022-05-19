@@ -1,7 +1,0 @@
-; timestamp: 20220306T201350Z
-; source id: tld-query-health.-b.nic.health.
-; source locator: b.nic.health.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-health.			3599	IN	NS	b.nic.health.health.			3599	IN	NS	a.nic.health.health.			3599	IN	NS	c.nic.health.health.			3599	IN	NS	ns3.dns.nic.health.health.			3599	IN	NS	ns1.dns.nic.health.health.			3599	IN	NS	ns2.dns.nic.health.b.nic.health.		3599	IN	A	37.209.194.10b.nic.health.		3600	IN	AAAA	2001:dcd:2::10

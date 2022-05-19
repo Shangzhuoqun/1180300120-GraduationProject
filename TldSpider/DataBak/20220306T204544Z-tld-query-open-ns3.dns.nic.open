@@ -1,7 +1,0 @@
-; timestamp: 20220306T204544Z
-; source id: tld-query-open.-ns3.dns.nic.open.
-; source locator: ns3.dns.nic.open.
-; source IP address: 156.154.159.128
-; backup point IP address: 111.42.148.76
-; status: success
-open.			3598	IN	NS	c.nic.open.open.			3598	IN	NS	ns3.dns.nic.open.open.			3598	IN	NS	ns1.dns.nic.open.open.			3598	IN	NS	b.nic.open.open.			3598	IN	NS	ns2.dns.nic.open.open.			3598	IN	NS	a.nic.open.ns3.dns.nic.open.	3597	IN	A	156.154.159.128ns3.dns.nic.open.	3597	IN	AAAA	2610:a1:1073::80

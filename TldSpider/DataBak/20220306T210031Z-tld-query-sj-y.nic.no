@@ -1,7 +1,0 @@
-; timestamp: 20220306T210031Z
-; source id: tld-query-sj.-y.nic.no.
-; source locator: y.nic.no.
-; source IP address: 193.75.4.22
-; backup point IP address: 111.42.148.76
-; status: success
-sj.			3595	IN	NS	nac.no.sj.			3595	IN	NS	y.nic.no.sj.			3595	IN	NS	z.nic.no.sj.			3595	IN	NS	nn.uninett.no.sj.			3595	IN	NS	x.nic.no.sj.			3595	IN	NS	server.nordu.net.y.nic.no.		1817	IN	A	193.75.4.22y.nic.no.		1817	IN	AAAA	2001:8c0:8200:1::2

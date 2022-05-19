@@ -1,9 +1,0 @@
-nl.	172800	in	ns	ns1.dns.nl.
-nl.	172800	in	ns	ns2.dns.nl.
-nl.	172800	in	ns	ns3.dns.nl.
-ns1.dns.nl.	172800	in	a	194.0.28.53
-ns1.dns.nl.	172800	in	aaaa	2001:678:2c:0:194:0:28:53
-ns2.dns.nl.	172800	in	a	194.146.106.42
-ns2.dns.nl.	172800	in	aaaa	2001:67c:1010:10:0:0:0:53
-ns3.dns.nl.	172800	in	a	194.0.25.24
-ns3.dns.nl.	172800	in	aaaa	2001:678:20:0:0:0:0:24

@@ -1,7 +1,0 @@
-; timestamp: 20220306T201328Z
-; source id: tld-query-hamburg.-a.dns.nic.hamburg.
-; source locator: a.dns.nic.hamburg.
-; source IP address: 194.0.25.21
-; backup point IP address: 111.42.148.76
-; status: success
-hamburg.		3600	IN	NS	m.dns.nic.hamburg.hamburg.		3600	IN	NS	a.dns.nic.hamburg.hamburg.		3600	IN	NS	n.dns.nic.hamburg.a.dns.nic.hamburg.	3599	IN	A	194.0.25.21a.dns.nic.hamburg.	3599	IN	AAAA	2001:678:20::21

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195416Z
-; source id: tld-query-ci.-ns-ci.afrinic.net.
-; source locator: ns-ci.afrinic.net.
-; source IP address: 196.216.168.30
-; backup point IP address: 111.42.148.76
-; status: success
-ci.			7200	IN	NS	phloem.uoregon.edu.ci.			7200	IN	NS	ci.hosting.nic.fr.ci.			7200	IN	NS	ns.nic.ci.ci.			7200	IN	NS	any.nic.ci.ci.			7200	IN	NS	ns1.nic.ci.ci.			7200	IN	NS	ns-ci.afrinic.net.ns-ci.afrinic.net.	600	IN	A	196.216.168.30ns-ci.afrinic.net.	2581	IN	AAAA	2001:43f8:120::30

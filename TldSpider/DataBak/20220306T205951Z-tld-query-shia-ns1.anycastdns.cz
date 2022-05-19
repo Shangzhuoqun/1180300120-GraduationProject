@@ -1,7 +1,0 @@
-; timestamp: 20220306T205951Z
-; source id: tld-query-shia.-ns1.anycastdns.cz.
-; source locator: ns1.anycastdns.cz.
-; source IP address: 185.38.108.108
-; backup point IP address: 111.42.148.76
-; status: success
-shia.			3598	IN	NS	ns1.anycastdns.cz.shia.			3598	IN	NS	b.ns.nic.shia.shia.			3598	IN	NS	ns2.anycastdns.cz.shia.			3598	IN	NS	a.ns.nic.shia.ns1.anycastdns.cz.	232	IN	A	185.38.108.108ns1.anycastdns.cz.	1381	IN	AAAA	2a00:fea0:dead::beef

@@ -1,7 +1,0 @@
-; timestamp: 20220306T200344Z
-; source id: tld-query-estate.-v0n1.nic.estate.
-; source locator: v0n1.nic.estate.
-; source IP address: 65.22.29.47
-; backup point IP address: 111.42.148.76
-; status: success
-estate.			3599	IN	NS	v2n0.nic.estate.estate.			3599	IN	NS	v0n3.nic.estate.estate.			3599	IN	NS	v0n0.nic.estate.estate.			3599	IN	NS	v0n1.nic.estate.estate.			3599	IN	NS	v2n1.nic.estate.estate.			3599	IN	NS	v0n2.nic.estate.v0n1.nic.estate.	3600	IN	A	65.22.29.47v0n1.nic.estate.	3600	IN	AAAA	2a01:8840:1f::47

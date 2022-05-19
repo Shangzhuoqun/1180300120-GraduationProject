@@ -1,7 +1,0 @@
-; timestamp: 20220306T211554Z
-; source id: tld-query-ventures.-v0n2.nic.ventures.
-; source locator: v0n2.nic.ventures.
-; source IP address: 65.22.26.11
-; backup point IP address: 111.42.148.76
-; status: success
-ventures.		3599	IN	NS	v0n0.nic.ventures.ventures.		3599	IN	NS	v0n2.nic.ventures.ventures.		3599	IN	NS	v2n0.nic.ventures.ventures.		3599	IN	NS	v0n3.nic.ventures.ventures.		3599	IN	NS	v2n1.nic.ventures.ventures.		3599	IN	NS	v0n1.nic.ventures.v0n2.nic.ventures.	3599	IN	A	65.22.26.11v0n2.nic.ventures.	3600	IN	AAAA	2a01:8840:1c::11

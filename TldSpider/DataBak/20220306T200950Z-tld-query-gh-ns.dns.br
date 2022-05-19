@@ -1,7 +1,0 @@
-; timestamp: 20220306T200950Z
-; source id: tld-query-gh.-ns.dns.br.
-; source locator: ns.dns.br.
-; source IP address: 200.160.0.5
-; backup point IP address: 111.42.148.76
-; status: success
-gh.			3600	IN	NS	ns1.nic.gh.gh.			3600	IN	NS	ns2.nic.gh.gh.			3600	IN	NS	ns.dns.br.ns.dns.br.		2311	IN	A	200.160.0.5ns.dns.br.		3600	IN	AAAA	2001:12ff:0:a20::5

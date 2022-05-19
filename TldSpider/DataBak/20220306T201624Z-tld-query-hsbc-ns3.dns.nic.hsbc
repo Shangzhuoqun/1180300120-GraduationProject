@@ -1,7 +1,0 @@
-; timestamp: 20220306T201624Z
-; source id: tld-query-hsbc.-ns3.dns.nic.hsbc.
-; source locator: ns3.dns.nic.hsbc.
-; source IP address: 156.154.159.76
-; backup point IP address: 111.42.148.76
-; status: success
-hsbc.			3596	IN	NS	b.nic.hsbc.hsbc.			3596	IN	NS	ns1.dns.nic.hsbc.hsbc.			3596	IN	NS	ns3.dns.nic.hsbc.hsbc.			3596	IN	NS	a.nic.hsbc.hsbc.			3596	IN	NS	c.nic.hsbc.hsbc.			3596	IN	NS	ns2.dns.nic.hsbc.ns3.dns.nic.hsbc.	3597	IN	A	156.154.159.76ns3.dns.nic.hsbc.	3597	IN	AAAA	2610:a1:1073::4c

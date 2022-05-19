@@ -1,7 +1,0 @@
-; timestamp: 20220306T211743Z
-; source id: tld-query-vn.-g.dns-servers.vn.
-; source locator: g.dns-servers.vn.
-; source IP address: 204.61.216.115
-; backup point IP address: 111.42.148.76
-; status: success
-vn.			3599	IN	NS	g.dns-servers.vn.vn.			3599	IN	NS	c.dns-servers.vn.vn.			3599	IN	NS	a.dns-servers.vn.vn.			3599	IN	NS	f.dns-servers.vn.vn.			3599	IN	NS	e.dns-servers.vn.vn.			3599	IN	NS	b.dns-servers.vn.vn.			3599	IN	NS	d.dns-servers.vn.g.dns-servers.vn.	3600	IN	A	204.61.216.115g.dns-servers.vn.	86400	IN	AAAA	2001:500:14:6115:ad::1

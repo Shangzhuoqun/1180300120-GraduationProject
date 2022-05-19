@@ -1,7 +1,0 @@
-; timestamp: 20220306T200140Z
-; source id: tld-query-dog.-v0n1.nic.dog.
-; source locator: v0n1.nic.dog.
-; source IP address: 65.22.33.45
-; backup point IP address: 111.42.148.76
-; status: success
-dog.			3600	IN	NS	v0n3.nic.dog.dog.			3600	IN	NS	v0n1.nic.dog.dog.			3600	IN	NS	v2n1.nic.dog.dog.			3600	IN	NS	v2n0.nic.dog.dog.			3600	IN	NS	v0n0.nic.dog.dog.			3600	IN	NS	v0n2.nic.dog.v0n1.nic.dog.		2525	IN	A	65.22.33.45v0n1.nic.dog.		2525	IN	AAAA	2a01:8840:23::45

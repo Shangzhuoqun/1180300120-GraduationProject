@@ -1,7 +1,0 @@
-; timestamp: 20220306T201957Z
-; source id: tld-query-it.-nameserver.cnr.it.
-; source locator: nameserver.cnr.it.
-; source IP address: 194.119.192.34
-; backup point IP address: 111.42.148.76
-; status: success
-it.			10800	IN	NS	nameserver.cnr.it.it.			10800	IN	NS	dns.nic.it.it.			10800	IN	NS	r.dns.it.it.			10800	IN	NS	s.dns.it.it.			10800	IN	NS	m.dns.it.it.			10800	IN	NS	a.dns.it.nameserver.cnr.it.	2768	IN	A	194.119.192.34nameserver.cnr.it.	3131	IN	AAAA	2a00:1620:c0:220:194:119:192:34

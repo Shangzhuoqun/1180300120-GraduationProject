@@ -1,7 +1,0 @@
-; timestamp: 20220306T202325Z
-; source id: tld-query-ke.-mzizi.kenic.or.ke.
-; source locator: mzizi.kenic.or.ke.
-; source IP address: 196.1.4.3
-; backup point IP address: 111.42.148.76
-; status: success
-ke.			86400	IN	NS	NS-KE.AFRINIC.NET.ke.			86400	IN	NS	MZIZI.KENIC.OR.KE.ke.			86400	IN	NS	NS2KE.DNS.BUSINESS.ke.			86400	IN	NS	NS.ANYCAST.KENIC.OR.KE.ke.			86400	IN	NS	KENIC.ANYCASTDNS.CZ.mzizi.kenic.or.ke.	600	IN	A	196.1.4.3mzizi.kenic.or.ke.	600	IN	A	196.1.4.130mzizi.kenic.or.ke.	600	IN	A	198.32.67.9mzizi.kenic.or.ke.	600	IN	AAAA	2001:43f8:10:0:50c0:a8ff:feee:30

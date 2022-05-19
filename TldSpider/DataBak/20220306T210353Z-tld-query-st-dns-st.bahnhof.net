@@ -1,7 +1,0 @@
-; timestamp: 20220306T210353Z
-; source id: tld-query-st.-dns-st.bahnhof.net.
-; source locator: dns-st.bahnhof.net.
-; source IP address: 79.136.119.20
-; backup point IP address: 111.42.148.76
-; status: success
-st.			86400	IN	NS	dns-st.bahnhof.net.st.			86400	IN	NS	dns-au.st.st.			86400	IN	NS	ns1.bahnhof.net.st.			86400	IN	NS	dns-us.st.dns-st.bahnhof.net.	3154	IN	A	79.136.119.20dns-st.bahnhof.net.	1727	IN	AAAA	2001:9b0:1:601:250:56ff:feb7:46

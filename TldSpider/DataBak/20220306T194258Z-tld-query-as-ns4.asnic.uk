@@ -1,7 +1,0 @@
-; timestamp: 20220306T194258Z
-; source id: tld-query-as.-ns4.asnic.uk.
-; source locator: ns4.asnic.uk.
-; source IP address: 43.230.51.254
-; backup point IP address: 111.42.148.76
-; status: success
-as.			21600	IN	NS	ns1.asnic.biz.as.			21600	IN	NS	ns2.asnic.info.as.			21600	IN	NS	ns3.asnic.org.as.			21600	IN	NS	ns4.asnic.uk.as.			21600	IN	NS	ns5.asnic.us.as.			21600	IN	NS	pch.nic.as.ns4.asnic.uk.		1559	IN	A	43.230.51.254ns4.asnic.uk.		2782	IN	AAAA	2401:fd80:407::254

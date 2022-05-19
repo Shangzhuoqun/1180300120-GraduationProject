@@ -1,9 +1,0 @@
-; timestamp: 20220306T202536Z
-; source id: tld-query-lancaster.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-d.nic.fr.:../TldSpider/DataBak/20220306T202536Z-tld-query-lancaster-d.nic.fr
-f.ext.nic.fr.:../TldSpider/DataBak/20220306T202536Z-tld-query-lancaster-f.ext.nic.fr
-g.ext.nic.fr.:../TldSpider/DataBak/20220306T202536Z-tld-query-lancaster-g.ext.nic.fr

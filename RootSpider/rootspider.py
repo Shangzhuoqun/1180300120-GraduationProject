@@ -6,7 +6,7 @@ import json
 import threading
 import logging
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 DataPath = None
 DataBakPath = None
 CurFilePath = None
@@ -77,7 +77,7 @@ def outputFileHead(time, server, status):
 
 
 def update():
-    os.system("python ./update_rootzone.py")
+    os.system("sudo python3 ./update_rootzone.py")
 
 
 def spider():
@@ -109,7 +109,7 @@ def spider():
             curTime = time.strftime("%FT%TZ").replace(':', '').replace('-', '')
             outFileName = curTime + '-' + ServerList[server_id]['source_id']
             tot = len(QueryList)
-            onetot = int(tot / NumofThread)
+            onetot = int((tot + NumofThread - 1) / NumofThread)
             queryListList = []
             resListList = []
             for i in range(NumofThread):
@@ -169,6 +169,7 @@ def spider():
     for tld in timeoutTLDSet:
         f.write(tld + '\n')
     f.close()
+    print('one time rootspider has finished')
 
 
 def format(filename):

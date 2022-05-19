@@ -1,7 +1,0 @@
-; timestamp: 20220306T205228Z
-; source id: tld-query-qpon.-a.nic.qpon.
-; source locator: a.nic.qpon.
-; source IP address: 194.169.218.128
-; backup point IP address: 111.42.148.76
-; status: success
-qpon.			3600	IN	NS	c.nic.qpon.qpon.			3600	IN	NS	d.nic.qpon.qpon.			3600	IN	NS	a.nic.qpon.qpon.			3600	IN	NS	b.nic.qpon.a.nic.qpon.		3595	IN	A	194.169.218.128a.nic.qpon.		3595	IN	AAAA	2001:67c:13cc::1:128

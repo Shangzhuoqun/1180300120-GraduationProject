@@ -1,7 +1,0 @@
-; timestamp: 20220306T202011Z
-; source id: tld-query-je.-dns4.nominetdns.uk.
-; source locator: dns4.nominetdns.uk.
-; source IP address: 43.230.51.254
-; backup point IP address: 111.42.148.76
-; status: success
-je.			3597	IN	NS	e.ci-servers.net.je.			3597	IN	NS	dns1.nominetdns.uk.je.			3597	IN	NS	dns3.nominetdns.uk.je.			3597	IN	NS	c.ci-servers.org.je.			3597	IN	NS	dns2.nominetdns.uk.je.			3597	IN	NS	dns4.nominetdns.uk.dns4.nominetdns.uk.	2974	IN	A	43.230.51.254dns4.nominetdns.uk.	2974	IN	AAAA	2401:fd80:407::254

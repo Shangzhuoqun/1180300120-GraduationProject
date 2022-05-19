@@ -1,7 +1,0 @@
-; timestamp: 20220306T194057Z
-; source id: tld-query-af.-ns1.anycastdns.cz.
-; source locator: ns1.anycastdns.cz.
-; source IP address: 185.38.108.108
-; backup point IP address: 111.42.148.76
-; status: success
-af.			1649	IN	NS	ns1.anycastdns.cz.af.			1649	IN	NS	ns.anycast.nic.af.af.			1649	IN	NS	ns2.anycastdns.cz.ns1.anycastdns.cz.	600	IN	A	185.38.108.108ns1.anycastdns.cz.	600	IN	AAAA	2a00:fea0:dead::beef

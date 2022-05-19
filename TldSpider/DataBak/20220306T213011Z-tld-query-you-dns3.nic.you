@@ -1,7 +1,0 @@
-; timestamp: 20220306T213011Z
-; source id: tld-query-you.-dns3.nic.you.
-; source locator: dns3.nic.you.
-; source IP address: 213.248.222.89
-; backup point IP address: 111.42.148.76
-; status: success
-you.			3600	IN	NS	dnsc.nic.you.you.			3600	IN	NS	dnsb.nic.you.you.			3600	IN	NS	dnsa.nic.you.you.			3600	IN	NS	dns3.nic.you.you.			3600	IN	NS	dns2.nic.you.you.			3600	IN	NS	dns1.nic.you.you.			3600	IN	NS	dnsd.nic.you.you.			3600	IN	NS	dns4.nic.you.dns3.nic.you.		3586	IN	A	213.248.222.89dns3.nic.you.		3587	IN	AAAA	2a01:618:406::89

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195441Z
-; source id: tld-query-citadel.-ns5.dns.nic.citadel.
-; source locator: ns5.dns.nic.citadel.
-; source IP address: 156.154.157.45
-; backup point IP address: 111.42.148.76
-; status: success
-citadel.		1062	IN	NS	ns2.dns.nic.citadel.citadel.		1062	IN	NS	ns1.dns.nic.citadel.citadel.		1062	IN	NS	ns3.dns.nic.citadel.citadel.		1062	IN	NS	ns5.dns.nic.citadel.citadel.		1062	IN	NS	ns6.dns.nic.citadel.citadel.		1062	IN	NS	ns4.dns.nic.citadel.ns5.dns.nic.citadel.	3599	IN	A	156.154.157.45ns5.dns.nic.citadel.	3599	IN	AAAA	2610:a1:1075::2d

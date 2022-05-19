@@ -1,7 +1,0 @@
-; timestamp: 20220306T210507Z
-; source id: tld-query-surf.-d.nic.surf.
-; source locator: d.nic.surf.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-surf.			3598	IN	NS	c.nic.surf.surf.			3598	IN	NS	b.nic.surf.surf.			3598	IN	NS	d.nic.surf.surf.			3598	IN	NS	a.nic.surf.d.nic.surf.		3599	IN	A	37.209.198.10d.nic.surf.		3599	IN	AAAA	2001:dcd:4::10

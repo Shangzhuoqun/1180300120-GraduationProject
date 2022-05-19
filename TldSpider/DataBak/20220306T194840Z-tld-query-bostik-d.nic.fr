@@ -1,7 +1,0 @@
-; timestamp: 20220306T194840Z
-; source id: tld-query-bostik.-d.nic.fr.
-; source locator: d.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-bostik.			1326	IN	NS	g.ext.nic.fr.bostik.			1326	IN	NS	f.ext.nic.fr.bostik.			1326	IN	NS	d.nic.fr.d.nic.fr.		1501	IN	A	194.0.9.1d.nic.fr.		1501	IN	AAAA	2001:678:c::1

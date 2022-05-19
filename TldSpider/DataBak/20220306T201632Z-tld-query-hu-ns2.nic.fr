@@ -1,7 +1,0 @@
-; timestamp: 20220306T201632Z
-; source id: tld-query-hu.-ns2.nic.fr.
-; source locator: ns2.nic.fr.
-; source IP address: 192.93.0.4
-; backup point IP address: 111.42.148.76
-; status: success
-hu.			2917	IN	NS	b.hu.hu.			2917	IN	NS	c.hu.hu.			2917	IN	NS	ns-com.nic.hu.hu.			2917	IN	NS	a.hu.hu.			2917	IN	NS	ns2.nic.fr.hu.			2917	IN	NS	d.hu.hu.			2917	IN	NS	e.hu.ns2.nic.fr.		2908	IN	A	192.93.0.4ns2.nic.fr.		1191	IN	AAAA	2001:660:3005:1::1:2

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195439Z
-; source id: tld-query-cisco.-ns3.dns.nic.cisco.
-; source locator: ns3.dns.nic.cisco.
-; source IP address: 156.154.159.44
-; backup point IP address: 111.42.148.76
-; status: success
-cisco.			1062	IN	NS	c.nic.cisco.cisco.			1062	IN	NS	ns3.dns.nic.cisco.cisco.			1062	IN	NS	a.nic.cisco.cisco.			1062	IN	NS	b.nic.cisco.cisco.			1062	IN	NS	ns1.dns.nic.cisco.cisco.			1062	IN	NS	ns2.dns.nic.cisco.ns3.dns.nic.cisco.	3600	IN	A	156.154.159.44ns3.dns.nic.cisco.	3600	IN	AAAA	2610:a1:1073::2c

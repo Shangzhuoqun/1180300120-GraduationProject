@@ -1,7 +1,0 @@
-; timestamp: 20220306T212426Z
-; source id: tld-query-xn--gckr3f0f.-ns3.dns.nic.xn--gckr3f0f.
-; source locator: ns3.dns.nic.xn--gckr3f0f.
-; source IP address: 156.154.171.69
-; backup point IP address: 111.42.148.76
-; status: success
-xn--gckr3f0f.		3598	IN	NS	ns1.dns.nic.xn--gckr3f0f.xn--gckr3f0f.		3598	IN	NS	a.nic.xn--gckr3f0f.xn--gckr3f0f.		3598	IN	NS	ns2.dns.nic.xn--gckr3f0f.xn--gckr3f0f.		3598	IN	NS	b.nic.xn--gckr3f0f.xn--gckr3f0f.		3598	IN	NS	ns3.dns.nic.xn--gckr3f0f.xn--gckr3f0f.		3598	IN	NS	c.nic.xn--gckr3f0f.ns3.dns.nic.xn--gckr3f0f. 3599	IN	A	156.154.171.69ns3.dns.nic.xn--gckr3f0f. 3598	IN	AAAA	2610:a1:1073::1:45

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212730Z
-; source id: tld-query-xn--mxtq1m.-a.nic.xn--mxtq1m.
-; source locator: a.nic.xn--mxtq1m.
-; source IP address: 202.169.175.130
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mxtq1m.		3600	IN	NS	d.nic.xn--mxtq1m.xn--mxtq1m.		3600	IN	NS	b.nic.xn--mxtq1m.xn--mxtq1m.		3600	IN	NS	a.nic.xn--mxtq1m.xn--mxtq1m.		3600	IN	NS	c.nic.xn--mxtq1m.a.nic.xn--mxtq1m.	3600	IN	A	202.169.175.130a.nic.xn--mxtq1m.	3600	IN	AAAA	2001:c08:175:128::175:128

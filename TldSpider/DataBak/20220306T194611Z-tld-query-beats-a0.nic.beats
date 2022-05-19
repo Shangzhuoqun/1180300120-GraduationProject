@@ -1,7 +1,0 @@
-; timestamp: 20220306T194611Z
-; source id: tld-query-beats.-a0.nic.beats.
-; source locator: a0.nic.beats.
-; source IP address: 65.22.60.9
-; backup point IP address: 111.42.148.76
-; status: success
-beats.			1440	IN	NS	c0.nic.beats.beats.			1440	IN	NS	a2.nic.beats.beats.			1440	IN	NS	a0.nic.beats.beats.			1440	IN	NS	b0.nic.beats.a0.nic.beats.		600	IN	A	65.22.60.9a0.nic.beats.		600	IN	AAAA	2a01:8840:3a::9

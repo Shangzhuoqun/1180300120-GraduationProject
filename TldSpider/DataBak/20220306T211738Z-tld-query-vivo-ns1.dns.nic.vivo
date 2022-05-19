@@ -1,7 +1,0 @@
-; timestamp: 20220306T211738Z
-; source id: tld-query-vivo.-ns1.dns.nic.vivo.
-; source locator: ns1.dns.nic.vivo.
-; source IP address: 156.154.169.57
-; backup point IP address: 111.42.148.76
-; status: success
-vivo.			3599	IN	NS	ns3.dns.nic.vivo.vivo.			3599	IN	NS	ns2.dns.nic.vivo.vivo.			3599	IN	NS	ns1.dns.nic.vivo.vivo.			3599	IN	NS	b.nic.vivo.vivo.			3599	IN	NS	a.nic.vivo.vivo.			3599	IN	NS	c.nic.vivo.ns1.dns.nic.vivo.	3599	IN	A	156.154.169.57ns1.dns.nic.vivo.	3599	IN	AAAA	2610:a1:1071::1:39

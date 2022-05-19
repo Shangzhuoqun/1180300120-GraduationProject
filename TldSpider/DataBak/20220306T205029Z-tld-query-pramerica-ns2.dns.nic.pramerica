@@ -1,7 +1,0 @@
-; timestamp: 20220306T205029Z
-; source id: tld-query-pramerica.-ns2.dns.nic.pramerica.
-; source locator: ns2.dns.nic.pramerica.
-; source IP address: 156.154.145.138
-; backup point IP address: 111.42.148.76
-; status: success
-pramerica.		3598	IN	NS	ns3.dns.nic.pramerica.pramerica.		3598	IN	NS	ns1.dns.nic.pramerica.pramerica.		3598	IN	NS	b.nic.pramerica.pramerica.		3598	IN	NS	c.nic.pramerica.pramerica.		3598	IN	NS	ns2.dns.nic.pramerica.pramerica.		3598	IN	NS	a.nic.pramerica.ns2.dns.nic.pramerica.	3599	IN	A	156.154.145.138ns2.dns.nic.pramerica.	3599	IN	AAAA	2610:a1:1072::8a

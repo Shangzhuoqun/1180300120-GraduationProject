@@ -1,7 +1,0 @@
-; timestamp: 20220306T212557Z
-; source id: tld-query-xn--mgbaam7a8h.-nsext-pch.aedns.ae.
-; source locator: nsext-pch.aedns.ae.
-; source IP address: 199.4.137.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbaam7a8h.		3599	IN	NS	nsext-pch.aedns.ae.xn--mgbaam7a8h.		3599	IN	NS	ns2.aedns.ae.xn--mgbaam7a8h.		3599	IN	NS	ns1.aedns.ae.nsext-pch.aedns.ae.	3599	IN	A	199.4.137.1nsext-pch.aedns.ae.	1315	IN	AAAA	2001:500:7d::1

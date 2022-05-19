@@ -1,7 +1,0 @@
-; timestamp: 20220306T195404Z
-; source id: tld-query-chintai.-b.nic.chintai.
-; source locator: b.nic.chintai.
-; source IP address: 37.209.194.9
-; backup point IP address: 111.42.148.76
-; status: success
-chintai.		1083	IN	NS	ns2.dns.nic.chintai.chintai.		1083	IN	NS	a.nic.chintai.chintai.		1083	IN	NS	c.nic.chintai.chintai.		1083	IN	NS	ns3.dns.nic.chintai.chintai.		1083	IN	NS	b.nic.chintai.chintai.		1083	IN	NS	ns1.dns.nic.chintai.b.nic.chintai.		3600	IN	A	37.209.194.9b.nic.chintai.		3599	IN	AAAA	2001:dcd:2::9

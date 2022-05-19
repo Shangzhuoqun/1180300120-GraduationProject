@@ -1,7 +1,0 @@
-; timestamp: 20220306T212643Z
-; source id: tld-query-xn--mgbayh7gpa.-jo.cctld.authdns.ripe.net.
-; source locator: jo.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.83
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgbayh7gpa.		3600	IN	NS	jo.cctld.authdns.ripe.net.xn--mgbayh7gpa.		3600	IN	NS	jordan1st.nic.gov.jo.xn--mgbayh7gpa.		3600	IN	NS	petra.nic.gov.jo.xn--mgbayh7gpa.		3600	IN	NS	amra.nic.gov.jo.xn--mgbayh7gpa.		3600	IN	NS	rip.psg.com.jo.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.83jo.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::83

@@ -1,7 +1,0 @@
-; timestamp: 20220306T211558Z
-; source id: tld-query-versicherung.-n.dns.nic.versicherung.
-; source locator: n.dns.nic.versicherung.
-; source IP address: 194.0.24.2
-; backup point IP address: 111.42.148.76
-; status: success
-versicherung.		3598	IN	NS	a.dns.nic.versicherung.versicherung.		3598	IN	NS	n.dns.nic.versicherung.versicherung.		3598	IN	NS	m.dns.nic.versicherung.n.dns.nic.versicherung.	599	IN	A	194.0.24.2n.dns.nic.versicherung.	599	IN	AAAA	2001:678:24::2

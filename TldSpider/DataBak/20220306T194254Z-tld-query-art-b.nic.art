@@ -1,7 +1,0 @@
-; timestamp: 20220306T194254Z
-; source id: tld-query-art.-b.nic.art.
-; source locator: b.nic.art.
-; source IP address: 185.24.64.49
-; backup point IP address: 111.42.148.76
-; status: success
-art.			172800	IN	NS	a.nic.art.art.			172800	IN	NS	b.nic.art.art.			172800	IN	NS	c.nic.art.art.			172800	IN	NS	d.nic.art.b.nic.art.		3600	IN	A	185.24.64.49b.nic.art.		3600	IN	AAAA	2a04:2b00:13cc::1:49

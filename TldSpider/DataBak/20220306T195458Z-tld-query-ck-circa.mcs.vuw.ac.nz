@@ -1,27 +1,0 @@
-; timestamp: 20220306T195458Z
-; source id: tld-query-ck.-circa.mcs.vuw.ac.nz.
-; source locator: circa.mcs.vuw.ac.nz.
-; source IP address: 130.195.5.12
-; backup point IP address: 111.42.148.76
-; status: success
-ck.			86400	IN	NS	parau.oyster.net.ck.ck.			86400	IN	NS	poiparau.oyster.net.ck.ck.			86400	IN	NS	downstage.mcs.vuw.ac.nz.ck.			86400	IN	NS	circa.mcs.vuw.ac.nz.circa.mcs.vuw.ac.nz.	3600	IN	A	130.195.5.12dig @130.195.5.12 circa.mcs.vuw.ac.nz. AAAA
-
-; <<>> DiG 9.16.23 <<>> @130.195.5.12 circa.mcs.vuw.ac.nz. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2363
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;circa.mcs.vuw.ac.nz.		IN	AAAA
-
-;; AUTHORITY SECTION:
-mcs.vuw.ac.nz.		10800	IN	SOA	ns1.ecs.vuw.ac.nz. mark.ecs.vuw.ac.nz. 201608260 14400 600 1728000 86400
-
-;; Query time: 3817 msec
-;; SERVER: 130.195.5.12#53(130.195.5.12)
-;; WHEN: Sun Mar 06 19:55:13 ;; MSG SIZE  rcvd: 97
-

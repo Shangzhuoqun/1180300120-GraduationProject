@@ -1,7 +1,0 @@
-; timestamp: 20220306T204036Z
-; source id: tld-query-mw.-pch1.nic.mw.
-; source locator: pch1.nic.mw.
-; source IP address: 204.61.216.131
-; backup point IP address: 111.42.148.76
-; status: success
-mw.			18000	IN	NS	ns4.apnic.net.mw.			18000	IN	NS	domwe.sdn.mw.mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.mw.			18000	IN	NS	rip.psg.com.mw.			18000	IN	NS	d.ext.nic.cz.mw.			18000	IN	NS	pch1.nic.mw.mw.			18000	IN	NS	chambo.sdnp.org.mw.pch1.nic.mw.		2675	IN	A	204.61.216.131pch1.nic.mw.		3599	IN	AAAA	2001:500:14:6131:ad::1

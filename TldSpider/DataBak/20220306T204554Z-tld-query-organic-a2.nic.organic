@@ -1,7 +1,0 @@
-; timestamp: 20220306T204554Z
-; source id: tld-query-organic.-a2.nic.organic.
-; source locator: a2.nic.organic.
-; source IP address: 65.22.23.40
-; backup point IP address: 111.42.148.76
-; status: success
-organic.		3598	IN	NS	c0.nic.organic.organic.		3598	IN	NS	a2.nic.organic.organic.		3598	IN	NS	b0.nic.organic.organic.		3598	IN	NS	a0.nic.organic.a2.nic.organic.		597	IN	A	65.22.23.40a2.nic.organic.		597	IN	AAAA	2a01:8840:19::40

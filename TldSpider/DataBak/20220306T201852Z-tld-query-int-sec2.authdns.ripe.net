@@ -1,7 +1,0 @@
-; timestamp: 20220306T201852Z
-; source id: tld-query-int.-sec2.authdns.ripe.net.
-; source locator: sec2.authdns.ripe.net.
-; source IP address: 193.0.9.4
-; backup point IP address: 111.42.148.76
-; status: success
-int.			86400	IN	NS	sec2.authdns.ripe.net.int.			86400	IN	NS	ns0.ja.net.int.			86400	IN	NS	x.iana-servers.net.int.			86400	IN	NS	z.iana-servers.net.int.			86400	IN	NS	ns.uu.net.int.			86400	IN	NS	y.iana-servers.net.sec2.authdns.ripe.net.	3600	IN	A	193.0.9.4sec2.authdns.ripe.net.	3600	IN	AAAA	2001:67c:e0::4

@@ -1,9 +1,0 @@
-gdn.	172800	in	ns	ns1.nic.gdn.
-gdn.	172800	in	ns	ns3.nic.gdn.
-gdn.	172800	in	ns	ns4.nic.gdn.
-ns1.nic.gdn.	172800	in	a	194.0.25.18
-ns1.nic.gdn.	172800	in	aaaa	2001:678:20:0:0:0:0:18
-ns3.nic.gdn.	172800	in	a	194.0.26.11
-ns3.nic.gdn.	172800	in	aaaa	2001:67c:10e0:0:0:0:0:11
-ns4.nic.gdn.	172800	in	a	194.0.24.11
-ns4.nic.gdn.	172800	in	aaaa	2001:678:24:0:0:0:0:11

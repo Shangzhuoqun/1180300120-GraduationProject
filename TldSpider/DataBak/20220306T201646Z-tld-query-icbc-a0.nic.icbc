@@ -1,7 +1,0 @@
-; timestamp: 20220306T201646Z
-; source id: tld-query-icbc.-a0.nic.icbc.
-; source locator: a0.nic.icbc.
-; source IP address: 65.22.128.33
-; backup point IP address: 111.42.148.76
-; status: success
-icbc.			3600	IN	NS	a0.nic.icbc.icbc.			3600	IN	NS	c0.nic.icbc.icbc.			3600	IN	NS	b0.nic.icbc.icbc.			3600	IN	NS	a2.nic.icbc.a0.nic.icbc.		600	IN	A	65.22.128.33a0.nic.icbc.		600	IN	AAAA	2a01:8840:7e::33

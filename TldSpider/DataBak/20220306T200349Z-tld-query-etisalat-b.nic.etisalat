@@ -1,7 +1,0 @@
-; timestamp: 20220306T200349Z
-; source id: tld-query-etisalat.-b.nic.etisalat.
-; source locator: b.nic.etisalat.
-; source IP address: 185.24.64.48
-; backup point IP address: 111.42.148.76
-; status: success
-etisalat.		3600	IN	NS	b.nic.etisalat.etisalat.		3600	IN	NS	c.nic.etisalat.etisalat.		3600	IN	NS	d.nic.etisalat.etisalat.		3600	IN	NS	a.nic.etisalat.b.nic.etisalat.		3600	IN	A	185.24.64.48b.nic.etisalat.		3600	IN	AAAA	2a04:2b00:13cc::1:48

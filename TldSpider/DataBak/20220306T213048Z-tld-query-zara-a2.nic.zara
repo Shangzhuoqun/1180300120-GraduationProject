@@ -1,7 +1,0 @@
-; timestamp: 20220306T213048Z
-; source id: tld-query-zara.-a2.nic.zara.
-; source locator: a2.nic.zara.
-; source IP address: 65.22.235.33
-; backup point IP address: 111.42.148.76
-; status: success
-zara.			3600	IN	NS	a2.nic.zara.zara.			3600	IN	NS	a0.nic.zara.zara.			3600	IN	NS	b0.nic.zara.zara.			3600	IN	NS	c0.nic.zara.a2.nic.zara.		600	IN	A	65.22.235.33a2.nic.zara.		600	IN	AAAA	2a01:8840:e5::33

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195811Z
-; source id: tld-query-cu.-ns.dns.br.
-; source locator: ns.dns.br.
-; source IP address: 200.160.0.5
-; backup point IP address: 111.42.148.76
-; status: success
-cu.			594	IN	NS	ns.dns.br.cu.			594	IN	NS	ns2.gip.net.cu.			594	IN	NS	ns.ceniai.net.cu.cu.			594	IN	NS	rip.psg.com.cu.			594	IN	NS	cu.cctld.authdns.ripe.net.cu.			594	IN	NS	ns2.ceniai.net.cu.ns.dns.br.		3010	IN	A	200.160.0.5ns.dns.br.		3010	IN	AAAA	2001:12ff:0:a20::5

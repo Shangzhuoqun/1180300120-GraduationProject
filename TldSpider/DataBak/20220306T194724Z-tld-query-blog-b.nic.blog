@@ -1,7 +1,0 @@
-; timestamp: 20220306T194724Z
-; source id: tld-query-blog.-b.nic.blog.
-; source locator: b.nic.blog.
-; source IP address: 185.24.64.94
-; backup point IP address: 111.42.148.76
-; status: success
-blog.			1387	IN	NS	b.nic.blog.blog.			1387	IN	NS	d.nic.blog.blog.			1387	IN	NS	c.nic.blog.blog.			1387	IN	NS	a.nic.blog.b.nic.blog.		1864	IN	A	185.24.64.94b.nic.blog.		1864	IN	AAAA	2a04:2b00:13cc::1:94

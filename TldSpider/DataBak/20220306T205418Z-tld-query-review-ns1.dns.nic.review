@@ -1,7 +1,0 @@
-; timestamp: 20220306T205418Z
-; source id: tld-query-review.-ns1.dns.nic.review.
-; source locator: ns1.dns.nic.review.
-; source IP address: 156.154.169.35
-; backup point IP address: 111.42.148.76
-; status: success
-review.			3599	IN	NS	b.nic.review.review.			3599	IN	NS	ns1.dns.nic.review.review.			3599	IN	NS	c.nic.review.review.			3599	IN	NS	ns2.dns.nic.review.review.			3599	IN	NS	a.nic.review.review.			3599	IN	NS	ns3.dns.nic.review.ns1.dns.nic.review.	3600	IN	A	156.154.169.35ns1.dns.nic.review.	3599	IN	AAAA	2610:a1:1071::1:23

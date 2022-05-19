@@ -1,7 +1,0 @@
-; timestamp: 20220306T205050Z
-; source id: tld-query-pro.-d0.pro.afilias-nst.org.
-; source locator: d0.pro.afilias-nst.org.
-; source IP address: 199.182.17.1
-; backup point IP address: 111.42.148.76
-; status: success
-pro.			3600	IN	NS	d0.pro.afilias-nst.org.pro.			3600	IN	NS	b2.pro.afilias-nst.org.pro.			3600	IN	NS	a2.pro.afilias-nst.info.pro.			3600	IN	NS	c0.pro.afilias-nst.info.pro.			3600	IN	NS	b0.pro.afilias-nst.org.pro.			3600	IN	NS	a0.pro.afilias-nst.info.d0.pro.afilias-nst.org.	3600	IN	A	199.182.17.1d0.pro.afilias-nst.org.	3600	IN	AAAA	2001:500:d1::1

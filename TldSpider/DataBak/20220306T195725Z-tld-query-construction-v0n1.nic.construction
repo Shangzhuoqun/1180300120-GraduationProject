@@ -1,7 +1,0 @@
-; timestamp: 20220306T195725Z
-; source id: tld-query-construction.-v0n1.nic.construction.
-; source locator: v0n1.nic.construction.
-; source IP address: 65.22.21.50
-; backup point IP address: 111.42.148.76
-; status: success
-construction.		936	IN	NS	v0n1.nic.construction.construction.		936	IN	NS	v0n2.nic.construction.construction.		936	IN	NS	v2n1.nic.construction.construction.		936	IN	NS	v0n0.nic.construction.construction.		936	IN	NS	v2n0.nic.construction.construction.		936	IN	NS	v0n3.nic.construction.v0n1.nic.construction.	3600	IN	A	65.22.21.50v0n1.nic.construction.	3600	IN	AAAA	2a01:8840:17::50

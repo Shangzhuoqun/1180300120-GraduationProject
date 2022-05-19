@@ -1,7 +1,0 @@
-; timestamp: 20220306T194612Z
-; source id: tld-query-beauty.-b.nic.beauty.
-; source locator: b.nic.beauty.
-; source IP address: 185.24.64.119
-; backup point IP address: 111.42.148.76
-; status: success
-beauty.			1438	IN	NS	b.nic.beauty.beauty.			1438	IN	NS	c.nic.beauty.beauty.			1438	IN	NS	a.nic.beauty.beauty.			1438	IN	NS	d.nic.beauty.b.nic.beauty.		3600	IN	A	185.24.64.119b.nic.beauty.		3600	IN	AAAA	2a04:2b00:13cc::1:119

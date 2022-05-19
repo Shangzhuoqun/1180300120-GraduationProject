@@ -1,7 +1,0 @@
-; timestamp: 20220306T202549Z
-; source id: tld-query-lat.-c.mx-ns.mx.
-; source locator: c.mx-ns.mx.
-; source IP address: 192.100.224.1
-; backup point IP address: 111.42.148.76
-; status: success
-lat.			3600	IN	NS	o.mx-ns.mx.lat.			3600	IN	NS	m.mx-ns.mx.lat.			3600	IN	NS	e.mx-ns.mx.lat.			3600	IN	NS	i.mx-ns.mx.lat.			3600	IN	NS	x.mx-ns.mx.lat.			3600	IN	NS	c.mx-ns.mx.c.mx-ns.mx.		2815	IN	A	192.100.224.1c.mx-ns.mx.		3600	IN	AAAA	2001:1258::1

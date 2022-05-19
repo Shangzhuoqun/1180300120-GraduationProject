@@ -1,27 +1,0 @@
-; timestamp: 20220306T211105Z
-; source id: tld-query-to.-sydney.tonic.to.
-; source locator: sydney.tonic.to.
-; source IP address: 104.156.232.193
-; backup point IP address: 111.42.148.76
-; status: success
-to.			86400	IN	NS	tonic.to.to.			86400	IN	NS	colo.tonic.to.to.			86400	IN	NS	singapore.tonic.to.to.			86400	IN	NS	frankfurt.tonic.to.to.			86400	IN	NS	helsinki.tonic.to.to.			86400	IN	NS	newyork.tonic.to.to.			86400	IN	NS	sydney.tonic.to.sydney.tonic.to.	3312	IN	A	104.156.232.193dig @104.156.232.193 sydney.tonic.to. AAAA
-
-; <<>> DiG 9.16.23 <<>> @104.156.232.193 sydney.tonic.to. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39402
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;sydney.tonic.to.		IN	AAAA
-
-;; AUTHORITY SECTION:
-tonic.to.		1800	IN	SOA	tonic.to. hostmaster.colo.to. 2020121901 43200 7200 2592000 3600
-
-;; Query time: 31 msec
-;; SERVER: 104.156.232.193#53(104.156.232.193)
-;; WHEN: Sun Mar 06 21:11:26 ;; MSG SIZE  rcvd: 96
-

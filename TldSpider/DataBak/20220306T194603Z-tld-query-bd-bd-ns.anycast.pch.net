@@ -1,7 +1,0 @@
-; timestamp: 20220306T194603Z
-; source id: tld-query-bd.-bd-ns.anycast.pch.net.
-; source locator: bd-ns.anycast.pch.net.
-; source IP address: 204.61.216.108
-; backup point IP address: 111.42.148.76
-; status: success
-bd.			638	IN	NS	bd-ns.anycast.pch.net.bd.			638	IN	NS	jamuna.btcl.net.bd.bd.			638	IN	NS	dns.bd.bd.			638	IN	NS	surma.btcl.net.bd.bd-ns.anycast.pch.net.	3600	IN	A	204.61.216.108bd-ns.anycast.pch.net.	3600	IN	AAAA	2001:500:14:6108:ad::1

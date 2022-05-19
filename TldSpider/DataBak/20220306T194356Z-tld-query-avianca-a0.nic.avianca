@@ -1,7 +1,0 @@
-; timestamp: 20220306T194356Z
-; source id: tld-query-avianca.-a0.nic.avianca.
-; source locator: a0.nic.avianca.
-; source IP address: 65.22.80.17
-; backup point IP address: 111.42.148.76
-; status: success
-avianca.		1541	IN	NS	a0.nic.avianca.avianca.		1541	IN	NS	c0.nic.avianca.avianca.		1541	IN	NS	b0.nic.avianca.avianca.		1541	IN	NS	a2.nic.avianca.a0.nic.avianca.		600	IN	A	65.22.80.17a0.nic.avianca.		600	IN	AAAA	2a01:8840:4e::17

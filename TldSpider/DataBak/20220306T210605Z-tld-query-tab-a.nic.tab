@@ -1,7 +1,0 @@
-; timestamp: 20220306T210605Z
-; source id: tld-query-tab.-a.nic.tab.
-; source locator: a.nic.tab.
-; source IP address: 37.209.192.9
-; backup point IP address: 111.42.148.76
-; status: success
-tab.			3600	IN	NS	a.nic.tab.tab.			3600	IN	NS	b.nic.tab.tab.			3600	IN	NS	d.nic.tab.tab.			3600	IN	NS	c.nic.tab.a.nic.tab.		3600	IN	A	37.209.192.9a.nic.tab.		3600	IN	AAAA	2001:dcd:1::9

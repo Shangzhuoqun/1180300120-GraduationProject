@@ -1,7 +1,0 @@
-; timestamp: 20220306T194047Z
-; source id: tld-query-ae.-ns1.aedns.ae.
-; source locator: ns1.aedns.ae.
-; source IP address: 79.98.120.73
-; backup point IP address: 111.42.148.76
-; status: success
-ae.			1656	IN	NS	ns4.apnic.net.ae.			1656	IN	NS	ns1.aedns.ae.ae.			1656	IN	NS	ns2.aedns.ae.ae.			1656	IN	NS	nsext-pch.aedns.ae.ns1.aedns.ae.		1830	IN	A	79.98.120.73ns1.aedns.ae.		1830	IN	AAAA	2a00:d30:120::73

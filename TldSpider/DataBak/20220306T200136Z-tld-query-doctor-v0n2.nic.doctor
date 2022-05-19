@@ -1,7 +1,0 @@
-; timestamp: 20220306T200136Z
-; source id: tld-query-doctor.-v0n2.nic.doctor.
-; source locator: v0n2.nic.doctor.
-; source IP address: 65.22.26.21
-; backup point IP address: 111.42.148.76
-; status: success
-doctor.			443	IN	NS	v2n1.nic.doctor.doctor.			443	IN	NS	v0n2.nic.doctor.doctor.			443	IN	NS	v0n0.nic.doctor.doctor.			443	IN	NS	v2n0.nic.doctor.doctor.			443	IN	NS	v0n1.nic.doctor.doctor.			443	IN	NS	v0n3.nic.doctor.v0n2.nic.doctor.	3598	IN	A	65.22.26.21v0n2.nic.doctor.	3598	IN	AAAA	2a01:8840:1c::21

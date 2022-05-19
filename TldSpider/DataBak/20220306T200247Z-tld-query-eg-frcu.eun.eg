@@ -1,27 +1,0 @@
-; timestamp: 20220306T200247Z
-; source id: tld-query-eg.-frcu.eun.eg.
-; source locator: frcu.eun.eg.
-; source IP address: 193.227.1.1
-; backup point IP address: 111.42.148.76
-; status: success
-eg.			394	IN	NS	FRCU.EUN.eg.eg.			394	IN	NS	NS5.UNIVIE.AC.AT.eg.			394	IN	NS	RIP.PSG.COM.frcu.eun.eg.		3600	IN	A	193.227.1.1dig @193.227.1.1 frcu.eun.eg. AAAA
-
-; <<>> DiG 9.16.23 <<>> @193.227.1.1 frcu.eun.eg. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16745
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;frcu.eun.eg.			IN	AAAA
-
-;; AUTHORITY SECTION:
-eun.eg.			819	IN	SOA	frcu.eun.eg. Postmaster.frcu.eun.eg. 2019052107 15000 7200 12096000 86400
-
-;; Query time: 8 msec
-;; SERVER: 193.227.1.1#53(193.227.1.1)
-;; WHEN: Sun Mar 06 20:02:51 ;; MSG SIZE  rcvd: 87
-

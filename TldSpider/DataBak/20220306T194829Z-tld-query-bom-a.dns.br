@@ -1,7 +1,0 @@
-; timestamp: 20220306T194829Z
-; source id: tld-query-bom.-a.dns.br.
-; source locator: a.dns.br.
-; source IP address: 200.219.148.10
-; backup point IP address: 111.42.148.76
-; status: success
-bom.			1333	IN	NS	d.dns.br.bom.			1333	IN	NS	e.dns.br.bom.			1333	IN	NS	b.dns.br.bom.			1333	IN	NS	c.dns.br.bom.			1333	IN	NS	a.dns.br.bom.			1333	IN	NS	f.dns.br.a.dns.br.		2044	IN	A	200.219.148.10a.dns.br.		3600	IN	AAAA	2001:12f8:6::10

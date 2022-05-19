@@ -1,27 +1,0 @@
-; timestamp: 20220306T200245Z
-; source id: tld-query-ee.-ns.tld.ee.
-; source locator: ns.tld.ee.
-; source IP address: 195.43.87.10
-; backup point IP address: 111.42.148.76
-; status: success
-ee.			395	IN	NS	ns.tld.ee.ee.			395	IN	NS	e.tld.ee.ee.			395	IN	NS	b.tld.ee.ee.			395	IN	NS	ee.aso.ee.ee.			395	IN	NS	ee.eenet.ee.ns.tld.ee.		2632	IN	A	195.43.87.10dig @195.43.87.10 ns.tld.ee. AAAA
-
-; <<>> DiG 9.16.23 <<>> @195.43.87.10 ns.tld.ee. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63805
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.tld.ee.			IN	AAAA
-
-;; AUTHORITY SECTION:
-tld.ee.			832	IN	SOA	c.tld.ee. hostmaster.tld.ee. 2022030656 10800 3600 604800 43200
-
-;; Query time: 13 msec
-;; SERVER: 195.43.87.10#53(195.43.87.10)
-;; WHEN: Sun Mar 06 20:02:47 ;; MSG SIZE  rcvd: 87
-

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194232Z
-; source id: tld-query-aq.-ns99.dns.net.nz.
-; source locator: ns99.dns.net.nz.
-; source IP address: 202.46.190.131
-; backup point IP address: 111.42.148.76
-; status: success
-aq.			86400	IN	NS	fork.sth.dnsnode.net.aq.			86400	IN	NS	ns1.anycast.dns.aq.aq.			86400	IN	NS	ns99.dns.net.nz.ns99.dns.net.nz.	3599	IN	A	202.46.190.131ns99.dns.net.nz.	3599	IN	AAAA	2001:dce:2000:2::131

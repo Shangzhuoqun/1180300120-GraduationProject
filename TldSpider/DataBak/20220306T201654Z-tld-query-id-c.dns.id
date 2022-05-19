@@ -1,7 +1,0 @@
-; timestamp: 20220306T201654Z
-; source id: tld-query-id.-c.dns.id.
-; source locator: c.dns.id.
-; source IP address: 103.19.178.178
-; backup point IP address: 111.42.148.76
-; status: success
-id.			3373	IN	NS	c.dns.id.id.			3373	IN	NS	d.dns.id.id.			3373	IN	NS	ns4.apnic.net.id.			3373	IN	NS	b.dns.id.id.			3373	IN	NS	e.dns.id.c.dns.id.		599	IN	A	103.19.178.178c.dns.id.		3083	IN	AAAA	2402:ee80:c::c

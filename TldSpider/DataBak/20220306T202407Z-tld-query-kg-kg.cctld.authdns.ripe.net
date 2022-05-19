@@ -1,7 +1,0 @@
-; timestamp: 20220306T202407Z
-; source id: tld-query-kg.-kg.cctld.authdns.ripe.net.
-; source locator: kg.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.84
-; backup point IP address: 111.42.148.76
-; status: success
-kg.			86400	IN	NS	ns.kg.kg.			86400	IN	NS	kg.cctld.authdns.ripe.net.kg.			86400	IN	NS	ns2.kg.kg.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.84kg.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::84

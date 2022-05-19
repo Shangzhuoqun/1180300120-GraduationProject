@@ -1,7 +1,0 @@
-; timestamp: 20220306T195748Z
-; source id: tld-query-cr.-a.lactld.org.
-; source locator: a.lactld.org.
-; source IP address: 200.0.68.10
-; backup point IP address: 111.42.148.76
-; status: success
-cr.			921	IN	NS	dns.nic.cr.cr.			921	IN	NS	de.nic.cr.cr.			921	IN	NS	ca1.nic.cr.cr.			921	IN	NS	ca2.nic.cr.cr.			921	IN	NS	a.lactld.org.cr.			921	IN	NS	p.nic.cr.a.lactld.org.		2605	IN	A	200.0.68.10a.lactld.org.		2605	IN	AAAA	2801:14:a000::10

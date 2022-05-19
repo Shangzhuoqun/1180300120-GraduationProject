@@ -1,7 +1,0 @@
-; timestamp: 20220306T202433Z
-; source id: tld-query-kitchen.-v2n1.nic.kitchen.
-; source locator: v2n1.nic.kitchen.
-; source IP address: 161.232.17.17
-; backup point IP address: 111.42.148.76
-; status: success
-kitchen.		3598	IN	NS	v2n1.nic.kitchen.kitchen.		3598	IN	NS	v0n0.nic.kitchen.kitchen.		3598	IN	NS	v0n3.nic.kitchen.kitchen.		3598	IN	NS	v0n2.nic.kitchen.kitchen.		3598	IN	NS	v0n1.nic.kitchen.kitchen.		3598	IN	NS	v2n0.nic.kitchen.v2n1.nic.kitchen.	3599	IN	A	161.232.17.17v2n1.nic.kitchen.	3599	IN	AAAA	2a01:8840:fb::17

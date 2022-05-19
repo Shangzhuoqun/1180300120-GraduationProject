@@ -1,7 +1,0 @@
-; timestamp: 20220306T211239Z
-; source id: tld-query-trust.-ns4.uniregistry.info.
-; source locator: ns4.uniregistry.info.
-; source IP address: 185.159.198.3
-; backup point IP address: 111.42.148.76
-; status: success
-trust.			3599	IN	NS	ns2.uniregistry.info.trust.			3599	IN	NS	ns3.uniregistry.net.trust.			3599	IN	NS	ns1.uniregistry.net.trust.			3599	IN	NS	ns4.uniregistry.info.ns4.uniregistry.info.	3247	IN	A	185.159.198.3ns4.uniregistry.info.	3247	IN	AAAA	2620:10a:80ab::3

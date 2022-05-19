@@ -1,7 +1,0 @@
-; timestamp: 20220306T195959Z
-; source id: tld-query-democrat.-v0n1.nic.democrat.
-; source locator: v0n1.nic.democrat.
-; source IP address: 65.22.33.32
-; backup point IP address: 111.42.148.76
-; status: success
-democrat.		519	IN	NS	v2n0.nic.democrat.democrat.		519	IN	NS	v0n3.nic.democrat.democrat.		519	IN	NS	v0n0.nic.democrat.democrat.		519	IN	NS	v0n2.nic.democrat.democrat.		519	IN	NS	v2n1.nic.democrat.democrat.		519	IN	NS	v0n1.nic.democrat.v0n1.nic.democrat.	86400	IN	A	65.22.33.32v0n1.nic.democrat.	3600	IN	AAAA	2a01:8840:23::32

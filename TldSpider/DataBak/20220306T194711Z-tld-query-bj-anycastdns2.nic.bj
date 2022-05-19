@@ -1,27 +1,0 @@
-; timestamp: 20220306T194711Z
-; source id: tld-query-bj.-anycastdns2.nic.bj.
-; source locator: anycastdns2.nic.bj.
-; source IP address: 185.28.194.194
-; backup point IP address: 111.42.148.76
-; status: success
-bj.			705	IN	NS	anycastdns1.nic.bj.bj.			705	IN	NS	ns-bj.nic.fr.bj.			705	IN	NS	ns1.nic.bj.bj.			705	IN	NS	pch.nic.bj.bj.			705	IN	NS	ns-bj.afrinic.net.bj.			705	IN	NS	anycastdns2.nic.bj.bj.			705	IN	NS	ns2.nic.bj.anycastdns2.nic.bj.	86400	IN	A	185.28.194.194dig @185.28.194.194 anycastdns2.nic.bj. AAAA
-
-; <<>> DiG 9.16.23 <<>> @185.28.194.194 anycastdns2.nic.bj. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12544
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;anycastdns2.nic.bj.		IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.bj.			1800	IN	SOA	ns1.nic.bj. contact.nic.bj. 2021011458 21600 3600 604800 3600
-
-;; Query time: 164 msec
-;; SERVER: 185.28.194.194#53(185.28.194.194)
-;; WHEN: Sun Mar 06 19:47:18 ;; MSG SIZE  rcvd: 95
-

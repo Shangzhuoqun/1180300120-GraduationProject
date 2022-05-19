@@ -1,27 +1,0 @@
-; timestamp: 20220306T200853Z
-; source id: tld-query-gb.-ns.uu.net.
-; source locator: ns.uu.net.
-; source IP address: 137.39.1.3
-; backup point IP address: 111.42.148.76
-; status: success
-gb.			3600	IN	NS	ns0.ja.net.gb.			3600	IN	NS	ns4.ja.net.gb.			3600	IN	NS	ns.uu.net.ns.uu.net.		937	IN	A	137.39.1.3dig @137.39.1.3 ns.uu.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @137.39.1.3 ns.uu.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21149
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.uu.net.			IN	AAAA
-
-;; AUTHORITY SECTION:
-ns.uu.net.		300	IN	SOA	AUTH00.ns.uu.net. hostmaster.uu.net. 121 3600 900 604800 300
-
-;; Query time: 9 msec
-;; SERVER: 137.39.1.3#53(137.39.1.3)
-;; WHEN: Sun Mar 06 20:08:53 ;; MSG SIZE  rcvd: 92
-

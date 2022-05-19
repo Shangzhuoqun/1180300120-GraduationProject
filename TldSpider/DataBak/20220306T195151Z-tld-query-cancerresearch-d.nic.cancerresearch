@@ -1,7 +1,0 @@
-; timestamp: 20220306T195151Z
-; source id: tld-query-cancerresearch.-d.nic.cancerresearch.
-; source locator: d.nic.cancerresearch.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-cancerresearch.		1167	IN	NS	a.nic.cancerresearch.cancerresearch.		1167	IN	NS	d.nic.cancerresearch.cancerresearch.		1167	IN	NS	b.nic.cancerresearch.cancerresearch.		1167	IN	NS	c.nic.cancerresearch.d.nic.cancerresearch.	3599	IN	A	37.209.198.9d.nic.cancerresearch.	3599	IN	AAAA	2001:dcd:4::9

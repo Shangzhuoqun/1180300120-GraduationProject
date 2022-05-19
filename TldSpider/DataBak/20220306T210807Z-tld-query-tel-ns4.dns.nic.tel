@@ -1,7 +1,0 @@
-; timestamp: 20220306T210807Z
-; source id: tld-query-tel.-ns4.dns.nic.tel.
-; source locator: ns4.dns.nic.tel.
-; source IP address: 156.154.172.10
-; backup point IP address: 111.42.148.76
-; status: success
-tel.			86400	IN	NS	ns1.dns.nic.tel.tel.			86400	IN	NS	ns2.dns.nic.tel.tel.			86400	IN	NS	ns3.dns.nic.tel.tel.			86400	IN	NS	ns4.dns.nic.tel.tel.			86400	IN	NS	ns5.dns.nic.tel.tel.			86400	IN	NS	ns6.dns.nic.tel.tel.			86400	IN	NS	ns7.dns.nic.tel.tel.			86400	IN	NS	ns8.dns.nic.tel.ns4.dns.nic.tel.	3599	IN	A	156.154.172.10ns4.dns.nic.tel.	3599	IN	AAAA	2610:a1:1074::1:a

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210001Z
-; source id: tld-query-shopping.-v2n0.nic.shopping.
-; source locator: v2n0.nic.shopping.
-; source IP address: 65.22.35.19
-; backup point IP address: 111.42.148.76
-; status: success
-shopping.		3599	IN	NS	v0n1.nic.shopping.shopping.		3599	IN	NS	v0n3.nic.shopping.shopping.		3599	IN	NS	v0n0.nic.shopping.shopping.		3599	IN	NS	v2n0.nic.shopping.shopping.		3599	IN	NS	v2n1.nic.shopping.shopping.		3599	IN	NS	v0n2.nic.shopping.v2n0.nic.shopping.	3598	IN	A	65.22.35.19v2n0.nic.shopping.	3599	IN	AAAA	2a01:8840:25::19

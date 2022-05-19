@@ -3,7 +3,7 @@ import logging
 import os
 import json
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 bindPath = None
 logPath = None
 dataPath = None

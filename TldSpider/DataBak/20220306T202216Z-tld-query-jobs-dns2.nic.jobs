@@ -1,7 +1,0 @@
-; timestamp: 20220306T202216Z
-; source id: tld-query-jobs.-dns2.nic.jobs.
-; source locator: dns2.nic.jobs.
-; source IP address: 103.49.83.120
-; backup point IP address: 111.42.148.76
-; status: success
-jobs.			3599	IN	NS	dns1.nic.jobs.jobs.			3599	IN	NS	dnsc.nic.jobs.jobs.			3599	IN	NS	dnsa.nic.jobs.jobs.			3599	IN	NS	dns3.nic.jobs.jobs.			3599	IN	NS	dnsb.nic.jobs.jobs.			3599	IN	NS	dns2.nic.jobs.jobs.			3599	IN	NS	dnsd.nic.jobs.jobs.			3599	IN	NS	dns4.nic.jobs.dns2.nic.jobs.		3599	IN	A	103.49.83.120dns2.nic.jobs.		3600	IN	AAAA	2401:fd80:403::120

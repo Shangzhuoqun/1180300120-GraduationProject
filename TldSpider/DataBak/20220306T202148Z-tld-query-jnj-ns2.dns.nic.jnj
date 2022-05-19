@@ -1,7 +1,0 @@
-; timestamp: 20220306T202148Z
-; source id: tld-query-jnj.-ns2.dns.nic.jnj.
-; source locator: ns2.dns.nic.jnj.
-; source IP address: 156.154.145.89
-; backup point IP address: 111.42.148.76
-; status: success
-jnj.			86400	IN	NS	a.nic.jnj.jnj.			86400	IN	NS	b.nic.jnj.jnj.			86400	IN	NS	c.nic.jnj.jnj.			86400	IN	NS	ns1.dns.nic.jnj.jnj.			86400	IN	NS	ns2.dns.nic.jnj.jnj.			86400	IN	NS	ns3.dns.nic.jnj.ns2.dns.nic.jnj.	3600	IN	A	156.154.145.89ns2.dns.nic.jnj.	3600	IN	AAAA	2610:a1:1072::59

@@ -1,27 +1,0 @@
-; timestamp: 20220306T210831Z
-; source id: tld-query-tg.-ns1.admin.net.
-; source locator: ns1.admin.net.
-; source IP address: 198.73.186.1
-; backup point IP address: 111.42.148.76
-; status: success
-tg.			3600	IN	NS	tld.cafe.tg.tg.			3600	IN	NS	ns1.admin.net.tg.			3600	IN	NS	ns2.nic.tg.tg.			3600	IN	NS	ns4.admin.net.tg.			3600	IN	NS	ns3.admin.net.tg.			3600	IN	NS	ns1.nic.tg.ns1.admin.net.		3600	IN	A	198.73.186.1dig @198.73.186.1 ns1.admin.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @198.73.186.1 ns1.admin.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27083
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.admin.net.			IN	AAAA
-
-;; AUTHORITY SECTION:
-admin.net.		1800	IN	SOA	ns1.admin.net. hostmaster.admin.net. 2022010301 28800 7200 6048000 86400
-
-;; Query time: 1196 msec
-;; SERVER: 198.73.186.1#53(198.73.186.1)
-;; WHEN: Sun Mar 06 21:08:38 ;; MSG SIZE  rcvd: 89
-

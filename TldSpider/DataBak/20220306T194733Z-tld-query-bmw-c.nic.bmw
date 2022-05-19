@@ -1,7 +1,0 @@
-; timestamp: 20220306T194733Z
-; source id: tld-query-bmw.-c.nic.bmw.
-; source locator: c.nic.bmw.
-; source IP address: 212.18.248.76
-; backup point IP address: 111.42.148.76
-; status: success
-bmw.			172800	IN	NS	b.nic.bmw.bmw.			172800	IN	NS	d.nic.bmw.bmw.			172800	IN	NS	c.nic.bmw.bmw.			172800	IN	NS	a.nic.bmw.c.nic.bmw.		3482	IN	A	212.18.248.76c.nic.bmw.		3508	IN	AAAA	2a04:2b00:13ee::76

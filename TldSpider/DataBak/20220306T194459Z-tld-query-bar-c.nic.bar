@@ -1,7 +1,0 @@
-; timestamp: 20220306T194459Z
-; source id: tld-query-bar.-c.nic.bar.
-; source locator: c.nic.bar.
-; source IP address: 212.18.248.56
-; backup point IP address: 111.42.148.76
-; status: success
-bar.			3600	IN	NS	b.nic.bar.bar.			3600	IN	NS	a.nic.bar.bar.			3600	IN	NS	d.nic.bar.bar.			3600	IN	NS	c.nic.bar.c.nic.bar.		1873	IN	A	212.18.248.56c.nic.bar.		1873	IN	AAAA	2a04:2b00:13ee::56

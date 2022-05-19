@@ -1,7 +1,0 @@
-; timestamp: 20220306T195159Z
-; source id: tld-query-car.-b.nic.car.
-; source locator: b.nic.car.
-; source IP address: 185.24.64.130
-; backup point IP address: 111.42.148.76
-; status: success
-car.			172800	IN	NS	a.nic.car.car.			172800	IN	NS	b.nic.car.car.			172800	IN	NS	c.nic.car.car.			172800	IN	NS	d.nic.car.b.nic.car.		3589	IN	A	185.24.64.130b.nic.car.		3589	IN	AAAA	2a04:2b00:13cc::1:130

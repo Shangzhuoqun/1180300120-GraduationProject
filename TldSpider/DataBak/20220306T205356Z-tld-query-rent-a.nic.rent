@@ -1,7 +1,0 @@
-; timestamp: 20220306T205356Z
-; source id: tld-query-rent.-a.nic.rent.
-; source locator: a.nic.rent.
-; source IP address: 194.169.218.63
-; backup point IP address: 111.42.148.76
-; status: success
-rent.			3600	IN	NS	b.nic.rent.rent.			3600	IN	NS	c.nic.rent.rent.			3600	IN	NS	a.nic.rent.rent.			3600	IN	NS	d.nic.rent.a.nic.rent.		3600	IN	A	194.169.218.63a.nic.rent.		3599	IN	AAAA	2001:67c:13cc::1:63

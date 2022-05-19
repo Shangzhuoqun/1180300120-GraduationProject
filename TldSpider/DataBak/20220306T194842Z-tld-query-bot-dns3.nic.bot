@@ -1,7 +1,0 @@
-; timestamp: 20220306T194842Z
-; source id: tld-query-bot.-dns3.nic.bot.
-; source locator: dns3.nic.bot.
-; source IP address: 213.248.222.55
-; backup point IP address: 111.42.148.76
-; status: success
-bot.			172800	IN	NS	dns2.nic.bot.bot.			172800	IN	NS	dns3.nic.bot.bot.			172800	IN	NS	dns4.nic.bot.bot.			172800	IN	NS	dns1.nic.bot.bot.			172800	IN	NS	dnsa.nic.bot.bot.			172800	IN	NS	dnsb.nic.bot.bot.			172800	IN	NS	dnsc.nic.bot.bot.			172800	IN	NS	dnsd.nic.bot.dns3.nic.bot.		3585	IN	A	213.248.222.55dns3.nic.bot.		3585	IN	AAAA	2a01:618:406::55

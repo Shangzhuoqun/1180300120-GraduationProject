@@ -1,7 +1,0 @@
-; timestamp: 20220306T200720Z
-; source id: tld-query-forum.-c.nic.forum.
-; source locator: c.nic.forum.
-; source IP address: 212.18.248.65
-; backup point IP address: 111.42.148.76
-; status: success
-forum.			3599	IN	NS	d.nic.forum.forum.			3599	IN	NS	c.nic.forum.forum.			3599	IN	NS	a.nic.forum.forum.			3599	IN	NS	b.nic.forum.c.nic.forum.		3599	IN	A	212.18.248.65c.nic.forum.		3599	IN	AAAA	2a04:2b00:13ee::65

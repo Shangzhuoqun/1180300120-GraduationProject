@@ -1,7 +1,0 @@
-; timestamp: 20220306T210944Z
-; source id: tld-query-tienda.-v0n2.nic.tienda.
-; source locator: v0n2.nic.tienda.
-; source IP address: 65.22.34.29
-; backup point IP address: 111.42.148.76
-; status: success
-tienda.			3600	IN	NS	v0n3.nic.tienda.tienda.			3600	IN	NS	v2n0.nic.tienda.tienda.			3600	IN	NS	v0n2.nic.tienda.tienda.			3600	IN	NS	v2n1.nic.tienda.tienda.			3600	IN	NS	v0n1.nic.tienda.tienda.			3600	IN	NS	v0n0.nic.tienda.v0n2.nic.tienda.	3600	IN	A	65.22.34.29v0n2.nic.tienda.	3599	IN	AAAA	2a01:8840:24::29

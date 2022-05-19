@@ -1,7 +1,0 @@
-; timestamp: 20220306T200215Z
-; source id: tld-query-dz.-ns4.nic.dz.
-; source locator: ns4.nic.dz.
-; source IP address: 204.61.216.103
-; backup point IP address: 111.42.148.76
-; status: success
-dz.			10800	IN	NS	ns1.nic.dz.dz.			10800	IN	NS	ns4.nic.dz.dz.			10800	IN	NS	ns3.nic.fr.dz.			10800	IN	NS	ns2.nic.dz.dz.			10800	IN	NS	ns5.nic.dz.dz.			10800	IN	NS	ns-dz.afrinic.net.ns4.nic.dz.		3595	IN	A	204.61.216.103ns4.nic.dz.		3596	IN	AAAA	2001:500:14:6103:ad::1

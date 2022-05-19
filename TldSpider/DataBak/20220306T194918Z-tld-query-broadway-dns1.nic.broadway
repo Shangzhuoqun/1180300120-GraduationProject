@@ -1,7 +1,0 @@
-; timestamp: 20220306T194918Z
-; source id: tld-query-broadway.-dns1.nic.broadway.
-; source locator: dns1.nic.broadway.
-; source IP address: 213.248.217.38
-; backup point IP address: 111.42.148.76
-; status: success
-broadway.		1293	IN	NS	dns4.nic.broadway.broadway.		1293	IN	NS	dnsd.nic.broadway.broadway.		1293	IN	NS	dnsb.nic.broadway.broadway.		1293	IN	NS	dnsc.nic.broadway.broadway.		1293	IN	NS	dns1.nic.broadway.broadway.		1293	IN	NS	dnsa.nic.broadway.broadway.		1293	IN	NS	dns2.nic.broadway.broadway.		1293	IN	NS	dns3.nic.broadway.dns1.nic.broadway.	3600	IN	A	213.248.217.38dns1.nic.broadway.	3599	IN	AAAA	2a01:618:401::38

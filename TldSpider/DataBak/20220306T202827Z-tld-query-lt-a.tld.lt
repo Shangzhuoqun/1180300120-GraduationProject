@@ -1,27 +1,0 @@
-; timestamp: 20220306T202827Z
-; source id: tld-query-lt.-a.tld.lt.
-; source locator: a.tld.lt.
-; source IP address: 195.8.218.131
-; backup point IP address: 111.42.148.76
-; status: success
-lt.			3600	IN	NS	b.tld.lt.lt.			3600	IN	NS	e.tld.lt.lt.			3600	IN	NS	f.tld.lt.lt.			3600	IN	NS	d.tld.lt.lt.			3600	IN	NS	c.tld.lt.lt.			3600	IN	NS	a.tld.lt.a.tld.lt.		3600	IN	A	195.8.218.131dig @195.8.218.131 a.tld.lt. AAAA
-
-; <<>> DiG 9.16.23 <<>> @195.8.218.131 a.tld.lt. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6360
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;a.tld.lt.			IN	AAAA
-
-;; AUTHORITY SECTION:
-lt.			900	IN	SOA	a.tld.lt. hostmaster.domreg.lt. 1646568003 900 300 604800 900
-
-;; Query time: 185 msec
-;; SERVER: 195.8.218.131#53(195.8.218.131)
-;; WHEN: Sun Mar 06 20:28:28 ;; MSG SIZE  rcvd: 91
-

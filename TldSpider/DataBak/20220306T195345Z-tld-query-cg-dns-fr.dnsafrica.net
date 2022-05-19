@@ -1,27 +1,0 @@
-; timestamp: 20220306T195345Z
-; source id: tld-query-cg.-dns-fr.dnsafrica.net.
-; source locator: dns-fr.dnsafrica.net.
-; source IP address: 151.80.35.161
-; backup point IP address: 111.42.148.76
-; status: success
-cg.			86400	IN	NS	sunic.sunet.se.cg.			86400	IN	NS	dns-fr.dnsafrica.net.cg.			86400	IN	NS	dns-za.dnsafrica.net.dns-fr.dnsafrica.net.	600	IN	A	151.80.35.161dig @151.80.35.161 dns-fr.dnsafrica.net. AAAA
-
-; <<>> DiG 9.16.23 <<>> @151.80.35.161 dns-fr.dnsafrica.net. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26354
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;dns-fr.dnsafrica.net.		IN	AAAA
-
-;; AUTHORITY SECTION:
-dnsafrica.net.		150	IN	SOA	dns14.ovh.net. tech.ovh.net. 2022021601 86400 3600 3600000 86400
-
-;; Query time: 8 msec
-;; SERVER: 151.80.35.161#53(151.80.35.161)
-;; WHEN: Sun Mar 06 19:53:45 ;; MSG SIZE  rcvd: 100
-

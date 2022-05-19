@@ -1,7 +1,0 @@
-; timestamp: 20220306T212050Z
-; source id: tld-query-xn--1ck2e1b.-c.nic.xn--1ck2e1b.
-; source locator: c.nic.xn--1ck2e1b.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-xn--1ck2e1b.		3599	IN	NS	ns1.dns.nic.xn--1ck2e1b.xn--1ck2e1b.		3599	IN	NS	ns3.dns.nic.xn--1ck2e1b.xn--1ck2e1b.		3599	IN	NS	a.nic.xn--1ck2e1b.xn--1ck2e1b.		3599	IN	NS	ns2.dns.nic.xn--1ck2e1b.xn--1ck2e1b.		3599	IN	NS	c.nic.xn--1ck2e1b.xn--1ck2e1b.		3599	IN	NS	b.nic.xn--1ck2e1b.c.nic.xn--1ck2e1b.	3600	IN	A	37.209.196.10c.nic.xn--1ck2e1b.	3599	IN	AAAA	2001:dcd:3::10

@@ -1,7 +1,0 @@
-; timestamp: 20220306T205718Z
-; source id: tld-query-sap.-anycast10.irondns.net.
-; source locator: anycast10.irondns.net.
-; source IP address: 195.253.64.12
-; backup point IP address: 111.42.148.76
-; status: success
-sap.			3599	IN	NS	anycast9.irondns.net.sap.			3599	IN	NS	anycast23.irondns.net.sap.			3599	IN	NS	anycast10.irondns.net.sap.			3599	IN	NS	anycast24.irondns.net.anycast10.irondns.net.	1944	IN	A	195.253.64.12anycast10.irondns.net.	395	IN	AAAA	2a01:5b0:4::c

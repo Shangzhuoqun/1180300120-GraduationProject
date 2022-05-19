@@ -1,7 +1,0 @@
-; timestamp: 20220306T204036Z
-; source id: tld-query-mw.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-mw.			1268	IN	NS	domwe.sdn.mw.mw.			1268	IN	NS	chambo.sdnp.org.mw.mw.			1268	IN	NS	ns4.apnic.net.mw.			1268	IN	NS	rip.psg.com.mw.			1268	IN	NS	pch1.nic.mw.mw.			1268	IN	NS	d.ext.nic.cz.mw.			1268	IN	NS	mw.cctld.authdns.ripe.net.ns4.apnic.net.		1895	IN	A	202.12.31.53ns4.apnic.net.		600	IN	AAAA	2001:dd8:12::53

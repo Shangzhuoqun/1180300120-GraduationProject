@@ -1,7 +1,0 @@
-; timestamp: 20220306T194232Z
-; source id: tld-query-aq.-ns1.anycast.dns.aq.
-; source locator: ns1.anycast.dns.aq.
-; source IP address: 204.61.216.132
-; backup point IP address: 111.42.148.76
-; status: success
-aq.			86400	IN	NS	ns99.dns.net.nz.aq.			86400	IN	NS	ns1.anycast.dns.aq.aq.			86400	IN	NS	fork.sth.dnsnode.net.ns1.anycast.dns.aq.	3600	IN	A	204.61.216.132ns1.anycast.dns.aq.	3600	IN	AAAA	2001:500:14:6132:ad::1

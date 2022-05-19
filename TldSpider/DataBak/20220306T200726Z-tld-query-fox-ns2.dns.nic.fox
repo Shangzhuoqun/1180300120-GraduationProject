@@ -1,7 +1,0 @@
-; timestamp: 20220306T200726Z
-; source id: tld-query-fox.-ns2.dns.nic.fox.
-; source locator: ns2.dns.nic.fox.
-; source IP address: 156.154.145.63
-; backup point IP address: 111.42.148.76
-; status: success
-fox.			86400	IN	NS	a.nic.fox.fox.			86400	IN	NS	b.nic.fox.fox.			86400	IN	NS	c.nic.fox.fox.			86400	IN	NS	ns1.dns.nic.fox.fox.			86400	IN	NS	ns2.dns.nic.fox.fox.			86400	IN	NS	ns3.dns.nic.fox.ns2.dns.nic.fox.	3598	IN	A	156.154.145.63ns2.dns.nic.fox.	3597	IN	AAAA	2610:a1:1072::3f

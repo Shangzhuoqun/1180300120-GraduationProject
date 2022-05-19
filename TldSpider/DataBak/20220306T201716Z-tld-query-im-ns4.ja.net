@@ -1,7 +1,0 @@
-; timestamp: 20220306T201716Z
-; source id: tld-query-im.-ns4.ja.net.
-; source locator: ns4.ja.net.
-; source IP address: 193.62.157.66
-; backup point IP address: 111.42.148.76
-; status: success
-im.			3355	IN	NS	hoppy.iom.com.im.			3355	IN	NS	barney.advsys.co.uk.im.			3355	IN	NS	ns4.ja.net.im.			3355	IN	NS	pebbles.iom.com.ns4.ja.net.		555	IN	A	193.62.157.66ns4.ja.net.		555	IN	AAAA	2001:630:0:47::42

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202522Z
-; source id: tld-query-kz.-ns1.nic.kz.
-; source locator: ns1.nic.kz.
-; source IP address: 185.79.212.7
-; backup point IP address: 111.42.148.76
-; status: success
-kz.			86400	IN	NS	ns1.nic.kz.kz.			86400	IN	NS	ns.nic.kz.ns1.nic.kz.		3600	IN	A	185.79.212.7ns1.nic.kz.		3600	IN	AAAA	2a01:7640:9000::7

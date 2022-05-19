@@ -1,7 +1,0 @@
-; timestamp: 20220306T204653Z
-; source id: tld-query-pay.-dns4.nic.pay.
-; source locator: dns4.nic.pay.
-; source IP address: 43.230.50.74
-; backup point IP address: 111.42.148.76
-; status: success
-pay.			172800	IN	NS	dns2.nic.pay.pay.			172800	IN	NS	dns3.nic.pay.pay.			172800	IN	NS	dns4.nic.pay.pay.			172800	IN	NS	dns1.nic.pay.pay.			172800	IN	NS	dnsa.nic.pay.pay.			172800	IN	NS	dnsb.nic.pay.pay.			172800	IN	NS	dnsc.nic.pay.pay.			172800	IN	NS	dnsd.nic.pay.dns4.nic.pay.		3575	IN	A	43.230.50.74dns4.nic.pay.		3575	IN	AAAA	2401:fd80:406::74

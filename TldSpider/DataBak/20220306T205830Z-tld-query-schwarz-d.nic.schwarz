@@ -1,7 +1,0 @@
-; timestamp: 20220306T205830Z
-; source id: tld-query-schwarz.-d.nic.schwarz.
-; source locator: d.nic.schwarz.
-; source IP address: 212.18.249.99
-; backup point IP address: 111.42.148.76
-; status: success
-schwarz.		3598	IN	NS	b.nic.schwarz.schwarz.		3598	IN	NS	c.nic.schwarz.schwarz.		3598	IN	NS	d.nic.schwarz.schwarz.		3598	IN	NS	a.nic.schwarz.d.nic.schwarz.		3599	IN	A	212.18.249.99d.nic.schwarz.		3599	IN	AAAA	2a04:2b00:13ff::99

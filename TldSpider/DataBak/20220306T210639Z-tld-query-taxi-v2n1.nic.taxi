@@ -1,7 +1,0 @@
-; timestamp: 20220306T210639Z
-; source id: tld-query-taxi.-v2n1.nic.taxi.
-; source locator: v2n1.nic.taxi.
-; source IP address: 161.232.11.21
-; backup point IP address: 111.42.148.76
-; status: success
-taxi.			3599	IN	NS	v0n0.nic.taxi.taxi.			3599	IN	NS	v2n0.nic.taxi.taxi.			3599	IN	NS	v2n1.nic.taxi.taxi.			3599	IN	NS	v0n1.nic.taxi.taxi.			3599	IN	NS	v0n2.nic.taxi.taxi.			3599	IN	NS	v0n3.nic.taxi.v2n1.nic.taxi.		3598	IN	A	161.232.11.21v2n1.nic.taxi.		3598	IN	AAAA	2a01:8840:f5::21

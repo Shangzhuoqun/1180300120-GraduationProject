@@ -1,7 +1,0 @@
-; timestamp: 20220306T201359Z
-; source id: tld-query-helsinki.-c0.nic.helsinki.
-; source locator: c0.nic.helsinki.
-; source IP address: 65.22.222.33
-; backup point IP address: 111.42.148.76
-; status: success
-helsinki.		3598	IN	NS	a2.nic.helsinki.helsinki.		3598	IN	NS	c0.nic.helsinki.helsinki.		3598	IN	NS	b0.nic.helsinki.helsinki.		3598	IN	NS	a0.nic.helsinki.c0.nic.helsinki.	598	IN	A	65.22.222.33c0.nic.helsinki.	598	IN	AAAA	2a01:8840:d8::33

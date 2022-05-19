@@ -1,7 +1,0 @@
-; timestamp: 20220306T194258Z
-; source id: tld-query-as.-ns3.asnic.org.
-; source locator: ns3.asnic.org.
-; source IP address: 213.248.223.254
-; backup point IP address: 111.42.148.76
-; status: success
-as.			21600	IN	NS	ns1.asnic.biz.as.			21600	IN	NS	ns2.asnic.info.as.			21600	IN	NS	ns3.asnic.org.as.			21600	IN	NS	ns4.asnic.uk.as.			21600	IN	NS	ns5.asnic.us.as.			21600	IN	NS	pch.nic.as.ns3.asnic.org.		529	IN	A	213.248.223.254ns3.asnic.org.		1577	IN	AAAA	2a01:618:407::254

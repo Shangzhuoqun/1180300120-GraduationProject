@@ -1,7 +1,0 @@
-; timestamp: 20220306T211950Z
-; source id: tld-query-woodside.-d.nic.woodside.
-; source locator: d.nic.woodside.
-; source IP address: 37.209.198.9
-; backup point IP address: 111.42.148.76
-; status: success
-woodside.		3599	IN	NS	d.nic.woodside.woodside.		3599	IN	NS	a.nic.woodside.woodside.		3599	IN	NS	c.nic.woodside.woodside.		3599	IN	NS	b.nic.woodside.d.nic.woodside.		3600	IN	A	37.209.198.9d.nic.woodside.		3600	IN	AAAA	2001:dcd:4::9

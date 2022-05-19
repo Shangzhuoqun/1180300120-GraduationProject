@@ -1,7 +1,0 @@
-; timestamp: 20220306T194234Z
-; source id: tld-query-ar.-ar.cctld.authdns.ripe.net.
-; source locator: ar.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.59
-; backup point IP address: 111.42.148.76
-; status: success
-ar.			86400	IN	NS	a.dns.ar.ar.			86400	IN	NS	b.dns.ar.ar.			86400	IN	NS	c.dns.ar.ar.			86400	IN	NS	d.dns.ar.ar.			86400	IN	NS	e.dns.ar.ar.			86400	IN	NS	f.dns.ar.ar.			86400	IN	NS	ar.cctld.authdns.ripe.net.ar.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.59ar.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::59

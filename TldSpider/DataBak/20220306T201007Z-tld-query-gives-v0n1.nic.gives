@@ -1,7 +1,0 @@
-; timestamp: 20220306T201007Z
-; source id: tld-query-gives.-v0n1.nic.gives.
-; source locator: v0n1.nic.gives.
-; source IP address: 65.22.33.61
-; backup point IP address: 111.42.148.76
-; status: success
-gives.			3600	IN	NS	v0n2.nic.gives.gives.			3600	IN	NS	v0n3.nic.gives.gives.			3600	IN	NS	v0n0.nic.gives.gives.			3600	IN	NS	v2n0.nic.gives.gives.			3600	IN	NS	v2n1.nic.gives.gives.			3600	IN	NS	v0n1.nic.gives.v0n1.nic.gives.		3600	IN	A	65.22.33.61v0n1.nic.gives.		3599	IN	AAAA	2a01:8840:23::61

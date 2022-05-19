@@ -1,7 +1,0 @@
-; timestamp: 20220306T195229Z
-; source id: tld-query-cars.-d.nic.cars.
-; source locator: d.nic.cars.
-; source IP address: 212.18.249.129
-; backup point IP address: 111.42.148.76
-; status: success
-cars.			1136	IN	NS	a.nic.cars.cars.			1136	IN	NS	d.nic.cars.cars.			1136	IN	NS	c.nic.cars.cars.			1136	IN	NS	b.nic.cars.d.nic.cars.		3596	IN	A	212.18.249.129d.nic.cars.		3596	IN	AAAA	2a04:2b00:13ff::129

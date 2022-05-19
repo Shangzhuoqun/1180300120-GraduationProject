@@ -1,7 +1,0 @@
-; timestamp: 20220306T202848Z
-; source id: tld-query-luxe.-c.nic.luxe.
-; source locator: c.nic.luxe.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-luxe.			3600	IN	NS	c.nic.luxe.luxe.			3600	IN	NS	b.nic.luxe.luxe.			3600	IN	NS	d.nic.luxe.luxe.			3600	IN	NS	a.nic.luxe.c.nic.luxe.		3599	IN	A	37.209.196.10c.nic.luxe.		3599	IN	AAAA	2001:dcd:3::10

@@ -1,7 +1,0 @@
-; timestamp: 20220306T202852Z
-; source id: tld-query-lv.-sunic.sunet.se.
-; source locator: sunic.sunet.se.
-; source IP address: 192.36.125.2
-; backup point IP address: 111.42.148.76
-; status: success
-lv.			3586	IN	NS	n.nic.lv.lv.			3586	IN	NS	a.nic.lv.lv.			3586	IN	NS	sunic.sunet.se.lv.			3586	IN	NS	d.nic.lv.lv.			3586	IN	NS	b.nic.lv.lv.			3586	IN	NS	nu.nic.lv.sunic.sunet.se.		2107	IN	A	192.36.125.2sunic.sunet.se.		2118	IN	AAAA	2001:6b0:7::2

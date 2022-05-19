@@ -1,7 +1,0 @@
-; timestamp: 20220306T212838Z
-; source id: tld-query-xn--qxa6a.-si.dns.eu.
-; source locator: si.dns.eu.
-; source IP address: 193.2.221.60
-; backup point IP address: 111.42.148.76
-; status: success
-xn--qxa6a.		3599	IN	NS	si.dns.eu.xn--qxa6a.		3599	IN	NS	y.dns.eu.xn--qxa6a.		3599	IN	NS	w.dns.eu.xn--qxa6a.		3599	IN	NS	x.dns.eu.xn--qxa6a.		3599	IN	NS	be.dns.eu.si.dns.eu.		3288	IN	A	193.2.221.60si.dns.eu.		3288	IN	AAAA	2001:1470:8000:100::1

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212548Z
-; source id: tld-query-xn--mgba3a3ejt.-ns4.dns.nic.xn--mgba3a3ejt.
-; source locator: ns4.dns.nic.xn--mgba3a3ejt.
-; source IP address: 156.154.156.15
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgba3a3ejt.		3599	IN	NS	ns5.dns.nic.xn--mgba3a3ejt.xn--mgba3a3ejt.		3599	IN	NS	ns2.dns.nic.xn--mgba3a3ejt.xn--mgba3a3ejt.		3599	IN	NS	ns4.dns.nic.xn--mgba3a3ejt.xn--mgba3a3ejt.		3599	IN	NS	ns6.dns.nic.xn--mgba3a3ejt.xn--mgba3a3ejt.		3599	IN	NS	ns3.dns.nic.xn--mgba3a3ejt.xn--mgba3a3ejt.		3599	IN	NS	ns1.dns.nic.xn--mgba3a3ejt.ns4.dns.nic.xn--mgba3a3ejt. 3599 IN	A	156.154.156.15ns4.dns.nic.xn--mgba3a3ejt. 3600 IN	AAAA	2610:a1:1074::f

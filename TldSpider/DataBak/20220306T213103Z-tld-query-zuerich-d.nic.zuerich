@@ -1,7 +1,0 @@
-; timestamp: 20220306T213103Z
-; source id: tld-query-zuerich.-d.nic.zuerich.
-; source locator: d.nic.zuerich.
-; source IP address: 212.18.249.107
-; backup point IP address: 111.42.148.76
-; status: success
-zuerich.		3597	IN	NS	c.nic.zuerich.zuerich.		3597	IN	NS	a.nic.zuerich.zuerich.		3597	IN	NS	d.nic.zuerich.zuerich.		3597	IN	NS	b.nic.zuerich.d.nic.zuerich.		3598	IN	A	212.18.249.107d.nic.zuerich.		3598	IN	AAAA	2a04:2b00:13ff::107

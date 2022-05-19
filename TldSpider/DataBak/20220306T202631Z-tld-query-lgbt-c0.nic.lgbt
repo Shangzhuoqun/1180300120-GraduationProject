@@ -1,7 +1,0 @@
-; timestamp: 20220306T202631Z
-; source id: tld-query-lgbt.-c0.nic.lgbt.
-; source locator: c0.nic.lgbt.
-; source IP address: 65.22.34.1
-; backup point IP address: 111.42.148.76
-; status: success
-lgbt.			3598	IN	NS	a0.nic.lgbt.lgbt.			3598	IN	NS	b0.nic.lgbt.lgbt.			3598	IN	NS	a2.nic.lgbt.lgbt.			3598	IN	NS	c0.nic.lgbt.c0.nic.lgbt.		599	IN	A	65.22.34.1c0.nic.lgbt.		598	IN	AAAA	2a01:8840:24::1

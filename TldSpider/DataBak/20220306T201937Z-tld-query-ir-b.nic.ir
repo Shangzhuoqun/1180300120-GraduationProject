@@ -1,27 +1,0 @@
-; timestamp: 20220306T201937Z
-; source id: tld-query-ir.-b.nic.ir.
-; source locator: b.nic.ir.
-; source IP address: 193.189.122.83
-; backup point IP address: 111.42.148.76
-; status: success
-ir.			1440	IN	NS	ns5.univie.ac.at.ir.			1440	IN	NS	ir.cctld.authdns.ripe.net.ir.			1440	IN	NS	a.nic.ir.ir.			1440	IN	NS	dns-ir.univie.ac.at.ir.			1440	IN	NS	b.nic.ir.b.nic.ir.		776	IN	A	193.189.122.83dig @193.189.122.83 b.nic.ir. AAAA
-
-; <<>> DiG 9.16.23 <<>> @193.189.122.83 b.nic.ir. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6941
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;b.nic.ir.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.ir.			1798	IN	SOA	ns1.nic.ir. info.nic.ir. 202005030 43200 7200 604800 14400
-
-;; Query time: 6 msec
-;; SERVER: 193.189.122.83#53(193.189.122.83)
-;; WHEN: Sun Mar 06 20:19:40 ;; MSG SIZE  rcvd: 82
-

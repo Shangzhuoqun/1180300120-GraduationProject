@@ -1,7 +1,0 @@
-; timestamp: 20220306T194827Z
-; source id: tld-query-boehringer.-c0.nic.boehringer.
-; source locator: c0.nic.boehringer.
-; source IP address: 65.22.190.17
-; backup point IP address: 111.42.148.76
-; status: success
-boehringer.		1334	IN	NS	a0.nic.boehringer.boehringer.		1334	IN	NS	c0.nic.boehringer.boehringer.		1334	IN	NS	a2.nic.boehringer.boehringer.		1334	IN	NS	b0.nic.boehringer.c0.nic.boehringer.	599	IN	A	65.22.190.17c0.nic.boehringer.	599	IN	AAAA	2a01:8840:b8::17

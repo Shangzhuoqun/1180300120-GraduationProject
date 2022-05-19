@@ -1,7 +1,0 @@
-; timestamp: 20220306T204036Z
-; source id: tld-query-mw.-mw.cctld.authdns.ripe.net.
-; source locator: mw.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.99
-; backup point IP address: 111.42.148.76
-; status: success
-mw.			18000	IN	NS	d.ext.nic.cz.mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.mw.			18000	IN	NS	ns4.apnic.net.mw.			18000	IN	NS	rip.psg.com.mw.			18000	IN	NS	pch1.nic.mw.mw.			18000	IN	NS	domwe.sdn.mw.mw.			18000	IN	NS	chambo.sdnp.org.mw.mw.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.99mw.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::99

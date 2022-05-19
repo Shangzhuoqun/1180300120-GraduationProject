@@ -1,7 +1,0 @@
-; timestamp: 20220306T195213Z
-; source id: tld-query-caravan.-ns2.dns.nic.caravan.
-; source locator: ns2.dns.nic.caravan.
-; source IP address: 156.154.145.32
-; backup point IP address: 111.42.148.76
-; status: success
-caravan.		1150	IN	NS	ns3.dns.nic.caravan.caravan.		1150	IN	NS	c.nic.caravan.caravan.		1150	IN	NS	b.nic.caravan.caravan.		1150	IN	NS	ns1.dns.nic.caravan.caravan.		1150	IN	NS	ns2.dns.nic.caravan.caravan.		1150	IN	NS	a.nic.caravan.ns2.dns.nic.caravan.	3600	IN	A	156.154.145.32ns2.dns.nic.caravan.	3598	IN	AAAA	2610:a1:1072::20

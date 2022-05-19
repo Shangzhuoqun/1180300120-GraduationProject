@@ -1,7 +1,0 @@
-; timestamp: 20220306T195254Z
-; source id: tld-query-catering.-v2n0.nic.catering.
-; source locator: v2n0.nic.catering.
-; source IP address: 65.22.35.24
-; backup point IP address: 111.42.148.76
-; status: success
-catering.		1119	IN	NS	v2n0.nic.catering.catering.		1119	IN	NS	v0n3.nic.catering.catering.		1119	IN	NS	v2n1.nic.catering.catering.		1119	IN	NS	v0n2.nic.catering.catering.		1119	IN	NS	v0n1.nic.catering.catering.		1119	IN	NS	v0n0.nic.catering.v2n0.nic.catering.	3598	IN	A	65.22.35.24v2n0.nic.catering.	3598	IN	AAAA	2a01:8840:25::24

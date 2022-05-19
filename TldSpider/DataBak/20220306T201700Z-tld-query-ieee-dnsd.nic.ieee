@@ -1,27 +1,0 @@
-; timestamp: 20220306T201700Z
-; source id: tld-query-ieee.-dnsd.nic.ieee.
-; source locator: dnsd.nic.ieee.
-; source IP address: 156.154.103.3
-; backup point IP address: 111.42.148.76
-; status: success
-ieee.			3595	IN	NS	dnsb.nic.ieee.ieee.			3595	IN	NS	dnsa.nic.ieee.ieee.			3595	IN	NS	dns1.nic.ieee.ieee.			3595	IN	NS	dns3.nic.ieee.ieee.			3595	IN	NS	dnsc.nic.ieee.ieee.			3595	IN	NS	dns2.nic.ieee.ieee.			3595	IN	NS	dnsd.nic.ieee.ieee.			3595	IN	NS	dns4.nic.ieee.dnsd.nic.ieee.		3596	IN	A	156.154.103.3dig @156.154.103.3 dnsd.nic.ieee. AAAA
-
-; <<>> DiG 9.16.23 <<>> @156.154.103.3 dnsd.nic.ieee. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39465
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;dnsd.nic.ieee.			IN	AAAA
-
-;; AUTHORITY SECTION:
-nic.ieee.		896	IN	SOA	ns1.dns.nic.ieee. admin.tldns.godaddy. 1646110443 1800 300 604800 1800
-
-;; Query time: 9 msec
-;; SERVER: 156.154.103.3#53(156.154.103.3)
-;; WHEN: Sun Mar 06 20:17:05 ;; MSG SIZE  rcvd: 105
-

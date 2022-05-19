@@ -1,7 +1,0 @@
-; timestamp: 20220306T212444Z
-; source id: tld-query-xn--i1b6b1a6a2e.-c0.nic.xn--i1b6b1a6a2e.
-; source locator: c0.nic.xn--i1b6b1a6a2e.
-; source IP address: 65.22.186.1
-; backup point IP address: 111.42.148.76
-; status: success
-xn--i1b6b1a6a2e.	3598	IN	NS	c0.nic.xn--i1b6b1a6a2e.xn--i1b6b1a6a2e.	3598	IN	NS	a0.nic.xn--i1b6b1a6a2e.xn--i1b6b1a6a2e.	3598	IN	NS	a2.nic.xn--i1b6b1a6a2e.xn--i1b6b1a6a2e.	3598	IN	NS	b0.nic.xn--i1b6b1a6a2e.c0.nic.xn--i1b6b1a6a2e.	599	IN	A	65.22.186.1c0.nic.xn--i1b6b1a6a2e.	599	IN	AAAA	2a01:8840:b4::1

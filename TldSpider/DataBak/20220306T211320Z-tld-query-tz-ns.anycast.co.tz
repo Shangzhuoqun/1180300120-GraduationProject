@@ -1,7 +1,0 @@
-; timestamp: 20220306T211320Z
-; source id: tld-query-tz.-ns.anycast.co.tz.
-; source locator: ns.anycast.co.tz.
-; source IP address: 204.61.216.15
-; backup point IP address: 111.42.148.76
-; status: success
-tz.			18000	IN	NS	ns-tz.afrinic.net.tz.			18000	IN	NS	d.ext.nic.cz.tz.			18000	IN	NS	rip.psg.com.tz.			18000	IN	NS	ns.anycast.co.tz.tz.			18000	IN	NS	ns2.tznic.or.tz.tz.			18000	IN	NS	fork.sth.dnsnode.net.ns.anycast.co.tz.	3418	IN	A	204.61.216.15ns.anycast.co.tz.	3600	IN	AAAA	2001:500:14:6015:ad::1

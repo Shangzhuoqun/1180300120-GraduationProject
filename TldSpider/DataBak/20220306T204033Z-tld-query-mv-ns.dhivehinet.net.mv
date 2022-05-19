@@ -1,27 +1,0 @@
-; timestamp: 20220306T204033Z
-; source id: tld-query-mv.-ns.dhivehinet.net.mv.
-; source locator: ns.dhivehinet.net.mv.
-; source IP address: 202.1.192.196
-; backup point IP address: 111.42.148.76
-; status: success
-mv.			3600	IN	NS	ns2.dhivehinet.net.mv.mv.			3600	IN	NS	mv-ns.anycast.pch.net.mv.			3600	IN	NS	ns.dhivehinet.net.mv.mv.			3600	IN	NS	ns.mv.ns.dhivehinet.net.mv.	600	IN	A	202.1.192.196dig @202.1.192.196 ns.dhivehinet.net.mv. AAAA
-
-; <<>> DiG 9.16.23 <<>> @202.1.192.196 ns.dhivehinet.net.mv. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51574
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.dhivehinet.net.mv.		IN	AAAA
-
-;; AUTHORITY SECTION:
-dhivehinet.net.mv.	400	IN	SOA	ns.dhivehinet.net.mv. hostmaster.dhivehinet.net.mv. 2022010401 108 1800 604800 400
-
-;; Query time: 375 msec
-;; SERVER: 202.1.192.196#53(202.1.192.196)
-;; WHEN: Sun Mar 06 20:40:35 ;; MSG SIZE  rcvd: 96
-

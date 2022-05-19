@@ -1,7 +1,0 @@
-; timestamp: 20220306T212306Z
-; source id: tld-query-xn--clchc0ea0b2g2a9gcd.-dsany.sgnic.sg.
-; source locator: dsany.sgnic.sg.
-; source IP address: 120.29.253.11
-; backup point IP address: 111.42.148.76
-; status: success
-xn--clchc0ea0b2g2a9gcd.	3599	IN	NS	DSANY.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3599	IN	NS	PCH.SGZONES.SG.xn--clchc0ea0b2g2a9gcd.	3599	IN	NS	DSANY3.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3599	IN	NS	DSANY2.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3599	IN	NS	NS4.APNIC.NET.dsany.sgnic.sg.		600	IN	A	120.29.253.11dsany.sgnic.sg.		600	IN	AAAA	2001:dcd:7::11

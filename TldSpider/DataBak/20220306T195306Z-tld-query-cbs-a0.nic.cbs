@@ -1,7 +1,0 @@
-; timestamp: 20220306T195306Z
-; source id: tld-query-cbs.-a0.nic.cbs.
-; source locator: a0.nic.cbs.
-; source IP address: 65.22.68.9
-; backup point IP address: 111.42.148.76
-; status: success
-cbs.			86400	IN	NS	a2.nic.cbs.cbs.			86400	IN	NS	c0.nic.cbs.cbs.			86400	IN	NS	b0.nic.cbs.cbs.			86400	IN	NS	a0.nic.cbs.a0.nic.cbs.		600	IN	A	65.22.68.9a0.nic.cbs.		600	IN	AAAA	2a01:8840:42::9

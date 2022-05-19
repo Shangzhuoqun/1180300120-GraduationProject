@@ -1,7 +1,0 @@
-; timestamp: 20220306T201148Z
-; source id: tld-query-got.-dns2.nic.got.
-; source locator: dns2.nic.got.
-; source IP address: 103.49.82.68
-; backup point IP address: 111.42.148.76
-; status: success
-got.			172800	IN	NS	dns2.nic.got.got.			172800	IN	NS	dns3.nic.got.got.			172800	IN	NS	dns4.nic.got.got.			172800	IN	NS	dns1.nic.got.got.			172800	IN	NS	dnsa.nic.got.got.			172800	IN	NS	dnsb.nic.got.got.			172800	IN	NS	dnsc.nic.got.got.			172800	IN	NS	dnsd.nic.got.dns2.nic.got.		3596	IN	A	103.49.82.68dns2.nic.got.		151199	IN	AAAA	2401:fd80:402::68

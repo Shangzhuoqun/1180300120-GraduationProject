@@ -1,7 +1,0 @@
-; timestamp: 20220306T193950Z
-; source id: tld-query-aaa.-b.nic.aaa.
-; source locator: b.nic.aaa.
-; source IP address: 37.209.194.9
-; backup point IP address: 111.42.148.76
-; status: success
-aaa.			86400	IN	NS	ns2.dns.nic.aaa.aaa.			86400	IN	NS	b.nic.aaa.aaa.			86400	IN	NS	a.nic.aaa.aaa.			86400	IN	NS	c.nic.aaa.aaa.			86400	IN	NS	ns1.dns.nic.aaa.aaa.			86400	IN	NS	ns3.dns.nic.aaa.b.nic.aaa.		3600	IN	A	37.209.194.9b.nic.aaa.		3600	IN	AAAA	2001:dcd:2::9

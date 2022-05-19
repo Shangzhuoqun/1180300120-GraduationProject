@@ -1,7 +1,0 @@
-; timestamp: 20220306T202407Z
-; source id: tld-query-kg.-ns.kg.
-; source locator: ns.kg.
-; source IP address: 195.38.160.36
-; backup point IP address: 111.42.148.76
-; status: success
-kg.			86400	IN	NS	NS.KG.kg.			86400	IN	NS	NS2.KG.kg.			86400	IN	NS	KG.CCTLD.AUTHDNS.RIPE.NET.ns.kg.			3600	IN	A	195.38.160.36ns.kg.			3600	IN	AAAA	2a11:a380::195:38:160:36

@@ -1,7 +1,0 @@
-; timestamp: 20220306T203152Z
-; source id: tld-query-memorial.-v0n2.nic.memorial.
-; source locator: v0n2.nic.memorial.
-; source IP address: 65.22.34.64
-; backup point IP address: 111.42.148.76
-; status: success
-memorial.		3599	IN	NS	v0n3.nic.memorial.memorial.		3599	IN	NS	v0n0.nic.memorial.memorial.		3599	IN	NS	v0n1.nic.memorial.memorial.		3599	IN	NS	v2n1.nic.memorial.memorial.		3599	IN	NS	v0n2.nic.memorial.memorial.		3599	IN	NS	v2n0.nic.memorial.v0n2.nic.memorial.	3599	IN	A	65.22.34.64v0n2.nic.memorial.	3599	IN	AAAA	2a01:8840:24::64

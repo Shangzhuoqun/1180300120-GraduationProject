@@ -1,7 +1,0 @@
-; timestamp: 20220306T212152Z
-; source id: tld-query-xn--5tzm5g.-c0.nic.xn--5tzm5g.
-; source locator: c0.nic.xn--5tzm5g.
-; source IP address: 65.22.18.9
-; backup point IP address: 111.42.148.76
-; status: success
-xn--5tzm5g.		3599	IN	NS	a0.nic.xn--5tzm5g.xn--5tzm5g.		3599	IN	NS	c0.nic.xn--5tzm5g.xn--5tzm5g.		3599	IN	NS	a2.nic.xn--5tzm5g.xn--5tzm5g.		3599	IN	NS	b0.nic.xn--5tzm5g.c0.nic.xn--5tzm5g.	599	IN	A	65.22.18.9c0.nic.xn--5tzm5g.	300	IN	AAAA	2a01:8840:14::9

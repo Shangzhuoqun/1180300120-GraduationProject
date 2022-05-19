@@ -1,7 +1,0 @@
-; timestamp: 20220306T200530Z
-; source id: tld-query-final.-a.dns.br.
-; source locator: a.dns.br.
-; source IP address: 200.219.148.10
-; backup point IP address: 111.42.148.76
-; status: success
-final.			3600	IN	NS	f.dns.br.final.			3600	IN	NS	e.dns.br.final.			3600	IN	NS	c.dns.br.final.			3600	IN	NS	b.dns.br.final.			3600	IN	NS	d.dns.br.final.			3600	IN	NS	a.dns.br.a.dns.br.		1023	IN	A	200.219.148.10a.dns.br.		3600	IN	AAAA	2001:12f8:6::10

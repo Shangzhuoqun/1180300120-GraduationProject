@@ -4,7 +4,7 @@ import os
 import json
 from scapy.all import *
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 logPath = None
 dataPath = None
 abnormalTLDFileList = None
@@ -134,8 +134,8 @@ def callback(pkt):
             myid = pkt[DNS].id
             send_pkt = IP(src = dstIP, dst = srcIP) / UDP(sport = dstport, dport = srcport) / DNS(id = myid, qr = 1, opcode = 'QUERY', aa = 0, tc = 0, rd = 1, ra = 0, z = 0, ad = 0, cd = 0, rcode = 'ok', qdcount = 1, ancount=0, nscount=int(tld_ns_map[pkt_tld][0]), arcount=int(tld_ar_map[pkt_tld][0]),
                             qd=(DNSQR(qname = queryName, qtype = 'NS')),
-                            ns=tld_ns_map[pkt_tld],
-                            ar=tld_ar_map[pkt_tld])
+                            ns=tld_ns_map[pkt_tld][1],
+                            ar=tld_ar_map[pkt_tld][1])
             send(send_pkt)
     except:
         pass

@@ -1,7 +1,0 @@
-; timestamp: 20220306T195137Z
-; source id: tld-query-cam.-c.nic.cam.
-; source locator: c.nic.cam.
-; source IP address: 212.18.248.77
-; backup point IP address: 111.42.148.76
-; status: success
-cam.			172800	IN	NS	b.nic.cam.cam.			172800	IN	NS	c.nic.cam.cam.			172800	IN	NS	d.nic.cam.cam.			172800	IN	NS	a.nic.cam.c.nic.cam.		1686	IN	A	212.18.248.77c.nic.cam.		3494	IN	AAAA	2a04:2b00:13ee::77

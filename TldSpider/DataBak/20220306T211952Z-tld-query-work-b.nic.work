@@ -1,7 +1,0 @@
-; timestamp: 20220306T211952Z
-; source id: tld-query-work.-b.nic.work.
-; source locator: b.nic.work.
-; source IP address: 37.209.194.10
-; backup point IP address: 111.42.148.76
-; status: success
-work.			3599	IN	NS	d.nic.work.work.			3599	IN	NS	b.nic.work.work.			3599	IN	NS	a.nic.work.work.			3599	IN	NS	c.nic.work.b.nic.work.		3600	IN	A	37.209.194.10b.nic.work.		3375	IN	AAAA	2001:dcd:2::10

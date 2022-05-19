@@ -1,7 +1,0 @@
-; timestamp: 20220306T205840Z
-; source id: tld-query-sd.-sd.cctld.authdns.ripe.net.
-; source locator: sd.cctld.authdns.ripe.net.
-; source IP address: 193.0.9.109
-; backup point IP address: 111.42.148.76
-; status: success
-sd.			14400	IN	NS	ans2.sis.sd.sd.			14400	IN	NS	ns-sd.afrinic.net.sd.			14400	IN	NS	ans2.canar.sd.sd.			14400	IN	NS	pch.sis.sd.sd.			14400	IN	NS	ans1.canar.sd.sd.			14400	IN	NS	sd.cctld.authdns.ripe.net.sd.			14400	IN	NS	ans1.sis.sd.sd.cctld.authdns.ripe.net. 3600	IN	A	193.0.9.109sd.cctld.authdns.ripe.net. 3600	IN	AAAA	2001:67c:e0::109

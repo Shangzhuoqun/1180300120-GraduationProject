@@ -1,7 +1,0 @@
-; timestamp: 20220306T210423Z
-; source id: tld-query-stcgroup.-a.nic.stcgroup.
-; source locator: a.nic.stcgroup.
-; source IP address: 194.169.218.46
-; backup point IP address: 111.42.148.76
-; status: success
-stcgroup.		3596	IN	NS	d.nic.stcgroup.stcgroup.		3596	IN	NS	a.nic.stcgroup.stcgroup.		3596	IN	NS	b.nic.stcgroup.stcgroup.		3596	IN	NS	c.nic.stcgroup.a.nic.stcgroup.		3600	IN	A	194.169.218.46a.nic.stcgroup.		3600	IN	AAAA	2001:67c:13cc::1:46

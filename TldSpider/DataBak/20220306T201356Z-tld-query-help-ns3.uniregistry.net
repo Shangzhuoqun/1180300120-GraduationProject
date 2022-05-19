@@ -1,7 +1,0 @@
-; timestamp: 20220306T201356Z
-; source id: tld-query-help.-ns3.uniregistry.net.
-; source locator: ns3.uniregistry.net.
-; source IP address: 185.159.197.3
-; backup point IP address: 111.42.148.76
-; status: success
-help.			3599	IN	NS	ns4.uniregistry.info.help.			3599	IN	NS	ns1.uniregistry.net.help.			3599	IN	NS	ns3.uniregistry.net.help.			3599	IN	NS	ns2.uniregistry.info.ns3.uniregistry.net.	2482	IN	A	185.159.197.3ns3.uniregistry.net.	3161	IN	AAAA	2620:10a:80aa::3

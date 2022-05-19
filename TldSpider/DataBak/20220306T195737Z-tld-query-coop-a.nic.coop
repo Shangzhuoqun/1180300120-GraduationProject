@@ -1,7 +1,0 @@
-; timestamp: 20220306T195737Z
-; source id: tld-query-coop.-a.nic.coop.
-; source locator: a.nic.coop.
-; source IP address: 194.169.218.64
-; backup point IP address: 111.42.148.76
-; status: success
-coop.			929	IN	NS	d.nic.coop.coop.			929	IN	NS	a.nic.coop.coop.			929	IN	NS	b.nic.coop.coop.			929	IN	NS	c.nic.coop.a.nic.coop.		3600	IN	A	194.169.218.64a.nic.coop.		3600	IN	AAAA	2001:67c:13cc::1:64

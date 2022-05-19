@@ -1,7 +1,0 @@
-; timestamp: 20220306T194840Z
-; source id: tld-query-boston.-d.nic.boston.
-; source locator: d.nic.boston.
-; source IP address: 37.209.198.10
-; backup point IP address: 111.42.148.76
-; status: success
-boston.			1325	IN	NS	b.nic.boston.boston.			1325	IN	NS	a.nic.boston.boston.			1325	IN	NS	c.nic.boston.boston.			1325	IN	NS	d.nic.boston.d.nic.boston.		3599	IN	A	37.209.198.10d.nic.boston.		3599	IN	AAAA	2001:dcd:4::10

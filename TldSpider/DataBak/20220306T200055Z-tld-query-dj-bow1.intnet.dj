@@ -1,27 +1,0 @@
-; timestamp: 20220306T200055Z
-; source id: tld-query-dj.-bow1.intnet.dj.
-; source locator: bow1.intnet.dj.
-; source IP address: 197.241.17.130
-; backup point IP address: 111.42.148.76
-; status: success
-dj.			172800	IN	NS	vps443605.ovh.net.dj.			172800	IN	NS	bow5.intnet.dj.dj.			172800	IN	NS	bow1.intnet.dj.bow1.intnet.dj.		3600	IN	A	197.241.17.130dig @197.241.17.130 bow1.intnet.dj. AAAA
-
-; <<>> DiG 9.16.23 <<>> @197.241.17.130 bow1.intnet.dj. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60522
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;bow1.intnet.dj.			IN	AAAA
-
-;; AUTHORITY SECTION:
-intnet.dj.		1800	IN	SOA	bow3.intnet.dj. dns.intnet.dj. 2018121301 21600 3600 1296000 86400
-
-;; Query time: 1140 msec
-;; SERVER: 197.241.17.130#53(197.241.17.130)
-;; WHEN: Sun Mar 06 20:00:57 ;; MSG SIZE  rcvd: 88
-

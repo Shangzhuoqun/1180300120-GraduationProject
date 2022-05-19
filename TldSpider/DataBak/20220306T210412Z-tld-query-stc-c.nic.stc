@@ -1,7 +1,0 @@
-; timestamp: 20220306T210412Z
-; source id: tld-query-stc.-c.nic.stc.
-; source locator: c.nic.stc.
-; source IP address: 212.18.248.29
-; backup point IP address: 111.42.148.76
-; status: success
-stc.			172800	IN	NS	d.nic.stc.stc.			172800	IN	NS	c.nic.stc.stc.			172800	IN	NS	b.nic.stc.stc.			172800	IN	NS	a.nic.stc.c.nic.stc.		3597	IN	A	212.18.248.29c.nic.stc.		3597	IN	AAAA	2a04:2b00:13ee::29

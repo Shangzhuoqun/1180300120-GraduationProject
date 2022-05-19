@@ -1,7 +1,0 @@
-; timestamp: 20220306T204827Z
-; source id: tld-query-photography.-v2n0.nic.photography.
-; source locator: v2n0.nic.photography.
-; source IP address: 65.22.27.3
-; backup point IP address: 111.42.148.76
-; status: success
-photography.		3595	IN	NS	v0n1.nic.photography.photography.		3595	IN	NS	v2n0.nic.photography.photography.		3595	IN	NS	v0n3.nic.photography.photography.		3595	IN	NS	v0n2.nic.photography.photography.		3595	IN	NS	v0n0.nic.photography.photography.		3595	IN	NS	v2n1.nic.photography.v2n0.nic.photography.	3600	IN	A	65.22.27.3v2n0.nic.photography.	3600	IN	AAAA	2a01:8840:1d::3

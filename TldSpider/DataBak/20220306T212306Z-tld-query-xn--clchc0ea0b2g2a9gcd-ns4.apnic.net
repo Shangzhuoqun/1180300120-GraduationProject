@@ -1,7 +1,0 @@
-; timestamp: 20220306T212306Z
-; source id: tld-query-xn--clchc0ea0b2g2a9gcd.-ns4.apnic.net.
-; source locator: ns4.apnic.net.
-; source IP address: 202.12.31.53
-; backup point IP address: 111.42.148.76
-; status: success
-xn--clchc0ea0b2g2a9gcd.	3600	IN	NS	DSANY2.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3600	IN	NS	DSANY.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3600	IN	NS	DSANY3.SGNIC.SG.xn--clchc0ea0b2g2a9gcd.	3600	IN	NS	NS4.APNIC.NET.xn--clchc0ea0b2g2a9gcd.	3600	IN	NS	PCH.SGZONES.SG.ns4.apnic.net.		3231	IN	A	202.12.31.53ns4.apnic.net.		44	IN	AAAA	2001:dd8:12::53

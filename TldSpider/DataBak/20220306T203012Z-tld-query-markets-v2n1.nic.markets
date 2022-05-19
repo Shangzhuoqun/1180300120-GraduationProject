@@ -1,7 +1,0 @@
-; timestamp: 20220306T203012Z
-; source id: tld-query-markets.-v2n1.nic.markets.
-; source locator: v2n1.nic.markets.
-; source IP address: 161.232.17.65
-; backup point IP address: 111.42.148.76
-; status: success
-markets.		3598	IN	NS	v2n0.nic.markets.markets.		3598	IN	NS	v0n0.nic.markets.markets.		3598	IN	NS	v0n3.nic.markets.markets.		3598	IN	NS	v0n2.nic.markets.markets.		3598	IN	NS	v0n1.nic.markets.markets.		3598	IN	NS	v2n1.nic.markets.v2n1.nic.markets.	3598	IN	A	161.232.17.65v2n1.nic.markets.	3597	IN	AAAA	2a01:8840:fb::65

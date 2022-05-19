@@ -1,7 +1,0 @@
-; timestamp: 20220306T201946Z
-; source id: tld-query-is.-ht-tldsecondary01.isnic.is.
-; source locator: ht-tldsecondary01.isnic.is.
-; source IP address: 185.93.156.10
-; backup point IP address: 111.42.148.76
-; status: success
-is.			259200	IN	NS	sab.isnic.is.is.			259200	IN	NS	durinn.rhnet.is.is.			259200	IN	NS	bes.isnic.is.is.			259200	IN	NS	ht-tldsecondary01.isnic.is.is.			259200	IN	NS	tg-tldsecondary01.isnic.is.is.			259200	IN	NS	sunic.sunet.se.ht-tldsecondary01.isnic.is. 3598 IN	A	185.93.156.10ht-tldsecondary01.isnic.is. 3597 IN	AAAA	2001:67c:6c:56::10

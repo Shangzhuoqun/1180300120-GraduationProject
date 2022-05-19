@@ -1,7 +1,0 @@
-; timestamp: 20220306T194334Z
-; source id: tld-query-audible.-dnsc.nic.audible.
-; source locator: dnsc.nic.audible.
-; source IP address: 156.154.102.3
-; backup point IP address: 111.42.148.76
-; status: success
-audible.		1547	IN	NS	dns4.nic.audible.audible.		1547	IN	NS	dnsc.nic.audible.audible.		1547	IN	NS	dnsa.nic.audible.audible.		1547	IN	NS	dns1.nic.audible.audible.		1547	IN	NS	dns2.nic.audible.audible.		1547	IN	NS	dnsb.nic.audible.audible.		1547	IN	NS	dns3.nic.audible.audible.		1547	IN	NS	dnsd.nic.audible.dnsc.nic.audible.	3600	IN	A	156.154.102.3dnsc.nic.audible.	3600	IN	AAAA	2610:a1:1009::3

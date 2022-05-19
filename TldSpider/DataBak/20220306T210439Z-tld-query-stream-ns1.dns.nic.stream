@@ -1,7 +1,0 @@
-; timestamp: 20220306T210439Z
-; source id: tld-query-stream.-ns1.dns.nic.stream.
-; source locator: ns1.dns.nic.stream.
-; source IP address: 156.154.169.50
-; backup point IP address: 111.42.148.76
-; status: success
-stream.			3599	IN	NS	ns2.dns.nic.stream.stream.			3599	IN	NS	ns3.dns.nic.stream.stream.			3599	IN	NS	b.nic.stream.stream.			3599	IN	NS	c.nic.stream.stream.			3599	IN	NS	ns1.dns.nic.stream.stream.			3599	IN	NS	a.nic.stream.ns1.dns.nic.stream.	3599	IN	A	156.154.169.50ns1.dns.nic.stream.	3599	IN	AAAA	2610:a1:1071::1:32

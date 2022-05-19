@@ -1,7 +1,0 @@
-; timestamp: 20220306T194928Z
-; source id: tld-query-bs.-anyns.pch.net.
-; source locator: anyns.pch.net.
-; source IP address: 204.61.216.4
-; backup point IP address: 111.42.148.76
-; status: success
-bs.			86400	IN	NS	ns36.cdns.net.bs.			86400	IN	NS	anyns.pch.net.bs.			86400	IN	NS	anyns.dns.bs.anyns.pch.net.		1689	IN	A	204.61.216.4anyns.pch.net.		1688	IN	AAAA	2001:500:14:6004:ad::1

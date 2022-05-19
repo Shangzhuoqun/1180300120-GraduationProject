@@ -1,7 +1,0 @@
-; timestamp: 20220306T195741Z
-; source id: tld-query-coupon.-c.nic.coupon.
-; source locator: c.nic.coupon.
-; source IP address: 37.209.196.10
-; backup point IP address: 111.42.148.76
-; status: success
-coupon.			927	IN	NS	ns2.dns.nic.coupon.coupon.			927	IN	NS	ns3.dns.nic.coupon.coupon.			927	IN	NS	a.nic.coupon.coupon.			927	IN	NS	c.nic.coupon.coupon.			927	IN	NS	ns1.dns.nic.coupon.coupon.			927	IN	NS	b.nic.coupon.c.nic.coupon.		3600	IN	A	37.209.196.10c.nic.coupon.		3600	IN	AAAA	2001:dcd:3::10

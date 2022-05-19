@@ -1,7 +1,0 @@
-; timestamp: 20220306T210235Z
-; source id: tld-query-spot.-dnsd.nic.spot.
-; source locator: dnsd.nic.spot.
-; source IP address: 156.154.103.3
-; backup point IP address: 111.42.148.76
-; status: success
-spot.			3597	IN	NS	dns3.nic.spot.spot.			3597	IN	NS	dns2.nic.spot.spot.			3597	IN	NS	dnsd.nic.spot.spot.			3597	IN	NS	dns1.nic.spot.spot.			3597	IN	NS	dnsc.nic.spot.spot.			3597	IN	NS	dnsb.nic.spot.spot.			3597	IN	NS	dnsa.nic.spot.spot.			3597	IN	NS	dns4.nic.spot.dnsd.nic.spot.		3599	IN	A	156.154.103.3dnsd.nic.spot.		3599	IN	AAAA	2610:a1:1010::3

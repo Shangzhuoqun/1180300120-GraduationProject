@@ -1,7 +1,0 @@
-; timestamp: 20220306T194935Z
-; source id: tld-query-build.-a.nic.build.
-; source locator: a.nic.build.
-; source IP address: 194.169.218.20
-; backup point IP address: 111.42.148.76
-; status: success
-build.			1282	IN	NS	a.nic.build.build.			1282	IN	NS	b.nic.build.build.			1282	IN	NS	c.nic.build.build.			1282	IN	NS	d.nic.build.a.nic.build.		3600	IN	A	194.169.218.20a.nic.build.		3598	IN	AAAA	2001:67c:13cc::1:20

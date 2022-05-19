@@ -1,7 +1,0 @@
-; timestamp: 20220306T194125Z
-; source id: tld-query-al.-munnari.oz.au.
-; source locator: munnari.oz.au.
-; source IP address: 202.29.151.3
-; backup point IP address: 111.42.148.76
-; status: success
-al.			18000	IN	NS	nsx.nic.al.al.			18000	IN	NS	rip.psg.com.al.			18000	IN	NS	munnari.oz.au.al.			18000	IN	NS	ns1.nic.al.munnari.oz.au.		2475	IN	A	202.29.151.3munnari.oz.au.		600	IN	AAAA	2001:3c8:9009:181::2munnari.oz.au.		600	IN	AAAA	2001:3c8:9007:1::21

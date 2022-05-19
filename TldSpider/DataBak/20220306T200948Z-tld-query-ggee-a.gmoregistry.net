@@ -1,7 +1,0 @@
-; timestamp: 20220306T200948Z
-; source id: tld-query-ggee.-a.gmoregistry.net.
-; source locator: a.gmoregistry.net.
-; source IP address: 37.209.192.4
-; backup point IP address: 111.42.148.76
-; status: success
-ggee.			3600	IN	NS	k.gmoregistry.net.ggee.			3600	IN	NS	l.gmoregistry.net.ggee.			3600	IN	NS	b.gmoregistry.net.ggee.			3600	IN	NS	a.gmoregistry.net.a.gmoregistry.net.	3360	IN	A	37.209.192.4a.gmoregistry.net.	3360	IN	AAAA	2001:dcd:1::4

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210141Z
-; source id: tld-query-social.-v2n1.nic.social.
-; source locator: v2n1.nic.social.
-; source IP address: 161.232.11.41
-; backup point IP address: 111.42.148.76
-; status: success
-social.			3598	IN	NS	v0n0.nic.social.social.			3598	IN	NS	v0n3.nic.social.social.			3598	IN	NS	v2n1.nic.social.social.			3598	IN	NS	v2n0.nic.social.social.			3598	IN	NS	v0n2.nic.social.social.			3598	IN	NS	v0n1.nic.social.v2n1.nic.social.	725	IN	A	161.232.11.41v2n1.nic.social.	3599	IN	AAAA	2a01:8840:f5::41

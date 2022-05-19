@@ -1,7 +1,0 @@
-; timestamp: 20220306T194831Z
-; source id: tld-query-bond.-d.nic.bond.
-; source locator: d.nic.bond.
-; source IP address: 212.18.249.85
-; backup point IP address: 111.42.148.76
-; status: success
-bond.			1331	IN	NS	c.nic.bond.bond.			1331	IN	NS	d.nic.bond.bond.			1331	IN	NS	a.nic.bond.bond.			1331	IN	NS	b.nic.bond.d.nic.bond.		3599	IN	A	212.18.249.85d.nic.bond.		3599	IN	AAAA	2a04:2b00:13ff::85

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194441Z
-; source id: tld-query-baby.-d.nic.baby.
-; source locator: d.nic.baby.
-; source IP address: 212.18.249.101
-; backup point IP address: 111.42.148.76
-; status: success
-baby.			1499	IN	NS	d.nic.baby.baby.			1499	IN	NS	b.nic.baby.baby.			1499	IN	NS	c.nic.baby.baby.			1499	IN	NS	a.nic.baby.d.nic.baby.		3596	IN	A	212.18.249.101d.nic.baby.		3596	IN	AAAA	2a04:2b00:13ff::101

@@ -1,7 +1,0 @@
-; timestamp: 20220306T212130Z
-; source id: tld-query-xn--54b7fta0cc.-ekushey.btcl.net.bd.
-; source locator: ekushey.btcl.net.bd.
-; source IP address: 123.49.50.51
-; backup point IP address: 111.42.148.76
-; status: success
-xn--54b7fta0cc.		10789	IN	NS	bd-ns.anycast.pch.net.xn--54b7fta0cc.		10789	IN	NS	bayanno.btcl.net.bd.xn--54b7fta0cc.		10789	IN	NS	ekushey.btcl.net.bd.ekushey.btcl.net.bd.	1800	IN	A	123.49.50.51ekushey.btcl.net.bd.	1800	IN	AAAA	2407:5000:88:1::2

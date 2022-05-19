@@ -1,9 +1,0 @@
-; timestamp: 20220306T212810Z
-; source id: tld-query-xn--ogbpf8fl.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-sy.cctld.authdns.ripe.net.:../TldSpider/DataBak/20220306T212810Z-tld-query-xn--ogbpf8fl-sy.cctld.authdns.ripe.net
-ns1.tld.sy.:../TldSpider/DataBak/20220306T212810Z-tld-query-xn--ogbpf8fl-ns1.tld.sy
-pch.anycast.tld.sy.:../TldSpider/DataBak/20220306T212810Z-tld-query-xn--ogbpf8fl-pch.anycast.tld.sy

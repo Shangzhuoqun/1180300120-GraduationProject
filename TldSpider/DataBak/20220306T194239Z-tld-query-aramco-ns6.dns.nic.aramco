@@ -1,7 +1,0 @@
-; timestamp: 20220306T194239Z
-; source id: tld-query-aramco.-ns6.dns.nic.aramco.
-; source locator: ns6.dns.nic.aramco.
-; source IP address: 156.154.158.14
-; backup point IP address: 111.42.148.76
-; status: success
-aramco.			1596	IN	NS	ns1.dns.nic.aramco.aramco.			1596	IN	NS	ns4.dns.nic.aramco.aramco.			1596	IN	NS	ns6.dns.nic.aramco.aramco.			1596	IN	NS	ns5.dns.nic.aramco.aramco.			1596	IN	NS	ns3.dns.nic.aramco.aramco.			1596	IN	NS	ns2.dns.nic.aramco.ns6.dns.nic.aramco.	3600	IN	A	156.154.158.14ns6.dns.nic.aramco.	3600	IN	AAAA	2610:a1:1076::e

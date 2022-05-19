@@ -1,7 +1,0 @@
-; timestamp: 20220306T202220Z
-; source id: tld-query-joburg.-ns2us.dns.business.
-; source locator: ns2us.dns.business.
-; source IP address: 147.135.106.236
-; backup point IP address: 111.42.148.76
-; status: success
-joburg.			3599	IN	NS	ns2us.dns.business.joburg.			3599	IN	NS	ns.coza.net.za.joburg.			3599	IN	NS	coza1.dnsnode.net.ns2us.dns.business.	2384	IN	A	147.135.106.236ns2us.dns.business.	2970	IN	AAAA	2604:2dc0:200:2eb::2

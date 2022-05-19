@@ -1,7 +1,0 @@
-; timestamp: 20220306T200514Z
-; source id: tld-query-fi.-f.fi.
-; source locator: f.fi.
-; source IP address: 87.239.127.198
-; backup point IP address: 111.42.148.76
-; status: success
-fi.			3598	IN	NS	f.fi.fi.			3598	IN	NS	d.fi.fi.			3598	IN	NS	a.fi.fi.			3598	IN	NS	e.fi.fi.			3598	IN	NS	i.fi.fi.			3598	IN	NS	c.fi.fi.			3598	IN	NS	b.fi.fi.			3598	IN	NS	h.fi.fi.			3598	IN	NS	g.fi.fi.			3598	IN	NS	j.fi.f.fi.			3598	IN	A	87.239.127.198f.fi.			3598	IN	AAAA	2a00:13f0:0:3::aaaa

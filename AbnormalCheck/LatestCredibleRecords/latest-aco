@@ -1,9 +1,0 @@
-aco.	172800	in	ns	a.dns.nic.aco.
-aco.	172800	in	ns	m.dns.nic.aco.
-aco.	172800	in	ns	n.dns.nic.aco.
-a.dns.nic.aco.	172800	in	a	194.0.25.32
-a.dns.nic.aco.	172800	in	aaaa	2001:678:20:0:0:0:0:32
-m.dns.nic.aco.	172800	in	a	194.0.26.12
-m.dns.nic.aco.	172800	in	aaaa	2001:67c:10e0:0:0:0:0:12
-n.dns.nic.aco.	172800	in	a	194.0.24.12
-n.dns.nic.aco.	172800	in	aaaa	2001:678:24:0:0:0:0:12

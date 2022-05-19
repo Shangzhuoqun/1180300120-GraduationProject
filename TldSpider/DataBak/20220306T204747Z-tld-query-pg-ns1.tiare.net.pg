@@ -1,27 +1,0 @@
-; timestamp: 20220306T204747Z
-; source id: tld-query-pg.-ns1.tiare.net.pg.
-; source locator: ns1.tiare.net.pg.
-; source IP address: 202.165.192.23
-; backup point IP address: 111.42.148.76
-; status: success
-pg.			172800	IN	NS	ns.UU.NET.pg.			172800	IN	NS	ns1.tiare.net.PG.pg.			172800	IN	NS	munnari.oz.au.pg.			172800	IN	NS	ns2.tiare.net.PG.pg.			172800	IN	NS	ns1.unitech.ac.PG.ns1.tiare.net.pg.	3598	IN	A	202.165.192.23dig @202.165.192.23 ns1.tiare.net.pg. AAAA
-
-; <<>> DiG 9.16.23 <<>> @202.165.192.23 ns1.tiare.net.pg. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 866
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns1.tiare.net.pg.		IN	AAAA
-
-;; AUTHORITY SECTION:
-tiare.net.pg.		1799	IN	SOA	ns1.tiare.net.pg. postmaster.tiare.net.pg. 2022022445 1800 600 3600000 3600
-
-;; Query time: 4 msec
-;; SERVER: 202.165.192.23#53(202.165.192.23)
-;; WHEN: Sun Mar 06 20:47:49 ;; MSG SIZE  rcvd: 92
-

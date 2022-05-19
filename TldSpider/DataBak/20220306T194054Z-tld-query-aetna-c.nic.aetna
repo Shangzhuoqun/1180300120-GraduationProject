@@ -1,7 +1,0 @@
-; timestamp: 20220306T194054Z
-; source id: tld-query-aetna.-c.nic.aetna.
-; source locator: c.nic.aetna.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-aetna.			1650	IN	NS	ns1.dns.nic.aetna.aetna.			1650	IN	NS	c.nic.aetna.aetna.			1650	IN	NS	ns3.dns.nic.aetna.aetna.			1650	IN	NS	b.nic.aetna.aetna.			1650	IN	NS	ns2.dns.nic.aetna.aetna.			1650	IN	NS	a.nic.aetna.c.nic.aetna.		3600	IN	A	37.209.196.9c.nic.aetna.		3600	IN	AAAA	2001:dcd:3::9

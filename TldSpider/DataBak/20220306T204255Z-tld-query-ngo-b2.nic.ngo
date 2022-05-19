@@ -1,7 +1,0 @@
-; timestamp: 20220306T204255Z
-; source id: tld-query-ngo.-b2.nic.ngo.
-; source locator: b2.nic.ngo.
-; source IP address: 199.249.120.1
-; backup point IP address: 111.42.148.76
-; status: success
-ngo.			3599	IN	NS	a2.nic.ngo.ngo.			3599	IN	NS	a0.nic.ngo.ngo.			3599	IN	NS	b0.nic.ngo.ngo.			3599	IN	NS	d0.nic.ngo.ngo.			3599	IN	NS	c0.nic.ngo.ngo.			3599	IN	NS	b2.nic.ngo.b2.nic.ngo.		599	IN	A	199.249.120.1b2.nic.ngo.		600	IN	AAAA	2001:500:48::1

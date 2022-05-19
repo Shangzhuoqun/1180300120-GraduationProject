@@ -1,7 +1,0 @@
-; timestamp: 20220306T210000Z
-; source id: tld-query-shop.-b.gmoregistry.net.
-; source locator: b.gmoregistry.net.
-; source IP address: 37.209.194.4
-; backup point IP address: 111.42.148.76
-; status: success
-shop.			3599	IN	NS	k.gmoregistry.net.shop.			3599	IN	NS	a.gmoregistry.net.shop.			3599	IN	NS	b.gmoregistry.net.shop.			3599	IN	NS	l.gmoregistry.net.b.gmoregistry.net.	1104	IN	A	37.209.194.4b.gmoregistry.net.	2230	IN	AAAA	2001:dcd:2::4

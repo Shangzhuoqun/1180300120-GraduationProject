@@ -1,7 +1,0 @@
-; timestamp: 20220306T205009Z
-; source id: tld-query-poker.-c0.nic.poker.
-; source locator: c0.nic.poker.
-; source IP address: 65.22.22.33
-; backup point IP address: 111.42.148.76
-; status: success
-poker.			3597	IN	NS	a0.nic.poker.poker.			3597	IN	NS	c0.nic.poker.poker.			3597	IN	NS	a2.nic.poker.poker.			3597	IN	NS	b0.nic.poker.c0.nic.poker.		597	IN	A	65.22.22.33c0.nic.poker.		597	IN	AAAA	2a01:8840:18::33

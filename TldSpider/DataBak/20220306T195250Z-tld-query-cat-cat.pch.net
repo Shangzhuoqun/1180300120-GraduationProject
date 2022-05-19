@@ -1,7 +1,0 @@
-; timestamp: 20220306T195250Z
-; source id: tld-query-cat.-cat.pch.net.
-; source locator: cat.pch.net.
-; source IP address: 204.61.216.20
-; backup point IP address: 111.42.148.76
-; status: success
-cat.			86400	IN	NS	ns.nic.cat.cat.			86400	IN	NS	cat.pch.net.cat.			86400	IN	NS	anyc1.irondns.net.cat.			86400	IN	NS	nsc.nic.de.cat.			86400	IN	NS	ns1.nic.es.cat.			86400	IN	NS	switch.nic.cat.cat.pch.net.		3191	IN	A	204.61.216.20cat.pch.net.		3191	IN	AAAA	2001:500:14:6020:ad::1

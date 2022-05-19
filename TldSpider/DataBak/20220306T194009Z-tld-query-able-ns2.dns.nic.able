@@ -1,7 +1,0 @@
-; timestamp: 20220306T194009Z
-; source id: tld-query-able.-ns2.dns.nic.able.
-; source locator: ns2.dns.nic.able.
-; source IP address: 156.154.145.3
-; backup point IP address: 111.42.148.76
-; status: success
-able.			1680	IN	NS	b.nic.able.able.			1680	IN	NS	ns1.dns.nic.able.able.			1680	IN	NS	ns2.dns.nic.able.able.			1680	IN	NS	c.nic.able.able.			1680	IN	NS	ns3.dns.nic.able.able.			1680	IN	NS	a.nic.able.ns2.dns.nic.able.	3598	IN	A	156.154.145.3ns2.dns.nic.able.	3598	IN	AAAA	2610:a1:1072::3

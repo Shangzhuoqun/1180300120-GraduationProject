@@ -1,7 +1,0 @@
-; timestamp: 20220306T213001Z
-; source id: tld-query-ye.-sah2.ye.
-; source locator: sah2.ye.
-; source IP address: 195.94.0.35
-; backup point IP address: 111.42.148.76
-; status: success
-ye.			86400	IN	NS	pch.nic.ye.ye.			86400	IN	NS	ns1.yemen.net.ye.ye.			86400	IN	NS	ns2.yemen.net.ye.ye.			86400	IN	NS	sah2.ye.ye.			86400	IN	NS	sah1.ye.sah2.ye.		3597	IN	A	195.94.0.35sah2.ye.		3597	IN	AAAA	2a02:e280:8:d000::35

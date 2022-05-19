@@ -1,7 +1,0 @@
-; timestamp: 20220306T210115Z
-; source id: tld-query-sn.-ns-sn.nic.fr.
-; source locator: ns-sn.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-sn.			2714	IN	NS	ns1.sonatel.sn.sn.			2714	IN	NS	censvrns0001.ird.fr.sn.			2714	IN	NS	ns.ucad.sn.sn.			2714	IN	NS	sn.cctld.authdns.ripe.net.sn.			2714	IN	NS	ns-sn.nic.fr.ns-sn.nic.fr.		151200	IN	A	194.0.9.1ns-sn.nic.fr.		3600	IN	AAAA	2001:678:c::1

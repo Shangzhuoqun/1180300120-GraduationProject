@@ -1,7 +1,0 @@
-; timestamp: 20220306T200259Z
-; source id: tld-query-energy.-v2n1.nic.energy.
-; source locator: v2n1.nic.energy.
-; source IP address: 161.232.13.45
-; backup point IP address: 111.42.148.76
-; status: success
-energy.			382	IN	NS	v0n1.nic.energy.energy.			382	IN	NS	v2n0.nic.energy.energy.			382	IN	NS	v0n3.nic.energy.energy.			382	IN	NS	v0n0.nic.energy.energy.			382	IN	NS	v0n2.nic.energy.energy.			382	IN	NS	v2n1.nic.energy.v2n1.nic.energy.	3597	IN	A	161.232.13.45v2n1.nic.energy.	3596	IN	AAAA	2a01:8840:f7::45

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194616Z
-; source id: tld-query-bentley.-dns4.nic.bentley.
-; source locator: dns4.nic.bentley.
-; source IP address: 43.230.51.5
-; backup point IP address: 111.42.148.76
-; status: success
-bentley.		1435	IN	NS	dnsb.nic.bentley.bentley.		1435	IN	NS	dnsa.nic.bentley.bentley.		1435	IN	NS	dns4.nic.bentley.bentley.		1435	IN	NS	dns3.nic.bentley.bentley.		1435	IN	NS	dns2.nic.bentley.bentley.		1435	IN	NS	dns1.nic.bentley.bentley.		1435	IN	NS	dnsd.nic.bentley.bentley.		1435	IN	NS	dnsc.nic.bentley.dns4.nic.bentley.	3600	IN	A	43.230.51.5dns4.nic.bentley.	151200	IN	AAAA	2401:fd80:407::5

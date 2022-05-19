@@ -1,7 +1,0 @@
-; timestamp: 20220306T194711Z
-; source id: tld-query-bj.-ns-bj.nic.fr.
-; source locator: ns-bj.nic.fr.
-; source IP address: 194.0.9.1
-; backup point IP address: 111.42.148.76
-; status: success
-bj.			706	IN	NS	ns2.nic.bj.bj.			706	IN	NS	ns1.nic.bj.bj.			706	IN	NS	ns-bj.nic.fr.bj.			706	IN	NS	ns-bj.afrinic.net.bj.			706	IN	NS	anycastdns1.nic.bj.bj.			706	IN	NS	pch.nic.bj.bj.			706	IN	NS	anycastdns2.nic.bj.ns-bj.nic.fr.		3597	IN	A	194.0.9.1ns-bj.nic.fr.		3598	IN	AAAA	2001:678:c::1

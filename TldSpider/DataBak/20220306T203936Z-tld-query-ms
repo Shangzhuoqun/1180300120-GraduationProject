@@ -1,9 +1,0 @@
-; timestamp: 20220306T203936Z
-; source id: tld-query-ms.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-ns1.anycastdns.cz.:../TldSpider/DataBak/20220306T203936Z-tld-query-ms-ns1.anycastdns.cz
-ns2.anycastdns.cz.:../TldSpider/DataBak/20220306T203936Z-tld-query-ms-ns2.anycastdns.cz
-ms-ns.anycast.pch.net.:../TldSpider/DataBak/20220306T203936Z-tld-query-ms-ms-ns.anycast.pch.net

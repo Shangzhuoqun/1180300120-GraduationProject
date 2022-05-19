@@ -1,27 +1,0 @@
-; timestamp: 20220306T213040Z
-; source id: tld-query-za.-nsza.is.co.za.
-; source locator: nsza.is.co.za.
-; source IP address: 196.4.160.27
-; backup point IP address: 111.42.148.76
-; status: success
-za.			3599	IN	NS	nsza.is.co.za.za.			3599	IN	NS	za1.dnsnode.net.za.			3599	IN	NS	za-ns.anycast.pch.net.nsza.is.co.za.		3600	IN	A	196.4.160.27dig @196.4.160.27 nsza.is.co.za. AAAA
-
-; <<>> DiG 9.16.23 <<>> @196.4.160.27 nsza.is.co.za. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41783
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;nsza.is.co.za.			IN	AAAA
-
-;; AUTHORITY SECTION:
-is.co.za.		1800	IN	SOA	ns1.is.co.za. support.is.co.za. 2022020801 28800 7200 604800 10800
-
-;; Query time: 511 msec
-;; SERVER: 196.4.160.27#53(196.4.160.27)
-;; WHEN: Sun Mar 06 21:30:42 ;; MSG SIZE  rcvd: 90
-

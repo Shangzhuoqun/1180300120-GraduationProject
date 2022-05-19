@@ -1,7 +1,0 @@
-; timestamp: 20220306T194029Z
-; source id: tld-query-accountants.-v0n2.nic.accountants.
-; source locator: v0n2.nic.accountants.
-; source IP address: 65.22.34.31
-; backup point IP address: 111.42.148.76
-; status: success
-accountants.		1667	IN	NS	v0n2.nic.accountants.accountants.		1667	IN	NS	v2n1.nic.accountants.accountants.		1667	IN	NS	v0n3.nic.accountants.accountants.		1667	IN	NS	v0n0.nic.accountants.accountants.		1667	IN	NS	v0n1.nic.accountants.accountants.		1667	IN	NS	v2n0.nic.accountants.v0n2.nic.accountants.	3599	IN	A	65.22.34.31v0n2.nic.accountants.	3599	IN	AAAA	2a01:8840:24::31

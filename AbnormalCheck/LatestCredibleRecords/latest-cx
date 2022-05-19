@@ -1,8 +1,0 @@
-cx.	172800	in	ns	ns.anycast.nic.cx.
-cx.	172800	in	ns	ns1.anycastdns.cz.
-cx.	172800	in	ns	ns2.anycastdns.cz.
-ns.anycast.nic.cx.	172800	in	a	204.61.216.16
-ns.anycast.nic.cx.	172800	in	aaaa	2001:500:14:6016:ad:0:0:1
-ns1.anycastdns.cz.	172800	in	a	185.38.108.108
-ns1.anycastdns.cz.	172800	in	aaaa	2a00:fea0:dead:0:0:0:0:beef
-ns2.anycastdns.cz.	172800	in	a	185.28.194.194

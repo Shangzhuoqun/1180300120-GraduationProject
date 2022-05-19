@@ -1,7 +1,0 @@
-; timestamp: 20220306T194333Z
-; source id: tld-query-audi.-b0.nic.audi.
-; source locator: b0.nic.audi.
-; source IP address: 65.22.209.17
-; backup point IP address: 111.42.148.76
-; status: success
-audi.			1555	IN	NS	c0.nic.audi.audi.			1555	IN	NS	a0.nic.audi.audi.			1555	IN	NS	a2.nic.audi.audi.			1555	IN	NS	b0.nic.audi.b0.nic.audi.		599	IN	A	65.22.209.17b0.nic.audi.		599	IN	AAAA	2a01:8840:cb::17

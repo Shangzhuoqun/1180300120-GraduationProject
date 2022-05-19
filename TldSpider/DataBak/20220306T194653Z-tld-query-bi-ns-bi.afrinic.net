@@ -1,7 +1,0 @@
-; timestamp: 20220306T194653Z
-; source id: tld-query-bi.-ns-bi.afrinic.net.
-; source locator: ns-bi.afrinic.net.
-; source IP address: 196.216.168.23
-; backup point IP address: 111.42.148.76
-; status: success
-bi.			86400	IN	NS	ns1.nic.bi.bi.			86400	IN	NS	bi.cctld.authdns.ripe.net.bi.			86400	IN	NS	ns-bi.afrinic.net.bi.			86400	IN	NS	anyns.nic.bi.bi.			86400	IN	NS	ns.nic.bi.ns-bi.afrinic.net.	3600	IN	A	196.216.168.23ns-bi.afrinic.net.	600	IN	AAAA	2001:43f8:120::23

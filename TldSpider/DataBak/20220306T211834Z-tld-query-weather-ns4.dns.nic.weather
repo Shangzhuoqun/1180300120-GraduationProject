@@ -1,7 +1,0 @@
-; timestamp: 20220306T211834Z
-; source id: tld-query-weather.-ns4.dns.nic.weather.
-; source locator: ns4.dns.nic.weather.
-; source IP address: 156.154.156.178
-; backup point IP address: 111.42.148.76
-; status: success
-weather.		3599	IN	NS	ns3.dns.nic.weather.weather.		3599	IN	NS	ns5.dns.nic.weather.weather.		3599	IN	NS	ns6.dns.nic.weather.weather.		3599	IN	NS	ns4.dns.nic.weather.weather.		3599	IN	NS	ns2.dns.nic.weather.weather.		3599	IN	NS	ns1.dns.nic.weather.ns4.dns.nic.weather.	3598	IN	A	156.154.156.178ns4.dns.nic.weather.	3598	IN	AAAA	2610:a1:1074::b2

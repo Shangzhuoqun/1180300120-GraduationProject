@@ -1,9 +1,0 @@
-; timestamp: 20220306T204343Z
-; source id: tld-query-nl.
-; source locator: none
-; source IP address: none
-; backup point IP address: 111.42.148.76
-; status: success
-ns1.dns.nl.:../TldSpider/DataBak/20220306T204343Z-tld-query-nl-ns1.dns.nl
-ns2.dns.nl.:../TldSpider/DataBak/20220306T204343Z-tld-query-nl-ns2.dns.nl
-ns3.dns.nl.:../TldSpider/DataBak/20220306T204343Z-tld-query-nl-ns3.dns.nl

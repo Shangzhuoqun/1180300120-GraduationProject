@@ -1,9 +1,0 @@
-rip.psg.com.	172800	in	a	147.28.0.39
-rip.psg.com.	172800	in	aaaa	2001:418:1:0:0:0:0:39
-gn.	172800	in	ns	rip.psg.com.
-gn.	172800	in	ns	fork.sth.dnsnode.net.
-gn.	172800	in	ns	ns-gn.afrinic.net.
-ns-gn.afrinic.net.	172800	in	a	196.216.168.49
-ns-gn.afrinic.net.	172800	in	aaaa	2001:43f8:120:0:0:0:0:49
-fork.sth.dnsnode.net.	172800	in	a	77.72.229.254
-fork.sth.dnsnode.net.	172800	in	aaaa	2a01:3f0:0:306:0:0:0:53

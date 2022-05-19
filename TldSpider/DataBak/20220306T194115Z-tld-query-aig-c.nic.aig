@@ -1,7 +1,0 @@
-; timestamp: 20220306T194115Z
-; source id: tld-query-aig.-c.nic.aig.
-; source locator: c.nic.aig.
-; source IP address: 37.209.196.9
-; backup point IP address: 111.42.148.76
-; status: success
-aig.			1644	IN	NS	a.nic.aig.aig.			1644	IN	NS	ns3.dns.nic.aig.aig.			1644	IN	NS	ns2.dns.nic.aig.aig.			1644	IN	NS	c.nic.aig.aig.			1644	IN	NS	b.nic.aig.aig.			1644	IN	NS	ns1.dns.nic.aig.c.nic.aig.		3599	IN	A	37.209.196.9c.nic.aig.		3599	IN	AAAA	2001:dcd:3::9

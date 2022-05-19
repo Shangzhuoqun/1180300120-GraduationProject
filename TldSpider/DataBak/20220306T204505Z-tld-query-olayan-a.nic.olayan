@@ -1,7 +1,0 @@
-; timestamp: 20220306T204505Z
-; source id: tld-query-olayan.-a.nic.olayan.
-; source locator: a.nic.olayan.
-; source IP address: 37.209.192.9
-; backup point IP address: 111.42.148.76
-; status: success
-olayan.			3600	IN	NS	b.nic.olayan.olayan.			3600	IN	NS	c.nic.olayan.olayan.			3600	IN	NS	a.nic.olayan.olayan.			3600	IN	NS	d.nic.olayan.a.nic.olayan.		3600	IN	A	37.209.192.9a.nic.olayan.		3600	IN	AAAA	2001:dcd:1::9

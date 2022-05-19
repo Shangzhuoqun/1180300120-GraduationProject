@@ -1,7 +1,0 @@
-; timestamp: 20220306T194711Z
-; source id: tld-query-bj.-pch.nic.bj.
-; source locator: pch.nic.bj.
-; source IP address: 204.61.216.125
-; backup point IP address: 111.42.148.76
-; status: success
-bj.			86400	IN	NS	ns-bj.afrinic.net.bj.			86400	IN	NS	pch.nic.bj.bj.			86400	IN	NS	anycastdns1.nic.bj.bj.			86400	IN	NS	ns1.nic.bj.bj.			86400	IN	NS	ns2.nic.bj.bj.			86400	IN	NS	anycastdns2.nic.bj.bj.			86400	IN	NS	ns-bj.nic.fr.pch.nic.bj.		3598	IN	A	204.61.216.125pch.nic.bj.		3598	IN	AAAA	2001:500:14:6125:ad::1

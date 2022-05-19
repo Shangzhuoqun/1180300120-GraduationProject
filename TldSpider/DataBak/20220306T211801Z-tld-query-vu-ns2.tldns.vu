@@ -1,7 +1,0 @@
-; timestamp: 20220306T211801Z
-; source id: tld-query-vu.-ns2.tldns.vu.
-; source locator: ns2.tldns.vu.
-; source IP address: 37.209.194.6
-; backup point IP address: 111.42.148.76
-; status: success
-vu.			3597	IN	NS	ns3.tldns.vu.vu.			3597	IN	NS	ns2.tldns.vu.vu.			3597	IN	NS	ns1.tldns.vu.vu.			3597	IN	NS	ns4.tldns.vu.ns2.tldns.vu.		3597	IN	A	37.209.194.6ns2.tldns.vu.		3597	IN	AAAA	2001:dcd:2::6

@@ -1,7 +1,0 @@
-; timestamp: 20220306T194136Z
-; source id: tld-query-ally.-a.nic.ally.
-; source locator: a.nic.ally.
-; source IP address: 37.209.192.9
-; backup point IP address: 111.42.148.76
-; status: success
-ally.			1633	IN	NS	c.nic.ally.ally.			1633	IN	NS	b.nic.ally.ally.			1633	IN	NS	a.nic.ally.ally.			1633	IN	NS	d.nic.ally.a.nic.ally.		3600	IN	A	37.209.192.9a.nic.ally.		3600	IN	AAAA	2001:dcd:1::9

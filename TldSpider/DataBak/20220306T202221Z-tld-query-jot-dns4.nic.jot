@@ -1,7 +1,0 @@
-; timestamp: 20220306T202221Z
-; source id: tld-query-jot.-dns4.nic.jot.
-; source locator: dns4.nic.jot.
-; source IP address: 43.230.50.70
-; backup point IP address: 111.42.148.76
-; status: success
-jot.			172800	IN	NS	dns2.nic.jot.jot.			172800	IN	NS	dns3.nic.jot.jot.			172800	IN	NS	dns4.nic.jot.jot.			172800	IN	NS	dns1.nic.jot.jot.			172800	IN	NS	dnsa.nic.jot.jot.			172800	IN	NS	dnsb.nic.jot.jot.			172800	IN	NS	dnsc.nic.jot.jot.			172800	IN	NS	dnsd.nic.jot.dns4.nic.jot.		3589	IN	A	43.230.50.70dns4.nic.jot.		3589	IN	AAAA	2401:fd80:406::70

@@ -1,7 +1,0 @@
-; timestamp: 20220306T210519Z
-; source id: tld-query-swiss.-g.nic.swiss.
-; source locator: g.nic.swiss.
-; source IP address: 195.253.64.9
-; backup point IP address: 111.42.148.76
-; status: success
-swiss.			3600	IN	NS	anycast10.irondns.net.swiss.			3600	IN	NS	u.nic.swiss.swiss.			3600	IN	NS	ns15.rcode0.net.swiss.			3600	IN	NS	anycast9.irondns.net.swiss.			3600	IN	NS	g.nic.swiss.swiss.			3600	IN	NS	anycast24.irondns.net.swiss.			3600	IN	NS	anycast23.irondns.net.g.nic.swiss.		3600	IN	A	195.253.64.9g.nic.swiss.		3597	IN	AAAA	2a01:5b0:4::9

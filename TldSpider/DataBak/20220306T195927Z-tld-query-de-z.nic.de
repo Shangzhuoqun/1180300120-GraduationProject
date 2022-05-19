@@ -1,7 +1,0 @@
-; timestamp: 20220306T195927Z
-; source id: tld-query-de.-z.nic.de.
-; source locator: z.nic.de.
-; source IP address: 194.246.96.1
-; backup point IP address: 111.42.148.76
-; status: success
-de.			7	IN	NS	f.nic.de.de.			7	IN	NS	a.nic.de.de.			7	IN	NS	s.de.net.de.			7	IN	NS	z.nic.de.de.			7	IN	NS	l.de.net.de.			7	IN	NS	n.de.net.z.nic.de.		986	IN	A	194.246.96.1z.nic.de.		898	IN	AAAA	2a02:568:fe02::de

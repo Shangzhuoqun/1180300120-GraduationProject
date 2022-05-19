@@ -1,7 +1,0 @@
-; timestamp: 20220306T212748Z
-; source id: tld-query-xn--node.-d.xn--node.globalanycastcloud.freenom.net.
-; source locator: d.xn--node.globalanycastcloud.freenom.net.
-; source IP address: 185.21.171.36
-; backup point IP address: 111.42.148.76
-; status: success
-xn--node.		3593	IN	NS	c.xn--node.globalanycastcloud.freenom.net.xn--node.		3593	IN	NS	a.xn--node.globalanycastcloud.freenom.net.xn--node.		3593	IN	NS	xn--node.ns.anycast.pch.net.xn--node.		3593	IN	NS	d.xn--node.globalanycastcloud.freenom.net.xn--node.		3593	IN	NS	b.xn--node.globalanycastcloud.freenom.net.d.xn--node.globalanycastcloud.freenom.net. 14400 IN A 185.21.171.36d.xn--node.globalanycastcloud.freenom.net. 14400 IN AAAA 2a04:1b00:b::4

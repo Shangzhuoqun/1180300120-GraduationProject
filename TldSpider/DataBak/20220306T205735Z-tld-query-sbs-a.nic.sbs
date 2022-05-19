@@ -1,7 +1,0 @@
-; timestamp: 20220306T205735Z
-; source id: tld-query-sbs.-a.nic.sbs.
-; source locator: a.nic.sbs.
-; source IP address: 194.169.218.127
-; backup point IP address: 111.42.148.76
-; status: success
-sbs.			172800	IN	NS	a.nic.sbs.sbs.			172800	IN	NS	c.nic.sbs.sbs.			172800	IN	NS	d.nic.sbs.sbs.			172800	IN	NS	b.nic.sbs.a.nic.sbs.		3600	IN	A	194.169.218.127a.nic.sbs.		3600	IN	AAAA	2001:67c:13cc::1:127

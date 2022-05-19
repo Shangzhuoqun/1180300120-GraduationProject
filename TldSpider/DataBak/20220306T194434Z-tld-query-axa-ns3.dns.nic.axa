@@ -1,7 +1,0 @@
-; timestamp: 20220306T194434Z
-; source id: tld-query-axa.-ns3.dns.nic.axa.
-; source locator: ns3.dns.nic.axa.
-; source IP address: 156.154.159.20
-; backup point IP address: 111.42.148.76
-; status: success
-axa.			86400	IN	NS	a.nic.axa.axa.			86400	IN	NS	b.nic.axa.axa.			86400	IN	NS	c.nic.axa.axa.			86400	IN	NS	ns1.dns.nic.axa.axa.			86400	IN	NS	ns2.dns.nic.axa.axa.			86400	IN	NS	ns3.dns.nic.axa.ns3.dns.nic.axa.	3600	IN	A	156.154.159.20ns3.dns.nic.axa.	3600	IN	AAAA	2610:a1:1073::14

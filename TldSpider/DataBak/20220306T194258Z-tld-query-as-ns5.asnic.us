@@ -1,7 +1,0 @@
-; timestamp: 20220306T194258Z
-; source id: tld-query-as.-ns5.asnic.us.
-; source locator: ns5.asnic.us.
-; source IP address: 194.146.106.86
-; backup point IP address: 111.42.148.76
-; status: success
-as.			21600	IN	NS	NS3.ASNIC.ORG.as.			21600	IN	NS	NS2.ASNIC.INFO.as.			21600	IN	NS	NS5.ASNIC.US.as.			21600	IN	NS	PCH.NIC.AS.as.			21600	IN	NS	NS1.ASNIC.BIZ.as.			21600	IN	NS	NS4.ASNIC.UK.ns5.asnic.us.		238	IN	A	194.146.106.86ns5.asnic.us.		1573	IN	AAAA	2001:67c:1010:22::53

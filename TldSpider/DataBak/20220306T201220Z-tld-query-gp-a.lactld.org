@@ -1,7 +1,0 @@
-; timestamp: 20220306T201220Z
-; source id: tld-query-gp.-a.lactld.org.
-; source locator: a.lactld.org.
-; source IP address: 200.0.68.10
-; backup point IP address: 111.42.148.76
-; status: success
-gp.			3600	IN	NS	ns1.nic.gp.gp.			3600	IN	NS	gp.cctld.authdns.ripe.net.gp.			3600	IN	NS	a.lactld.org.gp.			3600	IN	NS	ns2.nic.gp.gp.			3600	IN	NS	ns-gp.nic.fr.a.lactld.org.		3600	IN	A	200.0.68.10a.lactld.org.		3600	IN	AAAA	2801:14:a000::10

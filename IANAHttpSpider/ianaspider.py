@@ -6,7 +6,7 @@ import json
 import threading
 import logging
 
-PREFIX = os.path.dirname(__file__)
+PREFIX = os.path.dirname(os.path.abspath(__file__))
 DataPath = None
 DataBakPath = None
 CurFilePath = None
@@ -58,12 +58,11 @@ def outputFileHead(time, server, status):
     return head
 
 def update():
-    os.system("python ./update_rootzone.py")
+    os.system("sudo python3 ./update_rootzone.py")
 
 
 def spider():
     curTime = time.strftime('%FT%TZ').replace(':', '').replace('-', '')
-    update()
     outfilename = curTime + '-iana'
     f = open('./root.zone.new', 'r')
     lines = f.readlines()
@@ -102,7 +101,13 @@ def format(filename):
 
 def perform_command(schedule,delay_s):
 	schedule.enter(delay_s,0,perform_command,(schedule,delay_s))
+	update()
+	# t_start = time.strftime('%F %T')
 	spider()
+	# t_end = time.strftime('%F %T')
+	# f = open('./statistic', 'a')
+	# f.write('start : {}\nend : {}\n\n\n'.format(t_start, t_end))
+	# f.close()
 
 def timing_exe(delay = 14400):
 	delay = Period

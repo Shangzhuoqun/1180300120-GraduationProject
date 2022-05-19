@@ -1,27 +1,0 @@
-; timestamp: 20220306T212550Z
-; source id: tld-query-xn--mgba3a4f16a.-ns.irnic.ir.
-; source locator: ns.irnic.ir.
-; source IP address: 193.189.122.83
-; backup point IP address: 111.42.148.76
-; status: success
-xn--mgba3a4f16a.	1439	IN	NS	a.nic.ir.xn--mgba3a4f16a.	1439	IN	NS	ir.cctld.authdns.ripe.net.xn--mgba3a4f16a.	1439	IN	NS	b.nic.ir.ns.irnic.ir.		3600	IN	A	193.189.122.83dig @193.189.122.83 ns.irnic.ir. AAAA
-
-; <<>> DiG 9.16.23 <<>> @193.189.122.83 ns.irnic.ir. AAAA
-; (1 server found)
-;; global options: +cmd
-;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41667
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 4096
-;; QUESTION SECTION:
-;ns.irnic.ir.			IN	AAAA
-
-;; AUTHORITY SECTION:
-irnic.ir.		1800	IN	SOA	ns1.irnic.ir. registry.nic.ir. 2021101000 3600 15 1209600 43200
-
-;; Query time: 296 msec
-;; SERVER: 193.189.122.83#53(193.189.122.83)
-;; WHEN: Sun Mar 06 21:25:52 ;; MSG SIZE  rcvd: 93
-
