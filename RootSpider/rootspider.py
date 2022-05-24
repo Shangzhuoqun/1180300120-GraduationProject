@@ -50,7 +50,10 @@ def readConf():
     ServerList = root_spider['ServerList']
     NeedtoMultiThread = root_spider['NeedtoMultiThread']
     NumofThread = int(str(root_spider['NumofThread']))
-    getlocalIP()
+    try:
+        getlocalIP()
+    except:
+        pass
     # init logging mode
     logging.basicConfig(level=logging.DEBUG,
                         format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
@@ -140,7 +143,7 @@ def spider():
             else:
                 head = outputFileHead(curTime, ServerList[server_id], 'fail')
                 f.write(head)
-            f.writelines(resList)
+            f.writelines(temp_line + '\n' for temp_line in resList)
             f.close()
             format(PREFIX + '/' + DataBakPath + '/' + outFileName)
             print('{} has finished'.format(
@@ -160,7 +163,7 @@ def spider():
             else:
                 head = outputFileHead(curTime, ServerList[server_id], 'fail')
                 f.write(head)
-            f.writelines(resList)
+            f.writelines(temp_line + '\n' for temp_line in resList)
             f.close()
             format(PREFIX + '/' + DataBakPath + '/' + outFileName)
             print('{} has finished'.format(
@@ -177,7 +180,7 @@ def format(filename):
     lines = f.readlines()
     f.close()
     lines = lines[6:]
-    outputfilename = PREFIX + '/' + DataPath + '/' + 'root-dns-' + filename[-1]
+    outputfilename = PREFIX + '/' + DataPath + '/' + 'root-dns-' + filename.split('-')[-1]
     f = open(outputfilename, 'w')
     for i in range(len(lines)):
         try:

@@ -49,7 +49,7 @@ class Queue():
 
     def isintersect(self, a, b):
         for i in a:
-            if(i in b):
+            if(i._type.lower() in ['a', 'aaaa'] and i in b):
                 return True
         return False
     
@@ -131,7 +131,7 @@ def readConf():
     rootspidercommand = str(check_info['rootspidercommand'])
     tldspidercommand = str(check_info['tldspidercommand'])
     mergedatacommand = str(check_info['mergedatacommand'])
-    response_method = str[check_info['response_method']]
+    response_method = str(check_info['response_method'])
     if(response_method not in ['RPZ', 'InterceptReply', 'ModifyBINDCache']):
         response_method = 'ModifyBINDCache'
     # init logging mode
@@ -190,7 +190,7 @@ def check():
             abnormaltld.append(tld)
         else:
             temp_tld = tld
-            temp_tld.strip('.')
+            temp_tld = temp_tld.strip('.')
             f = open(PREFIX + '/' + latestCredibleRecordsPath + '/latest-' + temp_tld, 'w')
             for record in tldMap[tld]:
                 f.write(record.tostring() + '\n')
@@ -199,12 +199,14 @@ def check():
     logging.info('normal tlds is :\n{}'.format(normaltld))
     logging.error('abnormal tld is :\n{}'.format(abnormaltld))
     outputAbnormalTLD(abnormaltld)
-    subprocess.Popen('sudo python3 ./kill.py', shell = True, stdout = subprocess.PIPE)
+
     cmd = ''
     if(response_method == 'RPZ'):
         cmd = 'sudo python ../RPZ/response.py'
     elif(response_method == 'InterceptReply'):
-        cmd = 'sudo nohup python ../InterceptReply/response.py &'
+        sub = subprocess.Popen('sudo python3 ./kill.py', shell = True, stdout = subprocess.PIPE)
+        sub.wait()
+        cmd = 'nohup sudo python3 ../InterceptReply/response.py &'
     else:
         cmd = 'sudo python ../ModifyBINDCache/response.py'
     subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)

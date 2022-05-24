@@ -65,13 +65,13 @@ def getAbnormalTLD():
         lines = f.readlines()
         f.close()
         for tld in lines:
-            tld.strip('\n')
-            abnormalTLD.add(tld)
+            temp_tld = tld.strip('\n').strip('.')
+            abnormalTLD.add(temp_tld)
     
     f = open(PREFIX + '/' + dataPath + '/abnormalTLD', 'w')
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         f.write(temp_tld + '\n')
     f.close()
 
@@ -86,7 +86,7 @@ def getTrustedRecords():
     global customizeTLD
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         if(temp_tld in customizeTLD):
             f = open(PREFIX + '/' + customizeRecordsPath + '/customize-' + temp_tld, 'r')
             lines = f.readlines()
@@ -121,7 +121,7 @@ def modifyCache():
     sub = subprocess.Popen(startCommand, shell=True, stdout=subprocess.PIPE)
     sub.wait()
     logging.info("have responsed with customizeRecords tlds are :\n{}".format(customizeTLD))
-    logging.infor("have responsed with latestCredibleRecords tlds are :\n{}".format(not_customizedTLD))
+    logging.info("have responsed with latestCredibleRecords tlds are :\n{}".format(not_customizedTLD))
 
 if __name__ == "__main__":
     os.chdir(PREFIX)

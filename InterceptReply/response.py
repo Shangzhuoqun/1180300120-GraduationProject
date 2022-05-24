@@ -19,6 +19,7 @@ trustedRecords = []
 
 tld_ns_map = {}
 tld_ar_map = {}
+ns_tld_map = {}
 
 def readConf():
     global logPath
@@ -55,28 +56,30 @@ def getAbnormalTLD():
         lines = f.readlines()
         f.close()
         for tld in lines:
-            tld.strip('\n')
-            abnormalTLD.add(tld.strip('.'))
+            temp_tld = tld.strip('\n').strip('.')
+            abnormalTLD.add(temp_tld)
     
     f = open(PREFIX + '/' + dataPath + '/abnormalTLD', 'w')
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         f.write(temp_tld + '\n')
     f.close()
 
 def getCustomizeTLD():
     global customizeTLD
     for tld in os.listdir(PREFIX + '/' + customizeRecordsPath):
-        customizeTLD.add(tld[10:])
+        customizeTLD.add(tld[10:]) #customize-tld
 
 def producepackage(tld, records):
+    global ns_tld_map
     ns_list = []
     ar_list = []
     for line in records:
         line = line.strip('\n')
         if(line.split()[3].lower() == 'ns'):
             ns_list.append(line)
+            ns_tld_map[line.split()[4].lower().strip('.')] = line.split()[0].lower().strip('.')
         if(line.split()[3].lower() in ['a', 'aaaa']):
             ar_list.append(line)
     ns = None
@@ -90,7 +93,7 @@ def producepackage(tld, records):
             ns = t_dnsrr
     for i in range(len(ar_list)):
         temp = ar_list[i].split()
-        t_dnsrr = DNSRR(rrname = tld+'.', ttl = int(temp[1]), type = temp[3].upper(), rdata = temp[4])
+        t_dnsrr = DNSRR(rrname = temp[0], ttl = int(temp[1]), type = temp[3].upper(), rdata = temp[4])
         if(ar):
             ar = ar/t_dnsrr
         else:
@@ -103,7 +106,7 @@ def getTrustedRecords():
     global customizeTLD
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         if(temp_tld in customizeTLD):
             f = open(PREFIX + '/' + customizeRecordsPath + '/customize-' + temp_tld, 'r')
             lines = f.readlines()
@@ -125,18 +128,26 @@ def callback(pkt):
     global serverIPList
     try:
         pkt_tld = (pkt[DNS].qd.qname).decode().strip('.').split('.')[-1].lower()
-        if(pkt_tld in abnormalTLD and pkt[IP].dst in serverIPList):
-            srcIP = pkt[IP].src
-            dstIP = pkt[IP].dst
-            srcport = pkt[UDP].sport
-            dstport = pkt[UDP].dport
-            queryName = pkt[DNS].qd.qname
-            myid = pkt[DNS].id
-            send_pkt = IP(src = dstIP, dst = srcIP) / UDP(sport = dstport, dport = srcport) / DNS(id = myid, qr = 1, opcode = 'QUERY', aa = 0, tc = 0, rd = 1, ra = 0, z = 0, ad = 0, cd = 0, rcode = 'ok', qdcount = 1, ancount=0, nscount=int(tld_ns_map[pkt_tld][0]), arcount=int(tld_ar_map[pkt_tld][0]),
-                            qd=(DNSQR(qname = queryName, qtype = 'NS')),
-                            ns=tld_ns_map[pkt_tld][1],
-                            ar=tld_ar_map[pkt_tld][1])
-            send(send_pkt)
+        #print(pkt_tld in abnormalTLD, pkt[IP].dst in serverIPList)
+        #print(pkt_tld, pkt[IP].dst)
+        try:
+            if(pkt_tld in abnormalTLD and pkt[IP].dst in serverIPList):
+                srcIP = pkt[IP].src
+                dstIP = pkt[IP].dst
+                srcport = pkt[UDP].sport
+                dstport = pkt[UDP].dport
+                queryName = pkt[DNS].qd.qname
+                myid = pkt[DNS].id
+                temp_qname = queryName.decode().strip('.')
+                if(temp_qname in abnormalTLD):
+                    send_pkt = IP(src = dstIP, dst = srcIP) / UDP(sport = dstport, dport = srcport) / DNS(id = myid, qr = 1, opcode = 'QUERY', aa = 0, tc = 0, rd = 0, ra = 0, z = 0, ad = 0, cd = 0, rcode = 'ok', qdcount = 1, ancount=int(tld_ns_map[pkt_tld][0]), nscount=0, arcount=int(tld_ar_map[pkt_tld][0]),
+                                    qd=(DNSQR(qname = queryName, qtype = 'NS')),
+                                    an=tld_ns_map[pkt_tld][1],
+                                    ar=tld_ar_map[pkt_tld][1])
+                    send(send_pkt)
+                    # send_pkt.show()
+        except Exception as e:
+            print(e)
     except:
         pass
 

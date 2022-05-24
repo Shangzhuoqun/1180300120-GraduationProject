@@ -38,7 +38,10 @@ def readConf():
     LogPath = str(tld_spider['LogPath'])
     Period = float(str(tld_spider['Period']))
     NumofThread = int(str(tld_spider['NumofThread']))
-    getlocalIP()
+    try:
+        getlocalIP()
+    except:
+        pass
     # init logging mode
     logging.basicConfig(level=logging.DEBUG,
                         format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
@@ -104,24 +107,24 @@ def spider():
                 if(i.lower() in name_ip.keys()):
                     ip_or_name = name_ip[i.lower()]
                 res1 = fetch(ip_or_name, tld, 'NS')
-                if(res1 != 'NoAnswer'):
+                if(res1[0] != 'ERROR'):
                     filelines.extend(res1[1:])
-                    for record_temp in res1[1:-1]:
+                    for record_temp in res1[1:]:
                         ns_records.add(record_temp)
                     if(';0' in res1[-1]):
                         is_dnssec = False
                 res2 = fetch(ip_or_name, i, 'A')
-                if(res2 != 'NoAnswer'):
+                if(res2[0] != 'ERROR'):
                     filelines.extend(res2[1:])
                     curIP = res2[1].strip().split()[-1]
-                    for record_temp in res2[1:-1]:
+                    for record_temp in res2[1:]:
                         ip_records.add(record_temp)
                     if(';0' in res2[-1]):
                         is_dnssec = False
                 res3 = fetch(ip_or_name, i, 'AAAA')
-                if(res3 != 'NoAnswer'):
+                if(res3[0] != 'ERROR'):
                     filelines.extend(res3[1:])
-                    for record_temp in res3[1:-1]:
+                    for record_temp in res3[1:]:
                         ip_records.add(record_temp)
                     if(';0' in res3[-1]):
                         is_dnssec = False
@@ -136,7 +139,7 @@ def spider():
                     head = outputFileHead(curTime, server, 'fail')
                 f = open(fileName, 'w')
                 f.write(head)
-                f.writelines(filelines)
+                f.writelines(temp_line + '\n' for temp_line in filelines)
                 f.close()
                 contentFilelines.append('{}:{}\n'.format(i, fileName))
 
@@ -155,7 +158,7 @@ def spider():
             content_head = outputFileHead(curTime, content_server, 'success')
             f = open(contentFileName, 'w')
             f.write(content_head)
-            f.writelines(contentFilelines)
+            f.writelines(temp_line + '\n' for temp_line in contentFilelines)
             f.close()
     
     startTime = time.strftime("%FT%TZ").replace('-', '').replace(':', '')
@@ -195,7 +198,7 @@ def spider():
         merge_data_head =outputFileHead(startTime, merge_data_server, 'fail')
     f = open(PREFIX + '/' + DataBakPath + '/' + merge_data_filename, 'w')
     f.write(merge_data_head)
-    f.writelines(merged_data)
+    f.writelines(temp_line + '\n' for temp_line in merged_data)
     f.close()
 
     format(PREFIX + '/' + DataBakPath + '/' + merge_data_filename)

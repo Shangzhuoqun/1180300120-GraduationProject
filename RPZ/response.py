@@ -58,13 +58,13 @@ def getAbnormalTLD():
         lines = f.readlines()
         f.close()
         for tld in lines:
-            tld.strip('\n')
-            abnormalTLD.add(tld)
+            temp_tld = tld.strip('\n').strip('.')
+            abnormalTLD.add(temp_tld)
     
     f = open(PREFIX + '/' + dataPath + '/abnormalTLD', 'w')
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         f.write(temp_tld + '\n')
     f.close()
 
@@ -75,7 +75,7 @@ def getTrustedRecords():
     customize_tld = os.listdir(PREFIX + '/' + customizeRecordsPath)
     for tld in abnormalTLD:
         temp_tld = tld
-        temp_tld.strip('.')
+        temp_tld = temp_tld.strip('.')
         if(temp_tld in customize_tld):
             response_tld.add(temp_tld)
         else:
@@ -96,8 +96,10 @@ def getTrustedRecords():
 def response_with_rpz():
     global response_tld
     global not_response_tld
-    for tld in response_tld:
-        cmd = 'sudo ./shell/configRPZ.sh ' + tld
+    global trustedRecords
+    for line in trustedRecords:
+        domain = line.split()[0].strip('.')
+        cmd = 'sudo ./shell/configRPZ.sh ' + domain
         sub = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)
         sub.wait()
     print("need to inform the rpz server to add trusted records")

@@ -6,7 +6,8 @@ res = sub.stdout.readlines()
 pids = []
 for line in res:
     line = line.decode().strip()
-    pids.append(line.split()[1])
+    if('grep' not in line):
+        pids.append(line.split()[1])
 
 for pid in pids:
     cmd = 'sudo kill -9 {}'.format(pid)

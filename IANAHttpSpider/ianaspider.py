@@ -35,7 +35,10 @@ def readConf():
 	CurFilePath = str(root_spider['CurFilePath'])
 	LogPath = str(root_spider['LogPath'])
 	Period = float(str(root_spider['Period']))
-	getlocalIP()
+	try:
+		getlocalIP()
+	except:
+		pass
 	#init logging mode
 	logging.basicConfig(level = logging.DEBUG,\
 					format = '%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',\
@@ -119,4 +122,5 @@ if __name__ == "__main__":
 	os.chdir(PREFIX)
 	readConf()
 	# timing_exe()
+	update()
 	spider()
