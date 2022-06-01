@@ -69,15 +69,15 @@ class Queue():
             return True
         else:
             pos = self.size - 1
-            islegal = False
+            isillegal = False
             while(pos != -1):
                 temprecord = self.queue[pos]
                 if(not self.isintersect(temprecord, record)):
-                    pos = self.tag[pos]
-                else:
-                    islegal = True
+                    isillegal = True
                     break
-            if(not islegal):
+                else:
+                    pos = self.tag[pos]
+            if(isillegal):
                 return False
             else:
                 newtag = -1
